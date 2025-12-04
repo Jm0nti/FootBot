@@ -10,10 +10,13 @@ from langgraph.graph import StateGraph, END
 from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.tools import tool
 from langchain_community.vectorstores import FAISS
-from langchain_community.embeddings import HuggingFaceEmbeddings
+from langchain_openai import OpenAIEmbeddings
 import pandas as pd
 import requests
-from bs4 import BeautifulSoup
+from dotenv import load_dotenv
+
+# Cargar variables de entorno
+load_dotenv()
 
 # --- 1. CONFIGURACIÓN DE MODELOS ---
 llm_fast = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile")
@@ -33,31 +36,6 @@ def sql_executor(query: str) -> str:
     try:
         # Ruta a la base de datos (ajustar según tu estructura)
         db_path = "data/soccer_stats.db"
-        
-        # Si no existe la DB, crear una demo
-        if not os.path.exists(db_path):
-            os.makedirs("data", exist_ok=True)
-            conn = sqlite3.connect(db_path)
-            cursor = conn.cursor()
-            # Crear tabla de ejemplo
-            cursor.execute("""
-                CREATE TABLE IF NOT EXISTS player_stats (
-                    player_name TEXT,
-                    season TEXT,
-                    goals INTEGER,
-                    assists INTEGER,
-                    team TEXT
-                )
-            """)
-            # Datos de ejemplo
-            sample_data = [
-                ("Lionel Messi", "2020-2021", 30, 12, "Barcelona"),
-                ("Cristiano Ronaldo", "2020-2021", 29, 3, "Juventus"),
-                ("Erling Haaland", "2021-2022", 42, 8, "Man City"),
-            ]
-            cursor.executemany("INSERT INTO player_stats VALUES (?, ?, ?, ?, ?)", sample_data)
-            conn.commit()
-            conn.close()
         
         conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
@@ -87,39 +65,41 @@ def faiss_retriever(query: str) -> str:
     """
     Busca información en la base de conocimiento vectorial (FAISS) sobre equipos,
     clubes, competencias, historia del fútbol y reglamentos.
+    Usa OpenAI text-embedding-3-small para generar embeddings de alta calidad.
     Args:
         query: Pregunta o término de búsqueda
     Returns:
         Contexto relevante recuperado de los documentos
     """
     try:
+        # Validar que existe la API key de OpenAI
+        openai_api_key = os.getenv("OPENAI_API_KEY")
+        if not openai_api_key:
+            return "Error: OPENAI_API_KEY no está configurada en el archivo .env"
+        
         vector_store_path = "data/faiss_index"
         
-        # Si no existe, crear un índice demo
-        if not os.path.exists(vector_store_path):
-            os.makedirs("data", exist_ok=True)
-            embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
-            
-            # Documentos de ejemplo
-            sample_docs = [
-                "El FC Barcelona fue fundado en 1899 por Joan Gamper. Es uno de los clubes más exitosos de Europa.",
-                "Real Madrid ha ganado 14 títulos de la UEFA Champions League, más que cualquier otro club.",
-                "La regla del fuera de juego establece que un jugador está en posición adelantada si está más cerca de la línea de meta rival que el balón y el penúltimo adversario.",
-                "La Copa Mundial de la FIFA se celebra cada 4 años desde 1930, con la excepción de 1942 y 1946 debido a la Segunda Guerra Mundial.",
-                "Lionel Messi ha ganado 8 Balones de Oro, más que cualquier otro jugador en la historia.",
-            ]
-            
-            from langchain.schema import Document
-            docs = [Document(page_content=text) for text in sample_docs]
-            vectorstore = FAISS.from_documents(docs, embeddings)
-            vectorstore.save_local(vector_store_path)
+        # Inicializar embeddings de OpenAI con text-embedding-3-small
+        embeddings = OpenAIEmbeddings(
+            model="text-embedding-3-small",
+            openai_api_key=openai_api_key
+        )
         
-        # Cargar y buscar
-        embeddings = HuggingFaceEmbeddings(model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2")
-        vectorstore = FAISS.load_local(vector_store_path, embeddings, allow_dangerous_deserialization=True)
+        # Cargar el índice existente
+        vectorstore = FAISS.load_local(
+            vector_store_path, 
+            embeddings, 
+            allow_dangerous_deserialization=True
+        )
         
-        docs = vectorstore.similarity_search(query, k=3)
-        context = "\n\n".join([doc.page_content for doc in docs])
+        # Realizar búsqueda de similitud (k=5 para obtener los 5 documentos más relevantes)
+        docs = vectorstore.similarity_search(query, k=5)
+        
+        if not docs:
+            return "No se encontró información relevante en la base de conocimiento."
+        
+        # Formatear el contexto recuperado
+        context = "\n\n".join([f"- {doc.page_content}" for doc in docs])
         
         return f"Contexto relevante encontrado:\n{context}"
     
@@ -221,7 +201,7 @@ def classifier_node(state: AgentState) -> dict:
     system_prompt = """Eres un clasificador experto. Analiza la pregunta del usuario y clasifica en UNA de estas categorías:
 
 1. 'identity' - Si pregunta sobre ti, tus capacidades, qué haces, quién eres
-2. 'formation' - Si pide ver la formación táctica de un equipo (ej: "muestra la formación del Barcelona, cuál es el 11 titular del Real Madrid, qué formación usa el Manchester City")
+2. 'formation' - Si pide ver la formación táctica de un equipo (ej: "muestra la formación del Barcelona")
 3. 'sql_stats' - Si pide estadísticas, números, goles, asistencias, comparaciones numéricas
 4. 'rag_knowledge' - Si pregunta sobre historia, biografías, reglamentos, fundación de clubes
 5. 'web_search' - Si pregunta sobre noticias recientes, partidos de hoy/ayer, eventos actuales
