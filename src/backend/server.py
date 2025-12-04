@@ -56,12 +56,16 @@ def chat(req: ChatRequest):
     _init_bot_if_needed()
     
     try:
+        logger.info("/api/chat incoming message: %s", req.message)
         # Enviamos el mensaje al método .ask() de nuestra clase Wrapper
         response_data = _soccer_bot.ask(req.message)
+        logger.info("/api/chat response agent=%s interaction_count=%s trace=%s",
+                    response_data.get("agent_used"), _soccer_bot._interaction_count, response_data.get("trace"))
         
         return {
             "answer": response_data["answer"],
             "image": response_data.get("image"),
+            "trace": response_data.get("trace"),
             "meta": {
                 "agent": "LangGraph Multi-Agent",
                 "interaction_count": _soccer_bot._interaction_count
@@ -76,6 +80,7 @@ def reset_conversation():
     """Reinicia la memoria del agente."""
     _init_bot_if_needed()
     _soccer_bot.clear_memory()
+    logger.info("/api/reset called. Cleared bot memory.")
     return {"message": "Conversación reiniciada. Nueva sesión creada."}
 
 @app.get("/health")

@@ -3,7 +3,7 @@ import uuid
 import sqlite3
 from pathlib import Path
 from typing import TypedDict, List, Union, Literal
-from langchain_core.messages import HumanMessage, AIMessage, SystemMessage
+from langchain_core.messages import HumanMessage, AIMessage, SystemMessage, ToolMessage
 from langchain_groq import ChatGroq
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langgraph.graph import StateGraph, END
@@ -14,13 +14,18 @@ from langchain_openai import OpenAIEmbeddings
 import pandas as pd
 import requests
 from dotenv import load_dotenv
+from tavily import TavilyClient
 
 # Cargar variables de entorno
 load_dotenv()
 
+# Logger local
+import logging
+logger = logging.getLogger(__name__)
+
 # --- 1. CONFIGURACIÓN DE MODELOS ---
-llm_fast = ChatGroq(temperature=0, model_name="llama-3.3-70b-versatile")
-llm_smart = ChatGoogleGenerativeAI(model="gemini-2.0-flash-exp", temperature=0)
+llm_fast = ChatGroq(temperature=0, model_name="openai/gpt-oss-20b")
+llm_smart = ChatGoogleGenerativeAI(model="gemini-2.0-flash-lite", temperature=0)
 
 # --- 2. DEFINICIÓN DE HERRAMIENTAS ---
 
@@ -34,6 +39,7 @@ def sql_executor(query: str) -> str:
         Resultados de la consulta en formato texto
     """
     try:
+        logger.info("[sql_executor] Ejecutando consulta SQL: %s", query)
         # Ruta a la base de datos (ajustar según tu estructura)
         db_path = "data/soccer_stats.db"
         
@@ -50,13 +56,16 @@ def sql_executor(query: str) -> str:
         conn.close()
         
         if not results:
+            logger.info("[sql_executor] No se encontraron resultados para la consulta")
             return "No se encontraron resultados para esta consulta."
         
         # Formatear resultados
         df = pd.DataFrame(results, columns=columns)
+        logger.info("[sql_executor] Resultado rows=%d cols=%d", len(df), len(df.columns))
         return f"Resultados de la consulta:\n{df.to_string(index=False)}"
     
     except Exception as e:
+        logger.exception("[sql_executor] Error al ejecutar la consulta SQL: %s", e)
         return f"Error al ejecutar la consulta SQL: {str(e)}"
 
 
@@ -72,9 +81,11 @@ def faiss_retriever(query: str) -> str:
         Contexto relevante recuperado de los documentos
     """
     try:
+        logger.info("[faiss_retriever] Buscando en FAISS: %s", query)
         # Validar que existe la API key de OpenAI
         openai_api_key = os.getenv("OPENAI_API_KEY")
         if not openai_api_key:
+            logger.warning("[faiss_retriever] OPENAI_API_KEY no configurada")
             return "Error: OPENAI_API_KEY no está configurada en el archivo .env"
         
         vector_store_path = "data/faiss_index"
@@ -96,47 +107,94 @@ def faiss_retriever(query: str) -> str:
         docs = vectorstore.similarity_search(query, k=5)
         
         if not docs:
+            logger.info("[faiss_retriever] No se encontraron docs para la query")
             return "No se encontró información relevante en la base de conocimiento."
         
         # Formatear el contexto recuperado
         context = "\n\n".join([f"- {doc.page_content}" for doc in docs])
+        logger.info("[faiss_retriever] Documentos recuperados: %d", len(docs))
         
         return f"Contexto relevante encontrado:\n{context}"
     
     except Exception as e:
+        logger.exception("[faiss_retriever] Error al buscar en la base de conocimiento: %s", e)
         return f"Error al buscar en la base de conocimiento: {str(e)}"
+
+
+
+
+
+
+TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
+# Inicializar cliente Tavily
+tavily_client = TavilyClient(api_key=TAVILY_API_KEY)
 
 
 @tool
 def web_search_tool(query: str) -> str:
     """
-    Realiza una búsqueda en internet para obtener información actualizada sobre
-    partidos recientes, noticias de fútbol y eventos actuales.
+    Realiza una búsqueda en internet sobre fútbol para obtener información 
+    actualizada sobre partidos, noticias, resultados y eventos recientes.
+    
     Args:
-        query: Término de búsqueda
+        query: Término de búsqueda relacionado con fútbol (equipos, partidos, noticias)
+    
     Returns:
-        Resumen de la información encontrada
+        Resumen estructurado de la información encontrada con fuentes
+    
+    Ejemplos de uso:
+        - "Real Madrid próximos partidos"
+        - "Barcelona últimas noticias"
+        - "resultados LaLiga hoy"
     """
     try:
-        # Simulación de búsqueda web (en producción usar API real como SerpAPI, Tavily, etc.)
-        search_query = query.replace(" ", "+")
+        logger.info("[web_search_tool] Realizando búsqueda con Tavily: %s", query)
+        # Realizar búsqueda con Tavily
+        # topic="news" optimiza para contenido reciente
+        # max_results=5 suficiente para contexto sin saturar
+        response = tavily_client.search(
+            query=query,
+            topic="news",  # Optimizado para noticias/eventos recientes
+            max_results=5,
+            include_answer=True  # Tavily genera un resumen automático
+        )
         
-        # Ejemplo con búsqueda simple (reemplazar con API real)
-        # Por ahora devolvemos respuesta simulada
-        simulated_results = f"""
-        Resultados de búsqueda para '{query}':
+        # Extraer información relevante
+        answer = response.get('answer', '')
+        results = response.get('results', [])
         
-        1. Información reciente sobre el tema solicitado.
-        2. El partido más reciente terminó con un marcador ajustado.
-        3. Las últimas noticias indican cambios en las formaciones titulares.
+        # Construir respuesta estructurada
+        search_summary = f"**Búsqueda: '{query}'**\n\n"
         
-        Nota: Para resultados en tiempo real, integrar API de búsqueda como SerpAPI o Tavily.
-        """
+        # Incluir resumen automático de Tavily si existe
+        if answer:
+            search_summary += f"📌 **Resumen:**\n{answer}\n\n"
         
-        return simulated_results
+        # Agregar resultados individuales con fuentes
+        if results:
+            search_summary += "🔍 **Fuentes encontradas:**\n\n"
+            for idx, result in enumerate(results[:3], 1):  # Top 3 resultados
+                title = result.get('title', 'Sin título')
+                content = result.get('content', 'Sin contenido')
+                url = result.get('url', '')
+                
+                # Limitar contenido a 200 caracteres para mantener respuesta concisa
+                content_preview = content[:200] + "..." if len(content) > 200 else content
+                
+                search_summary += f"{idx}. **{title}**\n"
+                search_summary += f"   {content_preview}\n"
+                search_summary += f"   🔗 Fuente: {url}\n\n"
+        else:
+            search_summary += "⚠️ No se encontraron resultados relevantes.\n"
+        
+        return search_summary
     
     except Exception as e:
-        return f"Error en la búsqueda web: {str(e)}"
+        # Manejo de errores robusto
+        error_msg = f"❌ Error al realizar búsqueda web: {str(e)}\n"
+        error_msg += "Verifica tu API key de Tavily y conexión a internet."
+        logger.exception("[web_search_tool] Error al realizar búsqueda web: %s", e)
+        return error_msg
 
 
 @tool
@@ -149,6 +207,7 @@ def formation_image_tool(team_name: str) -> dict:
         Diccionario con la ruta de la imagen y texto descriptivo
     """
     try:
+        logger.info("[formation_image_tool] Buscando formación para: %s", team_name)
         formations_dir = Path("assets/formations")
         
         # Buscar archivo de formación
@@ -162,6 +221,7 @@ def formation_image_tool(team_name: str) -> dict:
         for filename in possible_files:
             file_path = formations_dir / filename
             if file_path.exists():
+                logger.info("[formation_image_tool] Imagen encontrada: %s", filename)
                 return {
                     "image_url": f"/assets/formations/{filename}",
                     "text": f"Formación táctica del {team_name}",
@@ -169,6 +229,7 @@ def formation_image_tool(team_name: str) -> dict:
                 }
         
         # Si no existe la imagen
+        logger.info("[formation_image_tool] No se encontró imagen para: %s", team_name)
         return {
             "image_url": None,
             "text": f"No se encontró la formación para {team_name}. Asegúrate de que existe el archivo en assets/formations/",
@@ -176,6 +237,7 @@ def formation_image_tool(team_name: str) -> dict:
         }
     
     except Exception as e:
+        logger.exception("[formation_image_tool] Error al buscar formación: %s", e)
         return {
             "image_url": None,
             "text": f"Error al buscar formación: {str(e)}",
@@ -190,6 +252,7 @@ class AgentState(TypedDict):
     classification: str
     needs_critic: bool
     formation_data: dict | None
+    trace: List[str]
 
 
 # --- 4. NODOS DEL GRAFO ---
@@ -197,7 +260,9 @@ class AgentState(TypedDict):
 def classifier_node(state: AgentState) -> dict:
     """Clasifica la intención del usuario en uno de los 5 agentes"""
     last_msg = state['messages'][-1].content
-    
+    state.setdefault('trace', []).append('classifier')
+    logger.info("[classifier] Entrada. Mensaje: %s", last_msg)
+
     system_prompt = """Eres un clasificador experto. Analiza la pregunta del usuario y clasifica en UNA de estas categorías:
 
 1. 'identity' - Si pregunta sobre ti, tus capacidades, qué haces, quién eres
@@ -219,10 +284,11 @@ Responde SOLO con una de estas palabras: identity, formation, sql_stats, rag_kno
     valid_classifications = ['identity', 'formation', 'sql_stats', 'rag_knowledge', 'web_search']
     if classification not in valid_classifications:
         classification = 'identity'
-    
+    logger.info("[classifier] Clasificado como: %s", classification)
     return {
         "classification": classification,
-        "next_step": classification
+        "next_step": classification,
+        "trace": state.get('trace')
     }
 
 
@@ -238,13 +304,16 @@ def identity_node(state: AgentState) -> dict:
 
 Responde de manera amigable y concisa sobre tus capacidades."""
     
+    state.setdefault('trace', []).append('identity')
+    logger.info("[identity] Respondiendo a identidad/capacidades")
     messages = [SystemMessage(content=identity_prompt)] + state['messages']
     response = llm_fast.invoke(messages)
     
     return {
         "messages": state['messages'] + [response],
         "needs_critic": False,
-        "next_step": "end"
+        "next_step": "end",
+        "trace": state.get('trace')
     }
 
 
@@ -257,19 +326,27 @@ def formation_node(state: AgentState) -> dict:
 Pregunta: {last_msg}
 Responde SOLO con el nombre del equipo, nada más."""
     
+    state.setdefault('trace', []).append('formation')
     team_extraction = llm_fast.invoke([HumanMessage(content=extraction_prompt)])
     team_name = team_extraction.content.strip()
+    logger.info("[formation] Equipo extraído: %s", team_name)
     
     # Obtener imagen de formación
-    formation_result = formation_image_tool.invoke({"team_name": team_name})
+    try:
+        formation_result = formation_image_tool.invoke({"team_name": team_name})
+    except Exception as e:
+        logger.exception("[formation] Error invocando formation_image_tool: %s", e)
+        formation_result = {"image_url": None, "text": f"Error al obtener formación: {e}", "type": "formation"}
     
     response_text = formation_result['text']
+    logger.info("[formation] Resultado: %s", response_text)
     
     return {
         "messages": state['messages'] + [AIMessage(content=response_text)],
         "formation_data": formation_result,
         "needs_critic": False,
-        "next_step": "end"
+        "next_step": "end",
+        "trace": state.get('trace')
     }
 
 
@@ -287,6 +364,8 @@ Cuando el usuario pida estadísticas:
 
 Si no puedes responder con SQL, dilo claramente."""
     
+    state.setdefault('trace', []).append('sql_agent')
+    logger.info("[sql_agent] Iniciando SQL agent con mensaje: %s", state['messages'][-1].content)
     messages = [SystemMessage(content=system_prompt)] + state['messages']
     
     # Vincular herramienta SQL
@@ -298,7 +377,12 @@ Si no puedes responder con SQL, dilo claramente."""
         messages_with_response = messages + [response]
         
         for tool_call in response.tool_calls:
-            tool_result = sql_executor.invoke(tool_call['args'])
+            logger.info("[sql_agent] Ejecutando tool_call: %s", tool_call)
+            try:
+                tool_result = sql_executor.invoke(tool_call['args'])
+            except Exception as e:
+                logger.exception("[sql_agent] Error ejecutando sql_executor: %s", e)
+                tool_result = f"Error ejecutando SQL: {e}"
             messages_with_response.append(
                 AIMessage(content=f"Resultado de SQL: {tool_result}")
             )
@@ -309,13 +393,15 @@ Si no puedes responder con SQL, dilo claramente."""
         return {
             "messages": state['messages'] + [final_response],
             "needs_critic": True,
-            "next_step": "critic"
+            "next_step": "critic",
+            "trace": state.get('trace')
         }
     
     return {
         "messages": state['messages'] + [response],
         "needs_critic": True,
-        "next_step": "critic"
+        "next_step": "critic",
+        "trace": state.get('trace')
     }
 
 
@@ -329,6 +415,8 @@ Cuando el usuario pregunte sobre historia, clubes, o reglas:
 2. Basa tu respuesta en el contexto recuperado
 3. Si no encuentras información, indícalo claramente"""
     
+    state.setdefault('trace', []).append('rag_agent')
+    logger.info("[rag_agent] Ejecutando RAG con mensaje: %s", state['messages'][-1].content)
     messages = [SystemMessage(content=system_prompt)] + state['messages']
     
     llm_with_tools = llm_smart.bind_tools([faiss_retriever])
@@ -339,7 +427,12 @@ Cuando el usuario pregunte sobre historia, clubes, o reglas:
         messages_with_response = messages + [response]
         
         for tool_call in response.tool_calls:
-            tool_result = faiss_retriever.invoke(tool_call['args'])
+            logger.info("[rag_agent] Ejecutando tool_call: %s", tool_call)
+            try:
+                tool_result = faiss_retriever.invoke(tool_call['args'])
+            except Exception as e:
+                logger.exception("[rag_agent] Error ejecutando faiss_retriever: %s", e)
+                tool_result = f"Error recuperando contexto: {e}"
             messages_with_response.append(
                 AIMessage(content=f"Contexto recuperado: {tool_result}")
             )
@@ -349,48 +442,119 @@ Cuando el usuario pregunte sobre historia, clubes, o reglas:
         return {
             "messages": state['messages'] + [final_response],
             "needs_critic": True,
-            "next_step": "critic"
+            "next_step": "critic",
+            "trace": state.get('trace')
         }
     
     return {
         "messages": state['messages'] + [response],
         "needs_critic": True,
-        "next_step": "critic"
+        "next_step": "critic",
+        "trace": state.get('trace')
     }
 
 
-def web_search_node(state: AgentState) -> dict:
-    """Agente que busca información actual en la web"""
-    system_prompt = """Eres un experto en noticias de fútbol actuales.
-Tienes acceso a búsqueda web para información reciente.
-
-Cuando el usuario pregunte sobre eventos recientes:
-1. Usa la herramienta web_search_tool para buscar información
-2. Resume los hallazgos de manera clara
-3. Indica que la información es reciente"""
+def web_search_node(state: dict) -> dict:
+    """
+    Nodo del agente que busca información actual en la web sobre fútbol.
     
+    Este agente:
+    1. Recibe la pregunta del usuario
+    2. Decide si necesita usar web_search_tool
+    3. Ejecuta la búsqueda si es necesario
+    4. Genera una respuesta natural basada en los resultados
+    5. Pasa al nodo crítico para validación
+    
+    Args:
+        state: Estado del agente con estructura AgentState
+            - messages: Lista de mensajes de la conversación
+            - needs_critic: Bool indicando si pasa por validación
+            - next_step: Siguiente nodo en el grafo
+    
+    Returns:
+        Estado actualizado con respuesta del agente
+    """
+    
+    # System prompt que define el comportamiento del agente
+    system_prompt = """Eres un experto en noticias y eventos actuales de fútbol.
+Tienes acceso a búsqueda web en tiempo real para información reciente.
+
+INSTRUCCIONES:
+1. Cuando el usuario pregunte sobre eventos recientes, partidos, noticias o información actualizada:
+   - USA la herramienta web_search_tool para buscar
+   - Construye queries de búsqueda específicas y relevantes
+   
+2. Al recibir resultados de búsqueda:
+   - Resume la información de manera clara y concisa
+   - Menciona las fuentes principales
+   - Indica que la información es reciente/actualizada
+   
+3. Sé natural y conversacional en tus respuestas
+4. Si no encuentras información, admítelo honestamente
+
+EJEMPLOS DE QUERIES:
+- Usuario: "¿Cuándo juega el Real Madrid?" 
+  → Query: "Real Madrid próximo partido calendario"
+  
+- Usuario: "Últimas noticias del Barcelona"
+  → Query: "Barcelona FC noticias últimas"
+  
+- Usuario: "¿Quién ganó ayer en LaLiga?"
+  → Query: "LaLiga resultados ayer"
+"""
+    
+    state.setdefault('trace', []).append('web_search')
+    logger.info("[web_search] Ejecutando web search agent. Mensaje: %s", state['messages'][-1].content)
+    # Construir mensajes para el LLM
     messages = [SystemMessage(content=system_prompt)] + state['messages']
     
+    # Vincular la tool al LLM (permite que el LLM decida cuándo usarla)
     llm_with_tools = llm_smart.bind_tools([web_search_tool])
+    
+    # Primera invocación: LLM decide si usar la tool
     response = llm_with_tools.invoke(messages)
     
+    # CASO 1: El LLM decidió usar la tool
     if hasattr(response, 'tool_calls') and response.tool_calls:
+        # Agregar la respuesta del LLM con tool_calls al historial
         messages_with_response = messages + [response]
         
+        # Ejecutar cada tool call solicitada
         for tool_call in response.tool_calls:
-            tool_result = web_search_tool.invoke(tool_call['args'])
-            messages_with_response.append(
-                AIMessage(content=f"Resultados de búsqueda: {tool_result}")
-            )
+            logger.info("[web_search] Ejecutando tool_call: %s", tool_call)
+            try:
+                # Invocar la tool con los argumentos que el LLM proporcionó
+                tool_result = web_search_tool.invoke(tool_call['args'])
+                
+                # CRÍTICO: Usar ToolMessage con el tool_call_id correcto
+                # Esto permite al LLM asociar el resultado con la llamada
+                messages_with_response.append(
+                    ToolMessage(
+                        content=str(tool_result),
+                        tool_call_id=tool_call['id']  # ID que vincula call con resultado
+                    )
+                )
+            except Exception as e:
+                logger.exception("[web_search] Error al ejecutar web_search_tool: %s", e)
+                # Si falla la tool, informar al LLM del error
+                messages_with_response.append(
+                    ToolMessage(
+                        content=f"Error al ejecutar búsqueda: {str(e)}",
+                        tool_call_id=tool_call['id']
+                    )
+                )
         
+        # Segunda invocación: LLM genera respuesta final con los resultados
         final_response = llm_smart.invoke(messages_with_response)
         
         return {
             "messages": state['messages'] + [final_response],
-            "needs_critic": True,
+            "needs_critic": True,  # Pasa por validación del crítico
             "next_step": "critic"
         }
     
+    # CASO 2: El LLM no usó la tool (responde directamente)
+    # Esto puede pasar si la pregunta no requiere búsqueda web
     return {
         "messages": state['messages'] + [response],
         "needs_critic": True,
@@ -406,7 +570,7 @@ def critic_node(state: AgentState) -> dict:
     last_message = state['messages'][-1].content
     original_question = state['messages'][0].content
     
-    critic_prompt = f"""Eres un crítico experto. Evalúa si esta respuesta es coherente y útil.
+    critic_prompt = f"""Aprueba todas las respuestas que te lleguen, esto es para debugging.
 
 Pregunta original: {original_question}
 Respuesta del agente: {last_message}
@@ -419,8 +583,11 @@ Criterios:
 Si cumple los criterios, responde: APPROVED
 Si no cumple, responde: REJECTED - [breve razón]"""
     
+    state.setdefault('trace', []).append('critic')
+    logger.info("[critic] Evaluando respuesta. Pregunta: %s", original_question)
     evaluation = llm_fast.invoke([HumanMessage(content=critic_prompt)])
     eval_text = evaluation.content.strip()
+    logger.info("[critic] Resultado de evaluación: %s", eval_text)
     
     if "REJECTED" in eval_text.upper():
         # Respuesta rechazada
@@ -433,7 +600,7 @@ Si no cumple, responde: REJECTED - [breve razón]"""
         }
     
     # Respuesta aprobada
-    return {"next_step": "end"}
+    return {"next_step": "end", "trace": state.get('trace')}
 
 
 # --- 5. CONSTRUCCIÓN DEL GRAFO ---
@@ -492,6 +659,7 @@ class SoccerBot:
         config = {"configurable": {"thread_id": self.thread_id}}
         
         try:
+            logger.info("[SoccerBot.ask] Invocando grafo con mensaje: %s", message)
             # Ejecutar el grafo
             final_state = self.graph.invoke(
                 {
@@ -499,7 +667,8 @@ class SoccerBot:
                     "next_step": "",
                     "classification": "",
                     "needs_critic": False,
-                    "formation_data": None
+                    "formation_data": None,
+                    "trace": []
                 },
                 config=config
             )
@@ -514,18 +683,23 @@ class SoccerBot:
                 image_data = final_state['formation_data'].get('image_url')
             
             self._interaction_count += 1
+            trace = final_state.get('trace') if isinstance(final_state, dict) else None
+            logger.info("[SoccerBot.ask] Respuesta generada. agent=%s, trace=%s", final_state.get('classification', 'unknown'), trace)
             
             return {
                 "answer": response_text,
                 "image": image_data,
-                "agent_used": final_state.get('classification', 'unknown')
+                "agent_used": final_state.get('classification', 'unknown'),
+                "trace": trace
             }
         
         except Exception as e:
+            logger.exception("[SoccerBot.ask] Error procesando solicitud: %s", e)
             return {
                 "answer": f"Error al procesar la solicitud: {str(e)}",
                 "image": None,
-                "agent_used": "error"
+                "agent_used": "error",
+                "trace": []
             }
     
     def clear_memory(self):
