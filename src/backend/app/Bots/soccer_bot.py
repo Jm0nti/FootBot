@@ -122,79 +122,121 @@ def faiss_retriever(query: str) -> str:
 
 
 
+PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY")
+
+# Endpoint de Perplexity
+PERPLEXITY_API_URL = "https://api.perplexity.ai/chat/completions"
 
 
-
-TAVILY_API_KEY = os.getenv("TAVILY_API_KEY")
-# Inicializar cliente Tavily
-tavily_client = TavilyClient(api_key=TAVILY_API_KEY)
-
+# ============================================================================
+# TOOL: WEB SEARCH CON PERPLEXITY
+# ============================================================================
 
 @tool
 def web_search_tool(query: str) -> str:
     """
-    Realiza una búsqueda en internet sobre fútbol para obtener información 
-    actualizada sobre partidos, noticias, resultados y eventos recientes.
+    Realiza una búsqueda en internet sobre fútbol usando Perplexity AI para 
+    obtener información actualizada, precisa y con fuentes verificadas sobre 
+    partidos, noticias, resultados y eventos recientes.
     
     Args:
         query: Término de búsqueda relacionado con fútbol (equipos, partidos, noticias)
     
     Returns:
-        Resumen estructurado de la información encontrada con fuentes
+        Respuesta detallada con información actualizada y fuentes citadas
     
     Ejemplos de uso:
-        - "Real Madrid próximos partidos"
-        - "Barcelona últimas noticias"
-        - "resultados LaLiga hoy"
+        - "¿Cuándo juega el Real Madrid próximamente?"
+        - "Últimas noticias del FC Barcelona"
+        - "Resultados de LaLiga de hoy"
     """
     try:
-        logger.info("[web_search_tool] Realizando búsqueda con Tavily: %s", query)
-        # Realizar búsqueda con Tavily
-        # topic="news" optimiza para contenido reciente
-        # max_results=5 suficiente para contexto sin saturar
-        response = tavily_client.search(
-            query=query,
-            topic="news",  # Optimizado para noticias/eventos recientes
-            max_results=5,
-            include_answer=True  # Tavily genera un resumen automático
+        # Construir el prompt optimizado para búsquedas de fútbol
+        search_prompt = f"""Busca información actualizada sobre: {query}
+
+Proporciona:
+1. Información específica y verificada
+2. Fechas y detalles concretos si están disponibles
+3. Las fuentes de donde obtuviste la información
+
+Mantén la respuesta concisa pero informativa."""
+
+        # Headers para la API de Perplexity
+        headers = {
+            "Authorization": f"Bearer {PERPLEXITY_API_KEY}",
+            "Content-Type": "application/json"
+        }
+        
+        # Payload para la API
+        # Usando modelo sonar-pro para mejor precisión en búsquedas
+        payload = {
+            "model": "sonar-pro",  # Mejor modelo para búsquedas web
+            "messages": [
+                {
+                    "role": "system",
+                    "content": "Eres un asistente experto en búsquedas de información deportiva, especialmente fútbol. Proporciona información precisa, actualizada y con fuentes verificables."
+                },
+                {
+                    "role": "user",
+                    "content": search_prompt
+                }
+            ],
+            "temperature": 0.2,  # Baja temperatura para respuestas más precisas
+            "top_p": 0.9,
+            "return_citations": True,  # Importante: incluir citas
+            "search_recency_filter": "month",  # Priorizar resultados del último mes
+            "stream": False
+        }
+        
+        # Realizar request a Perplexity API
+        response = requests.post(
+            PERPLEXITY_API_URL,
+            headers=headers,
+            json=payload,
+            timeout=30  # Timeout de 30 segundos
         )
         
-        # Extraer información relevante
-        answer = response.get('answer', '')
-        results = response.get('results', [])
+        # Verificar si la request fue exitosa
+        response.raise_for_status()
+        
+        # Parsear respuesta
+        data = response.json()
+        
+        # Extraer contenido y citas
+        content = data['choices'][0]['message']['content']
+        citations = data.get('citations', [])
         
         # Construir respuesta estructurada
-        search_summary = f"**Búsqueda: '{query}'**\n\n"
+        search_summary = f"🔍 **Búsqueda: '{query}'**\n\n"
+        search_summary += f"{content}\n\n"
         
-        # Incluir resumen automático de Tavily si existe
-        if answer:
-            search_summary += f"📌 **Resumen:**\n{answer}\n\n"
-        
-        # Agregar resultados individuales con fuentes
-        if results:
-            search_summary += "🔍 **Fuentes encontradas:**\n\n"
-            for idx, result in enumerate(results[:3], 1):  # Top 3 resultados
-                title = result.get('title', 'Sin título')
-                content = result.get('content', 'Sin contenido')
-                url = result.get('url', '')
-                
-                # Limitar contenido a 200 caracteres para mantener respuesta concisa
-                content_preview = content[:200] + "..." if len(content) > 200 else content
-                
-                search_summary += f"{idx}. **{title}**\n"
-                search_summary += f"   {content_preview}\n"
-                search_summary += f"   🔗 Fuente: {url}\n\n"
-        else:
-            search_summary += "⚠️ No se encontraron resultados relevantes.\n"
+        # Agregar citas si existen
+        if citations:
+            search_summary += "📚 **Fuentes consultadas:**\n"
+            for idx, citation in enumerate(citations[:5], 1):  # Máximo 5 fuentes
+                search_summary += f"{idx}. {citation}\n"
         
         return search_summary
     
+    except requests.exceptions.HTTPError as e:
+        # Error HTTP específico
+        status_code = e.response.status_code
+        if status_code == 401:
+            return "❌ Error de autenticación: Verifica tu API key de Perplexity."
+        elif status_code == 429:
+            return "❌ Límite de rate exceeded. Espera un momento e intenta de nuevo."
+        else:
+            return f"❌ Error HTTP {status_code}: {str(e)}"
+    
+    except requests.exceptions.Timeout:
+        return "❌ Timeout: La búsqueda tardó demasiado. Intenta con una query más específica."
+    
+    except requests.exceptions.RequestException as e:
+        return f"❌ Error de conexión: {str(e)}\nVerifica tu conexión a internet."
+    
     except Exception as e:
-        # Manejo de errores robusto
-        error_msg = f"❌ Error al realizar búsqueda web: {str(e)}\n"
-        error_msg += "Verifica tu API key de Tavily y conexión a internet."
-        logger.exception("[web_search_tool] Error al realizar búsqueda web: %s", e)
-        return error_msg
+        return f"❌ Error inesperado al realizar búsqueda: {str(e)}"
+
 
 
 @tool
@@ -265,11 +307,11 @@ def classifier_node(state: AgentState) -> dict:
 
     system_prompt = """Eres un clasificador experto. Analiza la pregunta del usuario y clasifica en UNA de estas categorías:
 
-1. 'identity' - Si pregunta sobre ti, tus capacidades, qué haces, quién eres
-2. 'formation' - Si pide ver la formación táctica de un equipo (ej: "muestra la formación del Barcelona")
+1. 'identity' - Si pregunta sobre ti, tus capacidades, qué haces, quién eres, o un saludo general
+2. 'formation' - Si pide ver la formación táctica de un equipo (ej: "muestra la formación del Barcelona, cual es la formación del Real Madrid, dame el 11 titular del liverpool")
 3. 'sql_stats' - Si pide estadísticas, números, goles, asistencias, comparaciones numéricas
 4. 'rag_knowledge' - Si pregunta sobre historia, biografías, reglamentos, fundación de clubes
-5. 'web_search' - Si pregunta sobre noticias recientes, partidos de hoy/ayer, eventos actuales
+5. 'web_search' - Si pregunta sobre noticias recientes, partidos de hoy/ayer, eventos actuales, o preguntas que se salen de tu base de conocimiento
 
 Responde SOLO con una de estas palabras: identity, formation, sql_stats, rag_knowledge, web_search"""
     
@@ -454,9 +496,12 @@ Cuando el usuario pregunte sobre historia, clubes, o reglas:
     }
 
 
+
+
+
 def web_search_node(state: dict) -> dict:
     """
-    Nodo del agente que busca información actual en la web sobre fútbol.
+    Nodo del agente que busca información actual en la web sobre fútbol usando Perplexity.
     
     Este agente:
     1. Recibe la pregunta del usuario
@@ -477,34 +522,35 @@ def web_search_node(state: dict) -> dict:
     
     # System prompt que define el comportamiento del agente
     system_prompt = """Eres un experto en noticias y eventos actuales de fútbol.
-Tienes acceso a búsqueda web en tiempo real para información reciente.
+Tienes acceso a búsqueda web en tiempo real usando Perplexity AI para información precisa y actualizada.
 
 INSTRUCCIONES:
 1. Cuando el usuario pregunte sobre eventos recientes, partidos, noticias o información actualizada:
    - USA la herramienta web_search_tool para buscar
-   - Construye queries de búsqueda específicas y relevantes
+   - Construye queries de búsqueda claras y específicas en español
+   - Incluye contexto relevante en la query (fechas, competiciones, etc.)
    
 2. Al recibir resultados de búsqueda:
    - Resume la información de manera clara y concisa
-   - Menciona las fuentes principales
-   - Indica que la información es reciente/actualizada
+   - Destaca los datos más importantes (fechas, resultados, nombres)
+   - Menciona que la información proviene de fuentes actualizadas
    
 3. Sé natural y conversacional en tus respuestas
-4. Si no encuentras información, admítelo honestamente
+4. Si no encuentras información específica, sugiere alternativas o admítelo honestamente
 
-EJEMPLOS DE QUERIES:
+EJEMPLOS DE QUERIES EFECTIVAS:
 - Usuario: "¿Cuándo juega el Real Madrid?" 
-  → Query: "Real Madrid próximo partido calendario"
+  → Query: "Real Madrid próximo partido fecha horario 2024"
   
 - Usuario: "Últimas noticias del Barcelona"
-  → Query: "Barcelona FC noticias últimas"
+  → Query: "FC Barcelona noticias últimas fichajes resultados"
   
 - Usuario: "¿Quién ganó ayer en LaLiga?"
-  → Query: "LaLiga resultados ayer"
+  → Query: "LaLiga resultados partido ayer marcador"
+
+IMPORTANTE: Perplexity proporciona información muy precisa, confía en sus resultados.
 """
     
-    state.setdefault('trace', []).append('web_search')
-    logger.info("[web_search] Ejecutando web search agent. Mensaje: %s", state['messages'][-1].content)
     # Construir mensajes para el LLM
     messages = [SystemMessage(content=system_prompt)] + state['messages']
     
@@ -521,7 +567,6 @@ EJEMPLOS DE QUERIES:
         
         # Ejecutar cada tool call solicitada
         for tool_call in response.tool_calls:
-            logger.info("[web_search] Ejecutando tool_call: %s", tool_call)
             try:
                 # Invocar la tool con los argumentos que el LLM proporcionó
                 tool_result = web_search_tool.invoke(tool_call['args'])
@@ -535,7 +580,6 @@ EJEMPLOS DE QUERIES:
                     )
                 )
             except Exception as e:
-                logger.exception("[web_search] Error al ejecutar web_search_tool: %s", e)
                 # Si falla la tool, informar al LLM del error
                 messages_with_response.append(
                     ToolMessage(
@@ -560,6 +604,10 @@ EJEMPLOS DE QUERIES:
         "needs_critic": True,
         "next_step": "critic"
     }
+
+
+
+
 
 
 def critic_node(state: AgentState) -> dict:
