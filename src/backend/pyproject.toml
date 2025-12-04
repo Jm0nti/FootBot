@@ -1,0 +1,10 @@
+[project]
+name = "UNALL-E-backend"
+version = "0.1.0"
+description = "Backend proyecto UNALL-E "
+requires-python = ">=3.9"
+dependencies = []
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["app*"]
