@@ -1,0 +1,81 @@
+TEMA: Árbitro asistente de video
+================================================================================
+
+RESUMEN:
+--------------------------------------------------------------------------------
+El árbitro asistente de video o árbitro asistente de vídeo, también conocido por las siglas VAR (del inglés video assistant referee) o simplemente como videoarbitraje,​
+o arbitraje por video​
+es un sistema de asistencia arbitral cuyo objetivo es evitar flagrantes errores humanos que condicionen el resultado en un partido de fútbol.​
+Durante el partido, uno o varios técnicos de video están dentro de una sala de realización, observan la señal de televisión y tienen acceso a la repetición de las jugadas. El árbitro principal está comunicado con el árbitro asistente de video a través de un auricular.​
+Si se produce una acción polémica, los jueces la revisan e informan al árbitro para que tome la decisión final. La revisión está limitada a cuatro casos con el juego interrumpido: goles, penales, expulsiones directas y confusión de identidad.​
+
+INFORMACIÓN COMPLETA:
+--------------------------------------------------------------------------------
+El árbitro asistente de video o árbitro asistente de vídeo, también conocido por las siglas VAR (del inglés video assistant referee) o simplemente como videoarbitraje,​
+o arbitraje por video​
+es un sistema de asistencia arbitral cuyo objetivo es evitar flagrantes errores humanos que condicionen el resultado en un partido de fútbol.​
+Durante el partido, uno o varios técnicos de video están dentro de una sala de realización, observan la señal de televisión y tienen acceso a la repetición de las jugadas. El árbitro principal está comunicado con el árbitro asistente de video a través de un auricular.​
+Si se produce una acción polémica, los jueces la revisan e informan al árbitro para que tome la decisión final. La revisión está limitada a cuatro casos con el juego interrumpido: goles, penales, expulsiones directas y confusión de identidad.​
+
+Funcionamiento
+La FIFA limita el uso del árbitro asistente de video a cuatro acciones que pueden cambiar el rumbo del juego: goles, penales, expulsiones directas (nunca por doble amarilla) y confusión de identidad en amonestados. En ningún caso el VAR puede salirse de estos cuatro supuestos o interrumpir una jugada de peligro. Se activa de la siguiente manera:​
+
+Cuando se produce una de las acciones contempladas, el árbitro principal o el juez de video pueden solicitar la revisión.
+Los jueces de video observan la repetición instantánea de la jugada e informan de lo que ha pasado al árbitro, a través del auricular.
+El árbitro de campo tiene dos opciones: puede aceptar el criterio de los jueces de video, o ver el vídeo en la banda y tomar su propia decisión. La decisión del árbitro de campo prevalece.
+La cabina del árbitro asistente de video (VOR, siglas de video operation room) está compuesta por un árbitro responsable (VAR), un ayudante del árbitro (AVAR), y un operador de vídeo (RO) por cada trece cámaras. Los únicos capaces de solicitar la repetición son el árbitro y el asistente de vídeo, y en el primer caso deberá señalizarlo con un rectángulo con los dedos índices. Si un jugador o entrenador reclama su uso al colegiado, o bien interrumpe su revisión, puede ser sancionado.​
+Si hay situación de peligro, el árbitro de campo deberá esperar a la conclusión de la jugada para atender la solicitud de revisión.​
+El objetivo final del árbitro asistente de video no es garantizar una precisión total en las decisiones arbitrales, sino revertir aquellos errores humanos que puedan condicionar el resultado, y limitándolo a los supuestos establecidos por la IFAB.​
+Gracias a la realización, los asistentes de video pueden ver la acción polémica desde distintos puntos de vista y aconsejar al árbitro principal, a quien siempre corresponde la decisión final.​
+La FIFA recomienda que la decisión se tome en el menor tiempo posible para no alterar el ritmo de juego,​​​
+en general menos de un minuto.​
+El sistema de detección automática de goles se mantiene vigente para saber si el balón ha entrado en la portería.​
+
+Ayudante del árbitro (AVAR)
+La figura del ayudante del árbitro (AVAR) se encarga de asistir al árbitro responsable (VAR) en la sala de operaciones de vídeo. Entre sus labores se incluyen ver la acción en directo mientras el VAR está llevando a cabo la revisión, tomar notas de incidencias y comunicar al árbitro en el campo el resultado de la revisión.​
+
+Historia
+La International Football Association Board (IFAB), organismo encargado de definir las reglas del fútbol a nivel mundial, había aprobado el uso del árbitro asistente de vídeo (VAR) en marzo de 2016,​
+siguiendo la tendencia ya existente en otros deportes.​​​
+Para la implementación, mejoría y corrección de fallos, la IFAB y la FIFA establecieron un periodo de prueba mínimo de dos años.​
+La implementación del nuevo sistema estuvo liderada por Pierluigi Collina y otros dos exárbitros de élite; el italiano Roberto Rosetti y el español Carlos Velasco Carballo.
+Antes de estrenarse en la Copa Mundial de Fútbol de 2018 debió superar dos años de pruebas tanto en partidos grabados (offline) como partidos en directo (online), generalmente categorías inferiores y amistosos de las selecciones absolutas.​
+El primer torneo de calado con VAR fue la Copa Mundial de Clubes de la FIFA 2016. En las semifinales entre Kashima Antlers y Atlético Nacional, el colegiado húngaro Viktor Kassai señaló un penalti al equipo japonés después de ser advertido por el asistente de video, aunque tardó dos minutos en concederlo.​
+Un día después volvería a verse en el Real Madrid contra Club América.​
+El nuevo sistema tuvo críticas mixtas en el mundo del fútbol: mientras algunos consideraban que un mal uso podía generar dudas y romper el ritmo de juego,​​​
+otros defendieron la tecnología para conseguir un resultado justo.​​
+La consolidación del sistema VAR quedó confirmada cuando la FIFA autorizó su uso en la Copa Mundial de Fútbol de 2018, junto con el sistema de detección de goles que ya estaba en vigor desde Brasil 2014.​​
+
+Aplicación internacional
+El VAR comenzó a aplicarse en 2017, en competiciones como la Major League Soccer estadounidense, la A-League australiana, y en partidos amistosos de selecciones nacionales.​​​
+El primer torneo internacional que lo implementó fue la Copa FIFA Confederaciones de 2017, con polémicas en su implementación que sirvieron para mejorar la toma de decisiones.​​
+En Sudamérica fue introducido a partir de las semifinales de la Copa Libertadores 2017.​
+El VAR fue incluido en el Mundial de Rusia 2018; al inicio de la temporada 2018-19 se implementó en las principales ligas europeas, así como en la Liga de Campeones de la UEFA —a partir de los octavos de final— y en la final de la Liga Europa de la UEFA. Posteriormente fue introducido en la Copa Mundial Femenina (2019) y la Copa América (2019).​
+
+España
+El VAR se utiliza en España desde 2016 y actualmente está implementado en la Liga de Fútbol Profesional, la Copa del Rey (desde octavos de final) y la Supercopa de España.​
+La tercera vez que se implementó fue en la final de la Supercopa de 2018 entre el Sevilla y el Barcelona.​
+Poco después se adoptó en la temporada 2018-19 de Primera División desde la primera jornada.​
+Por razones logísticas, no hubo VAR en la Segunda División hasta la siguiente temporada 2019-20.​
+
+Competiciones que utilizan el VAR
+Competiciones en las que el VAR tiene contacto con el árbitro en el terreno de juego y, por tanto, puede influir en la toma de decisiones:
+
+Competiciones de clubes
+Ligas nacionales
+Copas nacionales
+Continentales
+Internacionales
+Copa Intercontinental de la FIFA
+Copa Mundial de Clubes de la FIFA
+
+Competiciones de selecciones nacionales
+Continentales
+Internacionales
+Véase también
+Sistema de detección automática de goles
+Repetición instantánea
+
+Referencias
+Enlaces externos
+Sitio web oficial del árbitro asistente de video en FIFA.com

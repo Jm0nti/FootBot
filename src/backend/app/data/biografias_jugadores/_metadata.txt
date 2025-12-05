@@ -1,0 +1,128 @@
+METADATOS DE DESCARGA - BIOGRAFÍAS DE JUGADORES
+================================================================================
+
+Total jugadores: 116
+Descargados exitosamente: 112
+Fallidos: 4
+
+JUGADORES DESCARGADOS:
+--------------------------------------------------------------------------------
+✓ Lionel Messi
+✓ Cristiano Ronaldo
+✓ Kylian Mbappé
+✓ Erling Haaland
+✓ Neymar
+✓ Vinicius Junior
+✓ Jude Bellingham
+✓ Kevin De Bruyne
+✓ Mohamed Salah
+✓ Harry Kane
+✓ Robert Lewandowski
+✓ Luka Modrić
+✓ Karim Benzema
+✓ Pedri
+✓ Gavi
+✓ Rodri
+✓ Bukayo Saka
+✓ Phil Foden
+✓ Jamal Musiala
+✓ Florian Wirtz
+✓ Thibaut Courtois
+✓ Alisson Becker
+✓ Virgil van Dijk
+✓ Rúben Dias
+✓ Antonio Rüdiger
+✓ Joško Gvardiol
+✓ William Saliba
+✓ Alphonso Davies
+✓ Antoine Griezmann
+✓ Luis Suárez
+✓ Sergio Ramos
+✓ Toni Kroos
+✓ Casemiro
+✓ Bruno Fernandes
+✓ Son Heung-min
+✓ Joshua Kimmich
+✓ Bernardo Silva
+✓ Federico Valverde
+✓ Zinedine Zidane
+✓ Ronaldinho
+✓ Andrés Iniesta
+✓ Xavi Hernández
+✓ Sergio Busquets
+✓ Gerard Piqué
+✓ Iker Casillas
+✓ Gianluigi Buffon
+✓ Thierry Henry
+✓ Wayne Rooney
+✓ Zlatan Ibrahimović
+✓ David Beckham
+✓ Lamine Yamal
+✓ Endrick
+✓ Alejandro Garnacho
+✓ Arda Güler
+✓ Warren Zaïre-Emery
+✓ Xavi Simons
+✓ Sávio
+✓ Kobbie Mainoo
+✓ Pau Cubarsí
+✓ Victor Osimhen
+✓ Lautaro Martínez
+✓ Romelu Lukaku
+✓ Marcus Rashford
+✓ Rafael Leão
+✓ Christopher Nkunku
+✓ Dušan Vlahović
+✓ Khvicha Kvaratskhelia
+✓ Darwin Núñez
+✓ Declan Rice
+✓ Aurélien Tchouaméni
+✓ Eduardo Camavinga
+✓ Martin Ødegaard
+✓ İlkay Gündoğan
+✓ Frenkie de Jong
+✓ Marco Verratti
+✓ Jorginho
+✓ Mason Mount
+✓ Kyle Walker
+✓ Theo Hernández
+✓ Reece James
+✓ Trent Alexander-Arnold
+✓ Achraf Hakimi
+✓ João Cancelo
+✓ Marquinhos
+✓ Kim Min-jae
+✓ Jules Koundé
+✓ Ederson
+✓ Marc-André ter Stegen
+✓ Mike Maignan
+✓ Jan Oblak
+✓ Emiliano Martínez
+✓ Gianluigi Donnarumma
+✓ Edouard Mendy
+✓ André Onana
+✓ Ronaldo Nazário
+✓ Luís Figo
+✓ Paolo Maldini
+✓ Franco Baresi
+✓ Alessandro Del Piero
+✓ Francesco Totti
+✓ Roberto Carlos
+✓ Cafu
+✓ Rivaldo
+✓ Roberto Baggio
+✓ George Best
+✓ Eric Cantona
+✓ Ruud van Nistelrooy
+✓ Raúl González
+✓ Fernando Torres
+✓ Didier Drogba
+✓ Samuel Eto'o
+✓ Carles Puyol
+
+JUGADORES NO ENCONTRADOS:
+--------------------------------------------------------------------------------
+✗ Joao Neves
+✗ Julian Álvarez
+✗ Nicolo Barella
+✗ Eder Militão

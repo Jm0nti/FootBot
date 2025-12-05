@@ -311,7 +311,7 @@ def classifier_node(state: AgentState) -> dict:
 2. 'formation' - Si pide ver la formación táctica de un equipo (ej: "muestra la formación del Barcelona, cual es la formación del Real Madrid, dame el 11 titular del liverpool")
 3. 'sql_stats' - Si pide estadísticas, números, goles, asistencias, comparaciones numéricas
 4. 'rag_knowledge' - Si pregunta sobre historia, biografías, reglamentos, fundación de clubes
-5. 'web_search' - Si pregunta sobre noticias recientes, partidos de hoy/ayer, eventos actuales, o preguntas que se salen de tu base de conocimiento
+5. 'web_search' - Si pregunta sobre noticias recientes, partidos de hoy/ayer, eventos actuales, o preguntas que se salen de tu base de conocimiento que estén el el dominio del fútbol
 
 Responde SOLO con una de estas palabras: identity, formation, sql_stats, rag_knowledge, web_search"""
     
@@ -640,7 +640,7 @@ Si no cumple, responde: REJECTED - [breve razón]"""
     if "REJECTED" in eval_text.upper():
         # Respuesta rechazada
         rejection_msg = AIMessage(
-            content="Lo siento, no pude generar una respuesta coherente para tu consulta. ¿Podrías reformular tu pregunta o ser más específico?"
+            content="Lo siento, no pude verificar que la respuesta generada por los agentes fuera adecuada. Por favor, intenta reformular tu pregunta o proporcionar más detalles."
         )
         return {
             "messages": state['messages'][:-1] + [rejection_msg],

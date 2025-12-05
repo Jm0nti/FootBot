@@ -1,0 +1,72 @@
+METADATOS DE DESCARGA - INFORMACIÓN DE EQUIPOS
+================================================================================
+
+Total equipos: 60
+Descargados exitosamente: 59
+Fallidos: 1
+
+EQUIPOS DESCARGADOS:
+--------------------------------------------------------------------------------
+✓ Real Madrid Club de Fútbol
+✓ Fútbol Club Barcelona
+✓ Club Atlético de Madrid
+✓ Sevilla Fútbol Club
+✓ Valencia Club de Fútbol
+✓ Athletic Club
+✓ Real Betis Balompié
+✓ Real Sociedad de Fútbol
+✓ Villarreal Club de Fútbol
+✓ Real Club Celta de Vigo
+✓ Manchester City Football Club
+✓ Liverpool Football Club
+✓ Arsenal Football Club
+✓ Chelsea Football Club
+✓ Manchester United Football Club
+✓ Tottenham Hotspur Football Club
+✓ Newcastle United Football Club
+✓ Aston Villa Football Club
+✓ Brighton & Hove Albion Football Club
+✓ West Ham United Football Club
+✓ Football Club Internazionale Milano
+✓ Associazione Calcio Milan
+✓ Juventus Football Club
+✓ Società Sportiva Calcio Napoli
+✓ Associazione Sportiva Roma
+✓ Società Sportiva Lazio
+✓ Atalanta Bergamasca Calcio
+✓ ACF Fiorentina
+✓ Bayern de Múnich
+✓ Borussia Dortmund
+✓ RB Leipzig
+✓ Bayer 04 Leverkusen
+✓ Borussia Mönchengladbach
+✓ Eintracht Frankfurt
+✓ VfB Stuttgart
+✓ Paris Saint-Germain Football Club
+✓ Olympique de Marsella
+✓ Olympique de Lyon
+✓ AS Mónaco
+✓ Lille OSC
+✓ OGC Niza
+✓ Sport Lisboa e Benfica
+✓ Futebol Clube do Porto
+✓ Sporting de Lisboa
+✓ Sporting Clube de Braga
+✓ Ajax de Ámsterdam
+✓ PSV Eindhoven
+✓ Feyenoord Rotterdam
+✓ Club Atlético Boca Juniors
+✓ Club Atlético River Plate
+✓ Clube de Regatas do Flamengo
+✓ São Paulo Futebol Clube
+✓ Club Atlético Peñarol
+✓ Club Nacional de Football
+✓ Celtic Football Club
+✓ Rangers Football Club
+✓ Galatasaray Spor Kulübü
+✓ Fenerbahçe Spor Kulübü
+✓ Shakhtar Donetsk
+
+EQUIPOS NO ENCONTRADOS:
+--------------------------------------------------------------------------------
+✗ Wolfsburgo

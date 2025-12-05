@@ -1,0 +1,94 @@
+METADATOS DE DESCARGA - COMPETICIONES Y REGLAS
+================================================================================
+
+Total temas: 82
+Descargados exitosamente: 63
+Fallidos: 19
+
+TEMAS DESCARGADOS:
+--------------------------------------------------------------------------------
+✓ Copa Mundial de Fútbol
+✓ Eurocopa
+✓ Copa América
+✓ Copa Africana de Naciones
+✓ Copa de Oro de la Concacaf
+✓ Copa Asiática
+✓ Copa Confederaciones
+✓ Liga de Naciones de la UEFA
+✓ Liga de Campeones de la UEFA
+✓ Liga Europa de la UEFA
+✓ Copa Libertadores
+✓ Copa Sudamericana
+✓ Mundial de Clubes de la FIFA
+✓ Primera División de España
+✓ Premier League
+✓ Serie A
+✓ Bundesliga
+✓ Ligue 1
+✓ Primeira Liga
+✓ Eredivisie
+✓ Süper Lig
+✓ Premier League de Escocia
+✓ Categoría Primera A
+✓ Liga MX
+✓ Major League Soccer
+✓ Primera División de Argentina
+✓ Campeonato Uruguayo de Fútbol
+✓ Copa del Rey
+✓ FA Cup
+✓ Copa de Italia
+✓ Copa de Alemania
+✓ Copa de Francia
+✓ Copa de Brasil
+✓ Fuera de juego (fútbol)
+✓ Penalti (fútbol)
+✓ Tiro libre (fútbol)
+✓ Saque de esquina
+✓ Tiempo extra
+✓ Tanda de penaltis
+✓ Mano (fútbol)
+✓ Falta (fútbol)
+✓ Árbitro de fútbol
+✓ Árbitro asistente de video
+✓ Contraataque
+✓ Regate
+✓ Centro (fútbol)
+✓ Cabezazo
+✓ Disparo (fútbol)
+✓ Parada (fútbol)
+✓ Portero (fútbol)
+✓ Defensa (fútbol)
+✓ Lateral (fútbol)
+✓ Defensa central
+✓ Líbero
+✓ Centrocampista
+✓ Mediapunta
+✓ Pivote (fútbol)
+✓ Extremo (fútbol)
+✓ Delantero centro
+✓ Balón de Oro
+✓ Bota de Oro
+✓ Guante de Oro
+✓ Premio Puskás
+
+TEMAS NO ENCONTRADOS:
+--------------------------------------------------------------------------------
+✗ Liga Conferencia Europa de la UEFA
+✗ Liga Belga de Fútbol
+✗ Campeonato Brasileiro de Futebol Serie A
+✗ Campeonato Nacional de Fútbol de Chile
+✗ Liga Profesional Venezolana de Fútbol
+✗ Reglas de juego del fútbol
+✗ Sistema de videoarbitraje
+✗ Tarjeta amarilla y roja
+✗ Regla del gol de oro
+✗ Regla del gol de plata
+✗ Formación (fútbol)
+✗ Sistema táctico
+✗ Pressing (fútbol)
+✗ Posesión de balón
+✗ Pase (fútbol)
+✗ Marcaje (fútbol)
+✗ Segundo delantero
+✗ The Best FIFA Football Awards
+✗ Jugador Joven del Año de la FIFA
