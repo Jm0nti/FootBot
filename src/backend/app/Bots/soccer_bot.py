@@ -15,6 +15,7 @@ import pandas as pd
 import requests
 from dotenv import load_dotenv
 from tavily import TavilyClient
+import base64
 
 # Cargar variables de entorno
 load_dotenv()
@@ -243,48 +244,83 @@ Mantén la respuesta concisa pero informativa."""
 def formation_image_tool(team_name: str) -> dict:
     """
     Obtiene la imagen de formación táctica de un equipo específico.
+    
     Args:
-        team_name: Nombre del equipo
+        team_name: Nombre del equipo (ej: "Barcelona", "Real Madrid")
+    
     Returns:
-        Diccionario con la ruta de la imagen y texto descriptivo
+        Diccionario con:
+        - image_url: Ruta de la imagen (para web)
+        - image_base64: Imagen codificada en base64 (para envío)
+        - text: Texto descriptivo
+        - type: "formation"
+        - team_name: Nombre del equipo
     """
     try:
         logger.info("[formation_image_tool] Buscando formación para: %s", team_name)
         formations_dir = Path("assets/formations")
         
-        # Buscar archivo de formación
-        team_clean = team_name.strip().replace(" ", "_")
+        # Normalizar nombre del equipo
+        team_clean = team_name.strip().lower().replace(" ", "_")
+        
+        # Buscar archivo de formación (múltiples variantes)
         possible_files = [
+            f"{team_clean}_formation.png",
             f"{team_clean}_Formation.png",
             f"{team_clean}.png",
-            f"{team_clean}_formation.png"
+            f"{team_name.strip().replace(' ', '_')}_formation.png",
+            f"{team_name.strip().replace(' ', '_')}.png"
         ]
         
+        found_file = None
         for filename in possible_files:
             file_path = formations_dir / filename
             if file_path.exists():
+                found_file = file_path
                 logger.info("[formation_image_tool] Imagen encontrada: %s", filename)
-                return {
-                    "image_url": f"/assets/formations/{filename}",
-                    "text": f"Formación táctica del {team_name}",
-                    "type": "formation"
-                }
+                break
+        
+        # Si se encontró la imagen
+        if found_file:
+            # Leer imagen y convertir a base64
+            with open(found_file, 'rb') as img_file:
+                image_data = img_file.read()
+                image_base64 = base64.b64encode(image_data).decode('utf-8')
+            
+            return {
+                "image_url": f"/assets/formations/{found_file.name}",
+                "image_base64": image_base64,
+                "text": f"📋 Formación táctica del {team_name}",
+                "type": "formation",
+                "team_name": team_name,
+                "success": True
+            }
         
         # Si no existe la imagen
-        logger.info("[formation_image_tool] No se encontró imagen para: %s", team_name)
+        logger.warning("[formation_image_tool] No se encontró imagen para: %s", team_name)
+        logger.warning("[formation_image_tool] Archivos buscados: %s", possible_files)
+        
         return {
             "image_url": None,
-            "text": f"No se encontró la formación para {team_name}. Asegúrate de que existe el archivo en assets/formations/",
-            "type": "formation"
+            "image_base64": None,
+            "text": f"⚠️ No se encontró la formación táctica para {team_name}. Verifica que exista el archivo en assets/formations/",
+            "type": "formation",
+            "team_name": team_name,
+            "success": False
         }
     
     except Exception as e:
-        logger.exception("[formation_image_tool] Error al buscar formación: %s", e)
+        logger.exception("[formation_image_tool] Error procesando formación: %s", e)
         return {
             "image_url": None,
-            "text": f"Error al buscar formación: {str(e)}",
-            "type": "formation"
+            "image_base64": None,
+            "text": f"❌ Error al obtener la formación: {str(e)}",
+            "type": "formation",
+            "team_name": team_name,
+            "success": False,
+            "error": str(e)
         }
+
 
 
 # --- 3. ESTADO DEL GRAFO ---
@@ -359,33 +395,114 @@ Responde de manera amigable y concisa sobre tus capacidades."""
     }
 
 
-def formation_node(state: AgentState) -> dict:
-    """Maneja solicitudes de formaciones tácticas"""
+def formation_node(state: dict[str, any]) -> dict:
+    """
+    Maneja solicitudes de formaciones tácticas.
+    
+    Flujo:
+    1. Extrae el nombre del equipo de la pregunta del usuario
+    2. Busca la imagen de formación usando formation_image_tool
+    3. Prepara la respuesta con la imagen (si existe)
+    4. Retorna el estado actualizado
+    
+    Args:
+        state: Estado del agente (AgentState) con:
+            - messages: Lista de mensajes
+            - trace: Lista de pasos ejecutados
+            - formation_data: Datos de la formación (se agregará)
+    
+    Returns:
+        Estado actualizado con:
+        - messages: Mensajes + respuesta del agente
+        - formation_data: Datos de la imagen de formación
+        - needs_critic: False (no necesita validación)
+        - next_step: "end" (termina el flujo)
+        - trace: Traza actualizada
+    """
     last_msg = state['messages'][-1].content
+    logger.info("[formation_node] Procesando solicitud de formación")
     
-    # Extraer nombre del equipo
-    extraction_prompt = f"""Extrae SOLO el nombre del equipo de esta pregunta. 
-Pregunta: {last_msg}
-Responde SOLO con el nombre del equipo, nada más."""
-    
+    # Inicializar trace si no existe
     state.setdefault('trace', []).append('formation')
-    team_extraction = llm_fast.invoke([HumanMessage(content=extraction_prompt)])
-    team_name = team_extraction.content.strip()
-    logger.info("[formation] Equipo extraído: %s", team_name)
     
-    # Obtener imagen de formación
+    # ========== PASO 1: EXTRAER NOMBRE DEL EQUIPO ==========
+    extraction_prompt = f"""Analiza esta pregunta y extrae SOLAMENTE el nombre del equipo.
+
+Pregunta: {last_msg}
+
+INSTRUCCIONES:
+- Devuelve SOLO el nombre del equipo, sin explicaciones
+- Usa el nombre oficial común (ej: "Barcelona" no "FC Barcelona")
+- Si hay múltiples equipos, devuelve el primero mencionado
+- Si no hay equipo claro, devuelve "No especificado"
+
+Ejemplos:
+- "Muéstrame la alineación del Barcelona" → Barcelona
+- "Formación del Real Madrid" → Real Madrid
+- "¿Cuál es el 11 inicial del PSG?" → PSG
+
+Equipo:"""
+    
     try:
-        formation_result = formation_image_tool.invoke({"team_name": team_name})
+        team_extraction = llm_fast.invoke([HumanMessage(content=extraction_prompt)])
+        team_name = team_extraction.content.strip()
+        logger.info("[formation_node] Equipo extraído: '%s'", team_name)
+        
+        # Validar que se extrajo un equipo
+        if not team_name or team_name.lower() in ["no especificado", "ninguno", "no hay"]:
+            logger.warning("[formation_node] No se pudo extraer un equipo válido")
+            return {
+                "messages": state['messages'] + [AIMessage(
+                    content="⚠️ No pude identificar el equipo del que quieres ver la formación. Por favor, especifica el nombre del equipo."
+                )],
+                "formation_data": None,
+                "needs_critic": False,
+                "next_step": "end",
+                "trace": state.get('trace')
+            }
+    
     except Exception as e:
-        logger.exception("[formation] Error invocando formation_image_tool: %s", e)
-        formation_result = {"image_url": None, "text": f"Error al obtener formación: {e}", "type": "formation"}
+        logger.exception("[formation_node] Error extrayendo nombre del equipo: %s", e)
+        return {
+            "messages": state['messages'] + [AIMessage(
+                content=f"❌ Error al procesar tu solicitud: {str(e)}"
+            )],
+            "formation_data": None,
+            "needs_critic": False,
+            "next_step": "end",
+            "trace": state.get('trace')
+        }
     
-    response_text = formation_result['text']
-    logger.info("[formation] Resultado: %s", response_text)
+    # ========== PASO 2: OBTENER IMAGEN DE FORMACIÓN ==========
+    try:
+        logger.info("[formation_node] Invocando formation_image_tool para: %s", team_name)
+        formation_result = formation_image_tool.invoke({"team_name": team_name})
+        
+    except Exception as e:
+        logger.exception("[formation_node] Error invocando formation_image_tool: %s", e)
+        formation_result = {
+            "image_url": None,
+            "image_base64": None,
+            "text": f"❌ Error al obtener la formación: {str(e)}",
+            "type": "formation",
+            "team_name": team_name,
+            "success": False
+        }
     
+    # ========== PASO 3: PREPARAR RESPUESTA ==========
+    response_text = formation_result.get('text', '')
+    success = formation_result.get('success', False)
+    
+    logger.info("[formation_node] Resultado - Success: %s, Text: %s", success, response_text)
+    
+    # Si hay imagen, agregar información adicional
+    if success and formation_result.get('image_url'):
+        response_text += "\n\n💡 Puedes ver la formación táctica en la imagen mostrada arriba."
+    
+    # ========== PASO 4: RETORNAR ESTADO ACTUALIZADO ==========
     return {
         "messages": state['messages'] + [AIMessage(content=response_text)],
-        "formation_data": formation_result,
+        "formation_data": formation_result,  # IMPORTANTE: Esto se usa en el servidor
         "needs_critic": False,
         "next_step": "end",
         "trace": state.get('trace')
