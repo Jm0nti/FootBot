@@ -13,6 +13,7 @@ from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.tools import tool
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
+from langchain_huggingface import HuggingFaceEmbeddings
 import pandas as pd
 import requests
 from dotenv import load_dotenv
@@ -206,33 +207,53 @@ def football_stats_analyst(question: str) -> str:
 
 
 @tool
-def faiss_retriever(query: str) -> str:
+def faiss_retriever(query: str, category: Literal["equipos", "jugadores", "reglas"]) -> str:
     """
-    Busca información en la base de conocimiento vectorial (FAISS) sobre equipos,
-    clubes, competencias, historia del fútbol y reglamentos.
-    Usa OpenAI text-embedding-3-small para generar embeddings de alta calidad.
+    Busca información específica en la base de conocimiento vectorial (FAISS) seleccionando el índice correcto.
+    
     Args:
-        query: Pregunta o término de búsqueda
+        query: Pregunta o término de búsqueda del usuario.
+        category: Categoría de la búsqueda. Debe ser una de las siguientes:
+            - "equipos": Para historia, fundación y datos de clubes.
+            - "jugadores": Para biografías, estadísticas, logros personales y trayectoria de futbolistas.
+            - "reglas": Para reglamentos, faltas, posiciones tácticas, competiciones (Bundesliga, etc.) y premios (Balón de Oro).
+            
     Returns:
-        Contexto relevante recuperado de los documentos
+        Contexto relevante recuperado de los documentos de la categoría seleccionada.
     """
     try:
-        logger.info("[faiss_retriever] Buscando en FAISS: %s", query)
+        logger.info("[faiss_retriever] Buscando en FAISS | Categoría: %s | Query: %s", category, query)
         # Validar que existe la API key de OpenAI
         openai_api_key = os.getenv("OPENAI_API_KEY")
         if not openai_api_key:
             logger.warning("[faiss_retriever] OPENAI_API_KEY no configurada")
             return "Error: OPENAI_API_KEY no está configurada en el archivo .env"
         
-        vector_store_path = "data/faiss_index"
+        # Mapeo de categorías a nombres de carpetas
+        # Asumimos que dentro de 'vector_stores' existen las carpetas:
+        # 'equipos_faiss', 'jugadores_faiss', 'reglas_faiss'
+        index_map = {
+            "equipos": "equipos_faiss",
+            "jugadores": "jugadores_faiss",
+            "reglas": "reglas_faiss"
+        }
         
-        # Inicializar embeddings de OpenAI con text-embedding-3-small
-        embeddings = OpenAIEmbeddings(
-            model="text-embedding-3-small",
-            openai_api_key=openai_api_key
+        folder_name = index_map.get(category)
+        if not folder_name:
+            return f"Error: Categoría '{category}' no válida."
+        
+        # Construcción de la ruta
+        # Estructura esperada: src/backend/app/data/vector_stores/{categoria}_faiss/
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        vector_store_path = os.path.join(base_dir, "..", "data", "vector_stores", folder_name)
+        
+        # Inicializar embeddings
+        embeddings = HuggingFaceEmbeddings(
+            model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
         )
         
         # Cargar el índice existente
+        # FAISS.load_local toma la carpeta contenedora. Por defecto busca "index.faiss" e "index.pkl"
         vectorstore = FAISS.load_local(
             vector_store_path, 
             embeddings, 
@@ -250,7 +271,7 @@ def faiss_retriever(query: str) -> str:
         context = "\n\n".join([f"- {doc.page_content}" for doc in docs])
         logger.info("[faiss_retriever] Documentos recuperados: %d", len(docs))
         
-        return f"Contexto relevante encontrado:\n{context}"
+        return f"Contexto encontrado en [{category}]:\n{context}"
     
     except Exception as e:
         logger.exception("[faiss_retriever] Error al buscar en la base de conocimiento: %s", e)
@@ -481,7 +502,7 @@ def classifier_node(state: AgentState) -> dict:
 1. 'identity' - Si pregunta sobre ti, tus capacidades, qué haces, quién eres, o un saludo general
 2. 'formation' - Si pide ver la formación táctica de un equipo (ej: "muestra la formación del Barcelona, cual es la formación del Real Madrid, dame el 11 titular del liverpool")
 3. 'sql_stats' - Si pide estadísticas, números, goles, asistencias, comparaciones numéricas
-4. 'rag_knowledge' - Si pregunta sobre historia, biografías, reglamentos, fundación de clubes
+4. 'rag_knowledge' - Si pregunta sobre historia y fundación de equipos, biografías de jugadores, reglamentos, premiaciones, competiciones, copas, ligas.
 5. 'web_search' - Si pregunta sobre noticias recientes, partidos de hoy/ayer, eventos actuales, o preguntas que se salen de tu base de conocimiento que estén el el dominio del fútbol
 
 Responde SOLO con una de estas palabras: identity, formation, sql_stats, rag_knowledge, web_search"""
@@ -679,14 +700,22 @@ def sql_agent_node(state: AgentState) -> dict:
 
 
 def rag_agent_node(state: AgentState) -> dict:
-    """Agente que usa RAG para responder sobre historia y conocimiento general"""
-    system_prompt = """Eres un experto en historia del fútbol, biografías y reglamentos.
-Tienes acceso a una base de conocimiento vectorial. 
+    """Agente que usa RAG segmentado para responder sobre fútbol."""
+    
+    # Prompt actualizado para forzar la clasificación de categoría
+    system_prompt = """Eres un experto en conocimiento futbolístico con acceso a tres bases de datos vectoriales especializadas (RAG).
 
-Cuando el usuario pregunte sobre historia, clubes, o reglas:
-1. Usa la herramienta faiss_retriever para buscar contexto relevante
-2. Basa tu respuesta en el contexto recuperado
-3. Si no encuentras información, indícalo claramente"""
+Tus fuentes de información se dividen en:
+1. 'equipos': Historia y fundación de clubes/equipos (Real Madrid, Barcelona, etc.).
+2. 'jugadores': Biografías, fecha y lugar de nacimiento, trayectoria y logros de futbolistas.
+3. 'reglas': Reglamentos, faltas, arbitraje, posiciones (defensa, centrocampista, etc.), competiciones (Ligas como la Bundesliga, Copas como Copa América) y premios (Balón de Oro, Bota de Oro, etc.).
+
+INSTRUCCIONES:
+1. Analiza la pregunta del usuario e identifica a qué categoría pertenece.
+2. USA la herramienta 'faiss_retriever' enviando la 'query' y la 'category' correcta ("equipos", "jugadores" o "reglas").
+3. Si la pregunta abarca varios temas (ej: "¿Quién ganó el Balón de Oro jugando para el Real Madrid?"), prioriza la categoría más relevante para obtener la respuesta (en este caso 'reglas' o 'equipos' dependiendo del enfoque, pero elige solo una llamada principal o haz dos si es estrictamente necesario).
+4. Basa tu respuesta EXCLUSIVAMENTE en el contexto recuperado.
+5. Si no encuentras información, dilo honestamente."""
     
     state.setdefault('trace', []).append('rag_agent')
     logger.info("[rag_agent] Ejecutando RAG con mensaje: %s", state['messages'][-1].content)
@@ -700,29 +729,37 @@ Cuando el usuario pregunte sobre historia, clubes, o reglas:
         messages_with_response = messages + [response]
         
         for tool_call in response.tool_calls:
-            logger.info("[rag_agent] Ejecutando tool_call: %s", tool_call)
             try:
-                tool_result = faiss_retriever.invoke(tool_call['args'])
+                # Extraer argumentos, ahora incluye 'category'
+                tool_args = tool_call['args']
+                logger.info("[rag_agent] Ejecutando tool con args: %s", tool_args)
+                
+                tool_result = faiss_retriever.invoke(tool_args)
             except Exception as e:
-                logger.exception("[rag_agent] Error ejecutando faiss_retriever: %s", e)
+                logger.exception("[rag_agent] Error en tool: %s", e)
                 tool_result = f"Error recuperando contexto: {e}"
+            
             messages_with_response.append(
-                AIMessage(content=f"Contexto recuperado: {tool_result}")
+                ToolMessage(
+                    content=str(tool_result),
+                    tool_call_id=tool_call['id']
+                )
             )
         
+        # Generar respuesta final con el contexto obtenido
         final_response = llm_smart.invoke(messages_with_response)
         
         return {
             "messages": state['messages'] + [final_response],
-            "needs_critic": True,
-            "next_step": "critic",
+            "needs_critic": False,
+            "next_step": "end",
             "trace": state.get('trace')
         }
     
     return {
         "messages": state['messages'] + [response],
-        "needs_critic": True,
-        "next_step": "critic",
+        "needs_critic": False,
+        "next_step": "end",
         "trace": state.get('trace')
     }
 
@@ -918,7 +955,7 @@ def build_graph():
     workflow.add_edge("identity", END)
     workflow.add_edge("formation", END)
     workflow.add_edge("sql_agent", "critic")
-    workflow.add_edge("rag_agent", "critic")
+    workflow.add_edge("rag_agent", END)
     workflow.add_edge("web_search", "critic")
     workflow.add_edge("critic", END)
     
