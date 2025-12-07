@@ -1,30 +1,40 @@
 """
-FAISS_Creator Agent - Preprocesamiento de Documentos y Creación de Vector DBs
+FAISS_Creator Agent - LangGraph 1.0
 ==================================================================================
 
-Este agente se ejecuta de forma independiente para:
-1. Resumir documentos .txt usando Groq LLM (SALTA RESÚMENES EXISTENTES)
-2. Crear 3 bases de datos vectoriales FAISS categorizadas usando embeddings de HuggingFace (gratuitos)
-3. Preparar el conocimiento para el sistema principal
+Agente basado en LangGraph para:
+1. Resumir documentos .txt usando Groq LLM
+2. Crear 3 bases de datos vectoriales FAISS categorizadas
+3. Workflow con estados, nodos y flujo condicional
 
-NO forma parte del flujo conversacional, solo prepara los datos.
+Arquitectura LangGraph:
+- State: Manejo de estado del workflow
+- Nodes: Funciones de procesamiento (summarize, vectorize, diagnostics)
+- Edges: Flujo condicional basado en decisiones
+- Checkpointing: Memoria de estado entre ejecuciones
+
 SOLO REQUIERE: GROQ_API_KEY
-
-v2.1 - Detecta y salta automáticamente resúmenes ya existentes
 """
 
 import os
 import json
 from pathlib import Path
-from typing import List, Dict, Literal, Tuple
+from typing import List, Dict, Literal, Tuple, TypedDict, Annotated
+from datetime import datetime
+import logging
+
+# LangGraph imports
+from langgraph.graph import StateGraph, END
+from langgraph.checkpoint.memory import MemorySaver
+
+# LangChain imports
 from langchain_groq import ChatGroq
 from langchain_core.messages import HumanMessage, SystemMessage
-from langchain_huggingface import HuggingFaceEmbeddings  # Embeddings GRATUITOS
+from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_core.documents import Document
 from dotenv import load_dotenv
-import logging
 
 # Configurar logging
 logging.basicConfig(
@@ -33,11 +43,12 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# Cargar variables de entorno
-current_dir = Path(__file__).resolve().parent  # bots/
-app_dir = current_dir.parent                    # app/
+# ============================================================================
+# CONFIGURACIÓN Y CARGA DE ENVIRONMENT
+# ============================================================================
 
-# El .env está en app/ directamente
+current_dir = Path(__file__).resolve().parent
+app_dir = current_dir.parent
 env_path = app_dir / ".env"
 
 if env_path.exists():
@@ -46,72 +57,81 @@ if env_path.exists():
 else:
     logger.error(f"❌ .env NO encontrado en: {env_path}")
 
-# Validar SOLO Groq API key
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 if not GROQ_API_KEY:
-    error_msg = f"""
+    raise ValueError(f"""
 ❌ ERROR: GROQ_API_KEY no encontrada.
-
-🔧 Ubicaciones verificadas:
-   - {env_path}
-
-📝 Tu .env debe contener:
-   GROQ_API_KEY=gsk_tu_key_real_aqui
-
+📝 Tu .env debe contener: GROQ_API_KEY=gsk_tu_key_real_aqui
 🌐 Obtén tu key en: https://console.groq.com/keys
-"""
-    raise ValueError(error_msg)
+""")
 
-logger.info(f"✅ GROQ_API_KEY cargada (primeros 10 chars: {GROQ_API_KEY[:10]}...)")
+logger.info(f"✅ GROQ_API_KEY cargada")
 
 
 # ============================================================================
-# CONFIGURACIÓN
+# STATE DEFINITION - LANGGRAPH
 # ============================================================================
 
-class FAISS_Creator:
-    """Configuración centralizada del FAISS_Creator"""
+class AgentState(TypedDict):
+    """Estado del agente LangGraph"""
+
+    # Configuración inicial
+    mode: str  # "full", "summary_only", "vectordb_only", "diagnostics"
+    force_summaries: bool
+
+    # Resultados de procesamiento
+    summary_results: Dict[str, Dict[str, int]]
+    vectordb_results: Dict[str, Dict[str, any]]
+
+    # Estado de ejecución
+    current_step: str
+    errors: List[str]
+    success: bool
+
+    # Metadata
+    timestamp: str
+    report_path: str
+
+
+# ============================================================================
+# CONFIGURACIÓN CENTRALIZADA
+# ============================================================================
+
+class Config:
+    """Configuración centralizada"""
 
     SCRIPT_PATH = Path(__file__).resolve()
-    SCRIPT_DIR = SCRIPT_PATH.parent           # bots/
-    APP_DIR = SCRIPT_DIR.parent               # app/
-    DATA_DIR = APP_DIR / "data"               # app/data/
+    SCRIPT_DIR = SCRIPT_PATH.parent
+    APP_DIR = SCRIPT_DIR.parent
+    DATA_DIR = APP_DIR / "data"
 
     SUMMARIES_DIR = DATA_DIR / "summaries"
     VECTOR_DBS_DIR = DATA_DIR / "vector_stores"
 
-    # Subdirectorios de documentos originales
     PLAYERS_DIR = DATA_DIR / "biografias_jugadores"
     TEAMS_DIR = DATA_DIR / "informacion_equipos"
     RULES_DIR = DATA_DIR / "competiciones_y_reglas"
 
-    # Subdirectorios de summaries
     PLAYERS_SUMMARIES = SUMMARIES_DIR / "biografias_jugadores"
     TEAMS_SUMMARIES = SUMMARIES_DIR / "informacion_equipos"
     RULES_SUMMARIES = SUMMARIES_DIR / "competiciones_y_reglas"
 
-    # Vector DBs paths
     PLAYERS_VECTORDB = VECTOR_DBS_DIR / "jugadores_faiss"
     TEAMS_VECTORDB = VECTOR_DBS_DIR / "equipos_faiss"
     RULES_VECTORDB = VECTOR_DBS_DIR / "reglas_faiss"
 
-    # Modelos
-
-    GROQ_MODEL = "openai/gpt-oss-20b" #Para textos cortos
-
-    # Embeddings de HuggingFace (GRATUITOS, no requieren API key)
+    GROQ_MODEL = "openai/gpt-oss-20b"
     EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 
-    # Chunking
     CHUNK_SIZE = 1000
     CHUNK_OVERLAP = 200
-    MAX_CHARS_PER_CHUNK = 900000000
+    MAX_CHARS_PER_CHUNK = 90000
     CHUNK_OVERLAP_CHARS = 1000
 
     @classmethod
     def create_directories(cls):
-        """Crea solo los directorios que no existen (summaries y vector_stores)"""
+        """Crea directorios necesarios"""
         dirs = [
             cls.SUMMARIES_DIR,
             cls.VECTOR_DBS_DIR,
@@ -121,576 +141,153 @@ class FAISS_Creator:
         ]
         for d in dirs:
             d.mkdir(parents=True, exist_ok=True)
-        logger.info("✅ Estructura de directorios de salida creada")
-
-        # Verificar que existan los directorios de entrada
-        logger.info(f"\n📂 Verificando directorios de entrada:")
-        logger.info(f"   Data dir: {cls.DATA_DIR}")
-
-        missing_dirs = []
-        for name, dir_path in [
-            ("biografias_jugadores", cls.PLAYERS_DIR),
-            ("informacion_equipos", cls.TEAMS_DIR),
-            ("competiciones_y_reglas", cls.RULES_DIR)
-        ]:
-            if dir_path.exists():
-                txt_count = len(list(dir_path.glob("*.txt")))
-                logger.info(f"   ✅ {name}: {txt_count} archivos .txt")
-            else:
-                logger.warning(f"   ❌ {name}: NO EXISTE - {dir_path}")
-                missing_dirs.append(str(dir_path))
-
-        if missing_dirs:
-            logger.warning(f"\n⚠️ ADVERTENCIA: Faltan carpetas con datos")
-            logger.warning(f"Asegúrate de que existan estas carpetas:")
-            for d in missing_dirs:
-                logger.warning(f"  - {d}")
+        logger.info("✅ Estructura de directorios creada")
 
 
 # ============================================================================
-# TOOL 1: DOCUMENT SUMMARIZER (CON DETECCIÓN DE RESÚMENES EXISTENTES)
+# TOOLS - FUNCIONALIDAD CORE
 # ============================================================================
 
-class DocumentSummarizer:
-    """
-    Tool que resume documentos .txt usando Groq LLM.
-
-    🆕 v2.1 Características:
-    - Detecta automáticamente resúmenes existentes y los salta
-    - Solo procesa documentos nuevos o faltantes
-    - Modo 'force' para regenerar todos los resúmenes
-    - Estadísticas detalladas: generados, saltados, errores
-    """
+class SummarizerTool:
+    """Tool de resumen de documentos"""
 
     def __init__(self):
         self.llm = ChatGroq(
             temperature=0.3,
-            model_name=FAISS_Creator.GROQ_MODEL,
+            model_name=Config.GROQ_MODEL,
             api_key=GROQ_API_KEY
         )
-        logger.info(f"[DocumentSummarizer] Inicializado con {FAISS_Creator.GROQ_MODEL}")
+        logger.info(f"[SummarizerTool] Inicializado con {Config.GROQ_MODEL}")
 
-    def _split_long_document(self, content: str, filename: str) -> List[str]:
-        """
-        Divide un documento largo en chunks manejables.
-
-        Args:
-            content: Contenido completo del documento
-            filename: Nombre del archivo (para logging)
-
-        Returns:
-            Lista de chunks de texto
-        """
-        content_length = len(content)
-        max_chunk_size = FAISS_Creator.MAX_CHARS_PER_CHUNK
-
-        if content_length <= max_chunk_size:
-            return [content]
-
-        logger.info(f"📏 Documento largo detectado: {content_length:,} chars")
-        logger.info(f"🔪 Dividiendo en chunks de ~{max_chunk_size:,} chars")
-
-        chunks = []
-        overlap = FAISS_Creator.CHUNK_OVERLAP_CHARS
-        start = 0
-        chunk_num = 1
-
-        while start < content_length:
-            end = start + max_chunk_size
-
-            # Si no es el último chunk, intentar cortar en un punto natural
-            if end < content_length:
-                # Buscar un salto de línea cerca del final
-                search_start = max(start, end - 1000)
-                newline_pos = content.rfind('\n\n', search_start, end)
-
-                if newline_pos != -1 and newline_pos > start:
-                    end = newline_pos
-                else:
-                    # Si no hay doble salto, buscar salto simple
-                    newline_pos = content.rfind('\n', search_start, end)
-                    if newline_pos != -1 and newline_pos > start:
-                        end = newline_pos
-                    else:
-                        # Buscar un punto
-                        period_pos = content.rfind('. ', search_start, end)
-                        if period_pos != -1 and period_pos > start:
-                            end = period_pos + 1
-
-            chunk = content[start:end].strip()
-            if chunk:
-                chunks.append(chunk)
-                logger.info(f"  ✂️ Chunk {chunk_num}: {len(chunk):,} chars")
-                chunk_num += 1
-
-            # Mover start con overlap para mantener contexto
-            start = end - overlap if end < content_length else content_length
-
-        logger.info(f"✅ Documento dividido en {len(chunks)} chunks")
-        return chunks
-
-    def _summarize_chunk(
-            self,
-            chunk: str,
-            chunk_num: int,
-            total_chunks: int,
-            category: str,
-            filename: str
-    ) -> str:
-            """
-            Resume un chunk individual de un documento.
-
-            Args:
-                chunk: Texto del chunk
-                chunk_num: Número del chunk actual
-                total_chunks: Total de chunks
-                category: Categoría del documento
-                filename: Nombre del archivo original
-
-            Returns:
-                Resumen del chunk
-            """
-            system_prompt = self._get_summary_prompt(category)
-
-            # Prompt específico para chunks
-            if total_chunks > 1:
-                user_message = f"""Este es el CHUNK {chunk_num} de {total_chunks} del documento: {filename}
-
-    IMPORTANTE: 
-    - Resume SOLO este fragmento manteniendo toda la información relevante
-    - NO menciones que es un fragmento o chunk
-    - Mantén el formato estructurado según las instrucciones del system prompt
-    - Si este chunk termina abruptamente, no inventes conclusiones
-
-    CONTENIDO DEL CHUNK {chunk_num}/{total_chunks}:
-    {chunk}
-
-    Genera el resumen de este fragmento siguiendo las instrucciones del system prompt."""
-            else:
-                user_message = f"""Documento a resumir: {filename}
-
-    CONTENIDO:
-    {chunk}
-
-    Genera el resumen siguiendo las instrucciones del system prompt."""
-
-            messages = [
-                SystemMessage(content=system_prompt),
-                HumanMessage(content=user_message)
-            ]
-
-            try:
-                response = self.llm.invoke(messages)
-                return response.content.strip()
-            except Exception as e:
-                logger.error(f"❌ Error resumiendo chunk {chunk_num}: {e}")
-                return f"[ERROR EN CHUNK {chunk_num}] {str(e)}"
-
-    def _merge_chunk_summaries(self, chunk_summaries: List[str], category: str, filename: str) -> str:
-        """
-        Combina resúmenes de chunks en un resumen final cohesivo usando merge jerárquico.
-
-        Args:
-            chunk_summaries: Lista de resúmenes de chunks
-            category: Categoría del documento
-            filename: Nombre del archivo original
-
-        Returns:
-            Resumen final combinado
-        """
-        if len(chunk_summaries) == 1:
-            return chunk_summaries[0]
-
-        logger.info(f"🔗 Combinando {len(chunk_summaries)} resúmenes parciales...")
-
-        # 🆕 Si hay muchos chunks, usar merge jerárquico (combinar en grupos pequeños)
-        if len(chunk_summaries) > 4:
-            logger.info(f"📚 Usando merge jerárquico para {len(chunk_summaries)} resúmenes...")
-            return self._hierarchical_merge(chunk_summaries, category, filename)
-
-        # Para 2-4 chunks, merge directo (como antes)
-        combined_text = "\n\n---SEPARADOR DE SECCIÓN---\n\n".join(
-            f"RESUMEN PARTE {i + 1}:\n{summary}"
-            for i, summary in enumerate(chunk_summaries)
-        )
-
-        merge_prompt = f"""Eres un experto sintetizador de información.
-
-    Te voy a dar {len(chunk_summaries)} resúmenes parciales de diferentes secciones del mismo documento sobre {category}.
-
-    Tu tarea es:
-    1. COMBINAR toda la información de los {len(chunk_summaries)} resúmenes en un ÚNICO resumen cohesivo
-    2. ELIMINAR redundancias y repeticiones
-    3. ORGANIZAR la información de forma lógica y estructurada
-    4. MANTENER toda la información importante de cada sección
-    5. Usar el mismo formato estructurado que se pidió originalmente
-    6. NO mencionar que esto viene de múltiples partes
-
-    IMPORTANTE:
-    - El resultado debe leerse como un resumen único y natural
-    - Mantén TODO el detalle relevante de cada parte
-    - Si hay información complementaria entre partes, intégrala
-    - El resumen final puede ser extenso para mantener toda la información
-
-    Documento original: {filename}
-
-    RESÚMENES PARCIALES A COMBINAR:
-
-    {combined_text}
-
-    Genera el resumen final único y cohesivo:"""
-
-        try:
-            response = self.llm.invoke([HumanMessage(content=merge_prompt)])
-            merged_summary = response.content.strip()
-            logger.info(f"✅ Resumen final combinado: {len(merged_summary):,} chars")
-            return merged_summary
-        except Exception as e:
-            logger.error(f"❌ Error combinando resúmenes: {e}")
-            # Fallback: concatenar con separadores
-            logger.warning("⚠️ Usando fallback: concatenando resúmenes con separadores")
-            return "\n\n".join(chunk_summaries)
-
-    def _hierarchical_merge(self, summaries: List[str], category: str, filename: str) -> str:
-        """
-        Combina resúmenes usando estrategia jerárquica (merge en grupos de 2).
-        Trunca resúmenes largos para garantizar que quepan en el límite de tokens.
-
-        Args:
-            summaries: Lista de resúmenes a combinar
-            category: Categoría del documento
-            filename: Nombre del archivo
-
-        Returns:
-            Resumen final combinado
-        """
-        import time
-
-        GROUP_SIZE = 2
-        MAX_CHARS_PER_SUMMARY = 10000  # ~2,500 tokens por resumen, 5,000 total + prompt = <6,000
-        current_level = summaries.copy()
-        level = 1
-
-        while len(current_level) > 1:
-            logger.info(f"🔄 Nivel {level} de merge: {len(current_level)} resúmenes -> grupos de {GROUP_SIZE}")
-            next_level = []
-
-            # Dividir en grupos de GROUP_SIZE
-            for i in range(0, len(current_level), GROUP_SIZE):
-                group = current_level[i:i + GROUP_SIZE]
-
-                if len(group) == 1:
-                    # Si solo queda 1, pasarlo directamente al siguiente nivel
-                    next_level.append(group[0])
-                    continue
-
-                logger.info(f"   🔗 Combinando grupo {i // GROUP_SIZE + 1}: {len(group)} resúmenes")
-
-                # ✅ TRUNCAR resúmenes si son muy largos
-                truncated_group = []
-                for idx, summary in enumerate(group):
-                    if len(summary) > MAX_CHARS_PER_SUMMARY:
-                        truncated = summary[:MAX_CHARS_PER_SUMMARY] + "\n\n[... contenido truncado para merge ...]"
-                        logger.warning(
-                            f"      ⚠️ Resumen {idx + 1} truncado: {len(summary):,} -> {len(truncated):,} chars")
-                        truncated_group.append(truncated)
-                    else:
-                        truncated_group.append(summary)
-
-                # Combinar este grupo
-                combined_text = "\n\n---SEPARADOR---\n\n".join(
-                    f"PARTE {j + 1}:\n{summary}"
-                    for j, summary in enumerate(truncated_group)
-                )
-
-                # ✅ PROMPT MÁS CORTO para ahorrar tokens
-                merge_prompt = f"""Combina estos {len(truncated_group)} resúmenes en uno solo:
-
-    REGLAS:
-    - Integra toda la información
-    - Elimina redundancias
-    - Mantén formato estructurado
-
-    {combined_text}
-
-    Resumen combinado:"""
-
-                try:
-                    response = self.llm.invoke([HumanMessage(content=merge_prompt)])
-                    merged = response.content.strip()
-                    next_level.append(merged)
-                    logger.info(f"   ✅ Grupo combinado: {len(merged):,} chars")
-
-                    # Pausa para evitar rate limits
-                    time.sleep(2)
-
-                except Exception as e:
-                    logger.error(f"   ❌ Error en grupo {i // GROUP_SIZE + 1}: {e}")
-                    logger.warning(f"   ⚠️ Usando fallback: concatenando directamente")
-                    # Fallback: concatenar este grupo
-                    next_level.append("\n\n".join(truncated_group))
-
-            current_level = next_level
-            level += 1
-
-        logger.info(f"✅ Merge jerárquico completo en {level - 1} niveles")
-        return current_level[0]
-    def _get_summary_prompt(
-        self,
-        category: Literal["biografias_jugadores", "informacion_equipos", "competiciones_y_reglas"]
-    ) -> str:
-        """Retorna el prompt especializado según la categoría"""
-
+    def _get_prompt(self, category: str) -> str:
+        """Obtiene el prompt especializado según categoría"""
         prompts = {
             "biografias_jugadores": """Eres un experto en fútbol especializado en análisis de jugadores.
+Crea un resumen COMPLETO incluyendo:
+1. Datos básicos (nombre, nacimiento, nacionalidad)
+2. Información física (altura, peso, posición, pierna)
+3. Carrera profesional (equipos, fechas, logros)
+4. Estadísticas (goles, asistencias, títulos)
+5. Estilo de juego (fortalezas, características)
+6. Reconocimientos (premios, curiosidades)
 
-Tu tarea es crear un resumen COMPLETO Y DETALLADO de la información sobre este jugador.
+Responde SOLO con el resumen estructurado.""",
 
-El resumen debe incluir:
-1. **Datos básicos**: Nombre completo, apodo, fecha de nacimiento, nacionalidad
-2. **Información física**: Altura, peso, posición principal, pierna dominante
-3. **Carrera profesional**: Equipos donde ha jugado (con fechas), logros importantes
-4. **Estadísticas destacadas**: Goles, asistencias, títulos ganados
-5. **Estilo de juego**: Fortalezas, características técnicas, rol táctico
-6. **Datos contextuales**: Premios individuales, reconocimientos, curiosidades
+            "informacion_equipos": """Eres un experto en clubes de fútbol.
+Crea un resumen COMPLETO incluyendo:
+1. Identidad (nombre, apodo, fundación, ciudad)
+2. Estadio (nombre, capacidad)
+3. Colores y escudo
+4. Historia (momentos clave, evolución)
+5. Palmarés (títulos nacionales, internacionales)
+6. Jugadores legendarios
+7. Rivalidades
+8. Datos actuales
 
-IMPORTANTE:
-- Mantén TODA la información relevante del documento original
-- Usa formato estructurado con secciones claras
-- No inventes datos, solo resume lo que está en el documento
-- Si faltan datos, omite esa sección
-- El resumen puede ser extenso (500-800 palabras) para mantener detalle
+Responde SOLO con el resumen estructurado.""",
 
-Responde SOLO con el resumen estructurado, sin preámbulos.""",
+            "competiciones_y_reglas": """Eres un experto en reglamentos y competiciones.
+Crea un resumen COMPLETO incluyendo:
+- Para REGLAS: descripción, casos especiales, ejemplos, cambios
+- Para COMPETENCIAS: nombre, formato, historia, equipos, clasificación, premios
 
-            "informacion_equipos": """Eres un experto en historia y análisis de clubes de fútbol.
-
-Tu tarea es crear un resumen COMPLETO Y DETALLADO de la información sobre este equipo.
-
-El resumen debe incluir:
-1. **Identidad del club**: Nombre completo, apodo, año de fundación, ciudad/país
-2. **Estadio**: Nombre, capacidad, características
-3. **Colores y escudo**: Descripción de la identidad visual
-4. **Historia**: Momentos clave, eras doradas, evolución del club
-5. **Palmarés**: Títulos nacionales, internacionales, otros logros
-6. **Jugadores legendarios**: Ídolos históricos y actuales
-7. **Rivalidades**: Clásicos y rivalidades importantes
-8. **Datos actuales**: Entrenador, liga, situación reciente
-
-IMPORTANTE:
-- Mantén TODA la información relevante del documento original
-- Usa formato estructurado con secciones claras
-- Preserva fechas, números y datos específicos
-- El resumen puede ser extenso (600-1000 palabras) para mantener contexto
-- No inventes información
-
-Responde SOLO con el resumen estructurado, sin preámbulos.""",
-
-            "competiciones_y_reglas": """Eres un experto en reglamentos y competiciones de fútbol.
-
-Tu tarea es crear un resumen COMPLETO Y DETALLADO de esta información sobre reglas o competencias.
-
-El resumen debe incluir:
-
-Para REGLAS/REGLAMENTOS:
-1. **Regla o aspecto**: Qué regla o aspecto del juego se describe
-2. **Descripción detallada**: Explicación completa de cómo funciona
-3. **Casos especiales**: Excepciones, situaciones particulares
-4. **Ejemplos**: Casos de aplicación práctica
-5. **Cambios recientes**: Si aplica, cambios en el reglamento
-
-Para COMPETENCIAS:
-1. **Nombre y tipo**: Nombre oficial, categoría (liga, copa, etc.)
-2. **Formato**: Sistema de competición, número de equipos
-3. **Historia**: Año de fundación, datos históricos relevantes
-4. **Equipos participantes**: Principales clubes o selecciones
-5. **Sistema de clasificación**: Cómo se determina el ganador
-6. **Premios**: Títulos, clasificaciones a otras competencias
-7. **Récords y estadísticas**: Datos destacados
-
-IMPORTANTE:
-- Mantén precisión en reglas y formatos
-- Preserva números, fechas y datos específicos
-- Usa formato claro y estructurado
-- El resumen puede ser extenso (500-900 palabras)
-- No simplificar excesivamente las reglas
-
-Responde SOLO con el resumen estructurado, sin preámbulos."""
+Responde SOLO con el resumen estructurado."""
         }
-
-        return prompts[category]
+        return prompts.get(category, prompts["biografias_jugadores"])
 
     def summarize_document(
-            self,
-            file_path: Path,
-            category: Literal["biografias_jugadores", "informacion_equipos", "competiciones_y_reglas"],
-            output_file: Path,
-            force: bool = False
+        self,
+        file_path: Path,
+        category: str,
+        output_file: Path,
+        force: bool = False
     ) -> Tuple[str, bool]:
-        """
-        Resume un documento usando Groq LLM.
+        """Resume un documento o devuelve el existente"""
 
-        Args:
-            file_path: Ruta del archivo .txt a resumir
-            category: Categoría del documento
-            output_file: Ruta donde se guardará el resumen
-            force: Si es True, regenera el resumen aunque ya exista
-
-        Returns:
-            Tupla (resumen, was_skipped)
-            - resumen: Texto del resumen generado o existente
-            - was_skipped: True si se saltó porque ya existía
-        """
-
-        # 🆕 VERIFICAR SI YA EXISTE EL RESUMEN
+        # Verificar si existe y no forzar regeneración
         if output_file.exists() and not force:
             try:
                 with open(output_file, 'r', encoding='utf-8') as f:
-                    existing_summary = f.read()
-
-                if existing_summary.strip() and not existing_summary.startswith("[ERROR"):
-                    logger.info(f"⏭️  SALTANDO: {file_path.name} (resumen ya existe: {len(existing_summary)} chars)")
-                    return existing_summary, True
-                else:
-                    logger.warning(f"⚠️  Resumen existente inválido, regenerando: {file_path.name}")
+                    existing = f.read()
+                if existing.strip() and not existing.startswith("[ERROR"):
+                    logger.info(f"⏭️  SALTANDO: {file_path.name}")
+                    return existing, True
             except Exception as e:
-                logger.warning(f"⚠️  Error leyendo resumen existente, regenerando: {e}")
+                logger.warning(f"⚠️  Error leyendo resumen, regenerando: {e}")
 
-        # Si llegamos aquí, debemos generar el resumen
+        # Generar resumen
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 content = f.read()
 
             if not content.strip():
-                logger.warning(f"⚠️ Archivo vacío: {file_path.name}")
                 return f"[DOCUMENTO VACÍO] {file_path.name}", False
 
-            logger.info(f"📄 Resumiendo: {file_path.name} ({len(content):,} chars)")
+            logger.info(f"📄 Resumiendo: {file_path.name}")
 
-            # 🆕 DIVIDIR DOCUMENTO LARGO EN CHUNKS SI ES NECESARIO
-            chunks = self._split_long_document(content, file_path.name)
+            system_prompt = self._get_prompt(category)
+            messages = [
+                SystemMessage(content=system_prompt),
+                HumanMessage(content=f"Documento: {file_path.name}\n\n{content}")
+            ]
 
-            if len(chunks) == 1:
-                # Documento corto - proceso normal
-                system_prompt = self._get_summary_prompt(category)
+            response = self.llm.invoke(messages)
+            summary = response.content.strip()
 
-                user_message = f"""Documento a resumir: {file_path.name}
-
-    CONTENIDO:
-    {chunks[0]}
-
-    Genera el resumen siguiendo las instrucciones del system prompt."""
-
-                messages = [
-                    SystemMessage(content=system_prompt),
-                    HumanMessage(content=user_message)
-                ]
-
-                response = self.llm.invoke(messages)
-                summary = response.content.strip()
-
-                logger.info(f"✅ Resumen generado: {len(summary):,} chars")
-                return summary, False
-
-            else:
-                # Documento largo - resumir por chunks y combinar
-                logger.info(f"📚 Documento largo: procesando {len(chunks)} chunks...")
-
-                chunk_summaries = []
-                for i, chunk in enumerate(chunks, 1):
-                    logger.info(f"🔄 Procesando chunk {i}/{len(chunks)}...")
-                    chunk_summary = self._summarize_chunk(
-                        chunk=chunk,
-                        chunk_num=i,
-                        total_chunks=len(chunks),
-                        category=category,
-                        filename=file_path.name
-                    )
-                    chunk_summaries.append(chunk_summary)
-
-                # Combinar todos los resúmenes de chunks
-                logger.info(f"🔗 Combinando {len(chunk_summaries)} resúmenes parciales...")
-                final_summary = self._merge_chunk_summaries(
-                    chunk_summaries=chunk_summaries,
-                    category=category,
-                    filename=file_path.name
-                )
-
-                logger.info(f"✅ Resumen final generado: {len(final_summary):,} chars")
-                return final_summary, False
+            logger.info(f"✅ Resumen generado: {len(summary)} chars")
+            return summary, False
 
         except Exception as e:
-            logger.exception(f"❌ Error resumiendo {file_path.name}: {e}")
-            return f"[ERROR AL RESUMIR] {file_path.name}: {str(e)}", False
+            logger.exception(f"❌ Error: {e}")
+            return f"[ERROR] {str(e)}", False
 
     def summarize_category(
         self,
-        category: Literal["biografias_jugadores", "informacion_equipos", "competiciones_y_reglas"],
+        category: str,
         force: bool = False
     ) -> Dict[str, int]:
-        """
-        Resume todos los documentos de una categoría.
-
-        Args:
-            category: Categoría a procesar
-            force: Si es True, regenera todos los resúmenes aunque ya existan
-
-        Returns:
-            Estadísticas: total, processed, skipped, errors
-        """
+        """Resume todos los documentos de una categoría"""
 
         source_dirs = {
-            "biografias_jugadores": FAISS_Creator.PLAYERS_DIR,
-            "informacion_equipos": FAISS_Creator.TEAMS_DIR,
-            "competiciones_y_reglas": FAISS_Creator.RULES_DIR
+            "biografias_jugadores": Config.PLAYERS_DIR,
+            "informacion_equipos": Config.TEAMS_DIR,
+            "competiciones_y_reglas": Config.RULES_DIR
         }
 
         output_dirs = {
-            "biografias_jugadores": FAISS_Creator.PLAYERS_SUMMARIES,
-            "informacion_equipos": FAISS_Creator.TEAMS_SUMMARIES,
-            "competiciones_y_reglas": FAISS_Creator.RULES_SUMMARIES
+            "biografias_jugadores": Config.PLAYERS_SUMMARIES,
+            "informacion_equipos": Config.TEAMS_SUMMARIES,
+            "competiciones_y_reglas": Config.RULES_SUMMARIES
         }
 
         source_dir = source_dirs[category]
         output_dir = output_dirs[category]
-
         txt_files = list(source_dir.glob("*.txt"))
 
         if not txt_files:
-            logger.warning(f"⚠️ No se encontraron archivos .txt en {source_dir}")
+            logger.warning(f"⚠️ No hay archivos en {source_dir}")
             return {"total": 0, "processed": 0, "skipped": 0, "errors": 0}
 
-        logger.info(f"🔄 Procesando {len(txt_files)} archivos de categoría '{category}'")
+        logger.info(f"🔄 Procesando {len(txt_files)} archivos de '{category}'")
 
-        if force:
-            logger.warning(f"🔥 MODO FORCE activado: regenerando TODOS los resúmenes")
-
-        processed = 0
-        skipped = 0
-        errors = 0
+        processed = skipped = errors = 0
 
         for txt_file in txt_files:
             try:
                 output_file = output_dir / f"{txt_file.stem}_summary.txt"
-
                 summary, was_skipped = self.summarize_document(
-                    txt_file,
-                    category,
-                    output_file,
-                    force=force
+                    txt_file, category, output_file, force
                 )
 
                 if was_skipped:
                     skipped += 1
                 else:
-                    # Solo escribimos si generamos un resumen nuevo
                     with open(output_file, 'w', encoding='utf-8') as f:
                         f.write(summary)
-                    logger.info(f"💾 Guardado: {output_file.name}")
                     processed += 1
 
             except Exception as e:
-                logger.exception(f"❌ Error procesando {txt_file.name}: {e}")
+                logger.exception(f"❌ Error: {e}")
                 errors += 1
 
         return {
@@ -700,159 +297,73 @@ Responde SOLO con el resumen estructurado, sin preámbulos."""
             "errors": errors
         }
 
-    def summarize_all(self, force: bool = False) -> Dict[str, Dict[str, int]]:
-        """
-        Resume todos los documentos de todas las categorías.
 
-        Args:
-            force: Si es True, regenera todos los resúmenes aunque ya existan
-        """
-        logger.info("🚀 Iniciando resumen de todos los documentos")
-
-        if force:
-            logger.warning("🔥 MODO FORCE: Se regenerarán TODOS los resúmenes")
-
-        results = {}
-        categories = ["biografias_jugadores", "informacion_equipos", "competiciones_y_reglas"]
-
-        for category in categories:
-            logger.info(f"\n{'='*60}")
-            logger.info(f"CATEGORÍA: {category.upper()}")
-            logger.info(f"{'='*60}")
-
-            stats = self.summarize_category(category, force=force)
-            results[category] = stats
-
-            logger.info(
-                f"✅ {category}: "
-                f"{stats['processed']} generados, "
-                f"{stats['skipped']} saltados, "
-                f"{stats['errors']} errores"
-            )
-
-        # Mostrar resumen total
-        total_processed = sum(r['processed'] for r in results.values())
-        total_skipped = sum(r['skipped'] for r in results.values())
-        total_errors = sum(r['errors'] for r in results.values())
-
-        logger.info(f"\n{'='*60}")
-        logger.info("📊 RESUMEN TOTAL")
-        logger.info(f"{'='*60}")
-        logger.info(f"✅ Generados: {total_processed}")
-        logger.info(f"⏭️  Saltados: {total_skipped}")
-        logger.info(f"❌ Errores: {total_errors}")
-
-        return results
-
-
-# ============================================================================
-# TOOL 2: FAISS VECTOR DB CREATOR (CON HUGGINGFACE EMBEDDINGS - GRATUITO)
-# ============================================================================
-
-class FAISSVectorDBCreator:
-    """
-    Tool que crea 3 bases de datos vectoriales FAISS separadas.
-
-    Características:
-    - Crea una FAISS DB por categoría (jugadores, equipos, reglas)
-    - Usa embeddings de HuggingFace (GRATUITOS, multilingües)
-    - Chunking inteligente de documentos
-    - Metadata para tracking de fuente
-    - NO requiere API keys adicionales
-    """
+class VectorDBTool:
+    """Tool de creación de Vector Databases"""
 
     def __init__(self):
-        logger.info("[FAISSVectorDBCreator] Inicializando embeddings de HuggingFace...")
-        logger.info("⏳ Primera ejecución: descargando modelo (puede tardar 1-2 min)...")
-
-        # HuggingFace Embeddings - COMPLETAMENTE GRATUITO
-        # Modelo multilingüe optimizado para español
+        logger.info("[VectorDBTool] Inicializando embeddings...")
         self.embeddings = HuggingFaceEmbeddings(
-            model_name=FAISS_Creator.EMBEDDING_MODEL,
-            model_kwargs={'device': 'cpu'},  # Usa CPU (cambia a 'cuda' si tienes GPU)
-            encode_kwargs={'normalize_embeddings': True}  # Mejora la similitud
+            model_name=Config.EMBEDDING_MODEL,
+            model_kwargs={'device': 'cpu'},
+            encode_kwargs={'normalize_embeddings': True}
         )
 
         self.text_splitter = RecursiveCharacterTextSplitter(
-            chunk_size=FAISS_Creator.CHUNK_SIZE,
-            chunk_overlap=FAISS_Creator.CHUNK_OVERLAP,
+            chunk_size=Config.CHUNK_SIZE,
+            chunk_overlap=Config.CHUNK_OVERLAP,
             separators=["\n\n", "\n", ". ", " ", ""]
         )
+        logger.info("✅ VectorDBTool inicializado")
 
-        logger.info(f"✅ Embeddings inicializados: {FAISS_Creator.EMBEDDING_MODEL}")
-
-    def _load_documents_from_summaries(
-        self,
-        summaries_dir: Path,
-        category: str
-    ) -> List[Document]:
-        """Carga archivos de resúmenes en Documents de LangChain."""
-
+    def _load_documents(self, summaries_dir: Path, category: str) -> List[Document]:
+        """Carga documentos desde resúmenes"""
         documents = []
         txt_files = list(summaries_dir.glob("*_summary.txt"))
-
-        if not txt_files:
-            logger.warning(f"⚠️ No se encontraron resúmenes en {summaries_dir}")
-            return documents
-
-        logger.info(f"📂 Cargando {len(txt_files)} resúmenes de {category}")
 
         for txt_file in txt_files:
             try:
                 with open(txt_file, 'r', encoding='utf-8') as f:
                     content = f.read()
 
-                if not content.strip():
-                    logger.warning(f"⚠️ Resumen vacío: {txt_file.name}")
-                    continue
-
-                doc = Document(
-                    page_content=content,
-                    metadata={
-                        "source": txt_file.name,
-                        "category": category,
-                        "original_file": txt_file.stem.replace("_summary", "")
-                    }
-                )
-
-                documents.append(doc)
-                logger.info(f"✅ Cargado: {txt_file.name} ({len(content)} chars)")
-
+                if content.strip():
+                    doc = Document(
+                        page_content=content,
+                        metadata={
+                            "source": txt_file.name,
+                            "category": category,
+                            "original_file": txt_file.stem.replace("_summary", "")
+                        }
+                    )
+                    documents.append(doc)
             except Exception as e:
-                logger.exception(f"❌ Error cargando {txt_file.name}: {e}")
+                logger.error(f"Error cargando {txt_file.name}: {e}")
 
         return documents
 
-    def create_vectordb_for_category(
-        self,
-        category: Literal["biografias_jugadores", "informacion_equipos", "competiciones_y_reglas"]
-    ) -> Dict[str, any]:
-        """Crea una base de datos vectorial FAISS para una categoría."""
-
-        logger.info(f"\n{'='*60}")
-        logger.info(f"CREANDO VECTORDB: {category.upper()}")
-        logger.info(f"{'='*60}")
+    def create_vectordb(self, category: str) -> Dict[str, any]:
+        """Crea VectorDB para una categoría"""
+        logger.info(f"\n🧠 CREANDO VECTORDB: {category.upper()}")
 
         summaries_dirs = {
-            "biografias_jugadores": FAISS_Creator.PLAYERS_SUMMARIES,
-            "informacion_equipos": FAISS_Creator.TEAMS_SUMMARIES,
-            "competiciones_y_reglas": FAISS_Creator.RULES_SUMMARIES
+            "biografias_jugadores": Config.PLAYERS_SUMMARIES,
+            "informacion_equipos": Config.TEAMS_SUMMARIES,
+            "competiciones_y_reglas": Config.RULES_SUMMARIES
         }
 
         output_paths = {
-            "biografias_jugadores": FAISS_Creator.PLAYERS_VECTORDB,
-            "informacion_equipos": FAISS_Creator.TEAMS_VECTORDB,
-            "competiciones_y_reglas": FAISS_Creator.RULES_VECTORDB
+            "biografias_jugadores": Config.PLAYERS_VECTORDB,
+            "informacion_equipos": Config.TEAMS_VECTORDB,
+            "competiciones_y_reglas": Config.RULES_VECTORDB
         }
 
         summaries_dir = summaries_dirs[category]
         output_path = output_paths[category]
 
         try:
-            documents = self._load_documents_from_summaries(summaries_dir, category)
+            documents = self._load_documents(summaries_dir, category)
 
             if not documents:
-                logger.warning(f"⚠️ No hay documentos para procesar en {category}")
                 return {
                     "category": category,
                     "documents_loaded": 0,
@@ -862,17 +373,13 @@ class FAISSVectorDBCreator:
 
             logger.info(f"📊 {len(documents)} documentos cargados")
 
-            logger.info("✂️ Aplicando chunking...")
             chunks = self.text_splitter.split_documents(documents)
-            logger.info(f"✅ {len(chunks)} chunks creados")
+            logger.info(f"✂️ {len(chunks)} chunks creados")
 
-            logger.info("🧠 Generando embeddings y creando FAISS index...")
             vectorstore = FAISS.from_documents(chunks, self.embeddings)
-
-            logger.info(f"💾 Guardando vectorstore en {output_path}")
             vectorstore.save_local(str(output_path))
 
-            logger.info(f"✅ VectorDB creada exitosamente para {category}")
+            logger.info(f"✅ VectorDB guardada en {output_path}")
 
             return {
                 "category": category,
@@ -883,147 +390,416 @@ class FAISSVectorDBCreator:
             }
 
         except Exception as e:
-            logger.exception(f"❌ Error creando vectorDB para {category}: {e}")
+            logger.exception(f"❌ Error: {e}")
             return {
                 "category": category,
-                "documents_loaded": 0,
-                "chunks_created": 0,
                 "success": False,
                 "error": str(e)
             }
 
-    def create_all_vectordbs(self) -> Dict[str, Dict[str, any]]:
-        """Crea las 3 bases de datos vectoriales."""
 
-        logger.info("\n" + "="*70)
-        logger.info("🚀 INICIANDO CREACIÓN DE BASES DE DATOS VECTORIALES")
-        logger.info("="*70 + "\n")
+# ============================================================================
+# LANGGRAPH NODES - FUNCIONES DE ESTADO
+# ============================================================================
 
-        results = {}
+def initialize_node(state: AgentState) -> AgentState:
+    """Nodo inicial: configuración y preparación"""
+    logger.info("🚀 Inicializando FAISS Creator Agent (LangGraph)")
+
+    Config.create_directories()
+
+    state["timestamp"] = datetime.now().isoformat()
+    state["current_step"] = "initialized"
+    state["errors"] = []
+    state["summary_results"] = {}
+    state["vectordb_results"] = {}
+    state["success"] = False
+
+    logger.info(f"📋 Modo: {state['mode']}")
+    logger.info(f"🔄 Force summaries: {state.get('force_summaries', False)}")
+
+    return state
+
+
+def summarize_node(state: AgentState) -> AgentState:
+    """Nodo de resumen de documentos"""
+    logger.info("\n📝 EJECUTANDO NODO: SUMMARIZE")
+
+    state["current_step"] = "summarizing"
+
+    try:
+        summarizer = SummarizerTool()
         categories = ["biografias_jugadores", "informacion_equipos", "competiciones_y_reglas"]
 
+        results = {}
         for category in categories:
-            result = self.create_vectordb_for_category(category)
-            results[category] = result
+            logger.info(f"\n{'='*60}")
+            logger.info(f"CATEGORÍA: {category.upper()}")
+            logger.info(f"{'='*60}")
 
-        logger.info("\n" + "="*70)
-        logger.info("📊 RESUMEN FINAL")
-        logger.info("="*70)
+            stats = summarizer.summarize_category(
+                category,
+                force=state.get("force_summaries", False)
+            )
+            results[category] = stats
 
-        for category, stats in results.items():
-            if stats['success']:
-                logger.info(f"✅ {category}: {stats['documents_loaded']} docs, {stats['chunks_created']} chunks")
-            else:
-                logger.info(f"❌ {category}: FALLÓ")
-
-        return results
-
-
-# ============================================================================
-# FAISS_Creator AGENT (Orquestador)
-# ============================================================================
-
-class FAISS_CreatorAgent:
-    """
-    Agente orquestador que ejecuta el pipeline completo de construcción de conocimiento.
-
-    Pipeline:
-    1. Crear estructura de directorios
-    2. Resumir todos los documentos (Tool 1 - Groq) - SALTA EXISTENTES
-    3. Crear bases de datos vectoriales (Tool 2 - HuggingFace embeddings gratuitos)
-    4. Generar reporte de ejecución
-
-    SOLO REQUIERE: GROQ_API_KEY
-    """
-
-    def __init__(self):
-        logger.info("🤖 Inicializando FAISS Creator Agent")
-        self.summarizer = DocumentSummarizer()
-        self.vectordb_creator = FAISSVectorDBCreator()
-        FAISS_Creator.create_directories()
-
-    def run_full_pipeline(self, force_summaries: bool = False) -> Dict[str, any]:
-        """
-        Ejecuta el pipeline completo de construcción de conocimiento.
-
-        Args:
-            force_summaries: Si es True, regenera todos los resúmenes
-        """
-
-        logger.info("\n" + "🔥"*35)
-        logger.info("🚀 INICIANDO PIPELINE COMPLETO DE FAISS CREATOR")
-        logger.info("🔥"*35 + "\n")
-
-        report = {
-            "timestamp": None,
-            "summary_results": None,
-            "vectordb_results": None,
-            "success": False
-        }
-
-        try:
-            logger.info("\n📝 PASO 1: RESUMIENDO DOCUMENTOS")
-            logger.info("-" * 70)
-            summary_results = self.summarizer.summarize_all(force=force_summaries)
-            report['summary_results'] = summary_results
-
-            logger.info("\n🧠 PASO 2: CREANDO BASES DE DATOS VECTORIALES")
-            logger.info("-" * 70)
-            vectordb_results = self.vectordb_creator.create_all_vectordbs()
-            report['vectordb_results'] = vectordb_results
-
-            all_success = all(
-                result['success'] for result in vectordb_results.values()
+            logger.info(
+                f"✅ {category}: "
+                f"{stats['processed']} generados, "
+                f"{stats['skipped']} saltados, "
+                f"{stats['errors']} errores"
             )
 
-            report['success'] = all_success
+        state["summary_results"] = results
 
-            from datetime import datetime
-            report['timestamp'] = datetime.now().isoformat()
+        total_errors = sum(r['errors'] for r in results.values())
+        if total_errors > 0:
+            state["errors"].append(f"Errores en resúmenes: {total_errors}")
 
-            report_path = FAISS_Creator.VECTOR_DBS_DIR / "build_report.json"
-            with open(report_path, 'w', encoding='utf-8') as f:
-                json.dump(report, f, indent=2, ensure_ascii=False)
+        logger.info("\n✅ NODO SUMMARIZE COMPLETADO")
 
-            logger.info(f"\n💾 Reporte guardado en: {report_path}")
+    except Exception as e:
+        logger.exception(f"❌ Error en nodo summarize: {e}")
+        state["errors"].append(f"summarize_node: {str(e)}")
 
-            if all_success:
-                logger.info("\n" + "✅"*35)
-                logger.info("🎉 PIPELINE COMPLETADO EXITOSAMENTE")
-                logger.info("✅"*35 + "\n")
+    return state
+
+
+def vectorize_node(state: AgentState) -> AgentState:
+    """Nodo de creación de Vector Databases"""
+    logger.info("\n🧠 EJECUTANDO NODO: VECTORIZE")
+
+    state["current_step"] = "vectorizing"
+
+    try:
+        vectordb_tool = VectorDBTool()
+        categories = ["biografias_jugadores", "informacion_equipos", "competiciones_y_reglas"]
+
+        results = {}
+        for category in categories:
+            result = vectordb_tool.create_vectordb(category)
+            results[category] = result
+
+            if result['success']:
+                logger.info(
+                    f"✅ {category}: "
+                    f"{result['documents_loaded']} docs, "
+                    f"{result['chunks_created']} chunks"
+                )
             else:
-                logger.warning("\n" + "⚠️"*35)
-                logger.warning("⚠️ PIPELINE COMPLETADO CON ERRORES")
-                logger.warning("⚠️"*35 + "\n")
+                logger.error(f"❌ {category}: FALLÓ")
+                state["errors"].append(f"VectorDB {category} falló")
 
-            return report
+        state["vectordb_results"] = results
 
-        except Exception as e:
-            logger.exception(f"❌ Error crítico en el pipeline: {e}")
-            report['success'] = False
-            report['error'] = str(e)
-            return report
+        logger.info("\n✅ NODO VECTORIZE COMPLETADO")
 
-    def run_summary_only(self, force: bool = False) -> Dict[str, Dict[str, int]]:
-        """
-        Ejecuta solo el paso de resúmenes
+    except Exception as e:
+        logger.exception(f"❌ Error en nodo vectorize: {e}")
+        state["errors"].append(f"vectorize_node: {str(e)}")
 
-        Args:
-            force: Si es True, regenera todos los resúmenes aunque ya existan
-        """
-        logger.info("📝 Ejecutando SOLO resúmenes de documentos")
-        if force:
-            logger.warning("🔥 MODO FORCE: regenerando TODOS los resúmenes")
-        return self.summarizer.summarize_all(force=force)
+    return state
 
-    def run_vectordb_only(self) -> Dict[str, Dict[str, any]]:
-        """Ejecuta solo el paso de creación de vector DBs"""
-        logger.info("🧠 Ejecutando SOLO creación de vector databases")
-        return self.vectordb_creator.create_all_vectordbs()
+
+def finalize_node(state: AgentState) -> AgentState:
+    """Nodo final: guardar reporte y verificar éxito"""
+    logger.info("\n📊 EJECUTANDO NODO: FINALIZE")
+
+    state["current_step"] = "finalized"
+
+    # Verificar éxito general
+    mode = state["mode"]
+
+    if mode in ["full", "vectordb_only"]:
+        vectordb_success = all(
+            r.get('success', False)
+            for r in state.get("vectordb_results", {}).values()
+        )
+        state["success"] = vectordb_success and len(state["errors"]) == 0
+    elif mode == "summary_only":
+        summary_errors = sum(
+            r.get('errors', 0)
+            for r in state.get("summary_results", {}).values()
+        )
+        state["success"] = summary_errors == 0
+    else:
+        state["success"] = True
+
+    # Guardar reporte
+    report = {
+        "timestamp": state["timestamp"],
+        "mode": state["mode"],
+        "force_summaries": state.get("force_summaries", False),
+        "summary_results": state.get("summary_results"),
+        "vectordb_results": state.get("vectordb_results"),
+        "errors": state["errors"],
+        "success": state["success"]
+    }
+
+    report_path = Config.VECTOR_DBS_DIR / "build_report.json"
+    try:
+        with open(report_path, 'w', encoding='utf-8') as f:
+            json.dump(report, f, indent=2, ensure_ascii=False)
+
+        state["report_path"] = str(report_path)
+        logger.info(f"💾 Reporte guardado: {report_path}")
+    except Exception as e:
+        logger.error(f"❌ Error guardando reporte: {e}")
+        state["errors"].append(f"Error guardando reporte: {str(e)}")
+
+    # Mensaje final
+    if state["success"]:
+        logger.info("\n" + "✅"*35)
+        logger.info("🎉 PIPELINE COMPLETADO EXITOSAMENTE")
+        logger.info("✅"*35)
+    else:
+        logger.warning("\n" + "⚠️"*35)
+        logger.warning("⚠️ PIPELINE COMPLETADO CON ERRORES")
+        logger.warning("⚠️"*35)
+        logger.warning(f"Errores: {state['errors']}")
+
+    return state
+
+
+def diagnostics_node(state: AgentState) -> AgentState:
+    """Nodo de diagnóstico del sistema"""
+    logger.info("\n🔍 EJECUTANDO NODO: DIAGNOSTICS")
+
+    state["current_step"] = "diagnostics"
+
+    print("\n" + "="*70)
+    print("🔍 DIAGNÓSTICO DEL SISTEMA")
+    print("="*70 + "\n")
+
+    # Verificar .env
+    print(f"🔍 Verificando .env:")
+    print(f"   Ruta: {env_path}")
+    print(f"   Existe: {'✅' if env_path.exists() else '❌'}")
+
+    if GROQ_API_KEY:
+        print(f"   ✅ GROQ_API_KEY cargada")
+        print(f"   📊 Longitud: {len(GROQ_API_KEY)} caracteres")
+    else:
+        print(f"   ❌ GROQ_API_KEY NO encontrada")
+
+    # Verificar estructura de datos
+    print(f"\n📂 Verificando estructura de datos:")
+    categories = {
+        "biografias_jugadores": Config.PLAYERS_DIR,
+        "informacion_equipos": Config.TEAMS_DIR,
+        "competiciones_y_reglas": Config.RULES_DIR
+    }
+
+    for name, path in categories.items():
+        if path.exists():
+            txt_count = len(list(path.glob("*.txt")))
+            print(f"   ✅ {name}: {txt_count} archivos")
+        else:
+            print(f"   ❌ {name}: NO EXISTE")
+
+    # Verificar resúmenes
+    print(f"\n📋 Verificando resúmenes:")
+    summary_dirs = {
+        "biografias_jugadores": Config.PLAYERS_SUMMARIES,
+        "informacion_equipos": Config.TEAMS_SUMMARIES,
+        "competiciones_y_reglas": Config.RULES_SUMMARIES
+    }
+
+    for name, path in summary_dirs.items():
+        if path.exists():
+            summary_count = len(list(path.glob("*_summary.txt")))
+            print(f"   ✅ {name}: {summary_count} resúmenes")
+        else:
+            print(f"   ⚠️ {name}: NO EXISTE")
+
+    print("\n" + "="*70)
+    print("✅ Diagnóstico completado")
+    print("="*70 + "\n")
+
+    state["success"] = True
+    return state
 
 
 # ============================================================================
-# SCRIPT DE EJECUCIÓN
+# ROUTING LOGIC - FLUJO CONDICIONAL
+# ============================================================================
+
+def route_after_init(state: AgentState) -> str:
+    """Determina el siguiente nodo según el modo"""
+    mode = state["mode"]
+
+    if mode == "diagnostics":
+        return "diagnostics"
+    elif mode == "summary_only":
+        return "summarize"
+    elif mode == "vectordb_only":
+        return "vectorize"
+    elif mode == "full":
+        return "summarize"
+    else:
+        return END
+
+
+def route_after_summarize(state: AgentState) -> str:
+    """Después de resumir, decide si vectorizar o finalizar"""
+    mode = state["mode"]
+
+    if mode == "full":
+        return "vectorize"
+    else:
+        return "finalize"
+
+
+def route_after_vectorize(state: AgentState) -> str:
+    """Después de vectorizar, siempre finaliza"""
+    return "finalize"
+
+
+def route_after_diagnostics(state: AgentState) -> str:
+    """Después de diagnóstico, termina"""
+    return END
+
+
+# ============================================================================
+# GRAPH CONSTRUCTION - LANGGRAPH
+# ============================================================================
+
+def create_faiss_graph():
+    """Construye el grafo LangGraph"""
+
+    # Crear grafo
+    workflow = StateGraph(AgentState)
+
+    # Agregar nodos
+    workflow.add_node("initialize", initialize_node)
+    workflow.add_node("summarize", summarize_node)
+    workflow.add_node("vectorize", vectorize_node)
+    workflow.add_node("finalize", finalize_node)
+    workflow.add_node("diagnostics", diagnostics_node)
+
+    # Definir punto de entrada
+    workflow.set_entry_point("initialize")
+
+    # Definir edges condicionales
+    workflow.add_conditional_edges(
+        "initialize",
+        route_after_init,
+        {
+            "diagnostics": "diagnostics",
+            "summarize": "summarize",
+            "vectorize": "vectorize",
+            END: END
+        }
+    )
+
+    workflow.add_conditional_edges(
+        "summarize",
+        route_after_summarize,
+        {
+            "vectorize": "vectorize",
+            "finalize": "finalize"
+        }
+    )
+
+    workflow.add_conditional_edges(
+        "vectorize",
+        route_after_vectorize,
+        {
+            "finalize": "finalize"
+        }
+    )
+
+    workflow.add_conditional_edges(
+        "diagnostics",
+        route_after_diagnostics,
+        {
+            END: END
+        }
+    )
+
+    workflow.add_edge("finalize", END)
+
+    # Compilar con memoria
+    memory = MemorySaver()
+    app = workflow.compile(checkpointer=memory)
+
+    return app
+
+
+# ============================================================================
+# AGENT CLASS - INTERFAZ PRINCIPAL
+# ============================================================================
+
+class FAISSCreatorAgent:
+    """Agente LangGraph para creación de FAISS VectorDBs"""
+
+    def __init__(self):
+        logger.info("🤖 Inicializando FAISS Creator Agent (LangGraph)")
+        self.graph = create_faiss_graph()
+
+    def run_full_pipeline(self, force_summaries: bool = False) -> Dict:
+        """Ejecuta pipeline completo"""
+        logger.info("\n🚀 EJECUTANDO PIPELINE COMPLETO")
+
+        initial_state = {
+            "mode": "full",
+            "force_summaries": force_summaries
+        }
+
+        config = {"configurable": {"thread_id": "faiss_full"}}
+
+        final_state = self.graph.invoke(initial_state, config)
+
+        return final_state
+
+    def run_summary_only(self, force: bool = False) -> Dict:
+        """Ejecuta solo resúmenes"""
+        logger.info("\n📝 EJECUTANDO SOLO RESÚMENES")
+
+        initial_state = {
+            "mode": "summary_only",
+            "force_summaries": force
+        }
+
+        config = {"configurable": {"thread_id": "faiss_summary"}}
+
+        final_state = self.graph.invoke(initial_state, config)
+
+        return final_state
+
+    def run_vectordb_only(self) -> Dict:
+        """Ejecuta solo VectorDBs"""
+        logger.info("\n🧠 EJECUTANDO SOLO VECTORDBS")
+
+        initial_state = {
+            "mode": "vectordb_only",
+            "force_summaries": False
+        }
+
+        config = {"configurable": {"thread_id": "faiss_vectordb"}}
+
+        final_state = self.graph.invoke(initial_state, config)
+
+        return final_state
+
+    def run_diagnostics(self) -> Dict:
+        """Ejecuta diagnóstico"""
+        logger.info("\n🔍 EJECUTANDO DIAGNÓSTICO")
+
+        initial_state = {
+            "mode": "diagnostics",
+            "force_summaries": False
+        }
+
+        config = {"configurable": {"thread_id": "faiss_diagnostics"}}
+
+        final_state = self.graph.invoke(initial_state, config)
+
+        return final_state
+
+
+# ============================================================================
+# MAIN - INTERFAZ CLI
 # ============================================================================
 
 def main():
@@ -1031,17 +807,16 @@ def main():
 
     print("""
     ╔════════════════════════════════════════════════════════════════╗
-    ║           FAIS CREATOR AGENT v2.1                         ║
-    ║           (Con detección de resúmenes existentes)              ║
-    ║           Solo requiere GROQ_API_KEY                           ║
+    ║           FAISS CREATOR AGENT - LangGraph 1.0                  ║
+    ║           Arquitectura basada en State Graph                   ║
     ╚════════════════════════════════════════════════════════════════╝
     """)
 
     print("\nOpciones:")
-    print("1. 🔥 Ejecutar pipeline completo (resúmenes + vector DBs)")
-    print("2. 📝 Solo resumir documentos (salta existentes)")
+    print("1. 🔥 Pipeline completo (resúmenes + vector DBs)")
+    print("2. 📝 Solo resumir documentos")
     print("3. 🔄 Regenerar TODOS los resúmenes (force)")
-    print("4. 🧠 Solo crear vector databases (requiere resúmenes previos)")
+    print("4. 🧠 Solo crear vector databases")
     print("5. 🔍 Diagnóstico de configuración")
     print("6. ❌ Salir")
 
@@ -1051,191 +826,15 @@ def main():
         print("👋 Saliendo...")
         return
 
-    if choice == "5":
-        run_diagnostics()
-        return
-
-    agent = FAISS_CreatorAgent()
+    agent = FAISSCreatorAgent()
 
     if choice == "1":
         agent.run_full_pipeline(force_summaries=False)
     elif choice == "2":
         agent.run_summary_only(force=False)
     elif choice == "3":
-        confirm = input("⚠️  ¿Seguro que quieres regenerar TODOS los resúmenes? (s/n): ").strip().lower()
-        if confirm == 's':
-            agent.run_summary_only(force=True)
-        else:
-            print("❌ Operación cancelada")
-            return
+        confirm = input("⚠️  ¿Regenerar TODOS los resúmenes? (s/n): ").lower()
     elif choice == "4":
         agent.run_vectordb_only()
-    else:
-        print("❌ Opción inválida")
-        return
 
-    print("\n✅ Proceso finalizado. Revisa los logs para más detalles.")
-
-
-def run_diagnostics():
-    """Ejecuta un diagnóstico completo del sistema"""
-    print("\n" + "="*70)
-    print("🔍 DIAGNÓSTICO DEL SISTEMA")
-    print("="*70 + "\n")
-
-    # 1. Verificar ubicación del script
-    script_path = Path(__file__).resolve()
-    print(f"📍 Ubicación del script:")
-    print(f"   {script_path}")
-    print(f"   Carpeta: {script_path.parent}\n")
-
-    # 2. Verificar directorio de ejecución
-    print(f"📁 Directorio de ejecución actual:")
-    print(f"   {Path.cwd()}\n")
-
-    # 3. Buscar .env en app/
-    app_dir = script_path.parent.parent  # app/
-    env_path = app_dir / ".env"
-
-    print(f"🔍 Buscando .env en app/:")
-    print(f"   Ruta esperada: {env_path}")
-
-    if env_path.exists():
-        print(f"   ✅ Encontrado\n")
-
-        # Leer y mostrar contenido (sin mostrar la key completa)
-        try:
-            with open(env_path, 'r') as f:
-                content = f.read()
-                if "GROQ_API_KEY" in content:
-                    print(f"   ✅ Contiene GROQ_API_KEY")
-
-                    # Intentar cargar
-                    load_dotenv(dotenv_path=env_path)
-                    groq_key = os.getenv("GROQ_API_KEY")
-
-                    if groq_key:
-                        print(f"   ✅ Key cargada correctamente")
-                        print(f"   📊 Longitud: {len(groq_key)} caracteres")
-                        print(f"   🔒 Primeros 15 chars: {groq_key[:15]}...")
-                        print(f"   🔒 Últimos 5 chars: ...{groq_key[-5:]}")
-                    else:
-                        print(f"   ❌ Key NO se pudo cargar")
-                else:
-                    print(f"   ❌ NO contiene GROQ_API_KEY")
-                    print(f"   📝 Contenido actual:")
-                    print(f"   {content[:200]}")
-        except Exception as e:
-            print(f"   ⚠️ Error leyendo archivo: {e}")
-    else:
-        print(f"   ❌ NO existe\n")
-        print(f"💡 Crea el archivo en: {env_path}")
-        print(f"📝 Con este contenido:")
-        print(f"   GROQ_API_KEY=gsk_tu_key_real_aqui\n")
-
-    # 4. Verificar estructura de data/
-    print(f"\n📂 Verificando estructura de data/:")
-    data_dir = app_dir / "data"  # app/data/
-    print(f"   Ubicación: {data_dir}")
-
-    if data_dir.exists():
-        print(f"   ✅ data/ existe\n")
-
-        required_dirs = [
-            "biografias_jugadores",
-            "informacion_equipos",
-            "competiciones_y_reglas"
-        ]
-
-        for dir_name in required_dirs:
-            dir_path = data_dir / dir_name
-            if dir_path.exists():
-                txt_files = list(dir_path.glob("*.txt"))
-                txt_count = len(txt_files)
-                print(f"   ✅ {dir_name}/ - {txt_count} archivos .txt")
-                if txt_count > 0:
-                    print(f"      Ejemplos: {', '.join([f.name for f in txt_files[:3]])}")
-            else:
-                print(f"   ❌ {dir_name}/ NO existe")
-                print(f"      Ruta esperada: {dir_path}")
-    else:
-        print(f"   ❌ data/ NO existe")
-        print(f"   💡 Debes crear: {data_dir}")
-        print(f"   Con las subcarpetas:")
-        print(f"      - biografias_jugadores/")
-        print(f"      - informacion_equipos/")
-        print(f"      - competiciones_y_reglas/")
-
-    # 5. Verificar resúmenes existentes
-    print(f"\n📋 Verificando resúmenes existentes:")
-    summaries_dir = data_dir / "summaries"
-
-    if summaries_dir.exists():
-        print(f"   ✅ summaries/ existe")
-
-        summary_dirs = {
-            "biografias_jugadores": summaries_dir / "biografias_jugadores",
-            "informacion_equipos": summaries_dir / "informacion_equipos",
-            "competiciones_y_reglas": summaries_dir / "competiciones_y_reglas"
-        }
-
-        for cat_name, cat_path in summary_dirs.items():
-            if cat_path.exists():
-                summary_files = list(cat_path.glob("*_summary.txt"))
-                print(f"   ✅ {cat_name}: {len(summary_files)} resúmenes")
-            else:
-                print(f"   ⚠️ {cat_name}: carpeta no existe")
-    else:
-        print(f"   ⚠️ summaries/ NO existe (se creará al ejecutar)")
-
-    # 6. Test de conexión con Groq (si la key está disponible)
-    groq_key = os.getenv("GROQ_API_KEY")
-    if groq_key:
-        print(f"\n🧪 Probando conexión con Groq API...")
-        try:
-            from langchain_groq import ChatGroq
-            from langchain_core.messages import HumanMessage
-
-            llm = ChatGroq(
-                temperature=0,
-                model_name="openai/gpt-oss-20b",
-                api_key=groq_key
-            )
-
-            response = llm.invoke([HumanMessage(content="Di 'OK' si funcionó")])
-            print(f"   ✅ Conexión exitosa!")
-            print(f"   📝 Respuesta: {response.content}")
-        except Exception as e:
-            print(f"   ❌ Error de conexión: {e}")
-
-    print("\n" + "="*70)
-    print("✅ Diagnóstico completado")
-    print("="*70 + "\n")
-
-    # Resumen de acciones necesarias
-    print("📋 RESUMEN DE ACCIONES NECESARIAS:")
-
-    actions_needed = []
-
-    if not env_path.exists() or not os.getenv("GROQ_API_KEY"):
-        actions_needed.append(f"1. Crear/verificar {env_path} con GROQ_API_KEY")
-
-    if not data_dir.exists():
-        actions_needed.append(f"2. Crear carpeta {data_dir}")
-
-    for dir_name in ["biografias_jugadores", "informacion_equipos", "competiciones_y_reglas"]:
-        dir_path = data_dir / dir_name
-        if not dir_path.exists():
-            actions_needed.append(f"3. Crear carpeta {dir_path}")
-
-    if actions_needed:
-        for action in actions_needed:
-            print(f"   ⚠️ {action}")
-    else:
-        print(f"   ✅ Todo está configurado correctamente")
-
-    print()
-
-
-if __name__ == "__main__":
-    main()
+main()

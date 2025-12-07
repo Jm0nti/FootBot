@@ -1,0 +1,31 @@
+{
+  "timestamp": "2025-12-07T15:40:29.689930",
+  "mode": "vectordb_only",
+  "force_summaries": false,
+  "summary_results": {},
+  "vectordb_results": {
+    "biografias_jugadores": {
+      "category": "biografias_jugadores",
+      "documents_loaded": 113,
+      "chunks_created": 401,
+      "output_path": "C:\\Users\\Daniel\\Documents\\GitHub\\FootBot\\src\\backend\\app\\data\\vector_stores\\jugadores_faiss",
+      "success": true
+    },
+    "informacion_equipos": {
+      "category": "informacion_equipos",
+      "documents_loaded": 60,
+      "chunks_created": 592,
+      "output_path": "C:\\Users\\Daniel\\Documents\\GitHub\\FootBot\\src\\backend\\app\\data\\vector_stores\\equipos_faiss",
+      "success": true
+    },
+    "competiciones_y_reglas": {
+      "category": "competiciones_y_reglas",
+      "documents_loaded": 64,
+      "chunks_created": 583,
+      "output_path": "C:\\Users\\Daniel\\Documents\\GitHub\\FootBot\\src\\backend\\app\\data\\vector_stores\\reglas_faiss",
+      "success": true
+    }
+  },
+  "errors": [],
+  "success": true
+}
