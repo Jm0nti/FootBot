@@ -1,1 +1,35 @@
-[ERROR AL RESUMIR] Ajax_de_Ámsterdam.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96951, Requested 10632. Please try again in 1h49m11.712s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+## Identidad del club
+El Amsterdamsche Football Club Ajax, simplemente conocido como A. F. C. Ajax, Ajax de Ámsterdam, o más popularmente Ajax, es un club de fútbol con sede en Ámsterdam, capital de los Países Bajos. Fue fundado el 18 de marzo de 1900 y juega en la máxima categoría del país, la Eredivisie, desde el año de la fundación de la competición.
+
+## Estadio
+El Ajax juega en el Johan Cruyff Arena (hasta 2018 el Ámsterdam Arena), inaugurado en 1996 y que cuenta con una capacidad para 55 500 espectadores. Anteriormente jugó en el De Meer Stadion y el estadio Olímpico de Ámsterdam en partidos grandes e internacionales.
+
+## Colores y escudo
+El club utiliza indumentaria blanca con una franja vertical roja en la camiseta. El escudo del club se introdujo con la cabeza del héroe griego Áyax en 1928. El logo fue cambiado una vez más en 1990 en una versión abstracta de la anterior. El último logo contiene el retrato de Áyax, pero dibujado con solo once líneas, que simbolizan los once jugadores de un equipo de fútbol.
+
+## Estructura del club
+La estructura del club incluye a varios directivos, como Edwin van der Sar, director ejecutivo; Susan Lenderink, directora financiera; Marc Overmars, director deportivo; y Menno Geelen, director comercial, quienes completan la estructura del club desde el año 2011.
+
+## Cuerpo técnico
+El Ajax ha tenido 50 entrenadores a lo largo de su historia. El actual entrenador es Maurice Steijn, quien asumió el cargo en junio de 2023. Algunos de los entrenadores más destacados incluyen a Jack Reynolds, quien estuvo en dos etapas y por más años; Rinus Michels, Louis van Gaal, Frank De Boer y Erik ten Hag, quienes también estuvieron en el club por períodos prolongados.
+
+## Historia
+El club fue fundado el 18 de marzo de 1900, y sus orígenes datan al año 1894 bajo la denominación de Foot-ball Club Ajax. El Ajax ha tenido varias etapas a lo largo de su historia, desde sus inicios hasta la actualidad. En la década de 1970, el club vivió su época dorada, ganando tres Copas de Europa consecutivas y una Copa Intercontinental. En la década de 1990, el club vivió otra etapa de éxito, ganando la Liga de Campeones de la UEFA y la Copa Intercontinental en 1995.
+
+## Palmarés
+El Ajax es el club más laureado del fútbol neerlandés con 36 Campeonatos de Liga, 20 Campeonatos de Copa y 9 Supercopas, para un total de 65 títulos nacionales. A nivel internacional, el club ha ganado 10 títulos, incluyendo 4 Ligas de Campeones, 2 Copas Intercontinentales, 2 Supercopas de la UEFA, 1 Recopa de Europa y 1 Copa de la UEFA.
+
+## Jugadores legendarios
+Entre los jugadores legendarios del Ajax se encuentran Johan Cruyff, Johan Neeskens, Ruud Krol, Johnny Rep, Piet Keizer, Marco van Basten, Frank Rijkaard, Dennis Bergkamp, Edwin van der Sar, y Patrick Kluivert, entre otros.
+
+## Rivalidades
+El Ajax tiene varias rivalidades, siendo la más importante la que mantiene con el Feyenoord de Róterdam, con quien disputa el "De Klassieker" o "el clásico neerlandés". Otra rivalidad importante es la que mantiene con el PSV Eindhoven, con quien disputa el "De Topper".
+
+## Datos actuales
+El entrenador actual del Ajax es Maurice Steijn, quien asumió el cargo en junio de 2023. El club juega en la Eredivisie y ha tenido una buena temporada, clasificándose para la Liga de Campeones de la UEFA. El Ajax también ha tenido éxito en la Copa de los Países Bajos, ganando el título en varias ocasiones. El club tiene una gran base de fanáticos y es considerado uno de los equipos más importantes de los Países Bajos.
+
+## Bibliografía y referencias
+Para aquellos interesados en profundizar en la historia del Ajax, existen varias fuentes recomendadas, como "De godenzonen van Ajax" de David Endt, "95 jaar Ajax" de Evert Vermeer, y "Ajax 100 Jaar Jubileumboek 1900-2000" de Evert Vermeer, entre otros.
+
+## Enlaces externos
+Para más información sobre el Ajax, se puede visitar el sitio web oficial del club o su página en la UEFA. Además, se puede explorar la categoría multimedia sobre el Ajax en Wikimedia Commons.

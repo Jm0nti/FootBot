@@ -1,1 +1,118 @@
-[ERROR AL RESUMIR] Feyenoord_Rotterdam.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6089, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Feyenoord Rotterdam – Resumen Completo**
+
+---
+
+### 1. Identidad del club  
+| Elemento | Información |
+|----------|-------------|
+| **Nombre completo** | Feyenoord Rotterdam |
+| **Apodo** | *No se menciona explícitamente en el documento* |
+| **Año de fundación** | 19 de julio de 1908 |
+| **Ciudad / País** | Róterdam, Países Bajos |
+| **Denominaciones históricas** | *Wilhelmina* (1908‑09), *Hillesluise Football Club* (1909‑10), *RVV Celeritas* (1910‑12), *Rotterdamsche Voetbal Vereeniging Feijenoord* (1912‑73), *Feyenoord Rotterdam* (1973‑actual) |
+| **Sectores deportivos** | Fútbol, baloncesto, hockey, balonmano, voleibol y fútbol sala |
+
+---
+
+### 2. Estadio  
+- **Nombre**: Stadion Feijenoord (conocido popularmente como *De Kuip* – “La bañera”)  
+- **Capacidad**: 51 177 espectadores (todos sentados). Desde 2021, por razones de seguridad, la capacidad se ha reducido a 47 500 para partidos de fútbol.  
+- **Características**:  
+  - Inaugurado en 1937 con 65 000 lugares.  
+  - Ampliado a 69 300 en 1949.  
+  - Ha albergado finales de la Liga de Campeones, Recopa de Europa y Copa de la UEFA.  
+  - Único estadio que ha ganado una final europea como local (Copa de la UEFA 2001‑02).  
+- **Recintos históricos**:  
+  - *Afrikaanderplein* (1908‑1917)  
+  - Estadio en *Kromme Zandweg* (1917‑1937) – 12 000 plazas, inaugurado el 26 agosto de 1917.  
+
+---
+
+### 3. Colores y escudo  
+- **Camiseta**: mitad izquierda blanca, mitad derecha roja; pantalón negro.  
+- **Escudo**: *No se describe en detalle en el documento*, pero se mantiene la identidad visual tradicional del club.  
+
+---
+
+### 4. Historia  
+| Periodo | Eventos clave |
+|---------|---------------|
+| **1908‑1912** | Fundación como *Wilhelmina* en el pub “de Vereeniging”. Cambios de nombre y colores. |
+| **1912** | Se convierte en *Rotterdamsche Voetbal Vereeniging Feijenoord* tras la promoción a la Asociación Nacional de Fútbol. Uniforme rojo‑blanco, pantalón negro. |
+| **1918** | Promoción al máximo nivel neerlandés; traslado a *Kromme Zandweg*. |
+| **1924‑1930** | Primer título (1924) y cuatro más antes de la creación de la Eredivisie. |
+| **1960‑1970** | Era dorada bajo Georges Sobotka y Ernst Happel. 1ª Eredivisie (1966‑67), 1ª Copa de Europa (1969‑70) y 1ª Copa Intercontinental (1970). |
+| **1974‑1975** | Primera Copa de la UEFA (1973‑74) y doblete Eredivisie‑Copa de la UEFA (1974‑75). |
+| **1979‑80** | Último doblete de la década; ganan la KNVB Beker. |
+| **1983‑84** | Último doblete de la década; Johan Cruyff en el equipo. |
+| **1990‑2000** | Cuatro Copas de los Países Bajos en los 90; Eredivisie 1994 y 1999. |
+| **2002** | Segunda Copa de la UEFA (2001‑02) contra Borussia Dortmund. |
+| **2006‑07** | Descalificación en la Copa UEFA por violencia de hinchas en Nancy. |
+| **2007‑08** | 6.º lugar en la Eredivisie; ganan la Copa de los Países Bajos tras 9 años sin título. |
+| **2009‑10** | 4.º lugar en la Eredivisie bajo Mario Been; pierden la final de la Copa ante Ajax. |
+| **2010‑11** | Crisis interna, lesiones de jugadores clave, 10‑0 contra PSV, descenso a la zona de peligro. |
+| **2023** | Último título de liga (Eredivisie). |
+| **2025** | Empate 1‑1 contra AC Milan en San Siro, alcanzan octavos de final de la Europa League por primera vez en 50 años. |
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Fechas destacadas |
+|-------------|---------|-------------------|
+| **Eredivisie** | 16 | 1966‑67, 1974‑75, 1975‑76, 1976‑77, 1977‑78, 1978‑79, 1983‑84, 1993‑94, 1998‑99, 2001‑02, 2003‑04, 2005‑06, 2011‑12, 2014‑15, 2018‑19, 2022‑23 |
+| **Copa de los Países Bajos (KNVB Beker)** | 14 | 1924, 1928, 1930, 1936, 1940, 1945, 1949, 1954, 1955, 1958, 1959, 1979‑80, 2007‑08, 2015‑16 |
+| **Supercopa de los Países Bajos** | 4 | 1974, 1975, 1976, 1977 |
+| **Copa de Europa (Champions League)** | 1 | 1969‑70 |
+| **Copa de la UEFA (Europa League)** | 2 | 1973‑74, 2001‑02 |
+| **Copa Intercontinental** | 1 | 1970 |
+| **Otros** | 1 Copa de la UEFA (2001‑02) ganada en casa |  |
+
+*Total de títulos oficiales: 39 (35 nacionales, 4 internacionales).*
+
+---
+
+### 6. Jugadores legendarios  
+- **Johan Cruyff** (1974‑84) – jugó en el club antes de su traspaso a Ajax.  
+- **Ernst Happel** (entrenador, 1969‑70) – lideró la conquista de la Copa de Europa y la Intercontinental.  
+- **Wiel Coerver** (entrenador, 1973‑74) – ganó la Copa de la UEFA.  
+- **Bert van Marwijk** (entrenador, 2001‑02) – ganó la Copa de la UEFA.  
+- **Pierre van Hooijdonk, Robin van Persie, Jon Dahl Tomasson** – figuras de la era 2000‑02.  
+- **Roy Makaay, Giovanni van Bronckhorst, Jon Dahl Tomasson** – jugadores destacados en la década de 2010.  
+- **Theo Hernandez** – expulsado en 2025, pero su expulsión permitió el empate 1‑1 contra AC Milan.  
+
+*(El documento no menciona nombres de jugadores actuales, por lo que se omite la lista de plantilla 2025‑26.)*
+
+---
+
+### 7. Rivalidades  
+| Rival | Nombre del clásico | Comentario |
+|-------|--------------------|------------|
+| **Ajax de Ámsterdam** | *De Klassieker* (Clásico de los Países Bajos) | Mayor rivalidad histórica; ambos clubes comparten la tradición de ser los equipos más populares y de la clase alta (Ajax) y la clase obrera (Feyenoord). |
+| **Sparta Rotterdam** | *No se menciona nombre específico* | Rival local dentro de la misma ciudad. |
+| **PSV Eindhoven** | *De Kraker* (El Duelo) | Rivalidad de importancia nacional, con encuentros cargados de emoción. |
+| **Excelsior** | *No se menciona nombre específico* | Rival local adicional en Róterdam. |
+
+---
+
+### 8. Datos actuales (2024‑25)  
+- **Entrenador**: Brian Priske (danés) – último entrenador extranjero antes de la llegada de Priske.  
+- **Liga**: Eredivisie (Países Bajos).  
+- **Situación reciente**:  
+  - Último título de liga en 2023.  
+  - En la temporada 2024‑25, alcanzan octavos de final de la Europa League tras empate 1‑1 contra AC Milan en San Siro (expulsión de Theo Hernandez).  
+  - La plantilla 2025‑26 no se detalla en el documento.  
+
+---
+
+### 9. Datos adicionales  
+- **Temporadas en la Eredivisie**: 69 (1956/57‑2024/25).  
+- **Mejor posición**: 1.º (11 veces).  
+- **Peor posición**: 11.º (2 veces).  
+- **Participaciones en competiciones europeas**: 18 en Champions League, 30 en Europa League, 1 en Europa Conference League.  
+- **Máxima goleada a favor (UEFA)**: 12‑0 contra Rumelange (Esch).  
+- **Máxima goleada en contra (UEFA)**: 5‑0 contra Real Madrid (Madrid).  
+
+---
+
+**Resumen**  
+Feyenoord Rotterdam, fundado en 1908, es el club más popular de los Países Bajos y el tercero en títulos nacionales. Su historia se destaca por la década de 1970, cuando ganó la Copa de Europa, la Copa Intercontinental y la Copa de la UEFA, convirtiéndose en el primer club neerlandés en conquistar los tres torneos internacionales. El estadio *De Kuip* es un ícono del fútbol holandés, con capacidad para más de 51 000 espectadores y sede de finales europeas. El club mantiene rivalidades históricas con Ajax, Sparta y PSV, y sigue siendo una fuerza dominante en la Eredivisie, con su último título en 2023 y una destacada actuación en la Europa League 2024‑25.

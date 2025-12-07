@@ -1,1 +1,121 @@
-[ERROR AL RESUMIR] Liverpool_Football_Club.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 15954, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Liverpool Football Club – Resumen Completo**
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Liverpool Football Club  
+- **Apodo:** The Reds (Los Rojos)  
+- **Fundación:** 6 de junio 1892 (registrado oficialmente por John Houlding)  
+- **Ciudad/País:** Liverpool, Inglaterra  
+
+---
+
+### 2. Estadio  
+- **Nombre:** Anfield  
+- **Capacidad actual:** 61 276 espectadores (expansión 2021‑23)  
+- **Características:**  
+  - Inaugurado 28 septiembre 1884, originalmente para Everton.  
+  - Mástil del SS Great Eastern y bandera del club.  
+  - Grada “Spion Kop” (nombre de la batalla de la Guerra de los Boers).  
+  - Remodelaciones: asientos totales tras Hillsborough (1989), nuevas tribunas (Anfield Road 1998, 2008‑09, 2021‑23).  
+  - Clasificación UEFA 5 estrellas.  
+
+---
+
+### 3. Colores y escudo  
+- **Colores:** Rojo (principal) y blanco (secundario).  
+- **Escudo:** Liverbird (ave mítica) sobre fondo rojo con “You’ll Never Walk Alone” y las Puertas de Shankly.  
+- **Kit:**  
+  - Titular: camiseta, pantalón y medias rojas.  
+  - Suplente: camiseta blanca, pantalón negro, medias blancas.  
+  - Alternativo: camiseta verde azulado, pantalón blanco, medias verde azulado.  
+
+---
+
+### 4. Historia  
+- **Origen:** Creado tras la salida de Everton del Anfield en 1892; John Houlding fundó el club para usar el estadio.  
+- **Primeros años:**  
+  - 1893: ingreso a la Football League Second Division.  
+  - 1901 y 1906: primeros títulos de liga.  
+  - 1914: primera final de FA Cup (derrota 1‑0 a Burnley).  
+- **Era Shankly‑Paisley (1970‑1984):**  
+  - 1973: doblete (liga + Copa de la UEFA).  
+  - 1977‑78: dos Copas de Europa consecutivas.  
+  - 1983‑84: triplete (liga + Copa de la Liga + Copa de Europa).  
+- **Tragedias y sanciones:**  
+  - **Heysel (1985):** 39 muertos, prohibición de 5 años en Europa.  
+  - **Hillsborough (1989):** 97 muertos, reforma de estadios y seguridad.  
+- **Década de los 90:**  
+  - 1992: FA Cup, fundación de la Premier League.  
+  - 1995: quinta Copa de la Liga.  
+- **2000‑2010:**  
+  - 2004‑05: Champions League (final 3‑3 vs AC Milan, penales 3‑2).  
+  - 2005: Copa Mundial de Clubes (victoria 1‑0 vs Flamengo).  
+- **Era Klopp (2015‑2024):**  
+  - 2018‑19: Champions League (victoria 2‑0 vs Tottenham).  
+  - 2019‑20: Premier League (primer título en 30 años).  
+  - 2021‑22: FA Cup, Copa de la Liga, Community Shield; subcampeón de Premier League y Champions League.  
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Fechas clave |
+|-------------|---------|--------------|
+| **Liga (Premier League / First Division)** | 20 | 1901, 1906, 1922‑23, 1965‑66, 1972‑73, 1975‑76, 1976‑77, 1978‑79, 1980‑81, 1981‑82, 1982‑83, 1983‑84, 1984‑85, 1985‑86, 1986‑87, 1987‑88, 1988‑89, 1989‑90, 2019‑20 |
+| **FA Cup** | 8 | 1965, 1974‑75, 1978‑79, 1985‑86, 1991‑92, 2000‑01, 2005‑06, 2019‑20 |
+| **Copa de la Liga** | 10 (más título) | 1971‑72, 1974‑75, 1975‑76, 1976‑77, 1977‑78, 1983‑84, 1985‑86, 1994‑95, 1995‑96, 2000‑01 |
+| **Community Shield** | 16 | 1908, 1909, 1910, 1911, 1912, 1913, 1914, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923 |
+| **Supercopa de la Liga** | 1 | 2000 |
+| **Copa de Europa / Champions League** | 6 | 1977, 1978, 1981, 1984, 2005, 2019 |
+| **Copa de la UEFA / Europa League** | 3 | 1973, 1976, 2001 |
+| **Supercopas de la UEFA** | 4 | 1977, 1984, 2005, 2019 |
+| **Copa Mundial de Clubes** | 1 | 2019 |
+
+---
+
+### 6. Jugadores legendarios  
+- **Ian Callaghan** – 857 partidos (1960‑78)  
+- **Jamie Carragher** – 737 partidos (1995‑2013)  
+- **Steven Gerrard** – 710 partidos (1998‑2016)  
+- **Ian Rush** – 346 goles (1980‑87, 1988‑95)  
+- **Roger Hunt** – 245 goles en liga (1958‑69)  
+- **Michael Owen** – 26 goles en selección inglesa, Balón de Oro 2001  
+- **Kenny Dalglish** – jugador‑entrenador, doblete 1985‑86  
+- **Bob Paisley** – entrenador con 20 títulos (más laureados)  
+
+---
+
+### 7. Rivalidades  
+- **Everton (Derbi de Merseyside)** – rival histórico, 1 km de distancia, 25 goles de Ian Rush en 36 encuentros.  
+- **Manchester United (Derbi del Noroeste)** – rival de la era de la Premier League, 40 títulos de liga combinados, 9 Copas de Europa, 5 Supercopas de la UEFA, 2 Mundiales de Clubes.  
+
+---
+
+### 8. Datos actuales (2024‑25)  
+- **Entrenador:** Arne Slot (holandés, ex‑Feyenoord)  
+- **Liga:** Premier League (posición actual: 4.º)  
+- **Situación reciente:**  
+  - 2023‑24: 5.º en la tabla, 3.º en Champions League (semifinales).  
+  - 2024‑25: 4.º en la tabla, 2.º en Champions League (cuartos de final).  
+- **Presupuesto:** Valoración Forbes 2025: $1 billion (estimado).  
+- **Estadio:** Anfield, capacidad 61 276 tras expansión 2021‑23.  
+
+---
+
+### 9. Infraestructura adicional  
+- **Campo de entrenamiento:** Melwood (gimnasio, piscina).  
+- **Academia juvenil:** Kirkby (desde 1998).  
+- **Club de socios:** 200 000 seguidores oficiales, 50 países.  
+
+---
+
+### 10. Otros datos relevantes  
+- **Himno:** “You’ll Never Walk Alone” (cantado desde 1964).  
+- **Tragedias:** Heysel (1985) y Hillsborough (1989) son dos de los peores desastres del fútbol.  
+- **Propiedad:** Fenway Sports Group (desde 2010).  
+- **Finanzas:** 2023 ingresos €350 millones, 2024 EBITDA €120 millones.  
+
+---
+
+**Resumen final:**  
+El Liverpool Football Club, fundado en 1892 y con sede en Anfield, es el club inglés con más títulos oficiales (70) y el segundo más laureado internacionalmente (14). Su historia está marcada por la era dorada de Shankly y Paisley, las tragedias de Heysel y Hillsborough, y la reciente era de Klopp que trajo la Premier League y la Champions League. Con un estadio emblemático, un escudo con el Liverbird y el himno “You’ll Never Walk Alone”, el club mantiene una base de seguidores global y una rivalidad intensa con Everton y Manchester United. Actualmente, bajo la dirección de Arne Slot, el equipo compite en la Premier League y la Champions League, continuando su legado de excelencia y pasión.

@@ -1,1 +1,150 @@
-[ERROR AL RESUMIR] Clube_de_Regatas_do_Flamengo.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 16041, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Clube de Regatas do Flamengo – Resumen Completo y Detallado**  
+
+---
+
+### 1. Identidad del club  
+| Elemento | Información |
+|----------|-------------|
+| **Nombre completo** | Clube de Regatas do Flamengo (Club de Regatas Flamengo) |
+| **Apodo / Identidad popular** | Nação Rubro‑Negra (la “Nación Escarlata‑Negra”) |
+| **Fundación** | 15 noviembre 1895 (fecha celebrada oficialmente; el club se fundó el 17 noviembre) |
+| **Ciudad / País** | Río de Janeiro, Brasil |
+| **Segmento original** | Remo (club de remo) |
+| **Fundadores** | Nestor de Barros, José Agostinho Pereira da Cunha, Mário Spíndola, Augusto Lopes, José Félix da Cunha Meneses, Felisberto Laport (entre otros) |
+| **Sede social** | Barrio de Flamengo, Río de Janeiro |
+
+---
+
+### 2. Estadio  
+| Característica | Detalle |
+|-----------------|---------|
+| **Nombre** | Estádio Jornalista Mário Filho – “Maracanã” |
+| **Capacidad** | Aproximadamente 92 000 espectadores (post‑reforma 2007) |
+| **Asistencia récord** | 194 603 espectadores (final del Campeonato Carioca 1963, Fla‑Flu) |
+| **Primer partido en el Maracanã** | 3 – 1 sobre Bangu (amistoso) |
+| **Partido más abultado** | 12 – 2 sobre São Cristóvão (1956) |
+| **Uso** | Local de todos los partidos de fútbol del club |
+
+---
+
+### 3. Colores y escudo  
+| Elemento | Descripción |
+|----------|-------------|
+| **Colores oficiales** | Rojo y negro (camiseta a rayas horizontales), blanco (pantalón) |
+| **Uniforme principal** | Camiseta roja‑negra a rayas horizontales, pantalón blanco, medias rojas‑negras |
+| **Uniforme alternativo** | Camiseta blanca con detalles rojos‑negros, pantalón negro, medias blancas |
+| **Escudo** | Monograma “CRF” entrelazado en la esquina superior izquierda; ocho bandas horizontales negras y rojas; tres estrellas blancas (representan los tres tricampeonatos cariocas 1942‑44, 1953‑55, 1978‑79) y una estrella dorada (representa la Copa Libertadores 1981) |
+| **Variantes** | Escudo completo (logotipo oficial), escudo de remo (para competiciones de remo), monograma blanco “CRF” (para la camiseta principal) |
+
+---
+
+### 4. Historia  
+#### 4.1 Orígenes y fundación  
+- El club nació como una asociación de remo en el barrio de Flamengo, Río de Janeiro.  
+- El 6 octubre 1895 el grupo intentó navegar con el barco “Pherusa”; tras un rescate y robos, compraron el “Etoile” y luego el “Scyra”.  
+- El 17 noviembre 1895 se formalizó el **Clube de Regatas do Flamengo**; el 15 noviembre se convirtió en el día de celebración oficial.  
+
+#### 4.2 Fútbol (1912‑actualidad)  
+- **1912**: debut en el Campeonato Carioca (victoria 15 – 2 sobre Mangueira).  
+- **1914**: primer Campeonato Carioca.  
+- **Tricampeonatos cariocas**: 1942‑44, 1953‑55, 1978‑79 (especial).  
+- **1971‑actualidad**: el único club que ha jugado todas las ediciones de la Serie A brasileña en su era moderna.  
+- **26 julio 2009**: primer equipo en alcanzar 1 000 partidos en la Serie A.  
+- **1979**: récord de 52 partidos invictos junto a Botafogo.  
+
+#### 4.3 Épocas doradas  
+- **1980‑1981**: primer Campeonato Brasileño (1980) y Copa Intercontinental (1981).  
+- **1981**: Copa Libertadores (1981) y Copa Intercontinental (3 – 0 sobre Liverpool).  
+- **2019**: doble consagración en 24 horas (Copa Libertadores y Campeonato Brasileño).  
+- **2022**: tercera Copa Libertadores.  
+- **2025**: cuarta Copa Libertadores y noveno Campeonato Brasileño.  
+
+#### 4.4 Evolución del club  
+- De remo a multi‑deporte: además del fútbol, el club ha destacado en baloncesto, voleibol, remo, waterpolo, natación, gimnasia olímpica y esports.  
+- En 2018 se convirtió en el club más valioso de Brasil y en 2019 el más valioso de Sudamérica.  
+
+---
+
+### 5. Palmarés  
+#### 5.1 Títulos nacionales (18)  
+| Competencia | Títulos | Años |
+|-------------|---------|------|
+| Campeonato Brasileño | 9 | 1980, 1982, 1983, 1987, 1992, 1995, 2009, 2019, 2025 |
+| Copa do Brasil | 5 | 1990, 2006, 2013, 2022, 2025 |
+| Supercopa do Brasil | 3 | 2020, 2021, 2025 |
+| Copa dos Campeões | 1 | 2001 |
+
+#### 5.2 Títulos internacionales (26)  
+| Competencia | Títulos | Años |
+|-------------|---------|------|
+| Copa Libertadores | 4 | 1981, 2019, 2022, 2025 |
+| Copa Intercontinental | 1 | 1981 |
+| Recopa Sudamericana | 1 | 2020 |
+| Copa de Oro Nicolás Leoz | 1 | 1996 |
+| Copa Mercosur | 1 | 1999 |
+| Copa Sudamericana | 0 (participaciones) |
+| Supercopa Sudamericana | 0 (participaciones) |
+| Copa Mundial de Clubes (FIFA) | 0 (subcampeonato 2019) |
+
+#### 5.3 Títulos regionales (39)  
+| Competencia | Títulos | Años |
+|-------------|---------|------|
+| Campeonato Carioca | 39 | 1914‑2025 (incluye 23 Copas Guanabara) |
+| Copa de Campeões Río‑São Paulo | 1 | 1956 |
+| Torneo Río‑São Paulo | 1 | 1961 |
+
+#### 5.4 Otros logros deportivos  
+- **Baloncesto**: 8 campeonatos nacionales, 1 mundial (2014, 2022), 1 sudamericano (1953), 2 de las Américas (2014, 2021).  
+- **Remo**: Campeón brasileño 2010, 2011, 2015.  
+- **Waterpolo**: Campeón sudamericano 1993.  
+- **Natación**: Varios trofeos nacionales y estatales.  
+
+---
+
+### 6. Jugadores legendarios (referidos en el documento)  
+| Jugador | Contribución / Hitos |
+|---------|----------------------|
+| **Zico** | Goleador en el Fla‑Flu 1979 (2 – 1 sobre Fluminense). |
+| **Cláudio Adão** | Goleador en el Clássico de la Rivalidad 1978 (2 – 1 sobre Botafogo). |
+| **Júlio César** | Goleador en el Fla‑Flu 1979. |
+| **Gabigol** | Doble gol en la final de la Copa Libertadores 2019 (2 – 1 sobre River Plate). |
+| **Gabriel** | Parte de la plantilla 2019‑2025 (no se menciona en el documento, pero se incluye por su relevancia actual). |
+
+> *Nota*: El documento no enumera exhaustivamente a todos los ídolos históricos; los jugadores citados son los que aparecen en los registros de partidos y logros.
+
+---
+
+### 7. Rivalidades  
+| Rival | Nombre del clásico | Contexto / Datos clave |
+|-------|--------------------|------------------------|
+| **Vasco da Gama** | Clássico dos Milhões (Clásico de los Millones) | Mayor rivalidad de Río de Janeiro; ambos clubes tienen la mayor afición del país. |
+| **Fluminense** | Fla‑Flu | Rivalidad internacionalmente reconocida; primera confrontación 1912; 1942‑44, 1953‑55, 1978‑79 tricampeonatos. |
+| **Botafogo** | Clássico da Rivalidade (Clásico de la Rivalidad) | Derbi histórico; ambos clubes han aportado más jugadores a la Selección Brasileña. |
+| **Atlético Mineiro** | Superclássico do Brasil (interescolar) | Rivalidad interestatal; encuentros en la final de la Copa Libertadores 1980 y en la Serie A. |
+| **Palmeiras** | Superclássico do Brasil | Rivalidad financiera y competitiva; ambos son los equipos más poderosos de Brasil. |
+| **Corinthians** | Encontro das Nações | Los dos clubes con mayor afición; 156 partidos totales, 241 goles para Flamengo. |
+
+---
+
+### 8. Datos actuales (2025)  
+| Elemento | Información |
+|----------|-------------|
+| **Entrenador** | No especificado en el documento. |
+| **Liga** | Campeonato Brasileño de Serie A (Serie A). |
+| **Situación reciente** | - **Campeón** del Campeonato Brasileño 2025 (noveno título).<br>- **Campeón** de la Copa Libertadores 2025 (cuarto título).<br>- **Campeón** de la Supercopa de Brasil 2025 (tercer título).<br>- **Subcampeón** de la Copa Mundial de Clubes 2025 (participación). |
+| **Valor del club** | 145,7 millones de euros (70.º club más valioso del mundo). |
+| **Afición** | 45 millones de simpatizantes (según IBOPE). |
+| **Estadísticas de rendimiento** | - Copa Libertadores: 64 % de puntos (3 puntos por victoria).<br>- Copa do Brasil: mejor rendimiento promedio (victorias más altas, derrotas más bajas). |
+
+---
+
+### 9. Otros datos relevantes  
+- **Mascota**: “Urubu” (buitre), oficializado en 2008 como “Uruba” y “Urubinha”.  
+- **Himnos**: “Flamengo, tu gloria es luchar” (oficial) y “Una vez Flamengo siempre Flamengo” (popular).  
+- **Embajadas de la Nación Rojinegra**: proyecto institucional que apoya manifestaciones espontáneas de la afición.  
+- **Reconocimientos**: 9.º club de fútbol más grande del siglo XX (FIFA), 1.º club brasileño en títulos nacionales e internacionales (empatado con Palmeiras).  
+
+---
+
+**Resumen final**  
+El Clube de Regatas do Flamengo, fundado en 1895 en Río de Janeiro, es el club deportivo más antiguo de Brasil con una identidad marcada por el rojo y negro, el monograma CRF y la “Nación Rubro‑Negra”. Desde sus inicios como club de remo, el Flamengo se ha convertido en un gigante del fútbol y de otros deportes, con 26 títulos internacionales y 18 nacionales, incluyendo cuatro Copas Libertadores y la Copa Intercontinental 1981. Su estadio, el Maracanã, alberga la mayor asistencia de la historia del fútbol brasileño. La rivalidad con Vasco, Fluminense y Botafogo define su carácter competitivo, mientras que su afición, la más grande del mundo, respalda al club en cada partido. En 2025, el Flamengo sigue dominando la escena brasileña y sudamericana, consolidándose como el club más valioso y exitoso de Brasil.

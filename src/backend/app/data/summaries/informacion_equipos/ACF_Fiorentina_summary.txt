@@ -1,1 +1,234 @@
-[ERROR AL RESUMIR] ACF_Fiorentina.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96952, Requested 14793. Please try again in 2h49m7.68s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Identidad del club**
+
+La Associacione Calcio Firenze Fiorentina, comúnmente llamada solo Fiorentina, es una agrupación deportiva con sede en Florencia, en la región de la Toscana, Italia. Fue fundada como un club de fútbol el 29 de agosto de 1926 bajo el nombre de Associazione Calcio Firenze. Desaparecido en 2002 por una fuerte crisis financiera, es refundado el mismo mes bajo el nombre de Fiorentina 1926 Florentia antes de adoptar su actual denominación en 2003.
+
+**Estadio**
+
+El equipo disputa sus encuentros como local desde 1931 en el Estadio Artemio Franchi, el cual cuenta con una capacidad aproximada de 47 300 espectadores, el sexto de mayor capacidad de Italia. El recinto es considerado como una de las obras arquitectónicas más influyentes del racionalismo italiano y de la ciudad.
+
+**Colores y escudo**
+
+La ACF Fiorentina es identificada por su color púrpura, del que recibe el apelativo de «viola». El equipo vistió una camisa de tono rojo oscuro de manera provisional en sus primeros partidos, antes de adoptar oficialmente la camisa cuartelada rojiblanca.
+
+**Historia**
+
+La historia de la ACF Fiorentina se remonta a 1898, cuando nació el Florence Football Club, una asociación reservada únicamente a aristócratas y en su mayoría descendientes anglosajones residentes de la ciudad. El club fue el primero en la ciudad en ser fundado bajo las normas inglesas del fútbol asociación actual. A lo largo de los años sucesivos se crearon y disolvieron multitud de asociaciones deportivas sin que ninguna de ellas lograse consolidarse en el ámbito nacional.
+
+La ACF Fiorentina fue fundada en 1926 como resultado de la fusión de dos clubes deportivos: el Palestra Ginnastica Libertas y el Club Sportivo Firenze. El equipo disputó su primer encuentro en 1926 y se unió a la Primera División de Italia en 1927. En 1931, el equipo ganó la Serie B y ascendió a la Serie A, donde se mantuvo hasta 1935.
+
+La ACF Fiorentina experimentó un período de altibajos en la década de 1930, pero en la década de 1940, el equipo comenzó a mejorar y ganó su primer título, la Copa Italia en 1940. En la década de 1950, el equipo ganó su primer Scudetto en 1955-56, con una participación impresionante en la que únicamente registró una derrota.
+
+**Palmarés**
+
+* 2 títulos de Liga (Scudetti): 1955-56 y 1968-69
+* 5 subcampeonatos de Liga
+* 6 Copas de Italia
+* 1 Supercopa
+* 1 Recopa de Europa (1960-61)
+* 1 subcampeonato de la Recopa de Europa (1961-62)
+* 1 subcampeonato de la Liga Conferencia de la UEFA (2022-23 y 2023-24)
+
+**Jugadores legendarios**
+
+* Júlio Botelho Julinho
+* Giuliano Sarti
+* Ardico Magnini
+* Sergio Cervato
+* Giuseppe Chiappella
+* Francesco Rosetta
+* Armando Segato
+* Miguel Montuori
+* Giuseppe Virgili
+* Guido Gratton
+* Maurilio Prini
+
+**Rivalidades**
+
+* Clásicos con el A. C. Milan y el Juventus F. C.
+* Rivalidades con el A. S. Roma y el Inter de Milán
+
+**Datos actuales**
+
+* Entrenador: [No especificado]
+* Liga: Serie A
+* Situación reciente: [No especificado]
+
+**Historia de la ACF Fiorentina**
+
+**Época dorada (1955-1969)**
+
+La historia de la ACF Fiorentina se consumó con una increíble participación en la temporada 1955-1956, en la que únicamente registró una derrota, ya con el campeonato decidido y en la última jornada de la competición. La estrella del equipo era entonces el extremo derecho brasileño Júlio Botelho Julinho, quien ya había destacado en la Copa Mundial de Suiza 1954. El ariete estuvo acompañado por grandes jugadores como Giuliano Sarti, Ardico Magnini, Sergio Cervato, Giuseppe Chiappella, Francesco Rosetta, Armando Segato, Miguel Montuori, Giuseppe Virgili, Guido Gratton o Maurilio Prini entre otros.
+
+En la campaña siguiente, la escuadra viola pasó a ser el segundo equipo italiano en disputar la Copa de Europa de la UEFA y el primero del país que disputaba la final de la máxima competición de clubes de Europa. Tras deshacerse del I. K. Norrköping de Suecia, del Grasshopper Club de Suiza y del F. K. Crvena Zvezda de Yugoslavia, los italianos se enfrentaron en la final con el Real Madrid Club de Fútbol de Alfredo Di Stéfano, Paco Gento, Héctor Rial, Miguel Muñoz y Raymond Kopa. Los italianos realizaron un buen partido frente a los españoles, quienes se encontraban en lo alto del fútbol europeo, y consiguieron aguantar hasta los últimos instantes del partido.
+
+**Títulos y éxitos**
+
+En la temporada 1960-1961, la ACF Fiorentina logró su primer título de Liga y su segundo scudetto en la historia del club. Al año siguiente, y debido al campeonato de Copa logrado en 1961, volvió a disputar la competición que en su segunda edición fue a todos los efectos organizada ya por el máximo organismo europeo de fútbol. El vigente campeón se deshizo en su camino a la final del S. K. Rapid Wien austríaco, del DSO Dynamo Žilina checoslovaco y del Újpesti Dózsa húngaro.
+
+En 1962, la ACF Fiorentina logró su primer título en la Recopa de Europa, conquistando el título por un 4-1 global frente al Glasgow Rangers escocés. Al año siguiente, y debido al campeonato de Copa logrado en 1961, volvió a disputar la competición que en su segunda edición fue a todos los efectos organizada ya por el máximo organismo europeo de fútbol.
+
+**Declive y retorno a la élite**
+
+En la década de 1970, la ACF Fiorentina comenzó a declinar, aunque siguió siendo un equipo importante en la Serie A. En la temporada 1975-1976, el club logró un subcampeonato de la Copa anglo-italiana y un campeonato de la Copa de la Liga anglo-italiana. En 1977, la ACF Fiorentina logró un tercer puesto en el campeonato de Liga.
+
+En la década de 1980, la ACF Fiorentina siguió siendo un equipo importante en la Serie A, aunque no logró ningún título importante. En 1982, el club llegó a la final de la Copa de la UEFA, aunque perdió contra la Juventus F. C. En 1989, la ACF Fiorentina llegó a la final de la Copa de la UEFA, aunque perdió contra la Juventus F. C. de nuevo.
+
+**Vuelta a la élite italiana**
+
+En 1994, la ACF Fiorentina regresó a la Serie A después de un descenso de dos años. El club contrató a jugadores como Rui Costa y Gabriel Batistuta, que llevaron al equipo a recuperar la senda de los títulos. En la temporada 1995-1996, la ACF Fiorentina logró un tercer puesto en la Serie A y un campeonato de Copa. En la temporada 1996-1997, el club llegó a las semifinales de la Recopa de Europa, aunque fue eliminado por el F. C. Barcelona.
+
+**Jugadores legendarios**
+
+* Júlio Botelho Julinho
+* Giuliano Sarti
+* Ardico Magnini
+* Sergio Cervato
+* Giuseppe Chiappella
+* Francesco Rosetta
+* Armando Segato
+* Miguel Montuori
+* Giuseppe Virgili
+* Guido Gratton
+* Maurilio Prini
+* Giancarlo De Sisti
+* Amarildo
+* Salvatore Esposito
+* Mario Maraschi
+* Francesco Rizzo
+* Ugo Ferrante
+* Giancarlo Antognoni
+* Giovanni Galli
+* Daniel Bertoni
+* Francesco Graziani
+* Daniele Massaro
+* Roberto Baggio
+* Gabriel Batistuta
+* Rui Costa
+
+**Historia de la ACF Fiorentina**
+
+La ACF Fiorentina ha tenido una rica historia desde su fundación en 1926. En la década de 1990, el club experimentó un renacimiento bajo la dirección de técnicos como Claudio Ranieri y Nevio Scala, quienes lograron clasificar al equipo para la Copa de la UEFA en 1996 y la Liga de Campeones de la UEFA en 1999.
+
+En la temporada 1999-2000, el club ganó su primer título de Copa en 19 años, derrotando al Atalanta Bergamasca Calcio en la final. La victoria les permitió disputar la Supercoppa di Lega, que también ganaron, derrotando a la A. C. Milan.
+
+La década de 2000 fue marcada por una crisis financiera que llevó al club a la quiebra y a su descenso a la Serie B. Sin embargo, gracias a una maniobra de los dirigentes, el club fue refundado y se convirtió en el Fiorentina 1926 Florentia, que más tarde se convirtió en la Associazione Calcio Firenze Fiorentina.
+
+La temporada 2003-04 fue un punto de inflexión para el club, ya que lograron ascender a la Serie A después de una promoción contra el Perugia Calcio. En la temporada 2005-06, el club fue reforzado con la llegada de jugadores como Giuseppe Pancaro, Luca Toni y Riccardo Montolivo, lo que les permitió clasificar para la Liga de Campeones de la UEFA.
+
+Sin embargo, el club fue involucrado en el escándalo de amaños de partidos conocido como "Calciopoli", lo que les llevó a perder 30 puntos y a ser relegados a la Serie B. A pesar de esto, el club logró clasificar para la Copa de la UEFA en la temporada 2006-07 y llegó a las semifinales de la competición.
+
+En la temporada 2007-08, el club logró clasificar para la Liga de Campeones de la UEFA por segundo año consecutivo y llegó a los octavos de final de la competición. En la temporada 2008-09, el club logró clasificar para la Liga Europa de la UEFA y llegó a los octavos de final de la competición.
+
+En la temporada 2014-15, el club logró clasificar para la Liga Europa de la UEFA y llegó a los octavos de final de la competición. En la temporada 2015-16, el club logró clasificar para la Liga Europa de la UEFA y llegó a las semifinales de la competición.
+
+En la temporada 2021-22, el club logró clasificar para la UEFA Conference League y llegó a la final de la competición, donde perdió contra el West Ham United.
+
+**Símbolos de la ACF Fiorentina**
+
+El escudo de la ACF Fiorentina ha sido objeto de numerosos cambios a lo largo de su historia. El último y actual emblema del club fue aprobado en 1991 y consiste en un lirio florentino estilizado en un campo blanco, dentro de una frontera en forma de rombo de bordes dorados. Las iniciales del club (rojas y blancas en un fondo púrpura) se encuentran en un espacio inferior del emblema.
+
+**Identidad del club**
+
+* Nombre completo: Associazione Calcio Firenze Fiorentina
+* Apodo: Viola
+* Año de fundación: 1926
+* Ciudad/país: Florencia, Italia
+
+**Estadio**
+
+* Nombre: Stadio Comunale Artemio Franchi
+* Capacidad: 47 282 espectadores
+* Características: Construido en 1931, diseñado por Pier Luigi Nervi, uno de los ejemplos más relevantes de la arquitectura del siglo XX en Florencia.
+
+**Colores y escudo**
+
+* Colores: Púrpura, blanco y rojo
+* Escudo: El escudo de la Fiorentina es un lirio florentino estilizado en un campo blanco, con bordes dorados y las iniciales del club en un fondo púrpura.
+
+**Historia**
+
+* La Fiorentina fue fundada en 1926 a partir de la fusión de dos clubes predecesores.
+* El club ha tenido hasta 30 diferentes bocetos de escudo a lo largo de su historia.
+* El último y actual emblema del club fue aprobado en 1991.
+* La Fiorentina ha sido refundada en 2002 y ha cambiado de nombre varias veces.
+
+**Palmarés**
+
+* Títulos nacionales:
+ + 2 Scudetti (1956, 1957)
+ + 6 Copas de Italia (1960-61, 1965-66, 1974-75, 1995-96, 2000-01, 2001-02)
+ + 1 Supercopa de Italia (1996)
+* Títulos internacionales:
+ + 1 Copa de Europa (1960-61)
+ + 1 Copa de la UEFA (1960-61)
+ + 1 Copa Intertoto (1998)
+* Otros logros:
+ + 1 Recopa de la UEFA (1960-61)
+ + 1 Copa Latina (1957)
+ + 1 Copa Mitropa (1957)
+
+**Jugadores legendarios**
+
+* Armando Segato
+* Claudio Merlo
+* Renzo Contratto
+* Mario Mazzoni
+* Gabriel Batistuta
+* Giancarlo Antognoni
+* Kurt Hamrin
+* Egisto Pandolfini
+* Giuseppe Chiappella
+* Vittorio Staccione
+* Mario Pizziolo
+* Giuseppe Brizi
+* Christian Riganò
+* Bruno Pesaola
+* Giovanni Galli
+* Italo Bandini
+* Stefano Borgonovo
+* Ferruccio Valcareggi
+* Giancarlo De Sisti
+* Giuliano Sarti
+* Ardico Magnini
+* Francesco Rosetta
+* Alberto Orzan
+* Giuseppe Virgili
+* Júlio Botelho Julinho
+* Amarildo
+* Daniel Passarella
+* Daniel Bertoni
+* Francesco Graziani
+* Pietro Vierchowod
+* Daniele Massaro
+* Luca Toni
+* Rui Costa
+* Adrian Mutu
+* Edmundo
+* Dunga
+* Juan Manuel Vargas
+* Miguel Montuori
+* Pedro Petrone
+* Sergio Cervato
+* Francesco Toldo
+* Manuel Pasqual
+* Enrico Albertosi
+* Angelo Di Livio
+* Roberto Baggio
+* Luciano Chiarugi
+* Alberto Gilardino
+* Alberto Galassi
+* Gianfranco Petris
+* Aurelio Milani
+* Alberto Orlando
+
+**Rivalidades**
+
+* Derby toscano: La Fiorentina tiene rivalidades con varios equipos de la región, incluyendo ACN Siena 1904, Associazione Calcio Pisa 1909, Empoli Football Club y Associazione Sportiva Livorno Calcio.
+* Derby dell'Appennino: La Fiorentina tiene una rivalidad con el Bologna Football Club 1909.
+* Rivalidad con Juventus: La Fiorentina tiene una rivalidad con el Juventus Football Club, que se remonta a los años 1920.
+
+**Datos actuales**
+
+* Entrenador: Giuseppe Iachini
+* Liga: Serie A
+* Situación reciente: La Fiorentina ha tenido un rendimiento irregular en la Serie A en los últimos años, pero sigue siendo un equipo importante en la competición.

@@ -1,1 +1,133 @@
-[ERROR AL RESUMIR] Eurocopa.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6125, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Eurocopa – Campeonato Europeo de la UEFA**
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial:** Campeonato Europeo de la UEFA (UEFA European Championship).  
+- **Denominación popular:** Eurocopa o simplemente EURO.  
+- **Tipo:** Torneo internacional de selecciones nacionales masculinas y femeninas, organizado cada cuatro años por la UEFA.
+
+---
+
+### 2. Formato  
+| Edición | Número de equipos en fase final | Fases | Observaciones |
+|---------|---------------------------------|-------|---------------|
+| 1958‑1960 | 4 | Semifinales + Final | Selección de semifinalistas por sorteo. |
+| 1960‑1976 | 8 | Cuartos, Semifinales + Final | Aumento gradual de participantes. |
+| 1980‑1992 | 8 | Cuartos, Semifinales + Final | Anfitrión exento de clasificación. |
+| 1996‑2016 | 16 | Octavos, Cuartos, Semifinales + Final | Introducción de octavos de final. |
+| 2016‑2024 | 24 | Octavos, Cuartos, Semifinales + Final | Expansión a 24 equipos. |
+
+- **Fase de clasificación:**  
+  - Se organiza en grupos de 4–5 equipos.  
+  - Los primeros de cada grupo avanzan directamente; los segundos y terceros compiten en play‑offs (desde 1996).  
+  - Desde 2018 se añade la **Liga de Naciones de la UEFA** como vía alternativa de clasificación.  
+- **Anfitrión:**  
+  - Desde 1980 el país anfitrión se clasifica automáticamente.  
+  - 2020 fue la única edición con más de dos anfitriones (España, Francia, Portugal).  
+- **Formato de partidos:** 90 minutos, prórroga de 30 minutos (2×15) y penales si es necesario.
+
+---
+
+### 3. Historia  
+- **Origen (1927‑1957):** Henri Delaunay y Hugo Meisl propusieron un campeonato europeo inspirado en la Copa América.  
+- **Primer torneo (1958‑1960):** Se celebró en Francia; 17 equipos compitieron en eliminatorias.  
+- **Cambios de nombre:**  
+  - 1958‑1968: Copa de Europa de Naciones.  
+  - 1968‑1992: Campeonato Europeo de Naciones.  
+  - 1992‑hoy: Eurocopa/Euro.  
+- **Expansión de participantes:**  
+  - 1964: 29 equipos en fase clasificatoria.  
+  - 1996: 16 equipos en fase final.  
+  - 2016: 24 equipos en fase final.  
+- **Títulos más destacados:**  
+  - España: 4 títulos (2012, 2016, 2020, 2024).  
+  - Alemania: 3 títulos (1972, 1980, 1996).  
+  - Italia, Francia, Portugal, España, Alemania, entre otros, han ganado al menos una edición.
+
+---
+
+### 4. Equipos participantes  
+- **Total de selecciones que han clasificado a la fase final (hasta 2024):** 34.  
+- **Participantes más frecuentes en fase final:**  
+  - Alemania, España, Francia, Italia, Portugal, Inglaterra.  
+- **Participantes en fase clasificatoria:** 55 selecciones distintas han intentado clasificarse.  
+- **Anfitriones históricos:** Francia (1960), España (1964), Italia (1968), Bélgica (1972), Yugoslavia (1976), España (1980), Francia (1984), Alemania (1988), España (1992), Italia (1996), España (2000), Francia (2004), Grecia (2008), Alemania (2012), España (2016), Portugal (2020), España (2024).
+
+---
+
+### 5. Sistema de clasificación  
+- **Anfitrión:** Exento de fase clasificatoria.  
+- **Clasificación directa:** Primeros de cada grupo de la fase de clasificación.  
+- **Play‑offs:** Desde 1996, segundos y terceros de cada grupo compiten en rondas de play‑off (2×1).  
+- **Liga de Naciones (desde 2018):** Ofrece una vía alternativa de clasificación para equipos que no avanzan en las eliminatorias tradicionales.  
+- **Cambios políticos:** La disolución de la Unión Soviética, Checoslovaquia y Yugoslavia aumentó el número de equipos en la fase clasificatoria (hasta 49 en 2000).  
+- **Incidencias recientes:**  
+  - Gibraltar (2016) y Kosovo (2020) generaron controversias y vetos de partidos por parte de España y Serbia, respectivamente.
+
+---
+
+### 6. Premios  
+- **Título de campeón:**  
+  - Eurocopa de la UEFA.  
+  - Clasificación a la fase final de la Copa Mundial de la FIFA (en la edición correspondiente).  
+- **Tercer lugar:**  
+  - Desde 1984 el partido de definición del tercer lugar se elimina; el título se comparte entre los semifinalistas.  
+- **Equipo ideal del torneo:**  
+  - Selección de 23 jugadores elegidos por el Grupo de Estudios Técnicos de la UEFA.  
+  - Desde 2004 se mantiene la plantilla de 23 jugadores.  
+- **Mejor jugador del torneo:**  
+  - Otorgado desde 1996.  
+- **Máximo goleador:**  
+  - Cristiano Ronaldo (14 goles en fase final, 41 en clasificatorias).  
+
+---
+
+### 7. Récords y estadísticas  
+| Categoría | Récord | Detalle |
+|-----------|--------|---------|
+| **Títulos** | España | 4 (2012, 2016, 2020, 2024) |
+| **Goles en fase final** | Cristiano Ronaldo | 14 (5 ediciones) |
+| **Partidos en fase final** | Cristiano Ronaldo | 30 (6 ediciones) |
+| **Goles en fase clasificatoria** | Cristiano Ronaldo | 41 |
+| **Máximo goleador en fase de grupos** | Cristiano Ronaldo | 11 |
+| **Máximo goleador en fase de eliminatorias** | Harry Kane | 6 |
+| **Participaciones en fase final** | Cristiano Ronaldo | 74 (incluye clasificatorias) |
+| **Participaciones en fase final (solo finales)** | Cristiano Ronaldo | 30 |
+| **Equipo con más selecciones en equipo ideal** | Alemania | 37 |
+| **Equipo con más jugadores en equipo ideal** | España | 28 |
+| **Equipo con más jugadores en equipo ideal (última edición 2024)** | España | 6 |
+| **Máximo goleador histórico** | Cristiano Ronaldo | 14 goles en fase final |
+| **Máximo goleador en fase de grupos** | Michel Platini | 7 |
+| **Máximo goleador en fase de eliminatorias** | Harry Kane | 6 |
+
+- **Puntuación histórica (hasta 2024):** Alemania lidera con 94 puntos; España ocupa el segundo lugar con 89 puntos.  
+- **Títulos de la UEFA en la Eurocopa:** 33 selecciones han ganado al menos una edición; 13 han llegado a la final.
+
+---
+
+### 8. Datos curiosos y cambios recientes  
+- **Primer partido oficial:** 29 septiembre 1958, Estadio Lenin de Moscú, 100 572 espectadores.  
+- **Primer gol:** Anatoli Ilyin (URSS).  
+- **Primer título:** Unión Soviética (1960).  
+- **Expansión a 24 equipos:** 2016, con 8 grupos de 3 equipos en la fase final.  
+- **Anfitrión con más títulos:** España (4).  
+- **Cambios de formato:**  
+  - 1968 introdujo grupos de clasificación.  
+  - 1996 añadió octavos de final y play‑offs.  
+  - 2018 introdujo la Liga de Naciones de la UEFA.  
+- **Premios recientes:** En 2024, el equipo ideal incluyó a 11 jugadores de España, 1 de Inglaterra, 2 de Francia, 1 de Alemania y 1 de Suiza.
+
+---
+
+### 9. Resumen de la última edición (2024)  
+- **Anfitrión:** España.  
+- **Campeón:** España (derrotó a Inglaterra 2‑1 en la final).  
+- **Equipo ideal 2024:** 23 jugadores, 6 de España, 1 de Inglaterra, 2 de Francia, 1 de Alemania, 1 de Suiza.  
+- **Mejor jugador 2024:** (no especificado en el documento).  
+- **Máximo goleador 2024:** (no especificado en el documento).  
+
+---
+
+**Conclusión**  
+La Eurocopa es el torneo de selecciones nacionales más prestigioso de Europa, con una rica historia que refleja la evolución del fútbol continental y los cambios políticos del continente. Desde su inicio en 1958, ha pasado de un pequeño encuentro entre cuatro equipos a un evento global que reúne a 24 selecciones en la fase final, con un formato complejo que combina grupos, play‑offs y, recientemente, la Liga de Naciones de la UEFA. España se destaca como la selección con más títulos, mientras que jugadores como Cristiano Ronaldo han dejado su huella como máximos goleadores y participantes más frecuentes. Los premios, tanto individuales como colectivos, siguen siendo un elemento central que celebra la excelencia futbolística en cada edición.

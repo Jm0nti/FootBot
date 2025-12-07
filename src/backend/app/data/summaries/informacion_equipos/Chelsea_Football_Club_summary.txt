@@ -1,1 +1,127 @@
-[ERROR AL RESUMIR] Chelsea_Football_Club.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 20456, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Chelsea Football Club – Resumen Completo (2025‑26)**  
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Chelsea Football Club  
+- **Apodo:** Los Blues (Blue)  
+- **Fundación:** 10 marzo 1905  
+- **Ubicación:** Distrito de Fulham, Londres, Inglaterra  
+- **Afición:** 152,9 millones de seguidores en redes sociales (octavo club más seguido a nivel mundial)  
+- **Ranking de asistencia:** 5.º mejor promedio en el fútbol británico  
+
+---
+
+### 2. Estadio – Stamford Bridge  
+- **Capacidad oficial:** 41 837 espectadores (aprox. 41 000)  
+- **Historia:**  
+  - Inaugurado el 28 abril 1877 como estadio de atletismo.  
+  - Adquirido en 1904 por Gus y Joseph Mears; el club se fundó para ocuparlo.  
+  - Remodelaciones: 1970‑80 (modernización a 60 000 asientos), 1990‑2001 (reconstrucción de los lados norte, oeste y sur con asientos individuales).  
+  - **Características:**  
+    - “Shed End” (sector sur) con techo tipo cobertizo, hogar de los seguidores más leales.  
+    - Acceso principal por Fulham Road; restricciones de higiene y seguridad.  
+    - Propiedad del club a través de Chelsea Pitch Owners, una organización sin ánimo de lucro con socios aficionados.  
+  - **Futuro:** Se ha debatido la construcción de un nuevo estadio de 80 000 plazas, pero el proyecto permanece suspendido.  
+
+---
+
+### 3. Colores y escudo  
+- **Colores tradicionales:**  
+  - Camiseta y pantalón azul real (royal blue).  
+  - Medias blancas.  
+- **Escudo:**  
+  - León rampante sosteniendo un bastón, derivado del escudo del barrio de Chelsea.  
+  - Versión original en los años 1950; última modificación en 2005.  
+  - El escudo ha pasado por seis versiones a lo largo de la historia, reflejando cambios de estilo y modernización.  
+
+---
+
+### 4. Historia – Momentos clave  
+| Periodo | Eventos destacados |
+|---------|--------------------|
+| **1905‑1920** | Fundación, ascenso a la First Division (segunda temporada), final de la FA Cup 1915 (derrota 3‑0). |
+| **1952‑1965** | Ted Drake moderniza el club; primer título de liga 1954‑55; 1965 League Cup. |
+| **1970‑1971** | Primera FA Cup (1970) y Recopa de Europa (1971). |
+| **1972‑1989** | Crisis financiera y deportiva; relegaciones y ascensos; Ken Bates compra el club 1982 por £1. |
+| **1990‑2003** | Recuperación de la propiedad del estadio; llegada de Ruud Gullit (1996) y Gianluca Vialli (1998); FA Cup 1997, Recopa 1998, Supercopa 1998, primera participación en la Champions League 2000. |
+| **2003‑2022** | Roman Abramovich compra el club 2003; inversión masiva; José Mourinho (2004‑06) gana dos Premier Leagues y FA Cup 2007; 2008 final de Champions League (derrota 6‑5 a MU); 2009‑10 doblete (Premier League + FA Cup) bajo Ancelotti; 2012 Champions League (Di Matteo); 2013 Europa League (Benítez); 2016‑17 Premier League (Conte); 2018‑19 Europa League (Sarri); 2021 Champions League (Tuchel) y Copa Mundial de Clubes 2022. |
+| **2022‑present** | Transferencia a Todd Boehly, Mark Walter y Hansjörg Wyss (2022). 2025‑26: victoria en la UEFA Conference League (4‑1 a Betis) y Copa Mundial de Clubes 2025 (3‑0 a PSG). |
+
+---
+
+### 5. Palmarés – Títulos oficiales  
+| Competencia | Títulos | Años |
+|-------------|---------|------|
+| **Première League / First Division** | 6 | 1954‑55, 2004‑05, 2005‑06, 2009‑10, 2014‑15, 2016‑17 |
+| **FA Cup** | 8 | 1970, 1997, 2000, 2007, 2010, 2012, 2015, 2019 |
+| **Football League Cup / EFL Cup** | 5 | 1965, 2005, 2007, 2010, 2018 |
+| **Community Shield / Charity Shield** | 4 | 1955, 1998, 2005, 2009 |
+| **UEFA Champions League** | 2 | 2012, 2021 |
+| **UEFA Europa League** | 2 | 2013, 2019 |
+| **UEFA Conference League** | 1 | 2025 |
+| **UEFA Super Cup** | 2 | 1998, 2021 |
+| **UEFA Recopa (Intertoto)** | 2 | 1971, 1998 |
+| **FIFA Club World Cup** | 2 | 2022, 2025 |
+| **Total** | **36** | — |
+
+*El Chelsea es el segundo club inglés en títulos internacionales (solo Liverpool supera con 14).*
+
+---
+
+### 6. Jugadores legendarios  
+| Jugador | Posición | Años en el club | Logros destacados |
+|---------|----------|-----------------|-------------------|
+| **Frank Lampard** | Mediocampista | 2001‑2014 | Máximo goleador histórico (211 goles), 5 Premier Leagues, 3 FA Cups, 2 League Cups |
+| **Didier Drogba** | Delantero | 2004‑2012, 2014‑2015 | 2 Premier Leagues, 2 FA Cups, 2 Champions Leagues, 2 World Cups, 36 goles en competiciones internacionales |
+| **John Terry** | Defensa central | 1998‑2017 | 17 títulos, 1,000 partidos, 1,000 minutos sin portería |
+| **Petr Čech** | Portero | 2004‑2014 | 209 porterías imbatidas, 5 Premier Leagues, 2 FA Cups |
+| **Frank Zola** | Delantero | 1996‑2001 | 1 Premier League, 1 FA Cup, 1 Champions League |
+| **Eden Hazard** | Delantero | 2012‑2019 | 1 Premier League, 1 FA Cup, 1 Europa League, 1 Champions League |
+| **Reece James** | Defensa | 2019‑presente | 1 Premier League, 1 FA Cup, 1 Champions League (2021) |
+| **Enzo Fernández** | Mediocampista | 2022‑presente | 1 Conference League (2025), 1 World Cup (2025) |
+
+---
+
+### 7. Rivalidades  
+| Rival | Tipo | Historia breve | Notas clave |
+|-------|------|----------------|-------------|
+| **Tottenham Hotspur** | Derby de Londres | Final de la FA Cup 1967, “Batalla del Puente” 2016, 2‑2 en 2016, 2017 Chelsea campeón | Mayor rival local, enfrentamientos violentos en los 70‑80 |
+| **Arsenal** | Derby de Londres | Primer encuentro 1907, 6‑0 en 2013‑14, 5‑0 en 2023‑24 | Rivalidad creciente con la era de Abramovich |
+| **Fulham** | SW6 Derby | Compartido código postal SW6 | Menos intensidad, pero histórica rivalidad de divisiones |
+| **Leeds United** | Rivalidad histórica | Final de la FA Cup 1970 (2‑1), 1970‑71, 2004‑21 | Rivalidad reavivada tras el descenso de Leeds |
+| **Manchester United** | Rivalidad de élite | 2007‑08 final de Champions League (derrota 6‑5), 2008‑09, 2010‑11 | Competencia por títulos nacionales e internacionales |
+| **Liverpool** | Rivalidad de élite | 5 finales de Champions League consecutivas (2004‑09), 2005‑06, 2008‑09 | Rivalidad intensa en Europa |
+| **FC Barcelona** | Rivalidad internacional | 18 enfrentamientos en competiciones europeas, 2004‑05 eliminación 5‑1, 2008‑09 eliminación 4‑1 | Competencia histórica en la Champions League |
+
+---
+
+### 8. Datos actuales (2025‑26)  
+- **Entrenador:** Thomas Tuchel (desde 2021)  
+- **Liga:** Premier League (máxima categoría del fútbol inglés)  
+- **Situación reciente:**  
+  - Campeón de la UEFA Conference League 2024‑25 (4‑1 a Betis).  
+  - Campeón de la Copa Mundial de Clubes 2025 (3‑0 a PSG).  
+  - En la Premier League, la temporada 2025‑26 está en curso; el club mantiene una plantilla con 3 jugadores extracomunitarios y varios canteranos.  
+- **Presidente/Propietario:** Todd Boehly, Mark Walter y Hansjörg Wyss (consorcio Boehly) – control total desde 2022.  
+- **Estadística de asistencia:** 41 000–41 837 espectadores por partido, quinto mejor promedio en Inglaterra.  
+- **Redes sociales:** 152,9 millones de seguidores (octavo club más seguido).  
+
+---
+
+### 9. Infraestructura adicional  
+- **Centro de entrenamiento:** Cobham Training Centre (Surrey), 140 acres, 30 campos, instalaciones médicas y de media.  
+- **Clubes afiliados:** Chelsea Reserves (Primera División de reservas), Chelsea Women (Fundado 2004, competidor de la FA Women’s Super League).  
+
+---
+
+### 10. Legado y cultura  
+- **Cantera:** Producción de talentos como Ron y Allan Harris, Peter Bonetti, Bobby Tambling, John Terry, Frank Lampard.  
+- **Cultura de afición:** “Blue is the Colour”, “Carefree”, “Hello! Hello!”; tradición de lanzar apio (prohibida).  
+- **Impacto mediático:** Apariciones en películas (The Great Game, The Football Factory), canciones (Blue Day, Kalinka).  
+- **Rivalidades sociales:** Históricamente asociado con hooliganismo en los 70‑80; hoy control de seguridad y venta de asientos reducen la violencia.  
+
+---
+
+**Resumen final:**  
+Chelsea Football Club, fundado en 1905 en Fulham, Londres, ha evolucionado de un club de la segunda división a uno de los equipos más laureados del fútbol inglés y mundial. Con su estadio Stamford Bridge, colores azul y blanco, y escudo de león, el club ha cosechado 36 títulos oficiales, incluyendo 2 Champions League, 2 Europa League, 1 Conference League y 2 World Cups. Su historia está marcada por crisis financieras, transformaciones de propiedad y una era de éxito bajo Abramovich y el consorcio Boehly. Los jugadores legendarios como Lampard, Drogba y Terry, junto con rivalidades intensas con Tottenham, Arsenal y Manchester United, definen la identidad del club. En la temporada 2025‑26, bajo la dirección de Thomas Tuchel, el Chelsea sigue consolidándose como potencia europea y mundial, con una afición global y una infraestructura moderna que respalda su éxito continuo.

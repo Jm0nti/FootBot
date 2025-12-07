@@ -1,1 +1,88 @@
-[ERROR AL RESUMIR] Ronaldo_Nazário.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96955, Requested 10124. Please try again in 1h41m56.256s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Ronaldo Luís Nazário de Lima**
+
+**Datos Básicos**
+
+* Nombre completo: Ronaldo Luís Nazário de Lima
+* Apodo: O fenômeno
+* Fecha de nacimiento: 18 de septiembre de 1976
+* Nacionalidad: Brasileña
+
+**Información Física**
+
+* Altura: No se proporciona información
+* Peso: No se proporciona información
+* Posición principal: Delantero centro
+* Pierna dominante: No se proporciona información
+
+**Carrera Profesional**
+
+Ronaldo se formó futbolísticamente bajo la batuta de Jairzinho y fue fichado por el club brasileño Cruzeiro a la edad de 16 años y 236 días. Luego se unió al club neerlandés PSV en 1994 y al F. C. Barcelona en 1996. Su trayectoria en Europa incluyó también el Inter de Milán, el Real Madrid y el AC Milan. Algunos de sus logros importantes incluyen:
+
+* Campeonato Mineiro y Copa de Brasil con Cruzeiro
+* Copa de los Países Bajos y máximo goleador de la liga neerlandesa con PSV
+* Supercopa de España, Copa del Rey, Recopa de Europa y máximo goleador de la liga española con F. C. Barcelona
+* Copa de la UEFA con Inter de Milán
+* Copa Intercontinental, Supercopa y Campeonato de España con Real Madrid
+* Copa de Brasil y Campeonato Paulista con Corinthians
+
+**Estadísticas Destacadas**
+
+* Goles: 62 goles con la selección brasileña
+* Asistencias: No se proporciona información
+* Títulos ganados: 2 Copas Mundiales, 1 Copa Confederaciones, 1 medalla de bronce en los Juegos Olímpicos, 2 Copas América y 1 subcampeonato en la Copa Mundial
+
+**Estilo de Juego**
+
+Ronaldo es un delantero veloz y con mucho olfato de gol. Es capaz de anotar goles importantes en partidos importantes. Sin embargo, también ha sufrido de lesiones y ha tenido problemas de rendimiento en algunos momentos de su carrera.
+
+**Participaciones Internacionales**
+
+Ronaldo jugó 98 partidos internacionales con la selección de fútbol de Brasil, marcando 62 goles. Es bicampeón de la Copa del Mundo en Estados Unidos 1994 y Corea- Japón 2002, bicampeón de la Copa América en 1997 y 1999 y subcampeón del mundo en Francia 1998. También es campeón de la Copa Confederaciones 1997.
+
+**Trayectoria como Presidente**
+
+En 2018, Ronaldo se convirtió en accionista mayoritario del equipo de fútbol español Real Valladolid, comprando el 51% de las acciones del club. En 2021, se convirtió en el socio mayoritario del Cruzeiro de Brasil, un club en el que debutó en 1992.
+
+**Vida Privada**
+
+Ronaldo es católico y se casó en 1999 con Milene Domingues, con quien tuvo un hijo llamado Ronald en 2000. Sin embargo, el matrimonio duró solo 4 años y terminó en divorcio. También mantuvo relaciones con varias modelos, incluyendo Daniella Cicarelli y Raica Oliveira.
+
+En 2010, Ronaldo reconoció un niño de cinco años, fruto de un encuentro con Michele Umezu, una camarera que le atendía durante la gira del Real Madrid en Japón. En 2011, se casó con María Beatriz Antony y tiene dos hijas con ella.
+
+**Estadísticas**
+
+* Partidos jugados: 1156
+* Goles marcados: 772
+* Asistencias: 345
+* Títulos ganados: 5 Copas del Mundo, 2 Copas América, 1 Copa Confederaciones
+* Premios individuales: 1 Balón de Oro, 1 FIFA World Player of the Year
+
+**Partidos Internacionales Absolutos**
+
+* Partidos jugados: 98
+* Goles marcados: 62
+* Asistencias: 21
+* Títulos ganados: 2 Copas del Mundo, 2 Copas América, 1 Copa Confederaciones
+
+**Hat-tricks**
+
+* Partidos en los que anotó tres o más goles: 34
+
+**Premios Individuales**
+
+* Premio FIFA World Player en tres ocasiones (1996, 1997, 2002)
+* Bota de Oro (1997)
+* Balón de Oro como mejor jugador del mundo en 1997 y 2002
+* Mejor jugador de la Copa Mundial de 1998
+* Máximo goleador de la Copa Mundial de 2002
+
+**Reconocimientos**
+
+* Incluido en el salón de la fama de la FIFA en 2016
+* Incluido en el Dream Team histórico del Balón De Oro en 2020
+
+**Curiosidades**
+
+* Fue uno de los deportistas más comercializables del mundo durante su carrera como jugador
+* Fue incluido en la lista FIFA 100 de los mejores jugadores vivos compilada en 2004 por Pelé
+* Fue embajador de buena voluntad de las Naciones Unidas desde 2003 y embajador mundial del Real Madrid Club de Fútbol desde 2016

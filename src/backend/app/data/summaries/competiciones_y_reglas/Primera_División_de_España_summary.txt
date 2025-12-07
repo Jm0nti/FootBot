@@ -1,1 +1,108 @@
-[ERROR AL RESUMIR] Primera_División_de_España.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 15180, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Primera División de España (LaLiga EA Sports)**  
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial**: Campeonato Nacional de Liga de Primera División.  
+- **Nombre comercial**: LaLiga EA Sports (sponsorship).  
+- **Tipo**: Liga de fútbol profesional – máxima categoría masculina del sistema de ligas español.  
+
+### 2. Formato  
+| Elemento | Detalle | Comentario |
+|----------|---------|------------|
+| **Participantes** | 20 equipos (cambio histórico: 10‑12‑14‑16‑18‑20‑22‑20). | La cifra se mantiene desde 1987‑88, salvo las temporadas 1995‑96 y 1996‑97 con 22 equipos. |
+| **Calendario** | 38 jornadas (19 de ida y 19 de vuelta). | Se inicia a finales de agosto/primero de septiembre y finaliza en mayo/junio. |
+| **Sistema de puntos** | 3 puntos por victoria, 1 punto por empate, 0 por derrota. | 3 puntos introducidos en 1995‑96. |
+| **Desempate** | 1) Diferencia de goles en partidos entre los equipos empatados. 2) Diferencia de goles global. 3) Goles a favor. 4) Si hay 3+ equipos, se repiten los criterios anteriores con los partidos entre ellos, luego global, luego goles a favor, y finalmente fair‑play. | |
+| **Ascenso/Descenso** | 3 equipos descenden a Segunda División. 3 equipos ascienden (2 directos + 1 por play‑offs). | Play‑offs: 3º‑6º de Segunda compiten por la tercera plaza. Se introdujo en 2010‑11. |
+| **Participación en competiciones europeas** | 1.º‑4.º → fase de grupos de la Liga de Campeones. 5.º → ronda de play‑offs de la Liga Europa. 6.º → tercera eliminatoria de la Liga Europa. 7.º → tercera ronda previa de la Liga Europa si el campeón de la Copa del Rey está entre los 6 primeros. | |
+| **Supercopa de España** | 1.º‑2.º de la Liga vs. finalistas de la Copa del Rey. | |
+
+### 3. Historia  
+| Periodo | Evolución | Cambios clave |
+|---------|-----------|---------------|
+| **1928‑29** | Primera edición con 10 equipos (Athletic, Barcelona, Real Madrid, etc.). | Se crea la competición tras la propuesta de José María Acha. |
+| **1936‑39** | Interrupción por la Guerra Civil. | |
+| **1940‑41** | 12 equipos. | Se impuso la “españolización” de nombres y terminología. |
+| **1950‑71** | 16 equipos. | Dominio del Real Madrid (Di Stéfano, 1953‑76). |
+| **1971‑87** | 18 equipos. | Se introducen los dorsales (1947‑48). |
+| **1987‑present** | 20 equipos. | 1984‑85: creación de la Liga Nacional de Fútbol Profesional (LaLiga). 1995‑96: 3 puntos por victoria. 1996‑97: Ley Bosman (libertad de jugadores UE). 2010‑11: play‑offs de ascenso. 2018‑19: VAR y calendario asimétrico. 2019‑20: 5 sustituciones. |
+| **2020** | Interrupción por COVID‑19. | Se suspende la temporada y se concluye con 38 jornadas. |
+
+### 4. Equipos participantes  
+- **Clubes permanentes**: Real Madrid, Barcelona, Athletic Club (solo 3 equipos con permanencia absoluta).  
+- **Clubes sin descenso**: Valencia, Atlético de Madrid, Espanyol, Sevilla, Sporting de Gijón, Real Sociedad.  
+- **Distribución geográfica**: Andalucía (12 equipos), Cataluña (8), Madrid y Barcelona (5 cada uno).  
+- **Municipios con más equipos**: Barcelona (4), Madrid (3).  
+- **Equipos más recientes**: Girona FC y CD Leganés (5.º año en la máxima categoría).  
+
+### 5. Sistema de clasificación  
+- **Puntos**: 3 por victoria, 1 por empate.  
+- **Desempates**: como en la tabla de formato.  
+- **Ganador**: equipo con más puntos al final de la temporada.  
+- **Clasificación europea**: 1.º‑4.º → Liga de Campeones; 5.º‑7.º → Liga Europa (según reglas UEFA).  
+
+### 6. Premios  
+- **Título de LaLiga** (premio de la liga).  
+- **Clasificación a la Liga de Campeones** (1.º‑4.º).  
+- **Clasificación a la Liga Europa** (5.º‑7.º).  
+- **Supercopa de España** (1.º‑2.º de la liga vs. finalistas de la Copa del Rey).  
+
+### 7. Récords y estadísticas  
+| Categoría | Récord | Detalle | Año |
+|-----------|--------|---------|-----|
+| **Títulos de club** | Real Madrid | 36 | 2023‑24 |
+| | Barcelona | 28 | 2023‑24 |
+| | Atlético de Madrid | 11 | 2023‑24 |
+| | Athletic Club | 8 | 2023‑24 |
+| | Valencia | 6 | 2023‑24 |
+| | Real Sociedad | 2 | 2023‑24 |
+| | Betis, Sevilla, Deportivo La Coruña | 1 | 2023‑24 |
+| **Goles en una temporada** | 121 | Real Madrid | 2011‑12 |
+| **Puntos en una temporada** | 100 | Real Madrid (2011‑12) / Barcelona (2012‑13) | 2011‑12 / 2012‑13 |
+| **Máximo goleador histórico** | Lionel Messi | 474 | 2024‑25 |
+| **Máximo número de partidos** | Andoni Zubizarreta | 622 | 2024‑25 |
+| **Club con más puntos acumulados** | Real Madrid | 5 043 | 2025‑26 |
+| **Club con más participaciones sin descenso** | Real Madrid, Barcelona, Athletic | 97 + años | 2025‑26 |
+| **Club con mayor número de títulos internacionales** | Real Madrid | 87 | 2025‑26 |
+
+### 8. Reglas y normativas relevantes  
+| Tema | Detalle | Cambios recientes |
+|------|---------|-------------------|
+| **Inscripción de jugadores** | Máximo 25 fichas federativas; 3 pueden ser extracomunitarios (no UE). | 1990: 3 extracomunitarios; 1995: Ley Bosman (UE no cuentan como extracomunitarios). |
+| **Períodos de inscripción** | 1) Julio‑agosto (antes de la temporada). 2) Enero (media temporada). | 2023‑24: no se han modificado. |
+| **Cantera** | Se permite alinear jugadores de la filial sin límite si son menores de 23 años y no tienen licencia profesional. | 2023‑24: no se han modificado. |
+| **Sanciones** | 5 amonestaciones → suspensión de 1 partido. Expulsiones → suspensión inmediata. | 2023‑24: no se han modificado. |
+| **Arbitraje** | Designado por comisión de LaLiga y RFEF. | 2023‑24: no se han modificado. |
+| **VAR** | Introducido 2018‑19. | 2023‑24: no se han modificado. |
+| **Sustituciones** | 3 sustituciones en 2018‑19; 5 sustituciones en 2019‑20 (3 ventanas + 1 extraordinaria). | 2023‑24: no se han modificado. |
+
+### 9. Patrocinadores y nombres comerciales  
+| Periodo | Nombre comercial | Patrocinador |
+|---------|------------------|--------------|
+| 2008‑2016 | Liga BBVA | BBVA |
+| 2016‑2023 | LaLiga Santander | Santander |
+| 2023‑presente | LaLiga EA Sports | EA Sports |
+
+### 10. Datos económicos  
+- **Ingresos**: Segunda liga de fútbol más rica en ingresos después de la NFL.  
+- **Control financiero**: Se redujo la deuda tributaria en 12 meses de 647 millon € a 482 millon €.  
+
+### 11. Participación en competiciones europeas  
+- **Coeficiente UEFA**: 2.º en el ranking de ligas europeas.  
+- **Clubes más laureados**: Real Madrid (20 Ligas de Campeones), Barcelona (5), Atlético (2), Sevilla (5), Valencia (2).  
+- **Premios internacionales**: 87 títulos entre los 9 clubes con palmarés internacional.  
+
+### 12. Resumen de cambios más destacados (1977‑actualidad)  
+- **1977‑80**: Se introducen los dorsales.  
+- **1984‑85**: Se crea LaLiga (Liga Nacional de Fútbol Profesional).  
+- **1995‑96**: 3 puntos por victoria.  
+- **1996‑97**: Ley Bosman (libertad de jugadores UE).  
+- **2000‑01**: Se elimina la promoción de descenso/ascenso y se incrementa el número de ascensos/descensos directos.  
+- **2010‑11**: Se introducen play‑offs de ascenso.  
+- **2018‑19**: VAR y calendario asimétrico.  
+- **2019‑20**: Se aumenta el número máximo de sustituciones a 5.  
+
+---
+
+**Palabras clave**: LaLiga, Primera División, Real Madrid, Barcelona, Atlético, Athletic, Valencia, Sevilla, Liga de Campeones, Liga Europa, VAR, Ley Bosman, 3 puntos, ascenso, descenso, patrocinadores, récords.

@@ -1,1 +1,90 @@
-[ERROR AL RESUMIR] Xavi_Hernández.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96953, Requested 10558. Please try again in 1h48m9.504s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Xavi Hernández**
+
+**Datos básicos**
+
+* Nombre completo: Xavier Hernández Creus
+* Apodo: Xavi
+* Fecha de nacimiento: 25 de enero de 1980
+* Nacionalidad: Española
+
+**Información física**
+
+* Altura: No se menciona en el texto
+* Peso: No se menciona en el texto
+* Posición principal: Mediocentro organizador
+* Pierna dominante: No se menciona en el texto
+
+**Carrera profesional**
+
+Xavi Hernández jugó en el Fútbol Club Barcelona desde 1998 hasta 2015, donde se convirtió en el jugador con más títulos del club, con 25 títulos en su haber. Durante su carrera en el Barcelona, Xavi jugó en 767 partidos oficiales y marcó 85 goles. También jugó en la selección española de fútbol, donde jugó 133 partidos y marcó 13 goles.
+
+En 2015, Xavi se unió al Al-Sadd de Catar, donde jugó durante cuatro temporadas antes de convertirse en entrenador del equipo en 2019. Bajo su dirección, el Al-Sadd ganó varios títulos, incluyendo la Supercopa de Catar, la Copa de Catar y la Liga de fútbol de Catar.
+
+En 2021, Xavi se unió al Fútbol Club Barcelona como entrenador, donde ha ganado varios títulos, incluyendo la Supercopa de España 2023 y la Liga 2022-23.
+
+**Estadísticas destacadas**
+
+* Jugó 767 partidos oficiales con el Fútbol Club Barcelona.
+* Marcó 85 goles con el Fútbol Club Barcelona.
+* Jugó 133 partidos con la selección española de fútbol.
+* Marcó 13 goles con la selección española de fútbol.
+* Ganó 25 títulos con el Fútbol Club Barcelona.
+* Ganó varios títulos con el Al-Sadd de Catar.
+* Ganó la Supercopa de España 2023 y la Liga 2022-23 con el Fútbol Club Barcelona.
+
+**Estilo de juego**
+
+Xavi es un jugador con una visión de juego excepcional que le permite ver los espacios y generar oportunidades de ataque. No destaca por velocidad ni por físico, pero tiene una técnica refinada y un control del balón formidable. Es un gran paseador, con un promedio de más del 90% de pases acertados, y puede realizar pases en corto y largo con precisión.
+
+Su capacidad de asociación le permite tirar paredes y pasar en espacios reducidos sin perder precisión en la sucesión de pases. También es un jugador que se gusta con taconazos, amagos, controles orientados y "sombreros", y siempre tiene en mente progresar con el balón o proporcionar un pase para aliviar la presión.
+
+A pesar de ser un jugador bajo y para nada corpulento, Xavi es uno de los jugadores que mejor protege el balón. Hace un fantástico uso del cuerpo para interponerlo en todo momento entre las entradas atacantes y el balón.
+
+**Fortalezas**
+
+* Visión de juego excepcional
+* Técnica refinada y control del balón formidable
+* Gran paseador con un promedio de más del 90% de pases acertados
+* Capacidad de asociación para tirar paredes y pasar en espacios reducidos
+* Habilidad para realizar pases en corto y largo con precisión
+* Uso del cuerpo para proteger el balón
+
+**Características técnicas**
+
+* Técnica refinada
+* Control del balón formidable
+* Gran paseador
+* Capacidad de asociación
+* Habilidad para realizar pases en corto y largo con precisión
+
+**Rol táctico**
+
+* Mediocampista creativo
+* Paseador
+* Organizador del juego
+
+**Premios individuales**
+
+* Jugador del Torneo en la UEFA Euro 2008
+* Incluido en el Equipo del Torneo de la UEFA Euro en 2008 y 2012
+* Mejor Creador de juego del Mundo por la IFFHS cuatro veces (2008-2011)
+* Incluido en el FIFA FIFPro World XI en seis ocasiones (2008-2013)
+* Incluido en el Equipo del Año de la UEFA cinco veces (2008-2012)
+* Premio Príncipe de Asturias de los Deportes en 2012
+* Incluido en el Dream Team histórico del Balón de Oro en 2020
+* Tres veces "Balón de Bronce" en 2009, 2010 y 2011
+* Primer y único futbolista español en haber sido tres veces "Balón de Bronce"
+* Fue nombrado mejor jugador de la UEFA Champions League en 2009 y 2011
+* Fue nombrado mejor jugador de la Liga de Campeones de la UEFA en 2011
+
+**Reconocimientos**
+
+* Nombrado entrenador del club Al-Sadd S. C. de la Liga de fútbol de Catar en mayo de 2019
+* Nombrado entrenador del F. C. Barcelona en noviembre de 2021
+
+**Curiosidades**
+
+* Es hijo del exfutbolista Joaquim Hernández y María Mercè Creus
+* Tiene tres hermanos, Óscar, Álex y Ariadna
+* Se casó con la periodista Núria Cunillera en 2013 y tiene dos hijos, Àsia y Dan
+* Es uno de los jugadores con más partidos oficiales disputados en la historia del Fútbol Club Barcelona y la selección nacional de España.

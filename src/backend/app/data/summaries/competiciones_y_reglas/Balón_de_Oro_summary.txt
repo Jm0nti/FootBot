@@ -1,1 +1,129 @@
-[ERROR AL RESUMIR] Balón_de_Oro.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 11288, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Balón de Oro – Competencia individual de fútbol**
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial:** *Ballon d’Or* (Balón de Oro)  
+- **Tipo:** Premio individual anual de fútbol.  
+- **Organizador:** Revista francesa *France Football* (editorial Amaury).  
+- **Categorías:** Masculina (desde 1956), Femenina (desde 2018).  
+- **Premios adicionales:** Trofeo Gerd Müller (delantero), Trofeo Kopa (jugador ≤ 21 años), Trofeo Yashin (portero), Trofeo Johan Cruyff (entrenador), Premio Sócrates (humanitario), Club Masculino/Femenino del Año, Dream Team 2020.
+
+---
+
+### 2. Formato  
+- **Votación:**  
+  - **Original (1956‑1995):** 16 periodistas de la UEFA, cada uno vota 5‑4‑3‑2‑1 puntos a sus 5 favoritos.  
+  - **1995‑2007:** 53 periodistas europeos (uno por país de la UEFA).  
+  - **2007‑2010:** 96 periodistas (53 europeos + 43 de selecciones que llegaron a fase final de la Copa del Mundo).  
+  - **2010‑2015 (FIFA Ballon d’Or):** Añadidos capitanes y seleccionadores nacionales.  
+  - **2016‑actualidad:** Votación exclusiva de periodistas de *France Football* (≈ 140 corresponsales internacionales).  
+- **Criterios de valoración:**  
+  1. Rendimiento individual y colectivo durante el año natural.  
+  2. Talento y juego limpio.  
+  3. Carrera profesional y trayectoria.  
+  4. Carisma y personalidad.  
+- **Edición 2020:** No se entregó por la pandemia de COVID‑19.  
+
+---
+
+### 3. Historia  
+| Año | Evento clave | Comentario |
+|-----|--------------|------------|
+| 1956 | Fundación por Gabriel Hanot | Solo jugadores europeos, premiados por su rendimiento en ligas europeas. |
+| 1957‑1959 | Di Stéfano gana 2 veces | Se permite repetir ganador. |
+| 1963 | Lev Yashin gana (portero) | Único portero en la historia del premio. |
+| 1977 | Beckenbauer record de 12 nominaciones | Máximo número de nominaciones hasta la fecha. |
+| 1995 | Se abre a jugadores no europeos que jueguen en Europa | George Weah gana. |
+| 2007 | Se abre a cualquier jugador del mundo | Se amplía el jurado a 96 periodistas. |
+| 2010 | Fusión con FIFA World Player → FIFA Ballon d’Or | Se incluyen capitanes y seleccionadores. |
+| 2011 | UEFA crea su propio *Ballon d’Or* europeo | Mantiene la tradición europea. |
+| 2015 | Se cancela la fusión | *France Football* vuelve a su formato original. |
+| 2016 | Se crea *The Best FIFA* (sustituto del FIFA World Player) | Separación definitiva de los premios. |
+| 2018 | Se crea la categoría femenina | Balón de Oro Femenino bajo *France Football*. |
+| 2020 | No entrega por COVID‑19 | Se publica el *Dream Team* con 3‑4‑3. |
+
+---
+
+### 4. Equipos participantes (clubes de los ganadores)  
+- **Barcelona** – 13 galardones (más que cualquier otro club).  
+- **Real Madrid** – 11 galardones.  
+- **Juventus** – 8 galardones.  
+- **Milan** – 8 galardones.  
+- **Otros**: Bayern München, Manchester United, AC Milan, etc.  
+
+---
+
+### 5. Sistema de clasificación  
+- **Ganador:** El jugador con mayor total de puntos en la votación.  
+- **Podio:** Los 3 primeros clasificados.  
+- **Balones de plata y bronce:** Se otorgan a los segundos y terceros clasificados (no oficiales).  
+- **Especiales:**  
+  - *Super Ballon d’Or* (1989) – Di Stéfano.  
+  - *Balón d’Or Honorífico* (1995) – Maradona.  
+  - *FIFA Ballon d’Or Honorífico* (2014) – Pelé.  
+
+---
+
+### 6. Premios  
+| Premio | Descripción | Primer ganador | Último ganador (2023) |
+|--------|-------------|----------------|-----------------------|
+| Balón de Oro (masculino) | Mejor jugador del año | Stanley Matthews | Lionel Messi (8ª) |
+| Balón de Oro (femenino) | Mejor jugadora del año | No existía (2018) | Aitana Bonmatí (3ª) |
+| Trofeo Gerd Müller | Mejor delantero (goles en temporada) | 2021 | 2025 (femenino) |
+| Trofeo Kopa | Mejor jugador ≤ 21 años | Kylian Mbappé | 2023 |
+| Trofeo Yashin | Mejor portero | 2019 | 2024 |
+| Trofeo Johan Cruyff | Mejor entrenador (masculino/femenino) | 2024 | 2024 |
+| Premio Sócrates | Humanidad | Sadio Mané | 2022 |
+| Club Masculino/Femenino del Año | Mejor club del mundo | Chelsea (2021) | Barça (2023) |
+| Dream Team 2020 | Once histórico (3‑4‑3) | 2020 | — |
+
+---
+
+### 7. Récords y estadísticas  
+- **Ganadores múltiples**  
+  - Lionel Messi – 8 (2009, 2010, 2011, 2012, 2015, 2019, 2021, 2023).  
+  - Cristiano Ronaldo – 5 (2008, 2013, 2014, 2016, 2017).  
+  - Michel Platini, Johan Cruyff, Marco van Basten – 3 cada uno.  
+  - Lev Yashin – 1 (portero).  
+- **Clubes con más ganadores**  
+  - Barcelona – 13.  
+  - Real Madrid – 11.  
+  - Juventus – 8.  
+  - Milan – 8.  
+- **Nacionalidades dominantes**  
+  - Francia – 8 ganadores distintos.  
+  - Argentina – 8.  
+  - Alemania, Portugal, Países Bajos – 7 cada uno.  
+- **Edad del primer y último ganador**  
+  - Primer ganador (1956) – Stanley Matthews (41 años).  
+  - Ganador más joven (1997) – Ronaldo Nazário (21 años).  
+- **Premios especiales**  
+  - *Super Ballon d’Or* – Di Stéfano (1989).  
+  - *Balón d’Or Honorífico* – Maradona (1995).  
+  - *FIFA Ballon d’Or Honorífico* – Pelé (2014).  
+
+---
+
+### 8. Casos especiales y polémicas  
+- **Restricción europea (1956‑1994):** Solo jugadores con nacionalidad europea; se abrió a jugadores no europeos que jugaran en Europa en 1995.  
+- **Fusión FIFA (2010‑2015):** Añadió capitanes y seleccionadores; generó controversia por la inclusión de votantes no periodistas y por la percepción de “pago” de la FIFA.  
+- **Separación 2016:** Restablecimiento de la tradición de periodistas; creación de *The Best FIFA*.  
+- **Categoría femenina:** Introducida en 2018; antes existía la FIFA Ballon d’Or Femenino (2010‑2015).  
+- **Polémicas de votación:**  
+  - 2010: Messi ganó a pesar de que Xavi e Iniesta fueron finalistas de la Copa del Mundo.  
+  - 2019: Megan Rapinoe premiada con 6 partidos jugados, generó debate sobre criterios de mérito.  
+- **Dream Team 2020:** Selección polémica por ausencias de jugadores legendarios y posiciones inadecuadas.  
+
+---
+
+### 9. Otros datos relevantes  
+- **Premios de la FIFA durante la fusión:** *The Best FIFA* (2016‑actualidad), *The Best FIFA Women’s Player*, *The Best FIFA Coach*, etc.  
+- **Premios de la IFFHS y otros:** *Golden Foot*, *Golden Boy*, *Puskás*, etc., pero no forman parte del Balón de Oro.  
+- **Sitio web oficial:** https://www.francefootball.fr/ballon-dor  
+- **Enlaces externos:** Wikimedia Commons, archivado de la FIFA, etc.  
+
+---
+
+**Resumen final**  
+El Balón de Oro es el galardón individual más prestigioso del fútbol mundial, con una historia que refleja la evolución del deporte y sus valores. Desde su inicio como premio europeo hasta su apertura global, su fusión y posterior separación con la FIFA, y la inclusión de la categoría femenina, el premio ha mantenido una estructura de votación basada en periodistas y, en ciertos periodos, en representantes nacionales. Los récords de Messi y Ronaldo, la dominación de clubes como Barcelona y Real Madrid, y los premios especiales que honran a jugadores legendarios, consolidan el Balón de Oro como la máxima distinción individual en el fútbol contemporáneo.

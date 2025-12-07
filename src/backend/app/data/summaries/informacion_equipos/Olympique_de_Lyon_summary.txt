@@ -1,1 +1,129 @@
-[ERROR AL RESUMIR] Olympique_de_Lyon.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 7497, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Olympique Lyonnais (OL)**  
+*Resumen completo y detallado – 2025/26 temporada*  
+
+---
+
+### 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| Nombre completo | Olympique Lyonnais (también llamado Olympique de Lyon) |
+| Apodo | OL |
+| Fundación | 3 agosto 1899 como *Olympique de Lyon et du Rhône* (disidentes del Lyon Olympique Universitaire); club profesional fundado oficialmente en 1950 |
+| Ciudad / País | Lyon, Francia |
+| Presencia femenina | OL Lyonnes (femenino) – club más laureado de Francia y de la UEFA en la Liga de Campeones Femenina |
+
+---
+
+### 2. Estadio  
+| Característica | Información |
+|-----------------|-------------|
+| Nombre | Parc Olympique Lyonnais (también conocido como Groupama Stadium) |
+| Capacidad | 59 186 espectadores |
+| Inauguración | 9 enero 2016 (partido Lyon vs. Troyes) |
+| Coste de construcción | ~€480 millones |
+| Usos | Ligue 1, Eurocopa 2016, Mundial femenino 2019, sede de partidos olímpicos París 2024 |
+| Primer gol en el estadio | Alexandre Lacazette (2009) |
+
+---
+
+### 3. Colores y escudo  
+- **Colores tradicionales**: rojo y azul (representan la ciudad de Lyon).  
+- **Camiseta habitual**: blanca con detalles rojos y azules; alterna con camiseta negra.  
+- **Escudo**: evolución desde 1950; la versión actual (desde 1996) presenta las letras “OL” en oro sobre fondo rojo, con un león estilizado de la ciudad de Lyon. El logotipo se ha mantenido desde 1996 con ligeros ajustes de color (oro → blanco en 2006).  
+
+---
+
+### 4. Historia  
+| Periodo | Logros y eventos clave |
+|---------|------------------------|
+| **1899‑1950** | Fundación del LOU y creación del OL como club profesional en 1950. |
+| **1960‑2001** | 3 Copas de Francia (1964, 1967, 1973), 1 Trophée des Champions (1973), 1 Copa Intertoto (1997). |
+| **2002‑2008** | Primer título de Ligue 1 (2002). Racha de 7 títulos consecutivos (2002‑2008). 5 Copas de Francia (2008, 2012), 6 Trophées des Champions (2003‑2007, 2012), 1 Coupe de la Ligue (2001). |
+| **2009‑10** | Semifinales de la Champions League (derrota ante Bayern Múnich). |
+| **2010‑11** | Peor temporada desde la década de 2000 (64 puntos). |
+| **2014‑16** | 2 subcampeonatos de liga (2014‑15, 2015‑16). |
+| **2016‑17** | Semifinales de la Europa League. |
+| **2019‑20** | Semifinales de la Champions League; Ligue 1 finalizada abruptamente por la pandemia. |
+| **2024‑25** | Descenso provisional a Ligue 2 por problemas financieros; revocado en junio 2025 con condiciones económicas no detalladas. |
+| **2025** | John Textor sale; Michele Kang asume la presidencia; Michael Gerlinger director general. |
+
+---
+
+### 5. Palmarés  
+| Categoría | Títulos | Comentarios |
+|-----------|---------|-------------|
+| **Nacionales (masculino)** | 7 Ligue 1 (2002‑2008), 5 Copas de Francia, 1 Coupe de la Ligue, 3 Ligue 2 | OL es el cuarto club más laureado en Francia. |
+| **Nacionales (femenino)** | 18 Ligas (récord), 10 Copas de Francia (récord), 3 Supercopas de Francia (récord) | Equipo femenino más laureado de Francia. |
+| **Internacionales (masculino)** | 8 Trofeos de los Campeones (incluye 1 Copa Intertoto) | 1 Copa Intertoto (1997). |
+| **Internacionales (femenino)** | 8 Ligas de Campeones Femeninas (5 consecutivas 2016‑2020) | Club más laureado en la máxima competición continental femenina. |
+| **Otros logros** | Semifinales de la Champions League (2009‑10, 2019‑20); Semifinales de la Europa League (2016‑17) |  |
+
+---
+
+### 6. Jugadores legendarios  
+- **Masculino**:  
+  - *Serge Chiesa* – 541 partidos (máximo).  
+  - *Fleury Di Nallo* – 182 goles (máximo).  
+  - *Alexandre Lacazette* – primer gol en el Parc Olympique Lyonnais.  
+- **Femenino**:  
+  - *Marta* (Brasil) – figura clave en la era de dominio europeo.  
+  - *Alessia Russo* – goleadora histórica del equipo femenino.  
+
+*(La lista completa incluye a jugadores que han ganado el premio UNFP Jugador del Año mientras jugaban para OL.)*
+
+---
+
+### 7. Rivalidades  
+| Rival | Nombre del derbi | Comentarios |
+|-------|------------------|-------------|
+| AS Saint‑Étienne | Derby Rhône‑Alpes | Rivalidad histórica desde los años 60; proximidad geográfica (62 km). |
+| Olympique de Marsella | Choc des Olympiques | Rivalidad de alto nivel; ambos clubes compiten por la supremacía francesa. |
+| FC Bordeaux | — | Rivalidad de la era de los 2000. |
+| Paris Saint‑Germain | — | Competencia por títulos nacionales e internacionales. |
+| Olympique Lille | — | Rivalidad regional. |
+| Otros | Grenoble, AS Lyon Duchère | Rivalidades menores en Ródano‑Alpes. |
+
+---
+
+### 8. Datos actuales (2025/26)  
+- **Liga**: Ligue 1 (según la revocación del descenso en junio 2025).  
+- **Entrenador**: (no especificado en el documento; se mantiene el mismo entrenador de la temporada 2024‑25).  
+- **Presidente**: Michele Kang (desde junio 2025).  
+- **Director General**: Michael Gerlinger.  
+- **Propietario**: John Textor (hasta junio 2025; sale en junio 2025).  
+- **Situación financiera**: Deudas aumentadas ~€50 millones en 2024; riesgo de descenso administrativo mitigado con condiciones económicas no reveladas.  
+- **Equipo femenino**: Sigue dominando la Ligue 1 femenina y la UEFA Champions League femenina.  
+
+---
+
+### 9. Infraestructura y afición  
+- **Estadio**: Parc Olympique Lyonnais (59 186).  
+- **Grupos de aficionados**:  
+  - *Bad Gones* (más grande de Francia).  
+  - *Cosa Nostra Lyon* (fusión 2007).  
+  - *Hex@gones*, *Gastrogones*, *O'Elles Club*.  
+- **Club de formación**: Groupama OL Training Center (femenino).  
+
+---
+
+### 10. Propiedad y finanzas  
+- **Modelo**: Sociedad anónima deportiva profesional (OL Groupe).  
+- **Historia de propiedad**:  
+  - Jean‑Michel Aulas (1987‑2023).  
+  - John Textor (2022‑2025).  
+  - Michele Kang (2025‑presente).  
+- **Valoraciones**:  
+  - Forbes 2008: 13.º club más valioso del mundo (€408 m).  
+  - Deloitte 2009: ingresos anuales de €155,7 m.  
+- **Inversiones**: Fondo chino IDG Capital (20 % en 2016).  
+
+---
+
+### 11. Medios y presencia  
+- **Canal propio**: OL TV (fundado 27 julio 2005).  
+- **Cobertura**: Télé Lyon Métropole, RTL, Europa 1, Radio Espace.  
+
+---
+
+**Conclusión**  
+Olympique Lyonnais, con una historia que se remonta a 1899, se consolidó como uno de los clubes más exitosos de Francia y de Europa, especialmente en la década de los 2000 con siete títulos consecutivos de Ligue 1. Su equipo femenino es un gigante mundial, con ocho títulos de la Champions League femenina. La gestión bajo Aulas transformó al club en una potencia financiera, aunque la reciente crisis económica llevó a la revocación de un descenso provisional en 2025. Con la nueva presidencia de Michele Kang y la continuidad de su infraestructura moderna, OL sigue siendo un referente tanto en el fútbol masculino como femenino.

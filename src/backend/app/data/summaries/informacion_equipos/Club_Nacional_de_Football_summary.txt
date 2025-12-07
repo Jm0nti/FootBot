@@ -1,1 +1,102 @@
-[ERROR AL RESUMIR] Club_Nacional_de_Football.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 26700, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Club Nacional de Football – Resumen Completo (600‑1000 palabras)**  
+
+---
+
+## 1. Identidad del club  
+- **Nombre completo:** Club Nacional de Football  
+- **Apodos:** Albo, Tricolor, Bolsilludo/Bolso, Decano, La Blanca, Parquenses, Rey de Copas, El Equipo Criollo, El Club de los Céspedes, La Máquina Blanca (época 1933).  
+- **Fundación:** 14 de mayo 1899, por estudiantes uruguayos que buscaban un club “criollo” frente a la dominación inglesa y alemana.  
+- **Ciudad / País:** Montevideo, Uruguay.  
+- **Fundador clave:** Ernesto Caprario (casa donde se fundó).  
+
+## 2. Estadio  
+- **Nombre:** Estadio Gran Parque Central (también llamado “El Parque”).  
+- **Capacidad:** 38 000 espectadores (aforo total).  
+- **Características:**  
+  - Construido en 1900, el estadio más antiguo de América y 15.º del mundo.  
+  - Sede de los primeros partidos mundiales (1930) y de las ediciones 1923‑24 de la Copa América.  
+  - Instalaciones: 2 gimnasios, 2 canchas de paddle, 2 de básquetbol, sala de musculación, sanidad, comedor, dormitorios, etc.  
+  - Plan de remodelación (2025) para ampliar a 44 000, conectar tribunas, techo semitechado y crear museo de Mundiales.  
+
+## 3. Colores y escudo  
+- **Colores:** Blanco, azul y rojo, tomados de la bandera de Artigas.  
+- **Escudo:** Triángulo azul con franja diagonal blanca y las iniciales “C.N.F.” en rojo.  
+- **Bandera del club:** 23 de mayo 1902, con la misma disposición de colores e iniciales.  
+
+## 4. Historia (líneas de tiempo clave)  
+
+| Década | Eventos destacados |
+|--------|---------------------|
+| **1899‑1911** | Fundación, primer partido 25 jun 1899 (2‑0 vs. Uruguay Athletic). Afiliación a la AUF en 1901, primer título 1902 (victoria 3‑1 vs. CURCC). |
+| **1912‑1929** | 11 campeonatos uruguayos en era amateur; 3 Copas Aldao (1916, 1919, 1920); 3 Copas de Honor Cusenier (1915‑17); 2 Copas Chevallier‑Boutell (1913, 1915). Gira del 25 (1925) con 38 partidos, 26 victorias. |
+| **1932‑1943** | Profesionalización (1932). “La Máquina Blanca” (1933) con 28‑4‑0 en 4 partidos. Quinquenio 1938‑1943 con 23 clásicos, 18 victorias. |
+| **1950‑1970** | Campeonatos 1946, 1947, 1950 (Mundialista 1950), 1952, 1955‑57 (tricampeonato). Primera participación en Copa Libertadores (1962). Final 1964 (derrota a Independiente). |
+| **1971‑1988** | **1971:** Primera Copa Libertadores (2‑0 vs. Estudiantes). Intercontinental 1971 (2‑1 vs. Panathinaikos). **1980:** Segunda Libertadores (1‑0 vs. Internacional). Intercontinental 1981 (1‑0 vs. Nottingham Forest). **1988:** Tercera Libertadores (3‑0 vs. Newell’s). Intercontinental 1988 (penales vs. PSV). Recopa Sudamericana 1989 (1‑0 vs. Racing). |
+| **1990‑2008** | 1992, 1998, 2000‑02 (tres años consecutivos de títulos). 2004: remontadas en Apertura y Clausura. 2005‑06: bicampeonato. 2008: remontada 6‑3 vs. River. |
+| **2009‑2019** | 2009: semifinales Libertadores. 2014: Apertura (42 puntos) y título uruguayo. 2019: Supercopa 2019 vs. Peñarol; Apertura 3.º lugar; Clausura 1.º (1‑0 vs. Peñarol). |
+| **2020‑2025** | 2020: título uruguayo (48.º). 2022: regreso de Luis Suárez y título uruguayo. 2024: Intermedio 2024 (victoria vs. Peñarol). 2025: Liga AUF 2025 (1‑0 vs. Peñarol, gol de Christian Ebere). |
+
+## 5. Palmarés  
+- **Títulos oficiales totales:** 163 (144 nacionales, 19 internacionales).  
+- **Campeonatos uruguayos:** 49 (incluye 11 amateur + 38 profesional).  
+- **Otros torneos nacionales (AUF):** 95 (incluye Copas de Honor, Liguillas, etc.).  
+- **Títulos internacionales oficiales:** 19  
+  - **Conmebol/FIFA:** 9 (3 Libertadores, 2 Intercontinentales, 2 Interamericanas, 1 Recopa, 1 Copa Aldao).  
+  - **AFA/AUF:** 10 (Copa Aldao, Copa de Honor Cusenier, etc.).  
+- **Récords internacionales:**  
+  - 565 puntos en la tabla histórica de la Copa Libertadores (2.º).  
+  - 51 participaciones (máximo).  
+  - 427 partidos disputados (máximo).  
+  - 181 victorias (2.º).  
+  - 591 goles (2.º).  
+  - 65 victorias como visitante (máximo).  
+  - 23 octavos de final (máximo).  
+  - Participaciones consecutivas desde 1997 (ininterrumpidas).  
+
+## 6. Jugadores legendarios  
+- **Años 1900‑1910:** Alejandro Cordero, Arturo Corradi, Jorge Ballestero, Félix N. Rosati, etc.  
+- **Era Céspedes:** Amílcar, Bolívar y Carlos Céspedes.  
+- **1930‑1940:** Héctor Scarone, José Nasazzi, Pedro Petrone, Atilio García (467 goles).  
+- **1970‑1980:** Luis Artime, Víctor Espárrago, Waldemar Victorino, Ernesto Vargas, Hugo De León.  
+- **1990‑2000:** Dely Valdés, Antonio Vidal González, Rubén Sosa.  
+- **2000‑2010:** Martín Lasarte, Luis Suárez, Sebastián Abreu, Sebastián Coates.  
+- **2010‑2025:** Luis Suárez (regreso 2022), Christian Ebere (gol decisivo 2025).  
+
+## 7. Rivalidades  
+- **Clásico Nacional‑Peñarol:**  
+  - Más antiguo fuera de las islas británicas.  
+  - 519 partidos jugados (170 victorias, 175 derrotas, 174 empates).  
+  - 10 clásicos consecutivos (1939‑1942).  
+  - Goleada histórica 6‑0 (14 dic 1941).  
+  - Atilio García (34 goles en clásicos).  
+- **Otros clásicos:**  
+  - “Gol de la valija” (1934).  
+  - “Torneo de Honor” (1938‑1943).  
+
+## 8. Datos actuales (2025)  
+- **Entrenador:** No se menciona en el documento; se indica que el club está en la Liga AUF 2025 con victoria 1‑0 vs. Peñarol.  
+- **Liga:** Primera División de Uruguay (AUF).  
+- **Situación reciente:**  
+  - 2024: Intermedio 2024 ganado vs. Peñarol; Apertura y Clausura perdidos a Peñarol.  
+  - 2025: Ganó la Liga AUF 2025 (1‑0 vs. Peñarol).  
+- **Presidente:** Alejandro Balbi (mencionado tras fallecimiento de Juan Izquierdo).  
+
+## 9. Infraestructura y otras disciplinas  
+- **Sede social (Palacio de Cristal):** 4 371 m² (expansión a 7 975 m²).  
+- **Ciudad Deportiva Los Céspedes:** 22 ha, 5 canchas de fútbol, gimnasio, piscina, etc.  
+- **Sección de tenis:** 10 canchas, sede de Copa Davis.  
+- **Otras disciplinas:** baloncesto (Liga Sudamericana 2024), ajedrez (títulos nacionales), ciclismo (Vuelta de Uruguay), fútbol femenino (campeonatos 1997‑2025).  
+
+## 10. Símbolos y cultura  
+- **Himno:** Compuesto 1911 por José María Delgado.  
+- **Uniforme:**  
+  - Titular: blanco con vivos azul y rojo.  
+  - Alternativo: rojo (tradicional) y azul (actual).  
+  - Especial: camiseta celeste en septiembre (memoria de la victoria 1903).  
+- **Bandera más grande del mundo:** 30 000 m², desplegada 2013 y 2015.  
+- **Hinchada:** “La Banda del Parque”, considerada la primera hinchada mundial (término “hincha” originado aquí).  
+
+---
+
+**Resumen final:**  
+El Club Nacional de Football, fundado en 1899 en Montevideo, es el “Decano” del fútbol uruguayo y el club con más títulos oficiales del mundo (163). Su estadio, el Gran Parque Central, es el más antiguo de América y ha sido escenario de los primeros partidos mundiales. Los colores tricolores (blanco, azul, rojo) y el escudo reflejan la bandera de Artigas. La historia del club se divide en épocas de dominio local (1900‑1940), de gloria internacional (1971‑1988) y de consolidación moderna (1990‑2025). Nacional ha ganado 3 Copas Libertadores, 3 Intercontinentales, 2 Interamericanas y 1 Recopa Sudamericana, además de 10 Copas Aldao y 9 Copas de Honor Cusenier. Su rivalidad con Peñarol es la más antigua y apasionada del fútbol mundial. En la actualidad, el club sigue siendo protagonista en la Primera División uruguaya, con una hinchada numerosa y una infraestructura en constante expansión.

@@ -1,1 +1,122 @@
-[ERROR AL RESUMIR] Fútbol_Club_Barcelona.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 28294, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Fútbol Club Barcelona – Resumen Completo y Detallado**
+
+---
+
+### 1. Identidad del club  
+| Elemento | Información |
+|----------|-------------|
+| Nombre completo | Fútbol Club Barcelona (Catalán: Futbol Club Barcelona) |
+| Apelativos | Barça, culers (pronunciado culés), azulgranas / blaugranas |
+| Año de fundación | 29 noviembre 1899 (registro oficial 5 enero 1903) |
+| Ciudad / País | Barcelona, España |
+| Idiomas oficiales | Catalán, castellano, inglés |
+| Tipo de entidad | Asociación deportiva sin ánimo de lucro (no SAD) |
+| Socios | Más de 143 000 (143 083 en 2022) |
+| Peñas | 1 273 distribuidas mundialmente |
+
+---
+
+### 2. Estadio  
+**Camp Nou**  
+- Inaugurado: septiembre 1957  
+- Capacidad: 99 354 espectadores (todos sentados)  
+- Clasificación UEFA: Estadio Cinco Estrellas (acoge finales de Liga de Campeones, Supercopa de Europa, Copa de la UEFA)  
+- Ubicación: Barrio Las Corts, Barcelona  
+- Instalaciones complementarias: Miniestadi (Barcelona B), Palau Blaugrana (baloncesto), Museo del FC Barcelona (máximo visitante de Cataluña)  
+- Proyecto de remodelación: “Espai Barça” (incluye cubierta, ampliación, accesibilidad; coste estimado 150 m€; ejecución prevista 6‑8 años).  
+
+---
+
+### 3. Colores y escudo  
+- **Colores**: Azul y granate (azulgrana / blaugrana).  
+- **Escudo**: Olla dividida en tres cuarteles; los dos superiores muestran la Cruz de San Jorge y la bandera catalana; el inferior presenta un balón sobre los colores azul y granate; en el centro, la franja con las iniciales “F.C.B.”.  
+- **Historia del escudo**:  
+  - 1899‑1910: Escudo de la ciudad de Barcelona.  
+  - 1910: Diseño propio (Carles Comamala).  
+  - 1941‑1973: Cambios políticos (eliminación de barras catalanas, sustitución de “F.C.B.” por “C.F.B.”).  
+  - 1973: Restablecimiento de la denominación catalana y las iniciales.  
+  - 2002: Adaptación moderna (Claret Serrahima).  
+
+---
+
+### 4. Historia  
+| Periodo | Resumen de hitos |
+|---------|------------------|
+| **1899‑1922** | Fundación por 12 aficionados (Hans Gamper). Primer presidente: Walter Wild. Primeros títulos: Copa de España y Copa de los Pirineos. Creación de la sección de atletismo (1914). |
+| **1923‑1957** | Era dorada: 4 Copas de España, 1 Liga (1929), 30 000 socios en Campo de Las Corts. Creación de secciones de hockey, baloncesto y rugby. |
+| **1950‑1957** | “Cinco Copas” (Kubala). Construcción del Camp Nou. |
+| **1957‑1978** | Consolidación en Camp Nou. 2 Copas del Generalísimo, 2 Copas de Ferias. |
+| **1978‑2000** | 1980s: fichajes de Cruyff, Neeskens, Sotil, Krankl, Simonsen. 1 Liga, 2 Copas del Rey, 1 Recopa de Europa. 1988: contratación de Cruyff como entrenador. |
+| **2000‑2008** | Joan Gaspart (3 años sin títulos). Joan Laporta (2004‑2008): fichajes de Ronaldinho, Eto'o, Messi, debut de Messi 16 oct 2004. 2 Ligas, 1 Champions League. |
+| **2008‑2012** | Pep Guardiola: triplete 2008‑09, sextete 2009‑10, 4 Ligas consecutivas (1991‑94), 4 Copas de Europa (1992, 2006, 2009, 2011). |
+| **2012‑2021** | Tito Vilanova (cáncer), Luis Enrique (triplete 2014‑15, doblete 2015‑16, 2016‑17). Ernesto Valverde (2017‑18). 2020‑21: Messi sale; Xavi regresa como entrenador. |
+| **2021‑2025** | Joan Laporta en segundo mandato (desde 17 mar 2021). 2021‑22: Femenino gana Liga de Campeones. 2023‑24: Messi sigue en plantilla (hasta 2024‑25). |
+
+---
+
+### 5. Palmarés  
+| Categoría | Títulos | Comentarios |
+|-----------|---------|-------------|
+| **Nacionales** | 80 (28 Ligas, 32 Copas de España, 15 Supercopas, 3 Copas Eva Duarte, 2 Copas de la Liga) | Segundo club español con más títulos (Real Madrid 91). |
+| **Internacionales** | 22 (5 Ligas de Campeones, 5 Supercopas de la UEFA, 4 Recopas de Europa, 3 Copas de la Liga, 2 Copas de la Liga, 1 Copa Mundial de Clubes, 1 Copa Latina, 1 Copa Martini & Rossi, 1 Pequeña Copa del Mundo de Clubes) | Segundo club europeo más laureado. |
+| **Polideportivo** | 48 copas de Europa en todas las secciones profesionales (baloncesto, balonmano, hockey sobre patines, fútbol sala) | Segundo club polideportivo con más copas de Europa (CSKA Moscú). |
+| **Femenino** | 10 Ligas, 11 Copas de la Reina, 5 Supercopas, 3 Ligas de Campeones | Primer club español en ganar la Liga de Campeones femenina (2020‑21). |
+| **Otros** | 25 títulos en secciones de baloncesto, balonmano, hockey, fútbol sala, etc. | Total de 136 títulos oficiales en la historia. |
+
+---
+
+### 6. Jugadores legendarios  
+- **Históricos**: Johan Cruyff, Diego Maradona, Ricardo Zamora, Luís Figo, Ronaldo Nazário, Hristo Stoichkov, Romário, Pep Guardiola, Ronaldinho, Rivaldo, Carles Puyol, Samuel Eto'o, Xavi Hernández, László Kubala (decano), Rafael Márquez (nacional).  
+- **Goleadores**: Lionel Messi (672 goles, 778 partidos).  
+- **Canteranos destacados**: Leo Messi, Andrés Iniesta, Xavi Hernández, Sergio Busquets, Gerard Piqué, Carles Puyol.  
+- **Premios individuales**: 21 apariciones en podios FIFA World Player, 34 en Balón de Oro; 6 Balones de Oro de Messi (2009‑2019).  
+- **Salón de la Fama**: 15 exjugadores incluidos (Cruyff, Maradona, Zamora, Figo, Ronaldo, Stoichkov, Romário, Guardiola, Ronaldinho, Rivaldo, Puyol, Eto'o, Xavi, Kubala, Márquez).  
+
+---
+
+### 7. Rivalidades  
+| Rival | Nombre del clásico | Número de encuentros | Balance (Barça vs Rival) |
+|-------|--------------------|----------------------|--------------------------|
+| Real Madrid | El Clásico | 259 oficiales | 102 – 97 |
+| Espanyol | Derbi barcelonés | 217 | 127 – 44 |
+| Internacionales | Milan (19 encuentros), Manchester United, Chelsea, PSG, Bayern Múnich | — | — |
+
+---
+
+### 8. Datos actuales (2025‑26)  
+- **Entrenador**: Xavi Hernández (de regreso tras 2020‑21).  
+- **Liga**: Primera División de España (LaLiga).  
+- **Situación reciente**: Campeón de la Liga 2024‑25 (último título).  
+- **Presidente**: Joan Laporta (segundo mandato, desde 17 mar 2021).  
+- **Socios**: 143 083 (2022).  
+- **Valor de mercado**: ~4 760 m$ (Forbes 2021).  
+- **Deuda**: 1 350 m€ (2021) + 815 m€ préstamo Goldman Sachs (Espai Barça).  
+- **Patrimonio neto**: -451 m€ (2021).  
+- **Fichajes recientes**: Ansu Fati, Pedri, Raphinha, Ronald Araújo.  
+
+---
+
+### 9. Secciones deportivas (polideportiva)  
+| Sección | Nivel | Logros principales | Instalación |
+|---------|-------|--------------------|-------------|
+| Fútbol | Primera División | 28 Ligas, 32 Copas, 5 Champions | Camp Nou |
+| Baloncesto | Liga ACB | 2 Euroligas (2003) | Palau Blaugrana |
+| Balonmano | División de Honor | 12 Copas de Europa | Palau Blaugrana |
+| Hockey sobre patines | División de Honor | 22 Copas de Europa | Palau Blaugrana |
+| Fútbol sala | LNFS | 1 Copa de España (2010‑11) | Camp Nou |
+| Femenino (fútbol) | Primera División | 10 Ligas, 3 Champions | Camp Nou |
+
+---
+
+### 10. Otros datos relevantes  
+- **Fundación**: 1899, con 12 fundadores (6 españoles, 3 suizos, 2 ingleses, 1 alemán).  
+- **Apelativo “culers”**: Derivado de la palabra “culo” (por la posición de los aficionados en las gradas de la calle Industria).  
+- **Política y cultura**: Defensa de la lengua catalana, participación en manifestaciones republicanas, apoyo a la autonomía catalana.  
+- **Fundación Fútbol Club Barcelona**: Creada 1994, gestiona proyectos humanitarios (UNICEF, UNESCO, ACNUR).  
+- **Peñas**: 1 273 peñas oficiales, 152 004 peñas en 267 delegaciones (2014).  
+- **Cantera**: La Masía, responsable de la formación de jugadores como Messi, Iniesta, Xavi, Puyol, etc.  
+
+---
+
+**Conclusión**  
+El Fútbol Club Barcelona es una institución polideportiva con una historia rica y multifacética, destacada por su identidad catalana, su estadio emblemático, su palmarés internacional y nacional, y su influencia cultural y social. Su legado incluye una cantera prodigiosa, jugadores legendarios, rivalidades épicas y una estructura organizativa única basada en la propiedad de socios. El club continúa siendo una de las fuerzas más influyentes del fútbol mundial y del deporte en general.

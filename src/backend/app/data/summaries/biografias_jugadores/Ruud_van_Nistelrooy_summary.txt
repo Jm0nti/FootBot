@@ -1,1 +1,50 @@
-[ERROR AL RESUMIR] Ruud_van_Nistelrooy.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96955, Requested 8258. Please try again in 1h15m4.032s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Jugador: Ruud van Nistelrooy**
+
+**Datos básicos**
+
+* Nombre completo: Rutgerus Johannes Martinius van Nistelrooij
+* Apodo: Ruud van Nistelrooy (también conocido como "El Buitre")
+* Fecha de nacimiento: 1 de julio de 1976
+* Nacionalidad: Neerlandesa
+* Altura: 1,91 m
+* Peso: 85 kg
+* Posición principal: Delantero
+* Pierna dominante: Derecha
+
+**Carrera profesional**
+
+* Debutó en el FC Den Bosch en la temporada 1993-94
+* Fue traspasado al Sportclub Heerenveen en 1997
+* Luego se unió al PSV Eindhoven en 1998, donde jugó durante cinco temporadas y se convirtió en máximo goleador de la Eredivisie en 1999
+* Fue traspasado al Manchester United en 2001, donde jugó durante cinco temporadas y ganó cuatro títulos, incluyendo una Premier League
+* Se unió al Real Madrid en 2006, donde jugó durante dos temporadas y ganó un título de liga
+* Anunció su retiro en 2012
+* Después de su retiro, jugó para el Hamburgo SV en 2010 y el Málaga CF en 2011-2012
+
+**Estadísticas destacadas**
+
+* Goles: 150 en 300 partidos con el PSV Eindhoven, 150 en 219 partidos con el Real Madrid, 10 en 18 partidos con el Hamburgo SV y 4 en 28 partidos con el Málaga CF
+* Asistencias: 50 en 300 partidos con el PSV Eindhoven, 50 en 219 partidos con el Real Madrid, 2 en 18 partidos con el Hamburgo SV y 2 en 28 partidos con el Málaga CF
+* Títulos ganados: 1 Eredivisie, 1 Copa de los Países Bajos, 1 Liga de Campeones de la UEFA, 1 Supercopa de España y 1 Copa del Rey
+
+**Estilo de juego**
+
+* Fortalezas: Técnica, velocidad, habilidad para marcar goles
+* Características técnicas: Excelente control de balón, habilidad para driblar y marcar goles
+* Rol táctico: Delantero centro, anotador de goles
+
+**Datos contextuales**
+
+* Premios individuales: Bota de Oro en la temporada 2000-2001, Premio PFA al jugador del año en 2002
+* Reconocimientos: Parte del "Equipo ideal UEFA All-Star" en la Eurocopa 2004, nombrado Futbolista del año en los Países Bajos en 1999 y 2000
+* Curiosidades: Es embajador FIFA de Aldeas Infantiles SOS y ha sido parte de la selección nacional de los Países Bajos en varias ocasiones
+
+**Carrera como entrenador**
+
+* PSV Eindhoven (2013-2014): Trabajó como entrenador en prácticas con el equipo sub-17
+* Selección de los Países Bajos (2014-2016): Trabajó como asistente técnico de Guus Hiddink
+* PSV Eindhoven (2016-2018): Dirigió el equipo B1, compuesto por jugadores de entre 17 y 19 años
+* PSV Eindhoven (2018-2022): Dirigió el equipo sub-19
+* PSV Eindhoven (2022-2023): Dirigió el equipo principal y ganó dos títulos en el fútbol neerlandés
+* Manchester United (2024): Fue asistente técnico de Erik ten Hag y asumió interinamente al frente del primer equipo
+* Leicester City (2024-2025): Fue técnico del equipo y fue relevado de sus funciones tras la finalización de la temporada.

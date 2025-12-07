@@ -1,1 +1,57 @@
-[ERROR AL RESUMIR] Arsenal_Football_Club.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96951, Requested 13934. Please try again in 2h36m44.64s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Identidad del club**
+El Arsenal Football Club, o simplemente Arsenal, es un club de fútbol con sede en Holloway, Londres, Inglaterra. Fue fundado en 1886 y disputa la máxima categoría del fútbol inglés, la Premier League. El apodo del club es "The Gunners", debido a su ubicación original en Woolwich, cerca de una fábrica de armas.
+
+**Estadio**
+El estadio del Arsenal es el Emirates Stadium, con capacidad para 60.704 espectadores. El estadio fue inaugurado en 2006 y cuenta con instalaciones modernas y tecnología de vanguardia. Anteriormente, el club jugaba en el Arsenal Stadium, también conocido como Highbury, desde 1913 hasta 2006. El Emirates Stadium es conocido por su atmósfera emocionante y es considerado uno de los mejores estadios del mundo.
+
+**Colores y escudo**
+Los colores tradicionales del club son el rojo y el blanco. El escudo del club ha sufrido varias modificaciones a lo largo de la historia, pero actualmente cuenta con un cañón apuntando hacia el este y el nombre del club escrito en una tipografía sans-serif encima del cañón. El escudo también incluye el lema "Victoria Concordia Crescit", que significa "La victoria viene de la armonía". El escudo también incluye las iniciales "AFC".
+
+**Historia**
+El Arsenal Football Club fue fundado en 1886 por empleados del Royal Arsenal en Woolwich, Londres. El club se convirtió en el primer club del sur de Inglaterra en unirse a la Football League en 1893 y llegó a la Primera División en 1904. El club ha ganado 47 títulos nacionales, incluyendo 13 campeonatos de liga y un récord de 14 FA Cup. También ha ganado dos títulos internacionales: la Copa de Ferias en 1970 y la Recopa de Europa en 1994. El club ha tenido varios entrenadores destacados, incluyendo a Arsène Wenger, quien es el entrenador más longevo en la historia del club.
+
+**Palmarés**
+El Arsenal ha ganado numerosos títulos a lo largo de su historia, incluyendo:
+* Torneos nacionales: 47
+ + Campeonato de Liga: 13
+ + FA Cup: 14
+ + Copa de la Liga: 2
+ + Community Shield: 17
+* Torneos internacionales: 2
+ + Copa de Ferias: 1
+ + Recopa de Europa: 1
+ + Copa de la UEFA: 1
+
+**Jugadores legendarios**
+Algunos de los jugadores más destacados en la historia del Arsenal incluyen:
+* David O'Leary, quien ostenta el récord de presencias con el club con 722 partidos.
+* Tony Adams, quien es el segundo jugador con más presencias con 669 partidos.
+* Thierry Henry, quien es el máximo goleador en la historia del club con 228 goles.
+* Ian Wright, quien fue el máximo goleador en la historia del club hasta que fue superado por Thierry Henry.
+* David Seaman, quien es el arquero con más partidos disputados en la historia del club con 564 partidos.
+
+**Rivalidades**
+El Arsenal tiene varias rivalidades con otros clubes de fútbol, incluyendo:
+* Tottenham Hotspur, con quien disputa el Derbi del Norte de Londres.
+* Chelsea, con quien disputa un derbi londinense.
+* Manchester United, con quien ha tenido una fuerte rivalidad en la cancha en los últimos años.
+
+**Datos actuales**
+El entrenador actual del Arsenal es Mikel Arteta, quien asumió el cargo en 2019. El club ha estado experimentando un período de transición en los últimos años, pero sigue siendo uno de los clubes más exitosos y populares en la Premier League. En la temporada 2020-21, el Arsenal terminó en la octava posición en la liga y no logró clasificar a torneos internacionales. Sin embargo, el club sigue trabajando para recuperar su posición como uno de los mejores clubes del fútbol inglés.
+
+**Filiales**
+El Arsenal tiene varias filiales, incluyendo:
+* Arsenal Women, que es el equipo femenino del club y ha tenido un gran éxito en los últimos años.
+* Arsenal Reservas, que es el equipo de reservas del club y juega en la Professional Development League.
+
+**Idiosincrasia**
+Los seguidores del Arsenal se llaman a sí mismos "Gooners" y son conocidos por su pasión y dedicación al club. El Arsenal tiene una gran cantidad de seguidores en todo el mundo y es considerado uno de los clubes más populares del mundo.
+
+**Impacto en la comunidad**
+El Arsenal ha tenido un impacto significativo en la comunidad londinense y ha sido involucrado en varias iniciativas benéficas y comunitarias. El club ha establecido un régimen comunitario llamado "Arsenal in the Community" que ofrece actividades deportivas y promueve la inclusión social y educativa.
+
+**Impacto en la cultura popular**
+El Arsenal ha tenido un impacto significativo en la cultura popular, incluyendo:
+* La película "The Arsenal Stadium Mystery" de 1939, que es una de las películas más antiguas relacionadas con el fútbol.
+* El libro "Fever Pitch" de Nick Hornby, que es un relato autobiográfico de la vida del autor y su relación con el fútbol y el Arsenal.
+* La serie de televisión "Harry Enfield & Chums", que incluyó un sketch de humor sobre el Arsenal en 1991.

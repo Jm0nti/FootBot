@@ -1,1 +1,121 @@
-[ERROR AL RESUMIR] Juventus_Football_Club.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 21442, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Juventus Football Club – Resumen Completo y Detallado**
+
+---
+
+### 1. Identidad del Club  
+| Elemento | Información |
+|----------|-------------|
+| Nombre oficial | Juventus Football Club S.p.A. |
+| Apodo | Juve, Vecchia Signora (La Vieja Señora) |
+| Fundación | 1 noviembre 1897 (como “Sport Club Juventus”) |
+| Ciudad / País | Turín, Piamonte, Italia |
+| Familia Agnelli | Involucrada desde 1923; la familia ha sido propietaria y presidente en varias épocas (Edoardo, Gianni, Andrea, etc.) |
+| Logo actual | Presentado 16 enero 2017; monograma “J” estilizado, tres líneas verticales, wordmark “JUVENTUS” en blanco sobre fondo negro |
+
+---
+
+### 2. Estadio  
+| Característica | Detalle |
+|----------------|---------|
+| Nombre | Allianz Stadium (también llamado Juventus Stadium) |
+| Ubicación | Corso Gaetano Scirea, Turín |
+| Aforo | 41 507 espectadores |
+| Inauguración | 8 septiembre 2011 (primer partido oficial 11 septiembre 2011, 4–1 sobre Parma) |
+| Características | Campo sin pista de atletismo, techo semitransparente de aluminio reflectante, tribunas sin barreras físicas, palcos VIP diseñados por Pininfarina |
+
+---
+
+### 3. Colores y Escudo  
+- **Colores**: Negro y blanco (principalmente en la camiseta titular). El uniforme alternativo es negro con detalles blancos; el tercero es amarillo con franjas azules.  
+- **Escudo**: Monograma “J” en negro sobre fondo blanco, con líneas verticales que recuerdan la forma de un escudo francés antiguo. El diseño es minimalista y futurista, creado por Interbrand.  
+- **Estrellas de Oro**: Tres estrellas doradas en la camiseta representan los 36 títulos de liga (la 10ª en 1957‑58, la 20ª en 1981‑82, la 30ª en 2013‑14).  
+
+---
+
+### 4. Historia – Momentos Clave  
+
+| Periodo | Eventos Destacados |
+|---------|--------------------|
+| **1897‑1930** | Fundación por estudiantes del Liceo Massimo d'Azeglio. Primer uniforme rosa‑negro. Debut en Campeonato Federal 1900. Primer título nacional 1905 (Genoa). |
+| **1931‑1935 (Quinquenio de Oro)** | 5 títulos consecutivos (1930‑35). Jugadores: Combi, Rosetta, Caligaris, Ferrari, Borel, Monti, Orsi, Cesarini. Se construyó el Stadio Comunale (1933). |
+| **1957‑1961 (Trío Mágico)** | Llegada de Omar Sívori y John Charles; junto a Boniperti, formaron el trío de ataque. 3 Scudetti y 2 Copas de Italia. |
+| **1972‑1986 (Ciclo Legendario de Trapattoni)** | Boniperti presidente. Se ficharon Zoff, Capello, Bettega, Causio, Furino, Gentile. 1985: Supercopa de Europa, Copa de Europa y Copa Intercontinental (primer club en ganar las tres competiciones UEFA + Mundial). |
+| **1990‑1999 (Lippi)** | 1994‑95: doblete (Scudetto + Coppa Italia). 1995‑96: Champions League (final vs Ajax). 1996‑97: Scudetto, Supercopa Italia. 1999: Lippi deja el club. |
+| **2001‑2006 (Calciopoli)** | 2001‑02: Scudetto y Supercopa Italia. 2002‑03: Champions League final (derrota 2‑3 a Milan). 2006: Descenso a Serie B por irregularidades. |
+| **2007‑2010** | Ascenso 2007‑08; 2008‑09: Champions League (octavos vs Chelsea). 2009‑10: 7.º lugar en Serie A. |
+| **2011‑2020 (Nueve Scudetti consecutivos)** | 2011‑12: Scudetto invicto bajo Antonio Conte. 2013‑14: 102 puntos. 2014‑15: Allegri, doblete. 2015‑18: 4 Scudetti consecutivos. 2018‑19: 8.º Scudetto. 2019‑20: 9.º Scudetto consecutivo. |
+| **2020‑2024** | 2020‑21: 4.º lugar, Champions League. 2021‑22: 1.º en Coppa Italia, sin trofeo en 2022‑23. 2023‑24: 3.º en Serie A, Coppa Italia 2024‑25 (victoria 1‑0 vs Atalanta). 2024‑25: Thiago Motta (hasta 23 mar) → Igor Tudor. |
+| **2025‑26** | Contrato de 3 años con Thiago Motta (hasta 2027‑28). |
+
+---
+
+### 5. Palmarés  
+
+| Competencia | Títulos | Fechas Clave |
+|-------------|---------|--------------|
+| **Serie A** | 36 (más de 30 años de dominio) | 1905, 1906, 1907, 1908, 1909, 1910, 1911, 1912, 1913, 1914, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1924, 1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935, 1936, 1937, 1938, 1939, 1940, 1941, 1942, 1943, 1944, 1945, 1946, 1947, 1948, 1949, 1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
+| **Coppa Italia** | 15 | 1959‑60, 1960‑61, 1977‑78, 1984‑85, 1994‑95, 1995‑96, 1996‑97, 1997‑98, 1998‑99, 2000‑01, 2001‑02, 2002‑03, 2003‑04, 2004‑05, 2005‑06, 2006‑07, 2007‑08, 2008‑09, 2009‑10, 2010‑11, 2011‑12, 2012‑13, 2013‑14, 2014‑15, 2015‑16, 2016‑17, 2017‑18, 2018‑19, 2019‑20, 2020‑21, 2021‑22, 2022‑23, 2023‑24, 2024‑25 |
+| **Supercoppa Italiana** | 9 | 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024 |
+| **UEFA Champions League / Cup Winners’ Cup** | 1 (Copa de la UEFA 1976‑77, 1995‑96, 1996‑97, 2002‑03, 2004‑05, 2005‑06) | 1995‑96 (final vs Ajax), 1996‑97 (final vs Ajax), 2002‑03 (final vs Milan), 2004‑05 (final vs Milan), 2005‑06 (final vs Milan) |
+| **UEFA Europa League / Cup** | 1 (Copa de la UEFA 1976‑77) |
+| **UEFA Super Cup** | 1 (1985) |
+| **Copa Intercontinental / Mundial de Clubes** | 1 (1985) |
+| **Otros** | 11 títulos internacionales oficiales (incluye Copas de la UEFA, Supercopas, Intercontinental) |
+
+---
+
+### 6. Jugadores Legendarios  
+
+| Jugador | Nacionalidad | Posición | Años en la Bianconera | Logros Clave |
+|---------|--------------|----------|-----------------------|--------------|
+| **Giampiero Boniperti** | Italiano | Delantero/Defensa | 1944‑1960 | 25 títulos, presidente 1971‑1990 |
+| **John Charles** | Galés | Delantero | 1957‑1960 | 1 Bota de Oro, 1 Balón de Oro |
+| **Omar Sívori** | Argentino | Delantero | 1957‑1961 | 1 Balón de Oro 1958 |
+| **Alessandro Del Piero** | Italiano | Delantero | 1993‑2011 | 290 goles, 705 partidos |
+| **Pavel Nedvěd** | Checo | Centrocampista | 1999‑2005 | 1 Balón de Oro 2003 |
+| **Zinedine Zidane** | Francés | Centrocampista | 1996‑2001 | 1 Balón de Oro 1998 |
+| **Cristiano Ronaldo** | Portugués | Delantero | 2018‑2021 | 100 goles en Serie A, 4 Copas de Italia |
+| **Gianluigi Buffon** | Italiano | Portero | 2001‑2021 | 974 minutos sin marcar en Serie A |
+| **Alessandro Del Piero** | Italiano | Delantero | 1993‑2011 | Máximo goleador histórico |
+| **Antonio Conte** | Italiano | Mediocampista | 1995‑2001 | 1 Supercopa de Italia 1996 |
+| **Giovanni Trapattoni** | Italiano | Entrenador | 1974‑1986, 1991‑1994, 1994‑1995 | 14 títulos oficiales, 596 partidos dirigidos |
+
+---
+
+### 7. Rivalidades  
+
+| Rival | Nombre del Clásico | Historia / Importancia |
+|-------|--------------------|------------------------|
+| **Torino F.C.** | Derbi de Turín | Rival local, ambos clubes de la capital piamontesa. |
+| **AC Milan** | Derbi de los Campeones | Rival histórico a nivel nacional, enfrentamientos en finales de Coppa Italia y Champions League. |
+| **Inter de Milán** | Derbi de Italia | Rival de la ciudad de Milán, enfrentamientos en finales de Coppa Italia y Champions League. |
+| **Fiorentina, Roma** | Rivalidades regionales | Competencia por títulos y posiciones en la Serie A. |
+
+---
+
+### 8. Datos Actuales (2024‑25)  
+
+- **Entrenador**: Igor Tudor (desde 23 mar 2025).  
+- **Liga**: Serie A (2024‑25).  
+- **Posición actual** (último dato disponible): 3.º en la tabla con 71 puntos (2023‑24).  
+- **Competencias UEFA**: No participa en 2023‑24 por expulsión de la UEFA; en 2024‑25 la participación no está confirmada.  
+- **Coppa Italia**: Ganó la edición 2024‑25 (1‑0 vs Atalanta, 15 mayo 2024).  
+- **Supercopa Italiana**: No disputada en 2024‑25.  
+- **Presidente**: Gianluca Ferrero (desde 18 ene 2023).  
+- **Estadio**: Allianz Stadium sigue siendo el hogar.  
+- **Centro de Entrenamiento**: Juventus Center en Vinovo.  
+
+---
+
+### 9. Otros Datos Relevantes  
+
+- **Afición**: 14 millones de seguidores en Italia (45 % de preferencias según Instituto Demos, 2015). 290 millones de seguidores a nivel mundial (41 millones en Europa, 2014).  
+- **Club Polideportivo**: Históricamente incluyó ciclismo, atletismo, hockey sobre hielo, tenis, baloncesto, waterpolo, patinaje.  
+- **Medios**: “Hurrà Juventus” (anuario), “Juventus TV” (streaming).  
+- **Compromiso Social**: Proyectos de inclusión, lucha contra el racismo, apoyo a hospitales y programas educativos.  
+- **Reconocimientos**: Mejor club italiano del siglo XX (2009, IFFHS), segundo club europeo del mismo periodo, 7.º club con más títulos internacionales en Europa.  
+
+---
+
+**Resumen**  
+La Juventus de Turín, fundada en 1897, es el club de fútbol más laureado de Italia y uno de los más reconocidos mundialmente. Con 60 títulos nacionales (36 ligas, 15 copas, 9 supercopas) y 11 internacionales oficiales, ha dominado la Serie A durante cinco décadas, incluyendo una racha de nueve Scudetti consecutivos (2012‑2020). Su estadio, el Allianz Stadium, alberga a más de 41 000 aficionados y es propiedad del club desde 2011. Los colores negro y blanco, junto con el escudo minimalista, definen la identidad visual. La historia del club se divide en periodos dorados: el Quinquenio de Oro (1931‑35), el Trío Mágico (1957‑61), el Ciclo Legendario de Trapattoni (1972‑86) y la era de Lippi (1990‑99). Los jugadores legendarios incluyen a Boniperti, Sívori, Charles, Del Piero, Nedvěd, Zidane y Ronaldo. Las rivalidades más intensas son con el Torino, el AC Milan y el Inter de Milán. En la actualidad, bajo la dirección de Igor Tudor, la Juventus sigue compitiendo en la Serie A, con la Coppa Italia como su principal título reciente. El club mantiene una fuerte base de seguidores, una infraestructura moderna y un compromiso social que trasciende el deporte.

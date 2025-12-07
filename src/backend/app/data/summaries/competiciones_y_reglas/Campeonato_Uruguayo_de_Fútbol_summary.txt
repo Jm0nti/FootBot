@@ -1,1 +1,112 @@
-[ERROR AL RESUMIR] Campeonato_Uruguayo_de_Fútbol.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 18192, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Primera División de Uruguay – Resumen Completo (200 – 2025)**  
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial**: *Liga AUF Uruguaya* (Primera División de Uruguay).  
+- **Tipo**: Liga de fútbol profesional de la categoría máxima del sistema de ligas uruguayo.  
+- **Organizador**: Asociación Uruguaya de Fútbol (AUF).  
+
+---
+
+### 2. Formato  
+| Elemento | Descripción | Cambios recientes |
+|----------|-------------|-------------------|
+| **Calendario** | Desde 2005‑06 se adoptó el formato europeo (temporada que abarca dos semestres). En 2017 se volvió al calendario tradicional de apertura‑clausura con la introducción del *Torneo Intermedio* (entre ambos). | 2024: Se mantiene el mismo esquema; el *Torneo Intermedio* se disputa en dos series (A y B). |
+| **Número de equipos** | 16 equipos compiten en la temporada actual; históricamente ha variado entre 12 y 20. | 2025: 16 equipos, con 3 descensos y 3 ascensos. |
+| **Torneos cortos** | *Torneo Apertura* (primera mitad del año) y *Torneo Clausura* (segunda mitad). | 2017‑presente: se añadió el *Torneo Intermedio* (entre Apertura y Clausura). |
+| **Tabla Anual** | Suma de puntos de Apertura, Intermedio y Clausura. Determina la clasificación general y la participación en la definición del título. | 2024: Se mantiene la tabla anual como criterio de clasificación para la Copa Libertadores y Sudamericana. |
+| **Definición del campeón** | 1. Los campeones de Apertura y Clausura se enfrentan en una semifinal (un partido, prórroga y penales). 2. El ganador de la semifinal se enfrenta al líder de la Tabla Anual en una final de ida y vuelta (puntos, diferencia de goles, penales). 3. Si un mismo equipo gana Apertura y Clausura y no la Tabla Anual, se juega una final entre él y el líder de la Tabla Anual. 4. Si el mismo equipo gana Apertura, Clausura y la Tabla Anual, se consagra automáticamente campeón. | 2024: Se mantiene el mismo proceso; la final se juega en dos partidos salvo que el mismo equipo haya ganado los tres criterios. |
+| **Clasificación a copas internacionales** | - Campeón y subcampeón (según final) → fase de grupos de la Copa Libertadores. <br> - 3.º, 4.º y campeón de la Copa AUF Uruguay (desde 2024) → fases previas de la Libertadores. <br> - 5.º a 7.º → Copa Sudamericana. | 2025: Se mantiene la misma asignación. |
+| **Descenso** | Promedio de puntos de las últimas dos temporadas (excluye la temporada recién ascendida). Los tres equipos con menor promedio descenden a la Segunda División. | 2024: Se mantiene el promedio de 2 temporadas. |
+
+---
+
+### 3. Historia  
+| Año | Evento | Detalle | Impacto |
+|-----|--------|---------|---------|
+| **1900** | Primer campeonato oficial | 4 equipos (CURCC, Albion, Uruguay Athletic, Deutscher). CURCC gana. | Inicio de la liga. |
+| **1901** | Nacional entra | Se crea la rivalidad clásica CURCC‑Nacional. | Formación de los “grandes”. |
+| **1922‑25** | Cisma de la AUF | Peñarol y Central se separan, crean la Federación Uruguaya de Football (FUF). | Se organizan torneos paralelos; AUF mantiene reconocimiento oficial. |
+| **1925‑27** | Reunificación | La AUF y la FUF se fusionan; se crea la Serie A y Serie B. | Se consolida la liga con 20 equipos (1927). |
+| **1932** | Profesionalismo | Se pasa a la era profesional. | Se inicia la contabilidad de títulos profesionales. |
+| **1948** | Primer “Quinquenio de Oro” de Nacional | 5 títulos consecutivos (1939‑1943). | Establece la hegemonía de Nacional. |
+| **1958‑62** | Segundo Quinquenio de Oro de Peñarol | 5 títulos consecutivos (1958‑1962). | Equilibrio de poder entre los dos grandes. |
+| **1976** | Primer campeón “chico” | Defensor Sporting gana. | Rompe racha de 44 años de dominio de Nacional y Peñarol. |
+| **1984‑91** | “Quinquenio de los chicos” | 5 títulos consecutivos de equipos menores (Central Español, Defensor, Danubio, Progreso, Bella Vista). | Mayor competitividad. |
+| **1994** | Cambio de formato | Apertura‑Clausura reemplaza el todos‑contra‑todos. | Introducción de la tabla anual. |
+| **2005‑06** | Calendario europeo | Se adapta la temporada a la estructura de la UEFA. | 3 partidos de apertura, 3 de clausura. |
+| **2017** | Torneo Intermedio | Se añade torneo corto entre Apertura y Clausura. | Aumenta la emoción y la recaudación. |
+| **2024** | Copa AUF Uruguay | Se crea la Copa AUF Uruguay (desde 2024) para determinar un cupo de la Libertadores. | Añade un nuevo título y cupo internacional. |
+
+---
+
+### 4. Equipos participantes  
+- **Total de equipos en la historia**: 60 equipos han jugado en la Primera División.  
+- **Equipos con más participaciones**:  
+  1. *Club Nacional de Football* – 122 ediciones (solo no jugó la edición inaugural).  
+  2. *Club Atlético Peñarol* – 121 ediciones.  
+  3. *Montevideo Wanderers* – 60 participaciones.  
+- **Equipos con más títulos**:  
+  - *Peñarol*: 52 títulos (o 47 si no se cuenta la continuidad CURCC/Peñarol).  
+  - *Nacional*: 50 títulos.  
+  - *Defensor Sporting, Danubio, River Plate FC*: 4 títulos cada uno.  
+  - *Montevideo Wanderers*: 3 títulos.  
+  - *Rampla Juniors, Bella Vista, Central Español, Progreso, Liverpool*: 1 título cada uno.  
+- **Equipos del interior**:  
+  - *Rocha* (título de Apertura 2005, único club del interior con torneo corto).  
+  - *Tacuarembó* (13 temporadas consecutivas, 1999‑2011).  
+
+---
+
+### 5. Sistema de clasificación (para el campeón)  
+1. **Torneo Apertura** – ganador obtiene la primera semifinal.  
+2. **Torneo Clausura** – ganador obtiene la segunda semifinal.  
+3. **Tabla Anual** – líder obtiene la segunda parte de la final (si no es el mismo equipo que ganó Apertura y Clausura).  
+4. **Semifinal** – un partido único, prórroga y penales.  
+5. **Final** – dos partidos (ida y vuelta), se suman puntos; si empate, diferencia de goles; si sigue igual, penales.  
+
+---
+
+### 6. Premios  
+| Categoría | Premio | Detalle |
+|-----------|--------|---------|
+| **Campeón** | Trofeo *Aníbal Z. Falco* + *Insignia del Campeón Uruguayo* (logo plateado) + Copa Coca‑Cola | Trofeo de 5 kg, con baño de oro y plata. |
+| **Copa AUF Uruguay** | Trofeo propio (desde 2024) | Determina un cupo de la Libertadores. |
+| **Copa Libertadores** | Fase de grupos (campeón y subcampeón) | 3.º, 4.º y campeón de la Copa AUF Uruguay también acceden a fases previas. |
+| **Copa Sudamericana** | 5.º a 7.º en la tabla anual | Acceso a la Copa Sudamericana. |
+| **Supercopa Uruguaya** | Ganador del campeón absoluto del año | Se disputa en enero entre el Campeón Uruguayo y el ganador del Torneo Intermedio. |
+
+---
+
+### 7. Récords y estadísticas  
+| Categoría | Récord | Equipo/Persona | Año |
+|-----------|--------|----------------|-----|
+| **Títulos más** | 52 (Peñarol) | Peñarol | 2023 |
+| | 50 (Nacional) | Nacional | 2023 |
+| **Títulos consecutivos** | 5 (Nacional 1939‑43, Peñarol 1958‑62) | Nacional/Peñarol | 1943 / 1962 |
+| **Goleador histórico** | 228 goles | Fernando Morena | 2005‑06 |
+| **Máxima goleada** | 7‑0 (River Plate vs. Peñarol) | River Plate | 2010 |
+| **Máxima goleada en clásico** | 6‑0 (Nacional vs. Peñarol) | Nacional | 1941 |
+| **Récord de imbatibilidad** | 987 minutos (Ladislao Mazurkiewicz) | Mazurkiewicz | 1968‑1970 |
+| **Torneo Intermedio más corto** | 2 series (A y B) | 2017‑presente | 2024 |
+| **Torneo Intermedio más largo** | 3 series (A, B, C) | 2017‑2020 | 2019 |
+| **Mayor número de equipos** | 20 (1927) | 1927 | 1927 |
+| **Mayor número de partidos en una temporada** | 38 (1927) | 1927 | 1927 |
+| **Mayor diferencia de puntos en una temporada** | 13 (Nacional 1940) | Nacional | 1940 |
+| **Mayor número de títulos en un solo año** | 3 (Nacional 1998, Danubio 2006‑07) | Nacional/Danubio | 1998 / 2006‑07 |
+
+---
+
+### 8. Observaciones clave  
+- **Estabilidad histórica**: La liga uruguaya es la 23.º del mundo en el siglo XXI (IFFHS) y ha sufrido pocos cambios estructurales.  
+- **Dominio de los grandes**: Nacional y Peñarol han ganado 100 % de los títulos desde 1900, con 10 % de los restantes distribuidos entre equipos menores.  
+- **Integración del interior**: Desde 1999 se permite la participación de equipos del interior; sin embargo, la mayoría de los clubes siguen siendo de Montevideo.  
+- **Formato de definición del campeón**: El sistema de Apertura‑Clausura‑Tabla Anual con semifinal y final en dos partidos es único en Sudamérica.  
+- **Copas paralelas**: La Copa AUF Uruguay (desde 2024) y la Supercopa Uruguaya son las únicas copas oficiales que involucran a equipos de la Primera División en la actualidad.  
+- **Patrocinio y derechos**: Coca‑Cola y Nissan son patrocinadores principales; los derechos televisivos están bajo Tenfield (hasta 2025) y se transmiten en VTV, GolTV, ESPN, Disney+ y TVC Deportes.  
+
+---
+
+**Conclusión**  
+La Primera División de Uruguay, con más de 120 ediciones, es una de las ligas más antiguas y estables del mundo. Su formato híbrido de torneos cortos y tabla anual, junto con la definición de campeón por semifinal y final, crea una competición intensa y predecible. Los dos grandes, Nacional y Peñarol, siguen dominando, pero equipos menores han logrado históricamente romper la hegemonía, añadiendo riqueza y sorpresa al fútbol uruguayo.

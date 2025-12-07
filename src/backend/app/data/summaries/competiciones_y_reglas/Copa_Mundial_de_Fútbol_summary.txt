@@ -1,1 +1,123 @@
-[ERROR AL RESUMIR] Copa_Mundial_de_Fútbol.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 15592, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Copa Mundial de Fútbol – Resumen Completo y Detallado**
+
+---
+
+### 1. Nombre y Tipo  
+- **Nombre oficial:** Copa Mundial de la FIFA (también conocida como Copa Mundial de Fútbol, Copa del Mundo).  
+- **Tipo:** Torneo internacional oficial de selecciones nacionales masculinas, organizado por la FIFA.  
+- **Frecuencia:** Cada cuatro años (excepciones 1942 y 1946 por la Segunda Guerra Mundial).  
+
+---
+
+### 2. Formato  
+| Etapa | Descripción | Participantes | Observaciones |
+|-------|-------------|---------------|---------------|
+| **Clasificatoria** | Serie de partidos organizados por las confederaciones (AFC, CAF, CONCACAF, CONMEBOL, OFC, UEFA). | Más de 200 selecciones nacionales | El campeón anterior y el país sede no se clasifican obligatoriamente (excepto 2002). |
+| **Fase Final** | 48 equipos (a partir de 2026) se dividen en 12 grupos de 4. Se juegan partidos de ida y vuelta. Los 2 mejores de cada grupo avanzan (hasta 2022) o los 2 mejores + 8 mejores terceros (a partir de 2026). | 48 equipos | Se introdujo la fase de grupos en 1930, con cambios de formato (16 → 24 → 32 → 48 equipos). |
+| **Eliminatorias Directas** | Octavos, cuartos, semifinales, partido por el tercer puesto y final. | 16 equipos (hasta 2022) o 24 equipos (a partir de 2026) | En caso de empate, prórroga de 30 min (2×15) y, si es necesario, tanda de penaltis. |
+
+---
+
+### 3. Historia  
+| Año | Sede | Cambios significativos | Resumen de la edición |
+|-----|------|------------------------|-----------------------|
+| **1930** | Uruguay | Primera edición, sin clasificación previa. | 13 equipos, Uruguay ganó 4‑2 a Argentina. |
+| **1934‑1938** | Italia, Francia | Introducción de clasificación; campeón anterior no se clasificaba automáticamente. | Italia ganó 1934 y 1938. |
+| **1950** | Brasil | Cuadrangular final; “Maracanazo”. | Uruguay venció a Brasil 2‑1 en el último partido. |
+| **1954** | Suiza | Primer Mundial transmitido por televisión. | Alemania Federal venció a Hungría 3‑2. |
+| **1958‑1962** | Suecia, Chile | Introducción de “gol de oro” y balones sintéticos. | Brasil ganó 1958 y 1962. |
+| **1966** | Inglaterra | Primera mascota oficial (World Cup Willie). | Inglaterra ganó 4‑2 a Alemania Federal. |
+| **1970** | México | Primera edición fuera de Europa/Sudamérica; altitud de sedes. | Brasil ganó 1970 (tricampeón). |
+| **1974‑1982** | Alemania Occidental, España | Segunda fase de grupos (1974‑1982). | Alemania 1974, Italia 1982. |
+| **1986** | México | Primera tanda de penaltis en cuartos. | Argentina ganó 3‑2 a Alemania. |
+| **1990** | Italia | Introducción de “mano” y 3 puntos por victoria. | Alemania ganó 1‑0 a Argentina. |
+| **1994** | Estados Unidos | Primera final con 3 puntos por victoria; camiseta con nombres. | Brasil ganó 3‑2 en penaltis a Italia. |
+| **1998** | Francia | 32 equipos, gol de oro en octavos, pantalla electrónica. | Francia ganó 3‑0 a Brasil. |
+| **2002** | Corea del Sur/Japón | Primera edición conjunta y en Asia. | Brasil ganó 2‑0 a Alemania. |
+| **2006** | Alemania | Fan Fests, 4‑0 a Italia en penaltis. | Italia ganó 2006. |
+| **2010** | Sudáfrica | Primer campeón europeo fuera de Europa. | España ganó 1‑0 a Holanda. |
+| **2014** | Brasil | 32 equipos, “Brazuca” como balón oficial. | Alemania ganó 1‑0 a Argentina. |
+| **2018** | Rusia | 32 equipos, “Telstar 18” como balón. | Francia ganó 4‑2 a Croacia. |
+| **2022** | Catar | Primera edición en Arabia Saudita; noviembre‑diciembre. | Argentina ganó 4‑2 en penaltis a Francia. |
+| **2026** | Canadá/EEUU/México | Expansión a 48 equipos. | Próxima edición. |
+
+---
+
+### 4. Equipos Participantes  
+- **Selecciones más exitosas:**  
+  - **Brasil:** 5 títulos (1958, 1962, 1970, 1994, 2002).  
+  - **Alemania/Italia:** 4 títulos cada uno (Alemania 1954, 1974, 1990, 2014; Italia 1934, 1938, 1982, 2006).  
+  - **Argentina:** 3 títulos (1978, 1986, 2022).  
+  - **Uruguay, Francia:** 2 títulos cada uno.  
+  - **Inglaterra, España:** 1 título cada uno.  
+- **Participación histórica:** 80 equipos han jugado en la fase final; 13 llegaron a la final; 8 han ganado.  
+- **Equipos europeos:** 12 títulos; sudamericanos: 10 títulos.  
+- **Otros confederaciones:** EE. UU. (1930), Corea del Sur (2002), Marruecos (2022) llegaron a semifinales.  
+
+---
+
+### 5. Sistema de Clasificación  
+- **Cupos por confederación (2026):**  
+  - AFC: 8 + 1 play‑off.  
+  - CAF: 9 + 1 play‑off.  
+  - CONCACAF: 6 + 2 play‑offs (3 anfitriones + 3 eliminatorias).  
+  - CONMEBOL: 6 + 1 play‑off.  
+  - OFC: 1 + 1 play‑off.  
+  - UEFA: 16 directos.  
+- **Play‑off mundial:** 6 equipos (excepto UEFA y CONCACAF) compiten en 4 partidos; 2 pasan a la fase final.  
+- **Cambios recientes:**  
+  - 1998: aumento de 24 a 32 equipos.  
+  - 2026: expansión a 48 equipos, con 12 grupos y 8 mejores terceros avanzando.  
+
+---
+
+### 6. Premios  
+| Premio | Descripción | Valor (última edición) |
+|--------|-------------|------------------------|
+| **Trofeo de la Copa Mundial** | Trofeo oficial (original: Trofeo Jules Rimet; actual: Trofeo de la FIFA). | 16 millones € (2022). |
+| **Botín de Oro** | Goleador máximo del torneo. | 1 premio. |
+| **Botín de Plata/Bronce** | Segundo y tercer goleador. | 1 premio cada uno. |
+| **Balón de Oro** | Mejor jugador del torneo. | 1 premio. |
+| **Guante de Oro** | Mejor portero. | 1 premio. |
+| **Premio al juego limpio** | Mejor disciplina. | 1 premio. |
+| **Premio al equipo más entretenido** | Votación popular. | 1 premio. |
+| **Premio al mejor jugador joven** | Mejor jugador < 21 años. | 1 premio. |
+| **Equipo Estelar** | Selección de 11 jugadores destacados. | 1 premio. |
+
+---
+
+### 7. Récords y Estadísticas  
+| Categoría | Récord | Año / Edición | Comentario |
+|-----------|--------|---------------|------------|
+| **Mayor goleada** | 7‑1 (Alemania vs Brasil, 1954) | 1954 | Mayor goleada recibida por un país anfitrión. |
+| **Mayor número de goles en una edición** | 172 (Catar 2022) | 2022 | 64 partidos, 2,69 goles/punto. |
+| **Menor número de goles en una edición** | 70 (1930, 1934) | 1930/1934 | 18‑19 partidos. |
+| **Máximo número de partidos jugados por un jugador** | 26 (Lionel Messi) | 2022 | 5 torneos (2006‑2022). |
+| **Máximo número de goles por jugador** | 16 (Miroslav Klose) | 2002‑2018 | 4 torneos. |
+| **Máximo número de goles en un solo torneo** | 13 (Just Fontaine) | 1958 | 6 partidos. |
+| **Mayor número de participaciones de un equipo** | 22 (Brasil) | 1930‑2022 | Todos los torneos. |
+| **Mayor número de finales entre dos equipos** | 7 (Brasil vs Suecia, Alemania vs Argentina, Alemania vs Yugoslavia) | 1930‑2014 | 7 encuentros. |
+| **Primer campeón europeo fuera de Europa** | España (2010) | 2010 | Sudáfrica. |
+| **Primer campeón con sede en Asia** | Brasil (2002) | 2002 | Corea del Sur/Japón. |
+
+---
+
+### 8. Impacto Cultural y Tecnológico  
+- **Transmisión televisiva:** Desde 1954; 2002 la final alcanzó 1 100 millones de espectadores.  
+- **Tecnología de balones:** Evolución de cuero a materiales sintéticos; balones emblemáticos: Telstar (1970), Jabulani (2010), Brazuca (2014), Al Rihla (2022).  
+- **Marketing y patrocinio:** Adidas (balón oficial), Coca‑Cola, Hyundai, McDonald’s, FIFAe (esports).  
+- **Mascotas y temas musicales:** World Cup Willie (1966), “Un’estate italiana” (1990), “La copa de la vida” (1998).  
+- **Fan Fests y eventos culturales:** Fan Fest (2006), Walk of Ideas (2006), “Poetry of the Winds” (2002).  
+
+---
+
+### 9. Datos Clave de la Fase Final (2022)  
+- **Participantes:** 48 equipos.  
+- **Duración:** 1 mes (del 20 de noviembre al 18 de diciembre).  
+- **Estadios:** 20 en 18 ciudades; 191 estadios en 18 países.  
+- **Presupuesto FIFA (2022):** 1,700 millones USD (26 % premios, 19 % operativos).  
+
+---
+
+**Conclusión**  
+La Copa Mundial de la FIFA es el torneo de fútbol más prestigioso y seguido a nivel mundial, con una rica historia que refleja cambios en el deporte, la tecnología y la política internacional. Desde su inicio en 1930 hasta la expansión a 48 equipos en 2026, el formato ha evolucionado para adaptarse a la globalización del fútbol, manteniendo siempre la esencia de una competición donde la excelencia deportiva se celebra con premios emblemáticos y récords que perduran en la memoria colectiva de los aficionados.

@@ -1,1 +1,156 @@
-[ERROR AL RESUMIR] Lionel_Messi.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 88441, Requested 45398. Please try again in 8h7m16.896s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Lionel Andrés Messi Cuccittini**
+
+**Datos básicos**
+
+* Nombre completo: Lionel Andrés Messi Cuccittini
+* Apodo: Leo Messi
+* Fecha de nacimiento: 24 de junio de 1987
+* Nacionalidad: Argentina
+* Altura: 1,70 m
+* Peso: 72 kg
+* Posición principal: Delantero
+* Pierna dominante: Derecha
+
+**Carrera profesional**
+
+* Newell's Old Boys (1994-1999): Jugó en las categorías inferiores del club.
+* F. C. Barcelona (2000-2005): Comenzó a entrenar con el Infantil A, luego pasó al Infantil B y luego al Cadete B y Cadete A. Integró el Juvenil A y firmó su primer contrato como profesional en 2004.
+* F. C. Barcelona (2004-2023): Debutó con el primer equipo en 2004 y jugó durante más de 20 años, ganando 35 títulos, incluyendo 10 de La Liga, 4 de la Liga de Campeones de la UEFA y 7 de la Copa del Rey.
+* Inter Miami (2023-presente): Juega en la MLS canadoestadounidense.
+
+**Estadísticas destacadas**
+
+* Récords de goles en una temporada, en un mismo club y en un año calendario.
+* Máximo goleador histórico del Barcelona y de la selección argentina, de La Liga, la Supercopa de España, la Supercopa de Europa y el jugador no europeo con más goles en la Liga de Campeones de la UEFA.
+
+**Estilo de juego**
+
+* Fortalezas: Driblaje, velocidad, habilidad en el balón.
+* Características técnicas: Puede jugar en diferentes posiciones, incluyendo delantero y centrocampista.
+* Rol táctico: Puede jugar como mediocampista ofensivo o como delantero.
+
+**Trayectoria de Lionel Messi**
+
+**Carrera en el Fútbol Club Barcelona**
+
+* **Primeros años**: Messi comenzó a jugar en el Cadete B de Tito Vilanova, donde marcó nueve goles en diez partidos. Luego pasó al Cadete A, entrenado por Álex García, con el que jugó 31 partidos y anotó 38 goles, ayudando al equipo a ganar la Liga y la Copa Cataluña.
+* **Juvenil B**: En la pretemporada 2003-2004, Messi jugó con el Juvenil B en la Toyota U17 Club World Cup, donde dio una asistencia a Franck Songo'o en una victoria 3-1 sobre el Feyenoord.
+* **Juvenil A**: Luego pasó al Juvenil A, donde jugó un partido de la Liga de la División de Honor Juvenil contra el Hércules, que el Barcelona ganó 3-0.
+* **Debut con el primer equipo**: El 16 de noviembre de 2003, a los dieciséis años y 145 días, Messi debutó con el primer equipo en un partido de exhibición ante el Fútbol Club Oporto, entrenado por José Mourinho.
+* **Temporada 2004-2005**: En la temporada 2004-2005, Messi jugó diecisiete partidos con el Barcelona B y nueve partidos con el primer equipo, anotando un gol en La Liga.
+* **Temporada 2005-2006**: En la temporada 2005-2006, Messi jugó veinticinco partidos con el primer equipo, marcando ocho goles y ayudando al Barcelona a ganar la Liga y la Liga de Campeones.
+* **Temporada 2006-2007**: En la temporada 2006-2007, Messi se estableció en el cuadro titular del primer equipo, anotando diecisiete goles en treinta y seis partidos y ayudando al Barcelona a ganar la Supercopa de España y la Copa Beckenbauer.
+
+**Logros y reconocimientos**
+
+* **Premio Eurochampion**: En septiembre de 2005, Messi recibió el premio Eurochampion, que distingue al mejor jugador joven del mundo.
+* **Premio Golden Boy**: En diciembre de 2005, Messi recibió el premio Golden Boy, entregado por la revista italiana Tuttosport al mejor jugador joven de Europa.
+* **FIFA FIFPro World XI**: En diciembre de 2006, Messi fue incluido por primera vez en el FIFA FIFPro World XI en la categoría de delantero.
+* **Trofeo Bravo**: En noviembre de 2007, Messi se convirtió en el primer argentino que recibió el Trofeo Bravo, entregado por Guerin Sportivo a los mejores futbolistas menores de veintiún años.
+
+**Lesiones y recuperación**
+
+* **Lesión en el metatarso izquierdo**: En noviembre de 2006, Messi se quebró el metatarso izquierdo y no pudo jugar por tres meses.
+* **Lesión en el bíceps femoral izquierdo**: En diciembre de 2007, Messi se lesionó el bíceps femoral izquierdo y estuvo más de un mes sin jugar.
+
+**Premios individuales**
+
+* Ocho veces el Balón de Oro
+* Ocho premios de la FIFA al mejor jugador del mundo
+* Seis Botas de Oro
+* Dos Balones de Oro de la Copa Mundial de Fútbol
+* Incluido en el Dream Team del Balón de Oro en 2020
+
+**Carrera en la selección argentina**
+
+* **Etapa Batista (2011)**: Participó en siete de los once amistosos que comenzó dirigiendo Batista.
+* **Copa América 2011**: Jugó en el partido inaugural de la Copa América contra Bolivia el 1 de julio.
+* **Etapa Sabella (2011-2014)**: Fue designado capitán por Sabella en septiembre de 2011.
+* **Mundial 2014**: Anotó el segundo gol en el 2-1 contra Bosnia-Herzegovina el 15 de junio.
+* **Copa América Centenario**: No jugó en el 2-1 contra Chile el 6 de junio debido a una lesión.
+* **Eliminatorias del Mundial 2018**: Rompió con la tradición de la AFA al no ser despedido después de la derrota en la Copa América 2015.
+
+**Estadísticas destacadas**
+
+* Goles: 772 (a nivel de clubes y selecciones)
+* Asistencias: 312 (a nivel de clubes y selecciones)
+* Títulos ganados: 46 (a nivel de clubes y selecciones)
+* Goles: 54 (a nivel de selección)
+* Asistencias: 25 (a nivel de selección)
+* Títulos ganados: 1 (Copa América 2015)
+
+**Estilo de juego**
+
+* Messi es un delantero con una gran habilidad para marcar goles y asistir a sus compañeros.
+* Es conocido por su velocidad, agilidad y visión de juego.
+* Es capaz de jugar en diferentes posiciones, incluyendo la delantera, el centrocampismo y la posición de enganche.
+* Fortalezas: Velocidad, habilidad, visión de juego.
+* Características técnicas: Excel
+
+**Táctica**
+
+* Messi juega en un rol ofensivo libre, y puede atacar tanto por el centro del campo como por el sector derecho.
+* Ha jugado en diferentes posiciones por el frente de ataque, incluyendo la banda derecha, como un falso nueve, un delantero todoterreno, un segundo delantero junto a otro compañero o en un rol más libre y creativo como enganche o mediapunta detrás de los delanteros.
+
+**Comparación con Maradona**
+
+* Messi se estableció entre los mejores jugadores del mundo antes de los veinte años.
+* Maradona dijo que era el mejor del mundo junto con Ronaldinho, y otros jugadores como Francesco Totti o Franz Beckenbauer opinaron que lo consideraban uno de los mejores.
+* La sociedad argentina a menudo ha comparado a Messi con Maradona, y algunos sectores de la hinchada y la prensa de su país cuestionaban su supuesta "falta de pasión por la camiseta".
+* Sin embargo, con el paso del tiempo, se fortaleció su vínculo con la hinchada y aún más tras haber sido campeón de América en 2021.
+
+**Impacto Social**
+
+Lionel Messi ha tenido un impacto significativo en la sociedad a lo largo de su carrera. En 2007, fue elegido como el mejor deportista del año por la revista Sports Illustrated. En 2010, se convirtió en el futbolista mejor pagado del mundo, según France Football.
+
+Messi ha sido objeto de numerosas campañas publicitarias y ha sido reconocido por su imagen de "chico común" que ha permitido llegar a distintos sectores socioeconómicos y etarios. En 2011, un estudio de la Universidad de Navarra encontró que Messi era uno de los futbolistas que más interés suscitaba en la prensa escrita, con una proporción veinte veces mayor que la media de todos los futbolistas de la Liga de Campeones.
+
+La entrega del Balón de Oro de 2010 generó un flujo de información equivalente al del Premio Nobel de la Paz a Liu Xiaobo y recibió el doble de atención mediática que el Nobel de Medicina a Robert Edwards. La revista Time lo incluyó en su lista de personas del año por considerar que había llevado al deporte más popular del mundo a alturas aún mayores en su atractivo comercial y éxito.
+
+En 2014, se estrenó el documental "Messi", dirigido por Álex de la Iglesia, y se inauguró el mural "La Capilla Sixtina del fútbol", ubicado en el Club Sportivo Pereyra del barrio porteño de Barracas. Hay otros murales, estatuas y grafitis dedicados a él en distintas ciudades del mundo.
+
+En 2017, la revista británica FourFourTwo lo eligió la quinta personalidad más influyente del fútbol, detrás de Richard Scudamore, Gianni Infantino, Jorge Mendes y Aleksander Ceferin. De acuerdo con un análisis de la consultora estadounidense Hill+Knowlton, Messi fue, pese a no estar en Twitter, el argentino con mayor peso en redes sociales, gracias a sus más de 87 millones de seguidores en Facebook y 58,7 millones en Instagram.
+
+En 2020, las consultoras Nielsen y SportsPro publicaron que Messi, con 167 millones de seguidores, era el deportista más rentable en Instagram, porque el 37 % de sus posteos se relacionan con marcas que lo auspician. En 2022, su número de seguidores aumentó a 232 millones y, en 2024, a 500 millones, por lo que pasó a ser la segunda cuenta más seguida, detrás de Cristiano Ronaldo.
+
+**Impacto en el Fútbol**
+
+Messi ha tenido un impacto significativo en el fútbol a lo largo de su carrera. En 2011, fue elegido como el mejor futbolista del mundo por la FIFA. En 2012, se convirtió en el máximo goleador de la historia del Barcelona, superando a César Rodríguez.
+
+En 2015, se convirtió en el máximo goleador de la historia de la Liga de Campeones, superando a Cristiano Ronaldo. En 2016, se convirtió en el máximo goleador de la historia de la selección de Argentina, superando a Gabriel Batistuta.
+
+En 2019, se convirtió en el máximo goleador de la historia del fútbol, superando a Josef Bican. En 2020, se convirtió en el máximo goleador de la historia de la Liga de Campeones, superando a Cristiano Ronaldo.
+
+**Impacto en la Sociedad**
+
+Messi ha tenido un impacto significativo en la sociedad a lo largo de su carrera. En 2011, fue elegido como la quinta personalidad más influyente del fútbol, detrás de Richard Scudamore, Gianni Infantino, Jorge Mendes y Aleksander Ceferin.
+
+En 2017, se convirtió en el embajador de Turismo Responsable de la OMT. En 2020, se convirtió en el embajador de la Organización Mundial de la Salud para la campaña de conscientización sobre el COVID-19.
+
+**Vida Privada**
+
+Messi ha tenido una vida privada muy pública a lo largo de su carrera. En 2007, comenzó a salir con Antonela Roccuzzo, con quien se casó en 2017. Tienen tres hijos juntos: Thiago, Mateo y Ciro.
+
+En 2012, Messi anunció la llegada de su primer hijo en su página de Facebook, escribiendo: "¡Hoy soy el hombre más feliz del mundo, mi hijo nació y gracias a Dios por este regalo!". También se tatuó el nombre y huellas de manos del niño en la pantorrilla izquierda.
+
+En 2021, la familia se estableció en Neuilly-sur-Seine, en las afueras de París. En 2022, se convirtió en el dueño de una empresa de ropa y accesorios, llamada "Messi Brand".
+
+**Fundación Leo Messi**
+
+En 2007, Messi creó la Fundación Leo Messi, que tiene como objetivo ayudar a niños y adolescentes en situación de riesgo, especialmente en las áreas de educación y salud. A través de la fundación, se han construido parques infantiles, refaccionado o rehabilitado organizaciones benéficas y polideportivos, entre otras cosas.
+
+**Actividad Filantrópica**
+
+Messi ha trabajado en estrecha colaboración con su fundación, la Fundación Leo Messi, y con la Fundación F. C. Barcelona. Ha participado en campañas de concientización sobre el COVID-19 y ha sido incluido en la lista de deportistas que ganaron más de 1000 millones de dólares a lo largo de su carrera, según la revista Forbes.
+
+**Proyectos y Inversiones**
+
+En mayo de 2025, se anunció que Messi sería socio de Luis Suárez en el proyecto del Deportivo LSM en Ciudad de la Costa en Uruguay.
+
+**Condena por Evasión Fiscal**
+
+En 2013, Messi fue investigado por sospechas de evasión fiscal mediante empresas en paraísos fiscales en Uruguay y Belice. Alegó ignorar el supuesto sistema y pagó voluntariamente 5,1 millones de euros en agosto de ese año. En mayo de 2016, fue juzgado junto a su padre por tres cargos de evasión fiscal y fue declarado culpable de fraude fiscal. Fue sentenciado a una pena de veintiún meses de prisión y condenado a pagar 1,7 millones de euros en multas.
+
+**Reacciones y Consecuencias**
+
+El Ministerio Fiscal no consideraba que hubiera motivos para acusar a Messi, pero la Abogacía del Estado española se convirtió en la única parte acusadora. El Tribunal Supremo español ratificó la sentencia de la Audiencia Provincial de Barcelona y lo consideró autor de tres delitos fiscales. Finalmente, la Fiscalía aceptó la pena sustitutoria establecida por el juez y estableció una multa de 252 000 euros para el jugador y otra de 180 000 euros para su padre.

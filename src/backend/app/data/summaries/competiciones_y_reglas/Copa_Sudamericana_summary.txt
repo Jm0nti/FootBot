@@ -1,1 +1,103 @@
-[ERROR AL RESUMIR] Copa_Sudamericana.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 10093, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Copa Sudamericana – Resumen Completo y Detallado**
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial**: Copa Sudamericana (desde 2017 denominada *Copa Conmebol Sudamericana*).  
+- **Tipo**: Torneo internacional de clubes de la Confederación Sudamericana de Fútbol (CONMEBOL).  
+- **Prestigio**: Segunda competición internacional más importante de América del Sur, después de la Copa Libertadores.
+
+---
+
+### 2. Formato  
+| Etapa | Descripción | Cambios recientes (desde 2017) |
+|-------|-------------|--------------------------------|
+| **Fase preliminar** | Partido único a puerta cerrada entre equipos de la misma federación (excepto Argentina y Brasil). Los ganadores acceden a la fase de grupos. | Se eliminó el doble partido; se introdujo un partido único. |
+| **Fase de grupos** | 8 grupos de 4 equipos (incluye equipos de Argentina y Brasil + 4 eliminados de la 3ª fase de la Copa Libertadores). Cada equipo juega 6 partidos (3 a casa, 3 fuera). Los ganadores de cada grupo avanzan a octavos. | Se mantiene el formato de 3 partidos a casa y 3 fuera. |
+| **Play‑off de octavos** | Los segundos de la fase de grupos de Sudamericana se enfrentan a los terceros de la fase de grupos de la Copa Libertadores (ida y vuelta). Los ganadores se unen a los 8 ganadores de grupos en octavos. | Introducido en 2023. |
+| **Octavos, cuartos y semifinales** | Partidos de ida y vuelta. Los ganadores avanzan. | Se mantiene. |
+| **Final** | Partido único en sede neutral (desde 2019). Si hay empate, se juega tiempo suplementario y, si persiste, se decide por penales. | Se mantiene. |
+
+- **Calendario**: Desde 2017 se juega durante todo el año natural, con dos semestres de competición (pre‑fase y fase de grupos en el primer semestre; fase eliminatoria y final en el segundo).  
+- **Participantes**: 40 equipos de 10 federaciones (Argentina, Brasil, Bolivia, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay, Venezuela).  
+
+---
+
+### 3. Historia  
+- **2001**: CONMEBOL intenta crear la *Copa Panamericana* (no se materializa).  
+- **2002**: Se inaugura la Copa Sudamericana con 12 equipos (San Lorenzo campeón). Los clubes brasileños se incorporan a partir de 2003.  
+- **2005‑2008**: Se invitan equipos de la CONCACAF (principalmente México).  
+- **2010‑2016**: Se introducen cambios de formato y se establecen los primeros patrocinadores (Nissan, Bridgestone, Total).  
+- **2016**: Trágico accidente aéreo de la Chapecoense; el título se concede a Atlético Nacional como homenaje.  
+- **2017**: Se renombra oficialmente a *Copa Conmebol Sudamericana* y se cambia el calendario a dos semestres.  
+- **2019**: Se adopta la final de partido único en sede neutral.  
+- **2023**: Se implementa el play‑off de octavos y se mantiene la final neutral.  
+- **2024‑2025**: Se continúan los cambios de formato y se consolidan los equipos con más títulos (Boca Juniors, Independiente, Athletico Paranaense, Independiente del Valle, Liga de Quito, Lanús – 2 cada uno).
+
+---
+
+### 4. Equipos participantes  
+- **Federaciones representadas**: Argentina, Brasil, Bolivia, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay, Venezuela.  
+- **Clubes más frecuentes**:  
+  - *Argentina*: Boca Juniors, Independiente, Lanús, Racing Club, River Plate.  
+  - *Brasil*: Athletico Paranaense, São Paulo, Palmeiras, Flamengo, Grêmio.  
+  - *Ecuador*: Liga de Quito, Independiente del Valle.  
+  - *Colombia*: Atlético Nacional, Santa Fe.  
+  - *Chile*: Universidad de Chile.  
+- **Invitados**: Hasta 2009 se permitieron equipos de la CONCACAF (México, Estados Unidos, Costa Rica, Honduras).
+
+---
+
+### 5. Sistema de clasificación  
+1. **Acceso**: Se basa en la posición final de la liga nacional y, desde 2016, en la clasificación directa a la fase de grupos de la Copa Libertadores del año siguiente.  
+2. **Cupos**:  
+   - Argentina y Brasil: 4 cupos cada uno (2 directos a fase de grupos, 2 a fase preliminar).  
+   - Otras federaciones: 1 cupo cada una (participan en la fase preliminar).  
+3. **Reclasificación**: Los equipos que no llegan a la fase de grupos pueden volver a clasificarse a través de la fase preliminar en la edición siguiente.  
+
+---
+
+### 6. Premios  
+- **Títulos**: 2 (para los clubes con más conquistas).  
+- **Clasificación**:  
+  - **Copa Libertadores**: El campeón de la Sudamericana clasifica directamente a la fase de grupos de la Copa Libertadores del año siguiente.  
+  - **Recopa Sudamericana**: El campeón disputa la Recopa contra el campeón de la Copa Libertadores.  
+  - **Desafío de Clubes**: Desde 2023, el campeón juega el Desafío de Clubes contra el campeón de la UEFA Europa League.  
+- **Premios económicos**: Varían según la ronda; el ganador recibe un premio monetario significativo (aproximadamente USD 1,5‑2 millones).  
+- **Premios simbólicos**: Trofeo de plata con balón en la parte superior, con inscripción del club y año.
+
+---
+
+### 7. Récords y estadísticas  
+| Categoría | Datos destacados |
+|-----------|------------------|
+| **Club con más títulos** | Boca Juniors, Independiente, Athletico Paranaense, Independiente del Valle, Liga de Quito, Lanús – 2 cada uno. |
+| **Club con más títulos combinados (incl. Copa Conmebol)** | Lanús (Copa Conmebol 1996 + Sudamericana 2013 + 2025). |
+| **Máximo goleador histórico** | Hernán Barcos (Argentina) – 20 goles. |
+| **Máximo goleador en una edición** | Eduardo Vargas (Chile, Universidad de Chile) – 11 goles en 2011. |
+| **Mayor número de partidos en la historia** | 20 jugadores con más de 50 partidos (actualizado 2024). |
+| **Estadio con más finales** | La Bombonera (3 finales: 2004, 2005, 2014). |
+| **Ciudad con más finales** | Buenos Aires (4 finales). |
+| **Títulos por país** | Argentina (8), Brasil (7), Ecuador (4), Colombia (3), Uruguay (2), Chile (1), Perú (1), Bolivia (0), Paraguay (0), Venezuela (0). |
+| **Premios de patrocinio** | Nissan (2003‑2010), Bridgestone (2011‑2012), Total (2013‑2014), Bumbet (2017‑2018). |
+| **Premios de transmisión** | Derechos de TV paga: DSports (2023‑2026), ESPN/Star+ (2023‑2026), Disney/ESPN (Brasil), SBT (Brasil). |
+| **Premios de participación** | Los equipos que llegan a la fase de grupos obtienen un premio de participación de CONMEBOL (USD 200‑300k). |
+
+---
+
+### 8. Cambios recientes (2017‑2025)  
+- **2017**: Renombrado a *Copa Conmebol Sudamericana*; calendario dividido en dos semestres.  
+- **2019**: Final de partido único en sede neutral.  
+- **2023**: Introducción del play‑off de octavos y eliminación de la fase preliminar doble partido.  
+- **2024**: Se introdujo la regla de que los equipos de Argentina y Brasil pueden recibir un cupo adicional si terminan entre los primeros 4 de la liga.  
+- **2025**: Se implementó la “Regla de la zona de seguridad” para partidos en estadios con capacidad superior a 50.000, garantizando la presencia de al menos 10.000 espectadores de la comunidad local.
+
+---
+
+### 9. Observaciones finales  
+- La Copa Sudamericana ha evolucionado de un torneo de eliminación directa a un formato más complejo que combina grupos, play‑offs y finales neutrales.  
+- Su importancia se refleja en la participación de los clubes más grandes de Sudamérica y en la posibilidad de acceder a la Copa Libertadores y a competiciones interconfederativas.  
+- Los récords de goleadores y partidos reflejan la competitividad y la diversidad de estilos de juego en la región.  
+- El torneo sigue siendo un motor de desarrollo de talento, con jugadores que pasan a ligas europeas tras destacar en la Sudamericana.  
+
+---

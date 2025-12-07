@@ -1,1 +1,124 @@
-[ERROR AL RESUMIR] Sporting_de_Lisboa.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 7938, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Sporting Club de Portugal – Resumen Completo (2024‑2025)**  
+
+---
+
+### 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| **Nombre completo** | Sporting Club de Portugal (Sporting Clube de Portugal) |
+| **Fundación** | 1 julio 1906 (orígenes 1902‑1906) |
+| **Ciudad / País** | Lisboa, Portugal |
+| **Apodos** | *Leões* (Leones), *Verde e Brancos* (Verdiblancos) |
+| **Lema** | *Esfuerzo, dedicación, devoción y gloria* |
+| **Himno** | “Marcha do Sporting” (composición 1955) |
+| **Socios activos (julio 2020)** | 106 625 |
+| **Aficionados en Portugal** | > 2 600 000 (cita requerida) |
+| **Presencia internacional** | Club con más medallas olímpicas de sus atletas; segundo en títulos totales tras FC Barcelona; pionero en ICO con tecnología blockchain |
+
+---
+
+### 2. Estadio  
+| Característica | Información |
+|-----------------|-------------|
+| **Nombre** | Estádio José Alvalade |
+| **Ubicación** | Lisboa (cerca de la zona de Benfica) |
+| **Capacidad** | 52 000 espectadores (original 40 000) |
+| **Diseño** | Arquitecto Tomás Taveira; cinco estrellas UEFA; acústica para conciertos |
+| **Inauguración** | 6 agosto 2003 (partido vs. Manchester United 3–1) |
+| **Eventos clave** | Final de la UEFA Cup 2005 (CSKA Moscú 3–1), 5 partidos de Eurocopa 2004 (incl. semifinal 2–1 Portugal‑Holanda) |
+| **Pabellón** | Pavilhão João Rocha (inaugurado 21 junio 2017; 3 000 asientos, tecnología punta) |
+| **Museo** | 16 000 trofeos expuestos en el mismo estadio |
+
+---
+
+### 3. Colores y escudo  
+* **Colores oficiales** – Verde y blanco (camiseta con franjas horizontales verdes‑blancas, pantalón negro).  
+* **Escudo** – Evolución:  
+  * 1906‑2001: León rampante estilizado con verde dominante.  
+  * 2001‑actualidad: Diseño simplificado con león dorado, tres rayas blancas horizontales (representan la camiseta), palabras “Sporting” y “Portugal”, siglas “SCP” como corona.  
+
+---
+
+### 4. Historia  
+#### 4.1 Fundación y primeros años (1902‑1930)  
+* 1902: “Sport Club de Belas” fundado por Francisco da Ponte, Horta Gavazzo y José María.  
+* 1904: Creación de “Campo Grande Football Club” con José Alvalade y José Stromp.  
+* 12 abril 1906: Disputa interna → creación de “Campo Grande Sporting Clube”.  
+* 1 julio 1906: Oficialmente se nombra *Sporting Clube de Portugal*.  
+
+#### 4.2 Primeros logros y consolidación (1931‑1959)  
+* 3 febrero 1907: Primer partido de fútbol (derrota 5‑1 vs. Cruz Negra).  
+* 4 julio 1907: Inauguración de “Sítio das Mouras” (duchas, pistas de tenis, atletismo).  
+* 1 diciembre 1907: Primer clásico vs. Sport Lisboa e Benfica.  
+* 20 enero 1935: Primer partido de Primeira Liga (victoria 6‑0 vs. Académica).  
+* 1941: Primer título de liga bajo entrenador József Szabó.  
+* 1947‑1954: “Cinco violines” (Peyroteo, Travassos, Pereira, Correia, Vasques) ganan 7 títulos en 8 temporadas.  
+
+#### 4.3 Oro y gloria europea (1960‑1995)  
+* **Títulos de liga**: 1961/62, 1965/66, 1969/70, 1973/74, 1979/80, 1982, 1994/95.  
+* **Copa de Portugal**: 1962/63, 1970/71, 1972/73, 1973/74, 1977/78, 1994/95.  
+* **Recopa de Europa**: 1963/64 (único título europeo portugués).  
+* **Rivalidades**: Derbi de Lisboa (Benfica), clásico con FC Porto.  
+* **Épocas destacadas**:  
+  * 1963/64: 16‑1 vs. APOEL (máxima victoria en competiciones UEFA).  
+  * 1974: Semifinal de la Copa de Campeones (derrota 1‑0 vs. 1 FC Magdeburg).  
+
+#### 4.4 Crisis y resurgimiento (1999‑2024)  
+* **1999‑2000**: Recuperación de la liga tras 18 años de sequía (victoria 4‑0 vs. Sport Comércio e Salgueiros).  
+* **2004‑2005**: Final de la Copa de la UEFA vs. CSKA Moscú (derrota 3‑1).  
+* **2008‑09**: Primera fase de octavos de la Liga de Campeones (derrota 12‑1 vs. Bayern).  
+* **2011‑2012**: Crisis financiera (deuda > 276 m€), descenso a 7.º lugar.  
+* **2013‑14**: Segunda posición en la liga, acceso directo a la Liga de Campeones 2014‑15.  
+* **2014‑15**: 16.º título de la Copa de Portugal (victoria 3‑1 en penales vs. Braga).  
+* **2015‑2019**: Cambios de entrenador (Jorge Jesús, José Peseiro) y gestión de la presidencia (Bruno de Carvalho, Frederico Varandas).  
+* **2020‑21**: 19.º título de la Primeira Liga (sequía de 19 años).  
+* **2021‑22**: Supercopa y Taça da Liga ganadas; 2.º lugar en la liga.  
+* **2023‑24**: 20.º título de la Primeira Liga.  
+* **Reestructuración financiera** (diciembre 2023): renegociación de deuda, 88 % de la SAD controlada.  
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Fechas |
+|-------------|---------|--------|
+| **Primeira Liga** | 21 | 1941, 1947‑54, 1961‑62, 1965‑66, 1969‑70, 1973‑74, 1979‑80, 1982, 1994‑95, 1999‑2000, 2000‑01, 2001‑02, 2002‑03, 2003‑04, 2004‑05, 2005‑06, 2006‑07, 2007‑08, 2013‑14, 2014‑15, 2015‑16, 2016‑17, 2017‑18, 2018‑19, 2019‑20, 2020‑21, 2021‑22, 2022‑23, 2023‑24 |
+| **Copa de Portugal** | 18 | 1941, 1947‑54, 1962‑63, 1970‑71, 1972‑73, 1973‑74, 1977‑78, 1994‑95, 2007, 2008, 2014‑15, 2015‑16, 2016‑17, 2017‑18, 2018‑19, 2019‑20, 2020‑21, 2021‑22 |
+| **Supercopa de Portugal** | 9 | 1973‑74, 1979‑80, 1987, 1994‑95, 2001‑02, 2002‑03, 2003‑04, 2004‑05, 2005‑06 |
+| **Taça da Liga** | 4 | 2007, 2008, 2020‑21, 2021‑22 |
+| **Copa de la Liga** | 4 | 2007, 2008, 2020‑21, 2021‑22 |
+| **Recopa de Europa** | 1 | 1963‑64 |
+| **Copa Ibérica** | 1 | 2000 |
+| **Copa Intertoto** | 1 | 1968 |
+| **Torneos regionales** | 31 (Lisboa, AF Lisboa, etc.) | 1914‑15 a 2014‑15 |
+
+---
+
+### 6. Jugadores legendarios  
+* **Pasado**: Cristiano Ronaldo, Ricardo Quaresma, Luís Figo, Paulo Futre, Nani, Simão, João Moutinho, Rui Patrício.  
+* **Época actual**: (Plantilla 2025/26 – no se listan nombres específicos en el documento).  
+* **Academia**: Reconocida mundialmente; ha formado a 10 de los 14 jugadores de la Eurocopa 2016 (Portugal).  
+
+---
+
+### 7. Rivalidades  
+| Rival | Historia / Clásicos | Datos clave |
+|-------|---------------------|-------------|
+| **SL Benfica** | Derbi de Lisboa (desde 1907). Primer encuentro 2‑1 a favor del Sporting. Rivalidad política y regional (Lisboa vs. Norte). | Mayor victoria del Sporting 7‑1 (14 dic 1986). Peor derrota 7‑2 (1948). |
+| **FC Porto** | Competencia de “tres grandes” (Benfica, Sporting, Porto). Rivalidad de la capital vs. el norte. | Derbi de la Liga, encuentros históricos en torneos europeos. |
+
+---
+
+### 8. Datos actuales (2024‑2025)  
+* **Entrenador**: Rúben Amorim (desde marzo 2020).  
+* **Liga**: Primeira Liga (Portugal).  
+* **Posición reciente**: 2.º en la temporada 2023‑24 (segundo título de la liga).  
+* **Club en la UEFA**: 29.º en el ranking de clubes de la UEFA (actual).  
+* **Estructura**: SAD con 88 % control tras reestructuración financiera.  
+* **Presidente**: Frederico Varandas (desde 2018).  
+* **Estadio**: Estádio José Alvalade (52 000).  
+* **Academia**: Continúa como cantera de referencia.  
+
+---
+
+**Resumen final**  
+El Sporting Club de Portugal, fundado en 1906, es uno de los pilares del fútbol portugués y del deporte polideportivo en general. Con 21 títulos de liga, 18 Copas de Portugal y la única Recopa de Europa ganada por un club portugués, su palmarés lo coloca como el tercer equipo más laureado del país. La identidad del club se refleja en su lema, su himno, sus colores verdes y blancos y su emblemático león rampante. La historia del club está marcada por épocas doradas en los años 40‑50 y 60‑70, crisis financieras en la década de 2010 y un resurgimiento que culminó con el título de liga 2023‑24. La rivalidad con Benfica y la histórica competencia con FC Porto siguen siendo el motor de su pasión. Con una academia de renombre mundial y una base de socios y aficionados que supera los dos millones, el Sporting continúa siendo un referente deportivo y cultural en Portugal y en el mundo.

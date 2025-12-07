@@ -1,1 +1,125 @@
-[ERROR AL RESUMIR] Primera_División_de_Argentina.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 13304, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Primera División de Argentina – Competencia de fútbol masculino**
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial:** *Primera División de Argentina* (también conocida como *Liga Profesional de Fútbol Argentino*).  
+- **Tipo:** Torneo de máxima categoría del fútbol masculino argentino, organizado por la Asociación del Fútbol Argentino (AFA).  
+- **Reconocimiento internacional:** Clasificada por la Federación Internacional de Historia y Estadística de Fútbol (IFFHS) como una de las ligas más competitivas del mundo; en 2024 ocupó el 6.º lugar en su ranking anual (desde 1991) y ha permanecido entre los 10 primeros en todas las ediciones salvo 1993.
+
+---
+
+### 2. Formato (2025)  
+| Fase | Detalle | Participantes | Resultado |
+|------|---------|---------------|-----------|
+| **Apertura** | Torneo de todos contra todos dentro de cada zona (15 equipos) + 2 partidos interzonales de “clásicos” | 30 equipos (2 zonas de 15) | 16 equipos (8 por zona) avanzan a octavos |
+| **Clausura** | Igual que Apertura, pero con localías invertidas | 30 equipos | 16 equipos avanzan a octavos |
+| **Fase de eliminación directa** | 8ª, cuartos, semis y final – partidos únicos | 16 equipos | Campeón de Apertura / Clausura |
+| **Campeón de Liga** | Tabla general acumulada de ambos torneos | 30 equipos | Primer equipo en la tabla general (título adicional) |
+
+- **Descensos/Ascensos (2025):**  
+  - **Promedios:** Se calcula el cociente entre puntos de las últimas 3 temporadas y partidos jugados.  
+  - **Suma de resultados:** Se suman los puntos de Apertura y Clausura de la temporada actual.  
+  - **Resultado final:** El equipo con peor promedio y el con peor suma de resultados descenden a Primera Nacional; se ascenden dos equipos de la segunda división (según sus propios criterios de ascenso).  
+
+- **Número de equipos:** 30 (aumentó de 28 en 2017‑18, 26 en 2018‑19, 24 en 2019‑20).  
+
+---
+
+### 3. Historia  
+| Periodo | Características clave | Cambios de formato | Notas históricas |
+|---------|-----------------------|--------------------|------------------|
+| **Era amateur (1891‑1934)** | 54 campeonatos, 18 clubes ganadores (Alumni 10, Racing 9, Lomas 6, Boca 6, Huracán 4). | Torneo de todos contra todos, 2 ruedas, 3 rondas en 1934 y 1936 (tres títulos). | Primer torneo 1891 compartido; 1893 se consolidó la liga. |
+| **Transición profesional (1931‑1934)** | Se creó la Liga Argentina de Football (profesional) y la Asociación Argentina de Football (Amateurs y Profesionales). | 1935 se fundó la Asociación del Football Argentino (AFA) y se unificó la competición. | 1931 se inició la huelga de jugadores; 1936 se otorgaron tres títulos en una temporada. |
+| **Era profesional (1935‑1985)** | 140 torneos, 18 clubes ganadores (River 37, Boca 29, Independiente 14, San Lorenzo 12, Vélez 11, Racing 9, Newell’s 6, Estudiantes 5, Rosario 5). | 1967‑1985: Metropolitano + Nacional (dos torneos por temporada). | 1967 se introdujo el Torneo Nacional; 1971 Rosario Central y 1973 Newell’s lograron títulos. |
+| **Apertura/Clausura (1990‑2012)** | Dos torneos cortos por temporada; 1990‑91 se jugó una final entre ambos ganadores. | 2012‑13: Torneo Inicial + Final + partido final de campeonato (tres títulos por temporada). | 2013‑14 se jugó final solo por la Copa Campeonato. |
+| **Superliga (2017‑20)** | Organización autónoma; formato similar al anterior. | 2019‑20 se canceló la Copa Superliga por la pandemia. | Se disolvió la Superliga en 2020. |
+| **Liga Profesional (2021‑actual)** | Regreso a la AFA; torneo de año calendario; 2025 vuelve a Apertura/Clausura con 30 equipos. | 2025: Se introduce “Campeón de Liga” (tabla general). | Se suspendieron descensos 2019‑20 y 2021 por COVID‑19. |
+
+---
+
+### 4. Equipos participantes (2025)  
+Los 30 clubes que compiten en la Liga Profesional de Fútbol Argentino son:  
+1. Boca Juniors  
+2. River Plate  
+3. Racing Club  
+4. Independiente  
+5. San Lorenzo  
+6. Vélez Sarsfield  
+7. Newell’s Old Boys  
+8. Rosario Central  
+9. Estudiantes de La Plata  
+10. Gimnasia y Esgrima La Plata  
+11. Talleres (Córdoba)  
+12. Belgrano (Córdoba)  
+13. Instituto (Córdoba)  
+14. Colón (Santa Fe)  
+15. Unión (Santa Fe)  
+16. Atlético de Rafaela (Santa Fe)  
+17. Atlético Tucumán (Tucumán)  
+18. Banfield (Buenos Aires)  
+19. Lanús (Buenos Aires)  
+20. Racing (Córdoba)  
+21. Atlético de San Juan (San Juan)  
+22. Atlético de Rafaela (Santa Fe)  
+23. Atlético de San Juan (San Juan)  
+24. Atlético de Rafaela (Santa Fe)  
+25. Atlético de San Juan (San Juan)  
+26. Atlético de Rafaela (Santa Fe)  
+27. Atlético de San Juan (San Juan)  
+28. Atlético de Rafaela (Santa Fe)  
+29. Atlético de San Juan (San Juan)  
+30. Atlético de Rafaela (Santa Fe)  
+
+*(Lista actualizada al 2025; los equipos pueden variar por ascensos/descensos.)*
+
+---
+
+### 5. Sistema de clasificación  
+- **Torneo Apertura y Clausura:** Cada uno cuenta como un campeonato independiente.  
+- **Tabla general (Campeón de Liga):** Se suman los puntos de ambos torneos; el máximo clasifica como “Campeón de Liga”.  
+- **Descensos:** Se aplican dos criterios (promedio y suma de resultados).  
+- **Ascensos:** Se promueven los equipos ganadores de la Primera Nacional (según su propio sistema de ascenso).  
+
+---
+
+### 6. Premios  
+| Premio | Descripción | Relevancia |
+|--------|-------------|------------|
+| **Campeón de Apertura** | Título del torneo de la primera mitad del año. | 1 título por temporada. |
+| **Campeón de Clausura** | Título del torneo de la segunda mitad del año. | 1 título por temporada. |
+| **Campeón de Liga** | Máximo en la tabla general de la temporada. | 1 título adicional por temporada. |
+| **Copa Argentina** | Copa nacional interdivisional (todos los niveles). | Premios de copa y clasificación a Copa Libertadores. |
+| **Trofeo de Campeones** | Final entre Campeón de Apertura y Campeón de Clausura. | Reconocimiento de la temporada. |
+| **Supercopa Argentina** | Final entre Campeón de la Copa Argentina y Campeón de la Liga. | Trofeo de supercopa. |
+| **Supercopa Internacional** | Final entre Campeón del Trofeo de Campeones y Campeón de la tabla general. | Trofeo de supercopa internacional. |
+| **Clasificación a la Copa Libertadores** | Los 4 primeros de la tabla general (o 5 con la Copa Argentina) clasifican a la Libertadores. | Participación en la competición continental. |
+| **Clasificación a la Copa Sudamericana** | Los 5‑7 equipos de la tabla general (según reglas de CONMEBOL) clasifican a la Sudamericana. | Participación en la competición continental. |
+
+---
+
+### 7. Récords y estadísticas  
+| Categoría | Datos destacados |
+|-----------|------------------|
+| **Títulos totales (196 ediciones)** | 54 en la era amateur, 142 en la era profesional. |
+| **Club con más títulos** | River Plate – 37 campeonatos (incluye 2025). |
+| **Club con más títulos en la era amateur** | Alumni – 10 títulos (1900‑1911). |
+| **Club con más títulos en la era profesional** | Boca Juniors – 29 títulos (incluye 2025). |
+| **Títulos en una temporada (máximo)** | 3 títulos en 1936, 2012‑13 y 2025 (Apertura, Clausura y Campeón de Liga). |
+| **Clasificación mundial (2024)** | 6.º lugar en el ranking anual de IFFHS. |
+| **Clasificación mundial (máximo)** | 3.º lugar en 2008 (solo Premier League e Serie A superaron). |
+| **Clásicos más jugados** | Superclásico (Boca‑River) – 215 partidos; Avellaneda (Independiente‑Racing) – 215 partidos. |
+| **Máximo goleador histórico** | Arsenio Erico – 293 goles en 332 partidos (promedio 0,88). |
+| **Goleador más reciente** | Martín Palermo – 227 goles en 410 partidos (promedio 0,55). |
+| **Descensos más polémicos** | 2019‑20 y 2021 se suspendieron; 2025 se aplica sistema mixto. |
+| **Promedio de descenso** | Se calcula sobre las últimas 3 temporadas; se introdujo en 1983. |
+| **Número de equipos en la temporada 2025** | 30 (máximo histórico). |
+
+---
+
+### 8. Observaciones finales  
+- La Primera División de Argentina es la liga de fútbol más antigua y continua del mundo, con 132 años sin interrupciones.  
+- La competición ha experimentado múltiples transformaciones de formato, reflejando cambios políticos, económicos y deportivos (huelgas de jugadores, creación de la Superliga, pandemia de COVID‑19).  
+- La estructura actual (Apertura/Clausura + Campeón de Liga) permite tres títulos por temporada, lo que aumenta la competitividad y la relevancia de la tabla general.  
+- Los clubes más exitosos (River, Boca, Independiente, San Lorenzo, Vélez) son pilares de la historia argentina y mantienen la liga en la élite mundial.  
+- La liga sigue siendo un referente para la formación de jugadores, la transmisión televisiva y la participación en torneos continentales, consolidándose como una de las competiciones más prestigiosas de América del Sur.

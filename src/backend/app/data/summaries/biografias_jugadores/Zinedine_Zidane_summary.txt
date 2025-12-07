@@ -1,1 +1,68 @@
-[ERROR AL RESUMIR] Zinedine_Zidane.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96953, Requested 7498. Please try again in 1h4m5.664s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Zinedine Zidane: Una Biografía**
+
+**Datos básicos**
+
+* Nombre completo: Zinedine Yazid Zidane
+* Apodo: Zidane
+* Fecha de nacimiento: 23 de junio de 1972
+* Nacionalidad: Francesa de ascendencia argelina
+
+**Información física**
+
+* Posición principal: Centrocampista ofensivo
+* Pierna dominante: La información sobre su altura y peso no se menciona en el texto.
+
+**Carrera profesional**
+
+* Debutó como profesional en mayo de 1989 en la A. S. Cannes, con diecisiete años.
+* Pasó al F. C. Girondins de Burdeos con sus primeros reconocimientos internacionales.
+* Fue uno de los jugadores históricos de la Juventus F. C. y del Real Madrid C. F.
+* Jugó en el Real Madrid C. F. durante cinco temporadas, donde compartió vestuario con jugadores como Figo, Beckham, Ronaldo, Raúl, Owen, Hierro, Roberto Carlos o Iker Casillas entre otros.
+* Anunció su retirada como futbolista en 2006.
+
+**Estadísticas destacadas**
+
+* Obtuvo el premio «Balón de Oro» en 1998.
+* Fue nombrado en tres ocasiones como «Jugador Mundial de la FIFA» en 1998, 2000 y 2003.
+* Fue nombrado como «mejor futbolista europeo de los últimos 50 años» por la UEFA.
+* Fue incluido como mediocentro ofensivo en el segundo Dream Team histórico del Balón de Oro en 2020.
+* Marcó 7 goles y dio 9 asistencias en su primera temporada con el Real Madrid.
+* Fue nombrado «Jugador del Año de la UEFA» en 2002.
+* Fue nombrado «FIFA World Player» en 2003.
+* Fue nombrado «UEFA Club Player of the Year» en 2002.
+
+**Estilo de juego**
+
+* Se desarrolló en la posición de centrocampista ofensivo.
+* Fue considerado como uno de los mejores de su época y uno de los mejores futbolistas de todos los tiempos.
+* Fue conocido por su habilidad para jugar con la pierna izquierda.
+
+**Selección Nacional**
+
+* Fue internacional con la selección francesa absoluta en 108 ocasiones y anotó 31 goles, lo que le convierte en el cuarto futbolista con mayor cantidad de internacionalidades y goles con «Les Bleus».
+* Debutó con la selección francesa absoluta el 17 de agosto de 1994, en un encuentro amistoso ante Chequia que finalizó con marcador de 2-2.
+* Fue convocado para disputar la Eurocopa 1996, la primera fase final que disputó con su selección, donde le fue asignado el dorsal número «10».
+* Fue convocado por el seleccionador Aimé Jacquet, para disputar la Copa Mundial de Fútbol de 1998, que Francia disputaba como anfitriona.
+* Fue parte del Club de los 100 de la FIFA con un total de 108 encuentros y 31 goles.
+* Fue campeón del mundo en 1998 y campeón de Europa en 2000.
+* Fue elegido Balón de Oro del torneo en 2006.
+* Fue nombrado «Mejor Entrenador del Mundo» en 2017.
+* Fue el primer entrenador en ser distinguido tanto de jugador, como de entrenador.
+
+**Participaciones en la selección nacional**
+
+* Debutó con la selección francesa absoluta el 17 de agosto de 1994, en un encuentro amistoso ante Chequia que finalizó con marcador de 2-2.
+* Fue convocado para disputar la Eurocopa 1996, la primera fase final que disputó con su selección, donde le fue asignado el dorsal número «10».
+* Fue convocado por el seleccionador Aimé Jacquet, para disputar la Copa Mundial de Fútbol de 1998, que Francia disputaba como anfitriona.
+* Fue parte del Club de los 100 de la FIFA con un total de 108 encuentros y 31 goles.
+* Fue campeón del mundo en 1998 y campeón de Europa en 2000.
+* Fue elegido Balón de Oro del torneo en 2006.
+* Fue nombrado «Mejor Entrenador del Mundo» en 2017.
+* Fue el primer entrenador en ser distinguido tanto de jugador, como de entrenador.
+
+**Retiro de la selección**
+
+* Tras la eliminación en la final de la Copa Mundial de Fútbol de 2006, Zidane anunció su retiro de la selección.
+* Sin embargo, un año después, el 3 de agosto de 2005, el jugador comunicó su deseo de volver a jugar con su selección para poder disputar su última Copa del Mundo en 2006.
+* Tras este anuncio, el seleccionador Raymond Domenech, le otorga a Zidane la capitanía que anteriormente estaba en posesión de Patrick Vieira.
+* Su partido de regreso y en el que estrenaba capitanía, se llevó a cabo el 17 de agosto en Montpellier, en un partido amistoso ante Costa de Marfil que terminó 3-0 y en el que Zidane anotó un gol.

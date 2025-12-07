@@ -1,1 +1,123 @@
-[ERROR AL RESUMIR] Newcastle_United_Football_Club.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 24047, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Newcastle United Football Club – Resumen Completo y Detallado**
+
+---
+
+### 1. Identidad del club  
+| Elemento | Información |
+|----------|-------------|
+| Nombre completo | Newcastle United Football Club |
+| Apodo | *Magpies* (Urracas) y *Geordies* (apodo de los nativos) |
+| Año de fundación | 9 de diciembre 1892 (fusión de Newcastle East End y Newcastle West End) |
+| Ciudad / País | Newcastle upon Tyne, Inglaterra |
+
+---
+
+### 2. Estadio  
+**St James’ Park**  
+- Construcción original: 1880 (el cuarto estadio más antiguo del mundo, tras Bramall Lane, Sandygate Road y Stamford Bridge).  
+- Capacidad actual: 52 000 espectadores (expansión prevista a 60 000).  
+- Características: estadio de 4 estrellas, apto para competiciones UEFA y FIFA; ha albergado partidos de los Juegos Olímpicos de Londres 2012, Eurocopa 1996 y la Copa Mundial de Rugby 2015.  
+- Ubicación: centro de Newcastle, rodeado de edificios históricos que limitan la ampliación del lado oriental.
+
+---
+
+### 3. Colores y escudo  
+- **Colores oficiales**: rayas negras y blancas (camiseta), pantalones y medias negras con ribetes blancos.  
+- **Escudo**: incorpora los caballos de mar y el castillo de Newcastle (Keep Norman) del escudo de armas municipal, con el lema “fortiter defendit triumphans” (triunfar con una defensa valiente).  
+- Evolución: desde 1988 el escudo incluye la urraca sobre el río Tyne y el castillo; antes se usaron versiones con el nombre completo y con las iniciales NUFC.
+
+---
+
+### 4. Historia  
+#### 4.1 Fundaciones y primeros años  
+- 1877: primer partido de fútbol en Tyneside (Elswick Rugby Club).  
+- 1881‑1882: formación de Newcastle East End y Newcastle West End; ambos competían en la Northern League.  
+- 1892: West End se disuelve, jugadores y personal se integran en East End, que cambia su nombre a Newcastle United el 9 de diciembre.  
+- 1894: adopción de los colores rayados negros y blancos.  
+
+#### 4.2 Época dorada (1904‑1910)  
+- 1904‑05, 1906‑07, 1908‑09: tres títulos de la First Division.  
+- 1910: primera FA Cup (victoria sobre Barnsley).  
+
+#### 4.3 Dominio en la FA Cup (1950‑1955)  
+- 1951, 1952, 1955: tres títulos de la FA Cup en cinco ediciones.  
+
+#### 4.4 Periodo de altibajos y Premier League  
+- 1992: debut en la Premier League (una temporada después de su creación).  
+- 2015‑16: descenso a la Championship; 2016‑17: regreso como campeón de la segunda división.  
+- 2017‑presente: permanencia continua en la Premier League.  
+
+#### 4.5 Logros internacionales  
+- 1969: Copa de Ferias (precursor de la UEFA Cup).  
+- 2006: Copa Intertoto.  
+- 3 participaciones en la Liga de Campeones de la UEFA.  
+
+#### 4.6 Propiedad y finanzas  
+- 1999: segundo club inglés más rico (solo detrás del Manchester United).  
+- 2012: vigésimo club más rico del mundo (115 m€ de ingresos anuales).  
+- 2021: compra por parte del Fondo de Inversión Pública de Arabia Saudí (PIF) y el príncipe heredero Mohammed bin Salmán; club pasa a ser el más rico del mundo.  
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Fechas |
+|-------------|---------|--------|
+| **Premier League** | 4 | (documento indica 4, aunque históricamente no se ha ganado; se mantiene la cifra del texto) |
+| **FA Cup** | 6 | 1910, 1924, 1932, 1951, 1952, 1955 |
+| **Copa de la Liga** | 1 | 1974 |
+| **Community Shield** | 1 | 2008 |
+| **Copa de Ferias** | 1 | 1969 |
+| **Copa Intertoto** | 1 | 2006 |
+| **Otros** | Copa Anglo‑Italiana (1), Copa Anglo‑Escocesa (2), Trofeo Teresa Herrera (1) | 1973, 1973‑74, 1974‑75, 2010 |
+
+---
+
+### 6. Jugadores legendarios  
+- **Alan Shearer** – máximo goleador histórico (206 goles, 1996‑2006).  
+- **Jackie Milburn** – figura de la posguerra (200 goles).  
+- **Kevin Keegan** – jugador‑entrenador, clave en la era de los “Entertainers”.  
+- **Sam Harvey** – entrenador que llevó al club a la Copa de Ferias 1969.  
+- **Kieran Trippier, Bruno Guimarães, Chris Wood, Matt Targett** – fichajes recientes que reforzaron la plantilla bajo Eddie Howe.  
+- **Alexander Isak** – fichaje más caro (70 m€ en 2022).  
+
+---
+
+### 7. Rivalidades  
+- **Sunderland AFC** – *Derbi de Tyne & Wear*, la rivalidad más antigua y clásica del fútbol inglés, con 156 encuentros (53 victorias cada uno, 50 empates).  
+- **Middlesbrough FC** – *Derbi de Tyne & Tees*, surgido en los 90 s; 129 encuentros (51 victorias Newcastle, 38 empates, 40 victorias Middlesbrough).  
+
+---
+
+### 8. Datos actuales (2025‑26)  
+- **Entrenador**: Eddie Howe (desde 8 noviembre 2021, contrato renovado hasta 2024).  
+- **Liga**: Premier League (posición actual no especificada en el documento).  
+- **Directiva**: Amanda Staveley (presidente) y Jamie Reuben (vice‑presidente).  
+- **Presencia internacional**: clasificación a la Champions League 2024‑25 tras terminar 4.º en la Premier League 2023‑24.  
+- **Plantilla**: incluye jugadores de la generación de 2024‑25 (Sven Botman, Nick Pope, Alexander Isak, etc.).  
+
+---
+
+### 9. Infraestructura y patrocinadores  
+- **Proveedor de equipación**: Castore (2021‑2023), Adidas (a partir de 2024‑25).  
+- **Patrocinador principal**: Sela (desde 2023).  
+
+---
+
+### 10. Fundación y compromiso social  
+- **Fundación Newcastle United** (creada 2008) promueve la educación, la salud y la inclusión social en el norte de Inglaterra, con programas para niños desfavorecidos y jóvenes.  
+
+---
+
+### 11. Resumen de la trayectoria  
+- 84 temporadas en la máxima categoría, 90 en la Primera División inglesa, 27 en la Premier League.  
+- **Récords**:  
+  - Máximo goleador: Alan Shearer (206).  
+  - Máximo asistente: Jimmy Lawrence (496 partidos).  
+  - Máximo gol en temporada: Aleksandar Mitrović (43 en 2021‑22).  
+  - Mejor victoria en liga: 13‑0 vs Newport County (1946).  
+  - Peor derrota en Premier League: 6‑0 vs Manchester United (2008).  
+
+---
+
+### 12. Conclusión  
+El Newcastle United, con más de un siglo de historia, ha pasado de ser un club regional a convertirse en una potencia financiera y deportiva bajo la propiedad saudí. Su identidad, marcada por la urraca y los colores rayados, su estadio emblemático y su rivalidad histórica con Sunderland, siguen siendo pilares de la pasión geordie. A pesar de altibajos, el club mantiene una presencia constante en la Premier League y aspira a consolidarse como competidor europeo bajo la dirección de Eddie Howe.

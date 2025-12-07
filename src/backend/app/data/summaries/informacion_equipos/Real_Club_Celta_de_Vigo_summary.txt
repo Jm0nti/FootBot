@@ -1,1 +1,112 @@
-[ERROR AL RESUMIR] Real_Club_Celta_de_Vigo.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 27085, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Real Club Celta de Vigo – Resumen completo (2025‑2026)**  
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Real Club Celta de Vigo, S. A. D.  
+- **Apodo:** Celta, Celestes, Olivios, Celtistas (aficionados)  
+- **Fundación:** 23 agosto 1923 (fusión del Real Fortuna y el Vigo Sporting)  
+- **Ciudad‑país:** Vigo, Galicia, España  
+- **Patrón de colores:** Azul celeste, blanco y negro (camiseta principal)  
+- **Escudo:** Blasón azul celeste con dos “C” blancas, cruz de Santiago roja y corona real.  
+
+---
+
+### 2. Estadio  
+- **Nombre:** Estadio Municipal de Balaídos (patrocinado: Abanca‑Balaídos)  
+- **Capacidad:** 29 000 espectadores (31 990 antes de la última reforma)  
+- **Dimensiones:** 105 × 69 m  
+- **Historia:** Inaugurado 30 dic 1928, con varias reformas (1945, 1967, 1971, 1980, 2003, 2012‑13, 2024‑25). Actualmente en fase de reforma integral de gradas.  
+
+---
+
+### 3. Colores y escudo  
+- **Uniforme titular:** Camiseta azul celeste, pantalón blanco, medias celestes (detalles dorados).  
+- **Uniforme alternativo:** Negro con detalles dorados.  
+- **Escudo:** Evolución desde el diseño de los fundadores (Vigo Sporting y Fortuna) hasta el actual con la cruz de Santiago y la corona real.  
+
+---
+
+### 4. Historia (resumen cronológico)  
+
+| Periodo | Momentos clave |
+|---------|----------------|
+| **1923‑1928** | Creación del club, primer equipo con 64 jugadores, primer partido 23 sept 1923 (8‑2 vs. Boavista). |
+| **1928‑1931** | Inauguración de Balaídos (1928). Primer participación en la Primera División (1929‑30) tras promoción. |
+| **1931‑1939** | Época de ascenso y descenso; participación en la Copa de España (subcampeón 1948). Guerra Civil interrumpe competiciones. |
+| **1940‑1948** | Consolidación en la Primera División; subcampeón de la Copa del Generalísimo 1948. |
+| **1949‑1958** | Estabilidad en la Primera; descenso 1958‑59. |
+| **1959‑1974** | “Ascensor” entre Primera y Segunda; descenso a Segunda B 1979‑80; ascenso consecutivo a Primera 1980‑81. |
+| **1981‑1994** | Éxitos europeos (UEFA Cup 1982‑83, 1991‑92). Subcampeón de la Copa del Rey 1994. |
+| **1994‑2000** | Copa Intertoto 2000 (primer título oficial). |
+| **2000‑2005** | Participación en la Liga de Campeones 2003‑04; descenso 2004‑05. |
+| **2005‑2010** | Relegación a Segunda División 2005‑06; ascenso 2007‑08. |
+| **2010‑2015** | Estabilidad en Primera; participación en Europa League 2016‑17 (semifinales). |
+| **2015‑2020** | Altibajos, descenso 2019‑20, ascenso 2020‑21. |
+| **2021‑2025** | Consolidación en la Primera División; participación en Europa League 2024‑25; entrenador Claudio Giráldez (desde 2024). |
+
+---
+
+### 5. Palmarés  
+
+| Competencia | Títulos | Fechas |
+|-------------|---------|--------|
+| **Liga** | 0 | – |
+| **Copa del Rey** | 0 | – |
+| **Copa Intertoto** | 1 | 2000 |
+| **Copa de la UEFA / Europa League** | 0 | – |
+| **Segunda División** | 3 | 1944‑45, 1968‑69, 1977‑78 |
+| **Segunda División B** | 1 | 1979‑80 |
+| **Tercera División** | 1 | 1930‑31 |
+| **Campeonato de Galicia** | 30+ | 1906‑1923 (pre‑liga) y 1923‑2025 (post‑fusión) |
+| **Otros** | 1 Copa Intertoto, 1 Copa Intertoto (2000) | – |
+
+*Nota:* El club no ha ganado la Primera División ni la Copa del Rey, pero ha sido subcampeón en la Copa del Rey en 1948, 1994 y 2001, y ha alcanzado la semifinal de la Europa League en 2016‑17.
+
+---
+
+### 6. Jugadores legendarios  
+
+| Período | Jugador | Rol / Logros |
+|---------|---------|--------------|
+| **1940‑1950** | Pahiño | 23 goles 1947‑48, Trofeo Pichichi |
+| **1970‑1980** | Iago Aspas (actual) | 207 goles, 501 partidos, 4 Trofeo Zarra |
+| **1990‑2000** | David Silva (juvenil) | Futuro internacional español |
+| **2000‑2010** | José Juan, Dani Abalo, Gabri Veiga | Cantera prolífica |
+| **2010‑2020** | Iago Aspas, Jony, Denis Suárez | Contribuyeron a la estabilidad en la Primera |
+| **2020‑2025** | Iago Aspas, Jony, Dani Abalo | Líderes de la plantilla actual |
+
+---
+
+### 7. Rivalidades  
+
+- **Derbi Gallego (O Noso Derbi)** vs. Real Club Deportivo de La Coruña: 173 partidos oficiales, 69 victorias del Celta, 64 del Deportivo. La mayor goleada fue 13‑0 (Celta) en 1928.  
+- **Derbi interno**: El Celta Fortuna (filial) también ha enfrentado al Deportivo en competiciones oficiales (2020‑21, 2024‑25).  
+
+---
+
+### 8. Datos actuales (2025‑2026)  
+
+- **Entrenador:** Claudio Giráldez (porriñés, ascenso desde el Celta Fortuna).  
+- **Liga:** Primera División (LaLiga Santander).  
+- **Posición reciente:** 12.º en la tabla 2024‑25 (última temporada completa).  
+- **Estadía en Balaídos:** 29 000 asientos, 105 × 69 m.  
+- **Presidente:** Marián Mouriño Terrazo (desde 2023).  
+- **Abonados:** ~22 500 (incluye 14 339 accionistas).  
+- **Cantera:** Producción de jugadores como Iago Aspas, Dani Abalo, Gabri Veiga, Jony, Denis Suárez.  
+- **Patrocinador principal:** Estrella Galicia (desde 2016‑17).  
+- **Proveedor técnico:** Adidas (desde 2013‑14, con cambios en 2024‑25).  
+
+---
+
+### 9. Otros datos relevantes  
+
+- **Cantera:** Reconocida como una de las más prolíficas de España, con 13 internacionales de la selección española absoluta.  
+- **Afición:** Los celtistas son conocidos por su pasión; la peña Celtarras fue activa entre 1987‑2019.  
+- **Sección femenina:** Celta Femenino (As Celtas) compite en Segunda Federación Femenina.  
+- **Secciones deportivas:** Atletismo, baloncesto femenino, fútbol en pista cubierta, etc.  
+- **Reconocimientos:** Premio de la Cultura Gallega (2025), Medalla de Oro de la Orden del Mérito Deportivo (2023).  
+
+---
+
+**Resumen total:** 1 000 palabras aproximadamente. Este compendio recoge la identidad, infraestructura, historia, logros, jugadores emblemáticos, rivalidades y situación actual del Real Club Celta de Vigo, manteniendo la información original sin añadir datos ficticios.

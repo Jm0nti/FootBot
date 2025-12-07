@@ -1,1 +1,133 @@
-[ERROR AL RESUMIR] Tottenham_Hotspur_Football_Club.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 12151, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Tottenham Hotspur Football Club – Resumen Completo (600‑1000 palabras)**  
+
+---
+
+### 1. Identidad del club  
+| Elemento | Información |
+|----------|-------------|
+| Nombre completo | Tottenham Hotspur Football Club |
+| Apodo | Spurs, Espuelas Calientes (en español) |
+| Año de fundación | 5 de septiembre de 1882 (Hotspur Football Club) |
+| Ciudad / País | Tottenham, Londres, Reino Unido |
+| Lema | *Audere est facere* (“Atreverse es lograrlo”) |
+| Emblema | Gallo sobre un balón de fútbol clásico |
+
+---
+
+### 2. Estadio  
+| Estadio | Datos |
+|---------|-------|
+| Tottenham Hotspur Stadium | Construido en el sitio del antiguo White Hart Lane; inaugurado el 3 abril 2019. Capacidad 65 000 espectadores (séptimo estadio más grande del Reino Unido). Campo de fútbol divisible y retráctil, con césped sintético para la NFL y conciertos. |
+| White Hart Lane | Estadio original (capacidad 35 000). Demolido al final de la temporada 2016‑17. Récord de asistencia 75 038 (5 marzo 1938 vs Sunderland). |
+
+---
+
+### 3. Colores y escudo  
+* **Colores oficiales**: Azul marino y blanco (camiseta principal).  
+* **Escudo**: Gallo sobre balón; incluye el lema *Audere Est Facere*. Evolución: introducido en 1921, añadido balón en 1966, modernizado en 2006.  
+
+---
+
+### 4. Historia  
+#### 4.1 Fundación y primeros éxitos (1882‑1917)  
+* Fundado por estudiantes del colegio anglicano Hotspur Cricket Club.  
+* Primer partido registrado 30 septiembre 1882 vs Radicals (2–0).  
+* Primer título: FA Cup 1900‑01 (solo club sin pertenecer a la Football League).  
+
+#### 4.2 Ascensos, descensos y primer campeonato de liga (1918‑1952)  
+* 1919: ascenso a la Primera División tras expansión a 22 equipos.  
+* 1921: segunda FA Cup (victoria sobre Wolverhampton).  
+* 1951: primer título de la Football League bajo Arthur Rowe; Bill Nicholson se convierte en figura clave.  
+
+#### 4.3 Época dorada y primeros triunfos europeos (1953‑1987)  
+* 1960‑61: doblete Liga‑FA Cup.  
+* 1963: Recopa de Europa (primer club británico en ganar competición europea).  
+* 1972: primera Copa de la UEFA (título inaugural).  
+* 1974: final de la Copa de la UEFA vs Feyenoord (derrota).  
+* 1984: segunda Copa de la UEFA (venciendo a Anderlecht).  
+
+#### 4.4 Resurgimiento y era moderna (1988‑actualidad)  
+* 2001: llegada de Glenn Hoddle y Daniel Levy.  
+* 2008: League Cup (título más reciente de la década).  
+* 2010‑11: clasificación a la Champions League; fase de grupos con Inter de Milán, etc.  
+* 2018‑19: semifinales de la Champions (derrota ante Liverpool).  
+* 2020‑21: participación en la UEFA Europa Conference League.  
+* 2024‑25: victoria en la Europa League (3ª de la historia) y acceso a la Champions.  
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Observaciones |
+|-------------|---------|---------------|
+| **Nacionales** | | |
+| Premier League / Football League | 2 | 1951, 2016‑17 |
+| FA Cup | 8 | 1900‑01, 1921, 1961, 1962, 1967, 1971, 1982, 2008 |
+| League Cup (EFL Cup) | 4 | 1971, 1972, 1974, 2008 |
+| Community Shield (Supercopa) | 7 | 1901, 1921, 1961, 1962, 1967, 1971, 1972 |
+| **Internacionales** | | |
+| Recopa de Europa | 1 | 1963 |
+| Copa de la UEFA / Europa League | 3 | 1972, 1984, 2024‑25 |
+| **Total** | 21 títulos nacionales + 4 internacionales | 25 títulos oficiales |
+
+---
+
+### 6. Jugadores legendarios  
+| Nombre | Período | Logros destacados |
+|--------|---------|-------------------|
+| Jimmy Greaves | 1958‑1970 | 266 goles, 1963 Recopa |
+| Harry Kane | 2015‑2023 | 280 goles (máximo goleador histórico) |
+| Steve Perryman | 1969‑1986 | 866 partidos (máximo de apariciones) |
+| Bill Nicholson | 1953‑1974 | Director técnico, 1961 doblete |
+| Gareth Bale | 2007‑2013 | Transferencia récord a Real Madrid |
+| Jermain Defoe | 2005‑2016 | 2008 League Cup, 2018‑19 Champions semi |
+
+---
+
+### 7. Rivalidades  
+| Rival | Origen / Historia | Importancia |
+|-------|-------------------|-------------|
+| Arsenal (North London Derby) | 1913, proximidad de 4 mi; rivalidad histórica | Más intensa, mayor rivalidad de la ciudad |
+| Chelsea | 1909, 1967 FA Cup final; rivalidad de la ciudad | Rivalidad secundaria |
+| West Ham United | 1898, 1980s intensificación | Rivalidad menor |
+
+---
+
+### 8. Datos actuales (2025‑26)  
+* **Entrenador**: Antonio Conte (primer italiano en dirigir el club).  
+* **Liga**: Premier League (Reino Unido).  
+* **Posición 2024‑25**: 17.º (desastre doméstico).  
+* **Títulos recientes**: Europa League 2024‑25 (3ª en la historia).  
+* **Plantilla destacada**: Harry Kane (último goleador), Dele Alli, Christian Eriksen, Victor Wanyama, Moussa Sissoko.  
+
+---
+
+### 9. Otros datos relevantes  
+* **Estadio histórico**: White Hart Lane, récord de asistencia 75 038 (1938).  
+* **Capacidad actual**: Tottenham Hotspur Stadium 65 000.  
+* **Club femenino**: Tottenham Hotspur Women (fundado 1985, ascenso a WSL 2019‑20).  
+* **Presidente**: Daniel Levy (desde 2001).  
+* **Colectivo de seguidores**: Tottenham Hotspur Supporters' Trust.  
+
+---
+
+### 10. Resumen de logros clave por década  
+| Década | Títulos nacionales | Títulos internacionales | Notas |
+|--------|--------------------|--------------------------|-------|
+| 1900‑09 | 1 FA Cup | 0 | Primer triunfo sin pertenecer a la Football League |
+| 1910‑19 | 0 | 0 | Primera Guerra Mundial interrumpe |
+| 1920‑29 | 1 FA Cup | 0 | 1921 FA Cup |
+| 1930‑39 | 0 | 0 | 1938 récord de asistencia |
+| 1940‑49 | 0 | 0 | Segunda Guerra Mundial |
+| 1950‑59 | 1 Liga | 0 | 1951 primer título de liga |
+| 1960‑69 | 1 Liga, 3 FA Cup, 1 Recopa | 0 | Doble 1960‑61, Recopa 1963 |
+| 1970‑79 | 1 FA Cup, 2 League Cup, 1 Copa de la UEFA | 1 Copa de la UEFA | 1972 Copa de la UEFA |
+| 1980‑89 | 1 FA Cup, 1 Copa de la UEFA | 1 Copa de la UEFA | 1984 Copa de la UEFA |
+| 1990‑99 | 0 | 0 | 1999 Champions League final (derrota) |
+| 2000‑09 | 0 | 0 | 2008 League Cup |
+| 2010‑19 | 1 Liga, 1 FA Cup | 1 Recopa, 1 Europa League | 2016‑17 Liga, 2018‑19 Champions semi |
+| 2020‑25 | 0 | 1 Europa League | 2024‑25 Europa League |
+
+---
+
+**Conclusión**  
+Tottenham Hotspur es un club con una rica historia que combina éxitos nacionales e internacionales, una identidad visual distintiva (gallo y balón), rivalidades intensas y una infraestructura moderna. Su trayectoria incluye momentos de gloria (doblete 1960‑61, Recopa 1963, Copa de la UEFA 1972) y desafíos recientes (posiciones bajas en la Premier League, cambios de entrenador). El club sigue siendo un referente del fútbol inglés y europeo, con una base de seguidores apasionada y una presencia activa en competiciones continentales.

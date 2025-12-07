@@ -1,1 +1,94 @@
-[ERROR AL RESUMIR] Copa_Libertadores.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 17671, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Copa Libertadores de América – Resumen Completo y Detallado**
+
+---
+
+### 1. Nombre y Tipo  
+- **Nombre oficial**: *Conmebol Libertadores* (desde 2017) – comúnmente *Copa Libertadores*.  
+- **Tipo**: Torneo internacional oficial de clubes organizado por la Confederación Sudamericana de Fútbol (Conmebol).  
+- **Categoría**: Competencia continental de clubes, la más prestigiosa de América del Sur.
+
+### 2. Formato  
+| Etapa | Descripción | Participantes | Notas |
+|-------|-------------|---------------|-------|
+| **Primera fase** | 3 llaves de eliminación directa (ida y vuelta). Se juegan sin tiempo extra; en empate se decide por penales. | 6 equipos (1 de Bolivia, 1 de Ecuador, 1 de Paraguay, 1 de Perú, 1 de Uruguay, 1 de Venezuela). | Ganadores avanzan a la segunda fase. |
+| **Segunda fase** | 8 llaves de eliminación directa (ida y vuelta). | 16 equipos (3 ganadores de la primera fase + 13 adicionales: 2 de Brasil, 2 de Chile, 2 de Colombia, 1 de Argentina, 1 de Bolivia, 1 de Ecuador, 1 de Paraguay, 1 de Perú, 1 de Uruguay, 1 de Venezuela). | Ganadores avanzan a la tercera fase. |
+| **Tercera fase** | 4 llaves de eliminación directa (ida y vuelta). | 8 equipos (ganadores de la segunda fase). | Ganadores completan los 32 equipos de la fase de grupos. |
+| **Fase de grupos** | 8 grupos de 4 equipos (todos contra todos, 2 rondas). | 32 equipos (28 directos + 4 de la tercera fase). | Los 2 primeros de cada grupo avanzan a octavos; los terceros pasan a la segunda fase de la Copa Sudamericana. |
+| **Octavos de final** | 8 llaves de eliminación directa (ida y vuelta). | 16 equipos (8 primeros + 8 segundos). | Cruce por sorteo entre primeros y segundos de los grupos. |
+| **Cuartos de final** | 4 llaves de eliminación directa (ida y vuelta). | 8 equipos. | |
+| **Semifinales** | 2 llaves de eliminación directa (ida y vuelta). | 4 equipos. | |
+| **Final** | Partido único en estadio neutral (desde 2019). | 2 equipos. | En caso de empate, se juega alargue de 30 min (2×15 min) y, si persiste, penales. |
+
+- **Calendario**: Fase clasificatoria comienza a fines de enero; final se celebra en noviembre.  
+- **Participantes**: Desde 2017, 47 clubes (el máximo histórico).  
+- **Criterio de clasificación**: Campeones y subcampeones de ligas nacionales, campeones de la Copa Sudamericana, y los 4 equipos que ganan la tercera fase.
+
+### 3. Historia  
+| Año | Evento clave | Comentario |
+|-----|--------------|------------|
+| **1948** | *Campeonato Sudamericano de Campeones* (Chile). | Predecesor no oficial; Vasco da Gama campeón. |
+| **1960** | Primera edición de la *Copa Campeones de América*. | 7 equipos, Peñarol campeón. |
+| **1965** | Cambio de nombre a *Copa Libertadores de América*. | Se incluyeron subcampeones. |
+| **1966** | Primer torneo con 16 equipos. | Peñarol gana su 3.º título. |
+| **1972‑1975** | Independiente (Argentina) gana 4 títulos consecutivos. | Récord de títulos consecutivos. |
+| **1980** | Nacional (Uruguay) gana su 2.º título. | “Toma de Porto Alegre” en la final. |
+| **1998** | México invitado; torneo expande a 36 equipos. | México participa hasta 2016. |
+| **2000** | Expansión a 32 equipos. | |
+| **2008** | Cambio de patrocinador a Santander; torneo llamado *Copa Santander Libertadores*. | |
+| **2013** | Bridgestone se convierte en patrocinador; torneo llamado *Copa Bridgestone Libertadores*. | |
+| **2017** | Se incrementan a 47 equipos; calendario anual; México se retira. | Nuevo logo y formato. |
+| **2018** | Final en Madrid (Santiago Bernabéu) por incidentes en Estadio Monumental. | Primera final fuera de Sudamérica. |
+| **2019** | Se adopta final de partido único en estadio neutral. | |
+| **2020‑2021** | Pandemia COVID‑19; torneos suspendidos y retomados sin espectadores. | |
+| **2024** | Botafogo gana su primer título. | |
+| **2025** | Flamengo logra su 4.º título, convirtiéndose en club brasileño más ganador. | |
+
+- **Premios**:  
+  - **Recopa Sudamericana** (desde 1989).  
+  - **Copa Mundial de Clubes** (desde 2000).  
+  - **Copa Intercontinental** (1960‑2004) y **Copa Intercontinental de la FIFA** (desde 2024).  
+  - **Clasificación** a la segunda fase de la siguiente Copa Libertadores.  
+
+### 4. Equipos Participantes  
+- **Argentina** y **Brasil**: mayor número de clubes (hasta 12 cada uno).  
+- **México**: participó 1998‑2016 (3 finales, sin título).  
+- **Otros países**: Bolivia, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay, Venezuela.  
+
+### 5. Sistema de Clasificación  
+- **Ganador**: Campeón del partido final.  
+- **Subcampeón**: Perdedor de la final.  
+- **Clasificación a la Copa Mundial de Clubes**: Campeón.  
+- **Clasificación a la Copa Sudamericana**: Los 3 equipos que terminan 3.º, 4.º y 5.º en la fase de grupos.  
+
+### 6. Premios  
+- **Títulos**: 27 clubes han ganado al menos una vez (hasta 2025).  
+- **Títulos por país**: Brasil 12, Argentina 11, Uruguay 9, Colombia 6, Paraguay 4, Chile 3, Ecuador 2, Bolivia 1, Perú 1, Venezuela 0.  
+- **Premios individuales**: Mejor Jugador (desde 2007), Máximo Goleador, Mejor Arbitro, etc.  
+
+### 7. Récords y Estadísticas  
+| Categoría | Récord | Equipo / Jugador | Año |
+|-----------|--------|------------------|-----|
+| **Títulos más** | 7 | Independiente (Argentina) | 1975 |
+| **Títulos consecutivos** | 4 | Independiente | 1972‑1975 |
+| **Títulos de club brasileño más** | 4 | Flamengo | 2025 |
+| **Máximo goleador histórico** | 54 | Alberto Spencer | 1960‑1970 |
+| **Máximo goleador en una edición** | 17 | Daniel Onega | 1966 |
+| **Entrenador con más títulos** | 4 | Carlos Bianchi | 1994, 2000, 2001, 2003 |
+| **Club con más participaciones** | 427 | Nacional (Uruguay) | 1960‑2025 |
+| **Club con más partidos ganados** | 199 | River Plate (Argentina) | 1960‑2025 |
+| **Club con mayor diferencia de goles** | +247 | River Plate | 1960‑2025 |
+| **Estadio con más finales** | Estadio Centenario (Montevideo) | 21 finales | 1960‑2025 |
+
+- **Finals**: 66 finales jugadas en 139 partidos (hasta 2025).  
+- **Estadio más usado**: Estadio Centenario (Montevideo) – 21 partidos, 8 ceremonias de entrega.  
+- **Final única**: Desde 2019, partido único en estadio neutral (ej. 2019 en Lima, 2020 en Río de Janeiro, 2021 en Montevideo, 2022 en Guayaquil, 2023 en Río de Janeiro, 2024 en Buenos Aires, 2025 en Lima).  
+
+### 8. Cambios Recientes  
+- **2017**: Aumento a 47 equipos, calendario anual, México se retira.  
+- **2019**: Final de partido único en estadio neutral.  
+- **2024**: Introducción de la Copa Intercontinental de la FIFA como competidor de la Copa Mundial de Clubes.  
+- **2025**: Flamengo se convierte en club brasileño más ganador con 4 títulos.  
+
+---
+
+**Nota**: Este resumen conserva la precisión de fechas, números y datos esenciales, siguiendo la estructura solicitada y abarcando los aspectos reglamentarios y competitivos de la Copa Libertadores de América.

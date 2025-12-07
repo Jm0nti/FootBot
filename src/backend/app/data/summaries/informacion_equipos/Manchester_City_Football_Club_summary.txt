@@ -1,1 +1,138 @@
-[ERROR AL RESUMIR] Manchester_City_Football_Club.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 28781, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Manchester City Football Club – Resumen Completo y Detallado**
+
+---
+
+## 1. Identidad del Club  
+- **Nombre completo:** Manchester City Football Club  
+- **Apodos:** The Citizens, Sky Blues, The Citizens  
+- **Fundación:** 23 noviembre 1880 como *St. Mark’s (West Gorton)*; renombrado *Ardwick Association Football Club* en 1887; adoptó la denominación actual el 16 abril 1894.  
+- **Ciudad/País:** Manchester, Inglaterra  
+- **Liga:** Premier League (desde 2002, con descenso a la tercera división en 1998 y regreso en 2002)  
+
+---
+
+## 2. Estadio y Centro de Entrenamiento  
+| Instalación | Periodo | Capacidad | Características |
+|-------------|---------|-----------|-----------------|
+| **Etihad Stadium** | 2003‑presente | 53 400 | Estadio de patrocinio de Etihad Airways; inaugurado con victoria 2‑1 sobre el FC Barcelona. |
+| **Maine Road** | 1923‑2003 | 80 000 (original), 32 000 (último) | Conocido como “Wembley del Norte”; sede de la era de la gloria de los 60‑70. |
+| **City Football Academy (Academy Stadium)** | 2014‑presente | 7 000 (capacidad de espectadores) | Centro de entrenamiento de 3 700 m², con gimnasio, fisioterapia, sala de juntas y auditorio. |
+
+---
+
+## 3. Colores y Escudo  
+- **Colores de local:** celeste (azul cielo) y blanco.  
+- **Colores de visitante:** tradicionalmente rojo y negro, con variaciones modernas.  
+- **Escudo:** circular, dominado por azul y blanco; incluye la nave de Manchester, los ríos Irwell, Medlock e Irk, la rosa roja de Lancashire y el año 1894. Adoptado oficialmente el 3 julio 2016.  
+
+---
+
+## 4. Historia – Momentos Clave  
+
+### 4.1. Fundaciones y Primeros Logros (1880‑1916)  
+- Creado por miembros de la Iglesia de St. Marks y la fábrica de hierro de Gorton.  
+- Primer triunfo oficial: FA Cup 1904 (victoria 1‑0 sobre Bolton Wanderers).  
+
+### 4.2. Era de Maine Road y Éxitos Iniciales (1923‑1952)  
+- 1937: Primer título de Primera División.  
+- 1939: FA Cup ganada.  
+- 1940‑45: Competición suspendida por la Segunda Guerra Mundial.  
+
+### 4.3. Época Dorada de los 60‑70 (1953‑1988)  
+- 1966‑68: Campeón de la liga bajo Joe Mercer y Malcolm Allison.  
+- 1969‑70: Recopa de Europa (victoria 2‑1 sobre Górnik Zabrze).  
+- 1970: Segunda final de la Recopa, victoria 2‑1 sobre Górnik.  
+- 1970‑80: Periodo de declive, descenso a la tercera división en 1998.  
+
+### 4.4. Descenso y Resurgimiento (1989‑2008)  
+- 1998: Descenso a la tercera división.  
+- 2002: Regreso a la Premier League.  
+- 2008: Adquisición por Abu Dhabi United Group (250 m euros), Mansour bin Zayed Al‑Nahyan como máximo accionista.  
+
+### 4.5. Era de Abu Dhabi y Dominio Moderno (2008‑presente)  
+- **Títulos oficiales (17):**  
+  - **Premier League:** 2012, 2014, 2018, 2019, 2021, 2022, 2023, 2024.  
+  - **FA Cup:** 2011, 2016, 2018, 2019, 2021, 2022, 2023.  
+  - **League Cup:** 2014, 2016, 2018, 2019, 2021, 2022, 2023.  
+  - **Community Shield:** 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024.  
+  - **Recopa de Europa:** 1970.  
+  - **Champions League:** 2023 (derrota 1‑0 a Inter de Milán).  
+  - **Supercopa de Europa:** 2023.  
+  - **FIFA Club World Cup:** 2023 (victoria 4‑0 sobre Fluminense).  
+
+- **Grandes logros recientes:**  
+  - 2019: Triplete doméstico (Premier League, FA Cup, League Cup).  
+  - 2023: Cuádruple (Premier League, FA Cup, League Cup, Champions League).  
+  - 2023: Quintuple (añadiendo Supercopa y Mundial de Clubes).  
+
+- **Reconocimientos financieros:**  
+  - 2013‑14: 6.º club con mayores ingresos según Deloitte Football Money League (€414,4 m).  
+  - 2015: 5.º club más valioso según Forbes.  
+
+- **Rivalidades actuales:**  
+  - **Manchester United** (Derbi de Manchester).  
+  - **Liverpool** (Derbi M62).  
+
+- **Equipo femenino:** Fundado 2016, competidor local destacado.  
+
+- **Red global de clubes:** Melbourne City (Australia), New York City (EE. UU.), Montevideo City Torque (Uruguay), Girona (España), Yokohama Marinos (Japón) entre otros.  
+
+---
+
+## 5. Palmarés – Títulos Nacionales e Internacionales  
+
+| Competencia | Títulos | Años |
+|-------------|---------|------|
+| **Premier League / First Division** | 10 | 1937, 1968, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977 |
+| **FA Cup** | 7 | 1904, 1934, 1969, 1970, 1971, 1972, 1973 |
+| **League Cup** | 8 | 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983 |
+| **Community Shield** | 7 | 1905, 1934, 1969, 1970, 1971, 1972, 1973 |
+| **Recopa de Europa** | 1 | 1970 |
+| **Champions League** | 1 | 2023 |
+| **Supercopa de Europa** | 1 | 2023 |
+| **FIFA Club World Cup** | 1 | 2023 |
+
+*(Total de títulos oficiales: 36)*  
+
+---
+
+## 6. Jugadores Legendarios  
+
+| Periodo | Jugadores | Logros Clave |
+|---------|-----------|--------------|
+| **Primeros años** | Billy Meredith, Francis Lee, Mike Summerbee, Colin Bell | Primeros títulos de liga y copa |
+| **Era de Mercer/Allison** | Francis Lee, Mike Summerbee, Colin Bell | Recopa de Europa 1970, títulos de liga 1968‑70 |
+| **Era moderna** | Sergio Agüero (260 goles, 15 títulos), Kevin De Bruyne (máximo asistente), Raheem Sterling, Riyad Mahrez, Erling Haaland (máximo goleador de temporada 2023‑24) | Triplete 2019, Cuádruple 2023, récords de goles y asistencias |
+
+---
+
+## 7. Rivalidades  
+
+- **Manchester United** – Derbi de Manchester; encuentros históricos y rivalidad de la ciudad.  
+- **Liverpool** – Derbi M62; competición por la supremacía inglesa en la última década.  
+- **Arsenal** – Rivalidad de la Premier League; encuentros de alto perfil.  
+- **Tottenham Hotspur** – Rivalidad creciente tras competiciones europeas y locales.  
+
+---
+
+## 8. Datos Actuales (2024‑25)  
+
+- **Entrenador:** Pep Guardiola (desde 2016).  
+- **Liga:** Premier League.  
+- **Situación reciente:** 2024‑25 temporada concluyó el 30 junio 2025 con Manchester City 3‑4 Al‑Hilal (en la fase de grupos de la Champions League).  
+- **Plantilla destacada:** Erling Haaland, Kevin De Bruyne, Rodri, Bernardo Silva, Riyad Mahrez, Jack Grealish, Phil Foden, Ilkay Gündoğan.  
+- **Club femenino:** Compite en la FA Women’s Super League, con títulos locales desde 2016.  
+
+---
+
+## 9. Resumen de la Identidad Visual  
+
+- **Escudo:** Circular, azul y blanco, con nave, ríos y rosa roja, año 1894.  
+- **Camiseta local:** Celeste con detalles blancos.  
+- **Camiseta visitante:** Varias combinaciones, tradicionalmente rojo y negro.  
+
+---
+
+## 10. Conclusión  
+
+Manchester City Football Club, fundado en 1880, ha recorrido un camino que va desde humildes comienzos en Gorton hasta convertirse en uno de los clubes más ricos y exitosos del mundo. La adquisición por parte del Abu Dhabi United Group en 2008 marcó el inicio de una era de inversión masiva que ha producido 17 títulos oficiales, incluyendo la primera Champions League del club en 2023 y el Mundial de Clubes en 2023. Con una base de seguidores apasionados, una infraestructura moderna y una red global de clubes, el Manchester City sigue siendo un referente del fútbol inglés y europeo.

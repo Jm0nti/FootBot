@@ -1,1 +1,167 @@
-[ERROR AL RESUMIR] AS_Mónaco.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96950, Requested 10643. Please try again in 1h49m20.352s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**AS MÓNACO – Resumen Completo y Detallado**
+
+---
+
+### 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| Nombre completo | Association Sportive Monaco Football Club |
+| Nombre abreviado | A. S. Mónaco |
+| Apodo | *No se menciona* |
+| Año de fundación | 1924 (fusión de Swimming Club, Monaco Sports, A.S. Beausoleil, Etoile de Monaco y Riviera A.C.) |
+| Ciudad / País | Mónaco (Principado de Mónaco) |
+| Afiliación en la Ligue de France | 91 (grupo más antiguo en la liga) |
+
+---
+
+### 2. Estadio  
+**Stade Louis II**  
+- **Dirección**: 7, Avenue des Castelans, 98000 Mónaco  
+- **Capacidad**: 18 525 espectadores (una de las más altas de la Ligue 1)  
+- **Superficie**: 105 × 67 m (dimensiones UEFA)  
+- **Inauguración**: 25 enero 1985 (reconstrucción del original de 1939)  
+- **Características**:  
+  - Diseño vanguardista con nueve arcos distintivos.  
+  - Iluminación de clase mundial.  
+  - Sede de la Supercopa de Europa (1986‑2012) y de la Copa de la Liga (1998‑2012).  
+- **Instalaciones**: Centro de entrenamiento La Turbie (1981), sala de pesas, vestuarios, piscina, jacuzzi, estadio de reserva.
+
+---
+
+### 3. Colores y escudo  
+- **Uniforme titular**: camiseta diagonal rojo‑blanco, pantalón blanco, medias rojas.  
+- **Uniforme alternativo**: verde completo.  
+- **Tercer uniforme**: diagonal azul‑blanco, pantalón blanco, medias blancas.  
+- **Historia del diseño**: La camiseta diagonal fue propuesta por la princesa Grace en 1960, combinando símbolos monegascos y la identidad del club. Se mantuvo desde entonces.  
+- **Escudo**: no se describe en el documento; se mantiene el símbolo tradicional del club.
+
+---
+
+### 4. Historia  
+#### 1924‑1948 – Fundación y primeros años  
+- Nació de la fusión de varios equipos locales.  
+- Participó en la Ligue du Sud‑Est, ganando campeonatos regionales.  
+- 1932: invitado a la Ligue de Francia como profesional; debut en Ligue 2.  
+- 1948: re‑fundación profesional con el impulso del príncipe Raniero; retorno a la máxima categoría en 1953.
+
+#### 1958‑1972 – Época dorada bajo Lucien Leduc  
+- 1960: Copa de Francia.  
+- 1960‑61: Primera Ligue 1.  
+- 1961‑62: Primera participación en la Copa de Europa (derrota ante Rangers).  
+- 1963: Leduc se va a Suiza; club pierde impulso.  
+- 1968‑69: descenso a la segunda división.
+
+#### 1973‑1984 – Recuperación y consolidación  
+- 1975: Jean Louis Campora asume la presidencia; convoca a Leduc.  
+- 1977‑78: Tercer título de Ligue 1.  
+- 1981‑82: Final de la Copa de Francia.  
+- 1983‑84: Final de la Copa de Francia (derrota ante Metz).  
+
+#### 1984‑1994 – Era Wenger y Tigana  
+- 1987: Arsène Wenger entra; 1988‑89: Ligue 1.  
+- 1995‑97: Jean Tigana; sexto título de Ligue 1 (1997).  
+- 2000: Claude Puel; séptimo título de Ligue 1 y cuarta Supercopa de Francia.  
+
+#### 2003‑2006 – Éxito europeo y declive doméstico  
+- 2003‑04: Finalista de la Champions League (derrota 3‑0 ante Porto).  
+- 2003‑05: Tercer puesto en Ligue 1.  
+- 2005‑06: Decimotercer puesto tras la salida de Deschamps.
+
+#### 2006‑2012 – Inestabilidad y descenso  
+- 2007: Destitución de László Bölöni; Banide asume.  
+- 2011: Dmitri Rybolóvlev compra el club.  
+- 2011‑12: Descenso a la Ligue 2 tras terminar 18.º.  
+
+#### 2013‑2024 – Reconstrucción y nuevos títulos  
+- 2013: Ascenso a la Ligue 1 como campeón de Ligue 2.  
+- 2013‑14: Falcao lesionado; subcampeón de Ligue 1.  
+- 2014‑15: Tercer puesto en Ligue 1; eliminación en cuartos de la Champions por Juventus.  
+- 2016‑17: Subcampeón de la Copa de la Liga; finalista de la Champions (derrota ante Juventus).  
+- 2017‑18: 17.º en Ligue 1 tras la salida de Mbappé.  
+- 2018‑19: Henry entra como entrenador; fin de temporada 17.º.  
+- 2020‑21: *Datos no proporcionados*  
+- 2023‑24: *Datos no proporcionados*  
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Fechas | Observaciones |
+|-------------|---------|--------|---------------|
+| **Ligue 1** | 8 | 1960‑61, 1967‑68, 1977‑78, 1981‑82, 1996‑97, 2000‑01, 2016‑17, 2017‑18 |  |
+| **Copa de Francia** | 5 | 1960, 1981‑82, 1994‑95, 2003‑04, 2008‑09 |  |
+| **Supercopa de Francia** | 4 | 1996‑97, 2000‑01, 2001‑02, 2005‑06 |  |
+| **Copa de la Liga** | 1 | 2003‑04 |  |
+| **Copa Charles Drago** | 1 | 1960 |  |
+| **Ligue 2** | 1 | 2012‑13 |  |
+| **Recopa de Europa** | Subcampeón | 1992 |  |
+| **Champions League** | Finalista | 2003‑04 |  |
+| **Copa de la UEFA / Europa League** |  |  |  |
+| **Torneos regionales** | 5 |  |  |
+| **Torneos amistosos** |  |  |  |
+
+> *Nota: Los títulos internacionales no incluyen trofeos, solo subcampeonatos.*
+
+---
+
+### 6. Jugadores legendarios  
+| Jugador | Nacionalidad | Posición | Años en el club | Logros destacados |
+|---------|--------------|----------|-----------------|-------------------|
+| **Delio Onnis** | Argentino | Delantero | 1960‑1974 | Máximo goleador histórico (223 goles) |
+| **Jean‑Luc Ettori** | Francés | Defensa | 1974‑1995 | Máximo número de partidos (755) |
+| **George Weah** | Liberiano | Delantero | 1994‑1995 | Parte de la era Wenger |
+| **Jürgen Klinsmann** | Alemán | Delantero | 1994‑1995 | Parte de la era Wenger |
+| **Youri Djorkaeff** | Francés | Mediocampista | 1994‑1995 | Parte de la era Wenger |
+| **Emmanuel Petit** | Francés | Mediocampista | 1994‑1995 | Parte de la era Wenger |
+| **Lilian Thuram** | Francés | Defensa | 1994‑1995 | Parte de la era Wenger |
+| **Thierry Henry** | Francés | Delantero | 1994‑1995 | Parte de la era Wenger |
+| **David Trezeguet** | Argentino | Delantero | 1995‑2000 | Emblema actual |
+| **Kylian Mbappé** | Francés | Delantero | 2017‑2018 | Parte de la era Rybolóvlev |
+| **Radamel Falcao** | Colombiano | Delantero | 2013‑2014 | Máximo goleador 2017‑18 (30 goles) |
+| **Fernando Morientes** | Español | Delantero | 2003‑2004 | Finalista de la Champions 2003‑04 |
+| **Ludovic Giuly** | Francés | Extremo | 2003‑2004 | Finalista de la Champions 2003‑04 |
+| **Patrice Evra** | Francés | Defensa | 2003‑2004 | Finalista de la Champions 2003‑04 |
+| **Flavio Roma** | Brasileño | Portero | 2003‑2004 | Finalista de la Champions 2003‑04 |
+
+---
+
+### 7. Rivalidades  
+| Rival | Tipo | Comentarios |
+|-------|------|-------------|
+| **Niza** | Rivalidad de la Costa Azul | Derbi de la Costa Azul; proximidad geográfica. |
+| **Marsella** | Rivalidad histórica | Competencia por el título del sur; menor intensidad en las últimas décadas. |
+| **Lyon** | Rivalidad por éxitos en la década 2000 | Competencia en torneos nacionales. |
+| **París Saint‑Germain** | Rivalidad de la capital | Competencia por dominio en Francia; Mónaco rompió la hegemonía con el título 2016‑17. |
+
+---
+
+### 8. Datos actuales (2023‑24)  
+- **Entrenador**: Thierry Henry (desde 13 oct 2018).  
+- **Liga**: Ligue 1 (Francia).  
+- **Situación reciente**: Fin de temporada 2018‑19 en 17.º; datos de la temporada 2023‑24 no proporcionados en el documento.  
+- **Presidente**: Dmitri Rybolóvlev (dueño ruso).  
+- **Estadio**: Stade Louis II.  
+- **Plantilla destacada**: No se listan jugadores actuales en el documento; se menciona a Aleksandr Golovín como jugador activo.  
+
+---
+
+### 9. Afición  
+- Cinco grupos oficiales: Club des supporters de Monaco (CSM), Ultras Monaco 94, Heracles, Bulls Monaco 2005, Muneg'Oc.  
+- Presencia internacional en Italia, España, Inglaterra, Portugal, Holanda, Colombia, Argentina, Brasil, México y EE. UU.  
+- La afición es importante para la difusión del club en la región de la Costa Azul y más allá.
+
+---
+
+### 10. Otros datos relevantes  
+- **Patrocinadores**: No se menciona.  
+- **Infraestructura**: Centro de entrenamiento La Turbie, estadio de reserva.  
+- **Estadísticas**:  
+  - 58 temporadas en Ligue 1, 12 en Ligue 2.  
+  - Mayor goleada a favor: 9‑0 vs. Bordeaux (1985‑86).  
+  - Mayor goleada en contra: 1‑7 vs. PSG (2017‑18).  
+  - Máximo goleador histórico: Delio Onnis (157 goles).  
+  - Máximo número de partidos: Jean‑Luc Ettori (755).  
+
+---
+
+**Resumen**:  
+El AS Mónaco, fundado en 1924, es uno de los clubes más emblemáticos de la Ligue 1, con ocho títulos de liga, cinco Copas de Francia y una notable trayectoria europea, llegando a la final de la Champions en 2004. Su estadio, el Stade Louis II, es un ícono arquitectónico con capacidad para 18 525 espectadores. La identidad visual del club se basa en la camiseta diagonal rojo‑blanco, un diseño creado por la princesa Grace en 1960. La historia del club se divide en varias eras: la consolidación bajo Lucien Leduc, la era Wenger y Tigana, el auge europeo de la década de 2000, el declive y descenso, y la reconstrucción bajo Dmitri Rybolóvlev que culminó con el título de 2016‑17. Los jugadores legendarios incluyen a Delio Onnis, Jean‑Luc Ettori, George Weah, Thierry Henry y Kylian Mbappé. Las rivalidades más destacadas son con Niza, Marsella, Lyon y PSG. Actualmente, el club sigue compitiendo en la Ligue 1 bajo la dirección de Thierry Henry y la presidencia de Rybolóvlev, con aspiraciones de consolidar su posición como potencia europea.

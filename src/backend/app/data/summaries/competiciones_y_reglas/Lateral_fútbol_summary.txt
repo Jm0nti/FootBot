@@ -1,1 +1,121 @@
-[ERROR AL RESUMIR] Lateral_fútbol.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 8844, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Resumen estructurado – Defensa (fútbol)**  
+
+---
+
+### 1. Formaciones defensivas  
+**Regla o aspecto**: Evolución histórica de las líneas de defensa.  
+**Descripción detallada**:  
+- **Antes de 1950**: 2‑3‑5 (pirámide invertida) y MW (defensa alemana).  
+- **Finales de 1950**: introducción de líneas de cuatro defensores.  
+- **1960**: uso de carrileros en 4‑2‑4.  
+- **1966**: aparición de 4‑4‑2 “wingless” con dos centrales y dos laterales contenidos.  
+- **1980**: reaparecen formaciones con tres defensas (ej. 3‑5‑2).  
+- **1990**: sistemas zonales (Arrigo Sacchi) y tres defensas en línea.  
+- **Actualidad**: predominio de 4‑4‑2 y variantes con carrileros (4‑2‑2‑2).  
+
+**Casos especiales**:  
+- 2‑3‑5 todavía usado en ataque y presión, rescatado por Guardiola en Bayern.  
+- 5‑3‑2 (catenaccio) con líbero y línea de cuatro defensores.  
+
+**Ejemplos**:  
+- 3‑5‑2 de Bilardo: líbero + dos mediocampistas defensivos.  
+- 3‑4‑3: tres centrales en línea (fútbol neerlandés).  
+- 4‑2‑2‑2: dos centrales + dos carrileros (Brasil, Chile, Colombia, Perú).  
+
+**Cambios recientes**:  
+- Mayor uso de carrileros con capacidad de salida y remates, reflejando la tendencia de “laterales ofensivos” en la era moderna.
+
+---
+
+### 2. Categorías de defensas  
+#### 2.1 Defensa central (zaguero central)  
+- **Descripción**: Base de la defensa, numerado 4/5, juega en línea de cuatro, evita que el rival alcance la portería.  
+- **Casos especiales**: No cubre bandas; esa tarea es del centrocampista defensivo.  
+- **Ejemplos**: Franco Baresi, Daniel Passarella, Bobby Moore, Carles Puyol, Virgil van Dijk, Rúben Dias.  
+- **Cambios recientes**: Mayor énfasis en la lectura del juego y la capacidad de iniciar ataques con pases precisos.
+
+#### 2.2 Defensor de corte (estóper / stopper)  
+- **Descripción**: Se adelanta al último jugador, presiona al atacante, cubre zonas laterales y centrales.  
+- **Casos especiales**: Se usa en líneas de tres o cinco, o en rombos defensivos sin mediocampista defensivo.  
+- **Ejemplos**: Elías Figueroa, Daniel Passarella, Ronald Koeman, Fernando Hierro.  
+- **Cambios recientes**: Se valora la salida con balón y la capacidad de iniciar contraataques.
+
+#### 2.3 Líbero (defensa libre por el centro)  
+- **Descripción**: Último jugador de la defensa, sin marca asignada, “barre” tras la línea.  
+- **Casos especiales**: Puede jugar por delante de la defensa y actuar como volante.  
+- **Ejemplos**: Franz Beckenbauer, Gaetano Scirea, Armando Picchi, Matthias Sammer, Lothar Matthäus.  
+- **Cambios recientes**: Posición en gran medida en desuso; se prefiere el “sweeper‑keeper” o la defensa zonal sin líbero.
+
+#### 2.4 Lateral (marcador de punta)  
+- **Descripción**: Defensa de banda, número 2/4 (derecho) o 3/6 (izquierdo).  
+- **Casos especiales**: En 4‑4‑2 “wingless” solo defensivo; en 5‑3‑2 y 5‑4‑1 tiene bandas abiertas.  
+- **Ejemplos**: Carlos Alberto, Paolo Maldini, Trent Alexander‑Arnold, Jordi Alba, Dani Alves.  
+- **Cambios recientes**: Mayor rol ofensivo, con centros y participación en la construcción de juego.
+
+#### 2.5 Carrilero (defensa libre por la banda)  
+- **Descripción**: Variante moderna del lateral, más ofensiva, con responsabilidades creativas.  
+- **Casos especiales**: Se diferencia de los volantes por la posición y el perfil de juego.  
+- **Ejemplos**: Roberto Carlos, João Pereira, Stephan Lichtsteiner, Dani Alves, Marcelo Vieira.  
+- **Cambios recientes**: Se utilizan en 4‑2‑2‑2 y 4‑2‑4, con mayor cobertura y capacidad de remate.
+
+#### 2.6 Defensor de medio campo (half back) – en desuso  
+- **Descripción**: Posición de la pirámide invertida (1930s) y de los laterales volantes brasileños (1970s).  
+- **Casos especiales**: No se usa en la actualidad; se ha fusionado con el lateral volante.  
+- **Ejemplos**: José Leandro Andrade, Duncan Edwards, Marinho Chagas, Everaldo Marques.  
+- **Cambios recientes**: Eliminación de la posición en la táctica moderna.
+
+---
+
+### 3. Aspectos tácticos y técnicos  
+#### 3.1 Tácticas defensivas  
+- **Defensa individual**: Marcaje directo, alta recuperación, mayor riesgo de faltas.  
+- **Defensa zonal**: Asignación de espacios, menor desgaste físico, vulnerable a 2‑por‑1.  
+- **Defensa mixta**: Combina marcaje individual con zonal; ejemplo: Inter de Milán 1960s.  
+
+#### 3.2 Cometidos tácticos en defensa  
+- **Marcaje**: Cubrir jugador rival.  
+- **Corte**: Salir de posición para interceptar.  
+- **Persecución**: Buscar el balón en su zona.  
+- **Coordinación**: Juego en línea, uso del off‑side.  
+- **Presión**: Pressing colectivo.  
+- **Escalonamiento**: Distribución táctica para impedir despliegue rival.  
+- **Apoyo en la recuperación**: Cobertura y permuta.  
+- **Vigilancia**: Cubrir zonas vacías.  
+
+#### 3.3 Cometidos técnicos en defensa  
+- **Entrada de frente / desde atrás**: Limpia y sin agresión.  
+- **Carga**: Empuje hombro‑hombro.  
+- **Brega**: Ganar posición física.  
+- **Interceptación**: Cortar pases.  
+- **Anticipación**: Leer jugada.  
+
+#### 3.4 Habilidades tácticas mentales  
+- **Lectura defensiva/ofensiva**: Posicionamiento y timing.  
+- **Inteligencia táctica**: Combina lectura ofensiva y defensiva.  
+- **Posicionamiento**: En línea, off‑side, cobertura.  
+- **Claridad**: Elegir pase correcto bajo presión.  
+
+---
+
+### 4. Defensas goleadores  
+- **Importancia**: Capacidad de marcar, especialmente en tiros libres y cabezazos.  
+- **Ejemplos destacados**: Ronald Koeman, Daniel Passarella, Fernando Hierro, Roberto Carlos, Edgardo Bauza, Paul Breitner, Héctor Chumpitaz, Laurent Blanc.  
+- **Gol famoso**: Gol iluminado de Elías Figueroa (1975).  
+
+---
+
+### 5. Defensas destacados (ranking FIFA & IFFHS)  
+- **FIFA (2004)**: Beckenbauer, Passarella, Moore, Baresi, Figueroa.  
+- **Europa**: Beckenbauer, Facchetti, Moore, Baresi, Scirea, Maldini, Krol, Breitner, Koeman.  
+- **Sudamérica**: Passarella, Figueroa, Nilton Santos, Nasazzi, Chumpitaz, Pereira, Torres, Da Guia.  
+- **Goleadores**: Enzo Trossero (76), Sergio Ramos (75), Roberto Carlos (68), Beckenbauer (67), Chumpitaz, Garcé (65), Brehme (62), Facchetti (59).  
+
+---
+
+### 6. Cambios recientes en la defensa  
+- **Mayor movilidad**: Carrileros y laterales con capacidad de salida y remate.  
+- **Defensa zonal**: Preferida en competiciones internacionales.  
+- **Desuso del líbero**: Sustitución por defensa zonal o “sweeper‑keeper”.  
+- **Enfoque físico‑técnico**: Anticipación, lectura de juego y salida con balón se valoran más que la mera fuerza física.  
+
+---

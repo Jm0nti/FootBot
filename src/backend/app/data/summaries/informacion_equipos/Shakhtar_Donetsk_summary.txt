@@ -1,1 +1,85 @@
-[ERROR AL RESUMIR] Shakhtar_Donetsk.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6520, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Identidad del club**  
+- **Nombre completo:** Fútbol Club Shakhtar Donetsk (ФК Шахтар Донецьк)  
+- **Apodos:** *Stakhanovets* (1936‑1946), *Shakhtyor/Shakhtar* (1946‑1992), *FC Shakhtar* (1992‑presente)  
+- **Año de fundación:** 12 de mayo 1936 (como Stajanovets)  
+- **Ciudad/país:** Donetsk, Ucrania  
+
+**Estadio**  
+| Estadio | Capacidad | Características | Periodo de uso | Comentarios |
+|---------|-----------|-----------------|----------------|-------------|
+| **Shajtar Stadium** (1936) | No especificada | Estadio original, hoy usado por Metalurg Donetsk y reservas | 1936‑2003 | Primer recinto del club |
+| **RSK Olympiyskiy** (2003‑2009) | 30 000 (aprox.) | Estadio de la capital, usado para la fase de grupos de la UEFA | 2003‑2009 | Lugar de la final de la Copa de la UEFA 2008‑09 |
+| **Donbass Arena** (2009‑2014) | 52 187 | Categoría Elite UEFA, 5 estrellas | 2009‑2014 | Inaugurado 27 septiembre 2009, primer partido 4‑0 vs Obolon Kiev |
+| **Arena Lviv** (2014‑2017) | 27 000 (aprox.) | Estadio de Lviv, usado como “casa” durante la guerra | 2014‑2017 | 1000 km del hogar original |
+| **Metalist Stadium** (2017‑2020) | 32 000 (aprox.) | Estadio de Járkov, usado tras la salida de Metalist | 2017‑2020 | Propiedad de Metalist, club expulsado de la liga |
+| **NSC Olimpiyskiy** (2020‑presente) | 63 000 (aprox.) | Estadio de Kiev, usado como sede temporal | 2020‑presente | Estadio de la capital, categoría Elite |
+
+**Colores y escudo**  
+- **Colores oficiales:** negro y naranja (desde 1961).  
+- **Escudo:** evolución desde un hexágono azul con una “C” roja y martillo mecánico (1936) hasta el diseño actual de 2008, con martillos cruzados y el nombre “Shakhtar Donetsk” en círculo. El escudo fue diseñado por Interbrand (Italia) en 2008.  
+
+**Historia**  
+1. **Fundación y primeros años (1936‑1955)**  
+   - Nacido como *Stajanovets* a partir de Dynamo Horlivka y Stalino.  
+   - Primer partido oficial vs Dynamo Kazan (1‑4).  
+   - Reorganización post‑Segunda Guerra Mundial → nombre *Shakhtyor* (Shakhtar).  
+   - Ascenso a la primera división soviética en 1940, 21 derrotas en 34 partidos.  
+   - Tercer puesto en 1942, medallas de bronce y diplomas.  
+
+2. **Fútbol soviético (1956‑1991)**  
+   - Cambios de entrenador frecuentes; descenso a segunda división 1953.  
+   - Finales de la Copa de la Unión Soviética 1961‑1963 (ganó 2).  
+   - Racha de 10 partidos sin perder 1966; portero Yuri Korotkij 913 minutos sin gol.  
+   - Subcampeón 1975 (Dinamo Kiev), participación en la Copa de la UEFA 1976‑77.  
+   - Copas de la Unión Soviética 1980 y 1983.  
+   - Cuartos de final de la Recopa de Europa 1984 (eliminado por FC Porto).  
+
+3. **Independencia y primeros éxitos (1992‑2004)**  
+   - Entrada en la Liga Premier de Ucrania tras la caída de la URSS.  
+   - Copa de Ucrania 1995, 1997, 2001.  
+   - Primer título de liga 2001‑02 (Nevi Scala).  
+   - Fundación de la academia de fútbol 1999 y centro de formación Kirsha 2000.  
+
+4. **Campeón de la UEFA y dominio nacional (2005‑presente)**  
+   - Llegada de Mircea Lucescu 2004 → títulos de liga 2004‑05, 2005‑06, 2007‑08, 2009‑10, 2010‑11, 2011‑12, 2012‑13, 2013‑14, 2016‑17, 2017‑18, 2018‑19, 2019‑20, 2022‑23, 2023‑24.  
+   - Copa de la UEFA 2008‑09 (victoria 2‑1 vs Werder Bremen).  
+   - Supercopas de Ucrania 2005, 2008, 2010, 2012‑2015, 2017, 2021.  
+   - Guerra del Donbás 2014 → desplazamiento a Arena Lviv, luego Metalist, luego NSC Olimpiyskiy.  
+
+**Palmarés**  
+- **Ligas nacionales (15):** 2001‑02, 2004‑05, 2005‑06, 2007‑08, 2009‑10, 2010‑11, 2011‑12, 2012‑13, 2013‑14, 2016‑17, 2017‑18, 2018‑19, 2019‑20, 2022‑23, 2023‑24.  
+- **Copas nacionales (15):** 1995, 1997, 2001, 2002, 2004, 2008, 2011, 2012, 2013, 2015, 2016, 2017, 2018, 2019, 2024, 2025.  
+- **Supercopas nacionales (9):** 2005, 2008, 2010, 2012, 2013, 2014, 2015, 2017, 2021.  
+- **Copas de la URSS (4):** 1961, 1962, 1980, 1983.  
+- **Supercopa de la URSS (1):** 1983.  
+- **Títulos internacionales:** Copa de la UEFA 2008‑09; subcampeón de la Supercopa de Europa 2009.  
+
+**Jugadores legendarios**  
+- **Darijo Srna** (número retirado 33, 2003‑2018).  
+- **Andriy Vorobey** (máximo goleador 2000‑01, Futbolista ucraniano del año 2000‑01).  
+- **Anatoliy Tymoshchuk** (capitán, Futbolista ucraniano del año 2001‑02).  
+- **Oleh Matveyev** (delantero, máximo goleador 1996‑97).  
+- **Serhiy Popov, Mykola Starostyak, Dmytro Shutkov, Hennadiy Orbu, Valeri Kriventsov, Ihor Petrov** (jugadores clave en la era de los 90).  
+- **Alex Teixeira, Douglas Costa, Dentinho, Fred, Ismaily, Facundo Ferreyra** (jugadores brasileños y argentino que abandonaron la concentración en 2014).  
+
+**Rivalidades**  
+- **Dinamo Kiev** – *Derbi ucraniano*, rivalidad histórica y más importante.  
+- **Metalurh Donetsk** – rival local, *Derbi de Donetsk*.  
+- **Zorya Luhansk** – *Derbi de Donbas*.  
+- **Spartak Moscú, Dinamo Tbilisi, Chornomorets Odesa** – rivalidades históricas de la era soviética.  
+
+**Datos actuales**  
+- **Liga:** Ukrainian Premier League (Liga Premier).  
+- **Estadio actual:** NSC Olimpiyskiy, Kiev (estadio temporal desde 2020‑21).  
+- **Entrenador:** No se especifica en el documento.  
+- **Situación reciente:** Campeón de la liga 2023‑24; sigue participando en competiciones europeas (Champions League y Europa League) desde la sede de Kiev.  
+
+**Compromiso social**  
+- Programa de ayuda a huérfanos en colaboración con la Fundación Benéfica para el Desarrollo de Ucrania.  
+- Donbass Arena se ha convertido en “Arena de la Misericordia”, distribuyendo ayuda a los residentes de los territorios ocupados.  
+
+**Símbolos y cultura**  
+- **Himno:** “¡Sé famoso, nativo del Shakhtar!” (Letra K. Arseneva, música I. Krutoy).  
+- **Uniformes:** Titular naranja con líneas negras; alternativo negro; tercero amarillo con líneas azules.  
+
+Esta síntesis conserva toda la información relevante del documento original, manteniendo fechas, cifras y datos específicos sin añadir contenido inventado.

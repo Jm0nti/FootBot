@@ -1,1 +1,114 @@
-[ERROR AL RESUMIR] Manchester_United_Football_Club.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 25048, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Manchester United Football Club – Resumen Completo y Detallado**
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Manchester United Football Club  
+- **Apodos:** “United”, “Red Devils” (derivado del escudo y del apodo oficial del club)  
+- **Año de fundación:** 16 abril 1878 (como Newton Heath LYR Football Club)  
+- **Ciudad/País:** Manchester, Inglaterra  
+- **Evolución de nombres:** Newton Heath LYR FC (1878‑1902) → Manchester United FC (1902‑hoy)  
+
+---
+
+### 2. Estadio – Old Trafford  
+- **Ubicación:** Manchester, Reino Unido  
+- **Capacidad actual:** 76 000 espectadores (última ampliación 2005‑06, 75 957; 2009‑10 75 765)  
+- **Historia de la sede:**  
+  - 1880‑1893: North Road (capacidad ~12 000)  
+  - 1893‑1909: Bank Street (capacidad ~50 000)  
+  - 1909‑present: Old Trafford (capacidad original 77 000, reducida a 76 000 tras remodelaciones)  
+- **Características:**  
+  - Tres niveles de tribunas (norte, este, oeste) con techos y sistemas de iluminación modernos.  
+  - Instalaciones de entrenamiento: Trafford Training Centre (Aon Training Complex).  
+  - Capacidad récord de 76 962 asistentes (semifinal FA Cup 1939).  
+
+---
+
+### 3. Colores y Escudo  
+- **Colores tradicionales:** rojo y blanco (uniforme principal), negro (calcetines) y azul (uniforme visitante).  
+- **Evolución de la indumentaria:**  
+  - 1878‑1886: verde y oro (colores de la compañía ferroviaria).  
+  - 1902‑hoy: rojo y blanco (cambio tras la llegada de J.H. Davies).  
+  - 1956‑57: “Busby Babes” kit rojo con detalles blancos.  
+  - 1968‑present: rojo, blanco y negro en distintas combinaciones.  
+- **Escudo:**  
+  - Derivado del escudo de armas del Manchester City Council.  
+  - Incluye la figura del “Red Devil” (demonio rojo) y el barco de vela.  
+  - Introducido oficialmente en 1970, con cambios menores en 1971.  
+
+---
+
+### 4. Historia – Línea de Tiempo Clave  
+
+| Periodo | Eventos y Logros | Comentarios |
+|---------|------------------|-------------|
+| **1878‑1902** | Fundación como Newton Heath LYR FC; primeros partidos en North Road; participación en Lancashire Cup y FA Cup (primeras eliminaciones). | Club nace de empleados ferroviarios. |
+| **1902‑1914** | J.H. Davies rescata club, cambia nombre a Manchester United; colores rojo‑blanco; ascenso a First Division (1907); primera liga (1908) y primera FA Cup (1909). | “Moneybags United” por prosperidad financiera. |
+| **1914‑1945** | Suspensión de la liga por WWI; regreso 1919; descenso a Second Division (1922, 1931, 1934); bombardeo de Old Trafford en 1940; juego en Maine Road durante la guerra. | Club enfrenta crisis económica y militar. |
+| **1945‑1969** | Matt Busby asume dirección (1945); 1952: primera liga en 41 años; 1956‑57: doblete liga‑FA Cup; 1958: desastre aéreo de Múnich (8 jugadores muertos). | “Busby Babes” y “Red Devils” se consolidan. |
+| **1968** | Victoria en la Copa de Europa (4‑1 vs Benfica); primera victoria de un club inglés en la competición. | Tríada legendaria: Charlton, Law, Best. |
+| **1969‑1986** | Cambios de entrenadores (McGuinness, O’Farrell, Docherty, Sexton, Atkinson); 1976: FA Cup; 1983‑85: FA Cup doblete. | Periodo de altibajos y reconstrucción de plantel. |
+| **1986‑2013** | Sir Alex Ferguson llega (1986); 1992: primera liga en 25 años; 1998‑99: triplete (Premier League, FA Cup, Champions League); 2007‑08: doblete liga‑Champions; 2012‑13: última liga bajo Ferguson. | 38 títulos oficiales, 13 Premier League, 5 FA Cup, 2 Champions League. |
+| **2013‑2024** | David Moyes (2013‑14), Louis van Gaal (2014‑16), José Mourinho (2016‑18), Ole Gunnar Solskjær (interino 2018‑19, permanente 2019‑21), Ralf Rangnick (interino 2021‑22), Erik ten Hag (2022‑25, destituido 2025‑26), Rúben Amorim (2025‑26). | Periodo de inestabilidad, cambios de plantilla y resultados mixtos. |
+| **2024‑25** | Ten Hag destituido 21 abril 2025; Rúben Amorim toma mando; temporada 2024‑25 sin trofeos, 6.º lugar en Premier League. | Club busca re‑estabilizarse bajo nuevo liderazgo. |
+
+---
+
+### 5. Palmarés – Títulos Nacionales e Internacionales  
+
+| Competencia | Títulos | Comentarios |
+|-------------|---------|-------------|
+| **Liga (First Division / Premier League)** | 20 | 1908, 1910, 1952, 1956, 1957, 1965, 1967, 1992, 1993‑94, 1995‑96, 1998‑99, 2000‑01, 2002‑03, 2006‑07, 2007‑08, 2008‑09, 2010‑11, 2012‑13, 2020‑21 |
+| **FA Cup** | 13 | 1909, 1910, 1911, 1912, 1913, 1914, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1924, 1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935, 1936, 1937, 1938, 1939, 1940, 1941, 1942, 1943, 1944, 1945, 1946, 1947, 1948, 1949, 1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| **League Cup** | 6 | 1968, 1970, 1977, 1990, 1994, 1996 |
+| **Community Shield** | 21 | 1908, 1910, 1911, 1912, 1913, 1914, 1915, 1916, 1917, 1918, 1919, 1920, 1921, 1922, 1923, 1924, 1925, 1926, 1927, 1928, 1929, 1930, 1931, 1932, 1933, 1934, 1935, 1936, 1937, 1938, 1939, 1940, 1941, 1942, 1943, 1944, 1945, 1946, 1947, 1948, 1949, 1950, 1951, 1952, 1953, 1954, 1955, 1956, 1957, 1958, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970, 1971, 1972, 1973, 1974, 1975, 1976, 1977, 1978, 1979, 1980, 1981, 1982, 1983, 1984, 1985, 1986, 1987, 1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025 |
+| **European Cup / Champions League** | 3 | 1968, 1999, 2008 |
+| **UEFA Super Cup** | 1 | 1991 |
+| **UEFA Cup / Europa League** | 1 | 2016‑17 |
+| **Intercontinental Cup** | 1 | 1999 |
+| **FIFA Club World Cup** | 1 | 2008 |
+| **Recopa / Supercopa de Europa** | 1 | 1991 |
+| **Total de títulos oficiales** | 88 | (incluye todas las competiciones listadas) |
+
+---
+
+### 6. Jugadores Legendarios  
+
+| Periodo | Jugadores | Logros Clave |
+|---------|-----------|--------------|
+| **Busby Babes (1950‑60)** | Bobby Charlton, Denis Law, George Best | 1968: Copa de Europa; 1968: Copa Intercontinental (final). |
+| **Era Ferguson (1990‑2013)** | Ryan Giggs, David Beckham, Paul Scholes, Cristiano Ronaldo, Ole Gunnar Solskjær, Wayne Rooney, Nicky Butt, Gary Neville, Phil Neville | 1998‑99: Triplete; 2007‑08: Doble; 2012‑13: Liga. |
+| **Actualidad (2023‑26)** | Cristiano Ronaldo (regreso 2021‑22), Jadon Sancho, Marcus Rashford, Bruno Fernandes, Harry Maguire, Paul Pogba (transferencia 2016), Jadon Sancho (transferencia 2021‑22) | Club en proceso de reconstrucción. |
+
+---
+
+### 7. Rivalidades  
+
+| Rival | Nombre del Clásico | Historia Breve |
+|-------|-------------------|----------------|
+| **Manchester City** | “Derbi de Manchester” | Primer encuentro oficial 1893 (Liverpool vs. United). Rivalidad creciente tras la llegada de los Glazer a City en 2008. |
+| **Liverpool** | “Derbi del Noroeste” | Competencia histórica de la industria; encuentros decisivos en finales de la FA Cup y en la Premier League. |
+| **Arsenal** | “Clásico de la Premier” | Rivalidad de títulos en la era moderna; enfrentamientos en finales de la FA Cup y en la liga. |
+| **Leeds United** | “Rivalidad de las Rosas” | Origen en la guerra de las Dos Rosas; encuentros frecuentes en la Premier League. |
+
+---
+
+### 8. Datos Actuales (2025‑26)  
+
+- **Director técnico:** Rúben Amorim (desde 2025‑26, con Ruud van Nistelrooy como interino en 2025‑26).  
+- **Liga:** Premier League (club compite en la máxima categoría inglesa).  
+- **Posición reciente:** 6.º lugar en la temporada 2021‑22; 2024‑25 sin trofeos, 6.º en la tabla.  
+- **Plantilla destacada:** Cristiano Ronaldo (regreso 2021‑22), Jadon Sancho, Marcus Rashford, Bruno Fernandes, Harry Maguire.  
+- **Propiedad:** Familia Glazer (63,3 %) y Jim Ratcliffe (27,7 %).  
+- **Presidente honorario:** Martin Edwards.  
+- **Estadísticas de asistencia:** Promedio de 14 000 aficionados por juego desde 1994; Old Trafford es el estadio con mayor asistencia media en Europa (solo detrás de Borussia Dortmund).  
+- **Valor de mercado:** 3 000 millones USD (superó los 3 000 millones en 2013).  
+
+---
+
+### 9. Resumen de la Trayectoria  
+
+Manchester United es uno de los clubes más laureados y populares del mundo. Desde sus humildes comienzos como Newton Heath, el club ha superado bancarrota, bombardeos y tragedias, convirtiéndose en un símbolo de resiliencia y éxito. Bajo la dirección de Matt Busby y Sir Alex Ferguson, el club consolidó su identidad como “Red Devils” y ganó títulos nacionales e internacionales, incluyendo el histórico triplete 1998‑99. En la era post‑Ferguson, el club ha experimentado altibajos, con cambios de entrenadores y fluctuaciones en la plantilla, pero sigue siendo un gigante del fútbol inglés, con una base de seguidores que supera los 600 millones a nivel mundial y un valor de mercado que lo coloca entre los equipos más valiosos del planeta.  
+
+---

@@ -1,1 +1,163 @@
-[ERROR AL RESUMIR] Zlatan_Ibrahimović.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96952, Requested 22856. Please try again in 4h45m14.112s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Zlatan Ibrahimović: Biografía y Carrera**
+
+**Datos Básicos**
+
+* Nombre completo: Zlatan Ibrahimović
+* Apodo: Ibra
+* Fecha de nacimiento: 3 de octubre de 1981
+* Nacionalidad: Sueco de ascendencia bosniocroata
+
+**Información Física**
+
+* Altura: 1,95 m
+* Peso: 95 kg
+* Posición principal: Delantero
+* Pierna dominante: No se proporciona
+
+**Carrera Profesional**
+
+* Malmö F. F. (1996-2001)
+ + Debut en la Allsvenskan: 19 de septiembre de 1999
+ + Primer gol como profesional: 30 de octubre de 1999
+ + Ascenso a la primera división: 2000
+ + Descenso a la segunda división: 1999
+* Ajax de Ámsterdam (2001-2004)
+ + Debut en la Eredivisie: 26 de julio de 2001
+ + Primer título: Eredivisie 2001-02
+ + Copa de los Países Bajos: 2002
+ + Supercopa de los Países Bajos: 2002
+* Juventus de Turín (2004-2006)
+ + Debut en la Serie A: 12 de septiembre de 2004
+ + Título de la liga: 2004-05 y 2005-06
+* Inter de Milán (2006-2009)
+ + Debut en la Serie A: 27 de agosto de 2006
+ + Título de la liga: 2006-07, 2007-08 y 2008-09
+* F. C. Barcelona (2009-2011)
+ + Debut en la Liga: 19 de agosto de 2009
+ + Supercopa de España: 2009
+ + Mundial de Clubes: 2009
+* A. C. Milan (2010-2012)
+ + Debut en la Serie A: 11 de septiembre de 2010
+ + Título de la liga: 2010-11
+* Paris Saint-Germain F. C. (2012-2016)
+ + Debut en la Ligue 1: 11 de agosto de 2012
+ + Título de la liga: 2012-13, 2013-14, 2014-15 y 2015-16
+* Manchester United F. C. (2016-2018)
+ + Debut en la Premier League: No se proporciona
+ + Community Shield: 2016
+* Los Angeles Galaxy (2018-2019)
+ + Debut en la Major League Soccer: No se proporciona
+* A. C. Milan (2019-2023)
+ + Debut en la Serie A: No se proporciona
+
+**Estadísticas Destacadas**
+
+* Goles: 573
+* Asistencias: No se proporciona
+* Títulos ganados: 32
+
+**Estilo de Juego**
+
+* Fortalezas: Técnica, velocidad, potencia en el aire
+* Características técnicas: Excelente control del balón, habilidad para marcar goles de diferentes maneras
+* Rol táctico: Delantero central, delantero ofensivo
+
+**Datos Contextuales**
+
+* Premios individuales: Guldbollen (2004, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2020)
+* Reconocimientos: Futbolista Extranjero del Año en la Serie A (2005)
+* Curiosidades: Es conocido por su imagen excéntrica y su actitud impetuosa y directa.
+
+**Inter de Milán (2006-2009)**
+
+El 10 de agosto de 2006, Zlatan Ibrahimović fichó por el Inter de Milán, que pagó 24,8 millones de euros por su traspaso. Firmó un contrato de 12 millones de euros anuales durante cuatro años. Debutó con la camiseta neroazzurra el 27 de agosto en la Supercopa de Italia, torneo que ese mismo año se adjudicó al vencer con el Inter 4:3 a la Roma.
+
+Esa temporada, logró consagrarse campeón del torneo italiano, donde disputó veintisiete encuentros y marcó quince goles. Por la Liga de Campeones jugó siete partidos y no marcó goles, enfrentando en la fase de grupos al Bayern de Múnich, al Spartak de Moscú y al Sporting de Lisboa, y en octavos de final al Valencia con el que quedó eliminado tras empatar 2:2 en el global y aplicarse la regla del gol de visitante.
+
+En la temporada 2007-08 fue bicampeón de la Serie A, en la que Inter se adjudicó el scudetto con ochenta y cinco puntos en la tabla de posiciones final. Zlatan convirtió diecisiete goles en veintiséis jornadas jugadas. En la UEFA Champions League participó nuevamente en siete encuentros, pero esta vez marcó cinco goles, todos ellos en la fase de grupos.
+
+El neroazzurro clasificó hasta los octavos de final, en los que perdió por un global de 3:0 frente al Liverpool inglés. En 2007, formó por primera vez parte del equipo ideal de la UEFA. En su última etapa en Inter y con la llegada de José Mourinho, obtuvo primeramente por segunda vez la supercopa italiana al derrotar a la Roma en los penales por 6:5 después de empatar 2:2 en los 90 minutos reglamentarios.
+
+En 2008, logró marcar un «golazo» ante el Bologna F. C. que fue considerado el «Gol del Año» en el Calcio por lo que se le entregó un Oscar como premio. El 17 de mayo de 2009, a falta de dos jornadas, logró el tricampeonato de la Serie A cuando venció por 3:0 al Siena donde el sueco convirtió el último de los goles del encuentro en el minuto 76.
+
+En total, por la liga anotó veinticinco goles en treinta y cinco partidos, convirtiéndose en el máximo goleador (Capocannoniere) de la temporada italiana. Por la Copa Italia jugó cuatro encuentros y marcó tres goles, pero quedó eliminado en semifinales por un global de 1:3 a manos de la Sampdoria donde él anotó el único gol de su equipo.
+
+En la Liga de Campeones 2008-09 enfrentó al Anorthosis Famagusta, al Panathinaikos y al Werder Bremen, obteniendo el segundo lugar en la fase de grupos y quedó nuevamente eliminado (por tercer año consecutivo) en los octavos de final, pero esta vez a manos del Manchester United quien ganó por un global de 2:0. Ibra marcó un solo gol en la competición y jugó ocho partidos.
+
+**F. C. Barcelona (2009-2011)**
+
+El 27 de julio de 2009 Zlatan firmó por el F. C. Barcelona por cinco temporadas. El traspaso se cerró en 46 millones de euros más el pase del delantero Samuel Eto'o al Inter de Milán, valorado en 20 millones, y una indemnización al equipo milanista de 5 millones de euros por la no cesión de Aliaksandr Hleb, quien estaba incluido en la operación y finalmente fue cedido al Stuttgart, siendo en total 71 millones de euros.
+
+Tras una operación del metacarpo de su mano izquierda, Ibra disputó su primer partido con la camiseta azulgrana el 19 de agosto, en el Trofeo Joan Gamper frente al Manchester City. Su primer partido oficial lo disputó el 23 de agosto en el encuentro de vuelta de la Supercopa de España 2009 frente al Athletic Club, siendo el resultado final 3:0 a favor de su equipo.
+
+Cinco días más tarde, obtuvo su primera Supercopa de Europa gracias a la victoria de su club por 1:0 sobre el Shajtar Donetsk en el Estadio Luis II, en el encuentro Ibrahimović inició como titular, pero fue sustituido por Pedro Rodríguez al minuto 81. Su primer gol con el equipo catalán llegó el 31 de agosto de 2009, ante el Sporting de Gijón, durante la disputa de la primera jornada de la Primera División 2009-10.
+
+El partido finalizó 3:0 y su gol fue el tercero. Al término de la quinta jornada de la liga, igualó la mejor marca histórica de goles en las primeras cinco jornadas establecida por César Rodríguez en la temporada 1950-51, al conseguir un tanto en cada una de las cinco primeras jornadas, siendo en cuatro de ellas además, el primer gol.
+
+En diciembre de ese mismo año, fue incluido en la lista de los veinticuatro futbolistas del Barcelona que participaron en la Copa Mundial de Clubes de la FIFA en donde resultaron campeones al derrotar 3:1 al Atlante de México y 2:1 a Estudiantes de Argentina. Durante la temporada, consiguió goles importantes en la liga como el único tanto conseguido por su equipo frente al Real Madrid en el Camp Nou y en Champions, dónde anotó dos dianas en la ida de cuartos de final frente al Arsenal.
+
+El sueco finalizó su primera temporada en España consiguiendo veintidós goles (diecisiete en el campeonato, cuatro en la Liga de Campeones y uno en la Copa del Rey) y consiguiendo con su equipo el título de Liga. Sin embargo, su aportación al equipo fue discreta en el tramo final de la temporada, llegando a cuestionar la prensa deportiva su continuidad.
+
+**A. C. Milan (2010-2012)**
+
+El 28 de agosto de 2010, fue traspasado en calidad de cedido al A. C. Milan de Italia que lo adquirió en un principio por una temporada, haciéndose cargo de su sueldo y comprometiéndose a abonar al Barcelona una cifra de 24 millones de euros por su traspaso definitivo al final de la misma.
+
+En la entidad italiana le fue asignado el dorsal número once e hizo su debut el 11 de septiembre, en la derrota 0:2 ante el recientemente ascendido Cesena, partido en el que falló un tiro penal a falta de cinco minutos para su finalización. Marcó su primer gol con la camiseta rossonera el 15 de septiembre, en la Liga de Campeones 2010-11 frente al Auxerre francés.
+
+En dicha competición enfrentó además rivales como el Ajax de Ámsterdam y el Real Madrid por la fase de grupos, mientras que en los octavos de final se enfrentó al Tottenham Hotspur con el que quedó eliminado tras perder por un global de 0:1. Zlatan disputó en este torneo ocho encuentros y marcó cuatro goles. Su primer gol liguero se produjo el 22 de septiembre, en la cuarta jornada frente a la Lazio para la victoria transitoria de su equipo.
+
+El 14 de noviembre, anotó de penal el único el gol en la victoria por 0:1 sobre el Inter para quedarse con el derbi de Milán, el cual además, puso fin a la racha de partidos invictos que mantenía su antiguo club. El 7 de mayo de 2011, se proclamó campeón con el Milan, del torneo italiano a dos fechas de finalización después de empatar 0:0 ante la Roma.
+
+Además, ese mismo año ganó por tercera vez la supercopa italiana tras vencer por 2:1 al eterno rival, donde Ibra marcó el primero y luego asistió en el segundo. En la temporada 2011-12 terminó siendo subcampeón de la Juventus, pero con la satisfacción de haber sido el máximo goleador del campeonato «tano» y por segunda vez tras anotar veintiocho goles en treinta y dos encuentros presenciados.
+
+**Paris Saint-Germain (2012-2016)**
+
+El 17 de julio de 2012, el Paris Saint-Germain confirmó que había llegado a un acuerdo económico con el A. C. Milan para adquirir los derechos deportivos de Ibrahimović por un monto de € 20 millones. Su fichaje por el equipo francés lo convirtió en el futbolista más caro de la historia en cuanto a precio de transferencias, con alrededor de € 170 millones.
+
+Ibra firmó un contrato por tres años y recibiría un sueldo neto anual de € 14 millones, convirtiéndose en el segundo futbolista mejor pagado del mundo detrás del camerunés Samuel Eto'o. Su debut con gol incluido en el club parisino se produjo el 28 de julio en un encuentro amistoso ante el D. C. United de los Estados Unidos donde solo le bastaron dos minutos para marcar el gol.
+
+**Estilo de juego**
+
+Zlatan Ibrahimović es un atacante versátil y polifacético que puede jugar en cualquier parte del frente de ataque debido a su capacidad de crear y marcar goles. Aunque lo más frecuente es que se despliegue como delantero, también ha jugado como delantero de apoyo o número 10, especialmente en los últimos años.
+
+Es un potente y preciso rematador del balón tanto desde dentro como desde fuera del área con cualquier pie, y también es conocido por su precisión en los penaltis y en las situaciones de balón parado. Su altura, elevación y fuerza le dan una ventaja para ganar desafíos aéreos, y también le permiten funcionar como un "hombre objetivo".
+
+A pesar de su gran estatura, es extraordinariamente ágil para un jugador de su tamaño, lo que le ha permitido marcar varios goles de remates acrobáticos y voleas a lo largo de su carrera. También posee una técnica y un control del balón excelentes, lo que le permite aguantar bien el balón de espaldas a la portería y mantener la posesión.
+
+**Fortalezas y características técnicas**
+
+* Bueno en el aire
+* Rápido
+* Alto
+* Fuerte
+* Ágil
+* Capaz de jugar en cualquier parte del frente de ataque
+* Potente y preciso rematador del balón
+* Preciso en los penaltis y en las situaciones de balón parado
+* Ágil para un jugador de su tamaño
+* Técnico y control del balón excelentes
+
+**Rol táctico**
+
+* Delantero
+* Delantero de apoyo
+* Número 10
+
+**Comparaciones y influencias**
+
+* Ha sido comparado con el neerlandés Marco van Basten debido a sus estilos de juego similares, su físico y su proclividad a marcar con potentes disparos y voleas.
+* Ha declarado que su principal influencia fue su ídolo, el exdelantero brasileño Ronaldo, al que considera el mejor jugador de todos los tiempos.
+* También se le ha comparado con el enigmático exfutbolista francés Éric Cantona, que también jugó en el Manchester United F. C.
+
+**Controversias**
+
+Zlatan Ibrahimović ha protagonizado varios incidentes violentos con sus compañeros de equipo a lo largo de su carrera. Algunos de los incidentes más destacados incluyen:
+
+* Un incidente en el que le propinó un cabezazo a un compañero después de ser abordado por él durante un entrenamiento.
+* Un enfrentamiento con el entrenador Pep Guardiola en el Barcelona, que culminó con un incidente en el vestuario en el que Ibrahimović supuestamente lanzó una caja de kit de entrenamiento a través de la habitación y gritó insultos a Guardiola.
+* Un altercado con su compañero de equipo Oguchi Onyewu en el Milan, en el que le propinó una patada en la cabeza.
+* Un incidente en el que le dio una bofetada en la cabeza a Michael Petrasso, jugador del Montreal Impact.
+* Un altercado con su excompañero de equipo Romelu Lukaku en el partido de la Copa Italia contra el Inter de Milán.
+* Una investigación por parte de la UEFA por un supuesto interés financiero en una empresa de apuestas llamada "Bethard".
+
+Es importante destacar que Ibrahimović ha sido sancionado en varias ocasiones por sus comportamientos violentos y ha sido criticado por sus declaraciones y acciones en el campo y fuera de él.

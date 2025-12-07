@@ -1,1 +1,105 @@
-[ERROR AL RESUMIR] Ligue_1.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 6018, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Ligue 1 – Resumen Completo (2025‑26)**  
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial:** *Ligue 1 McDonald’s* (patrocinio).  
+- **Tipo:** Primera división del fútbol profesional francés.  
+- **Organizador:** Ligue de Football Professionnel (LFP).  
+
+---
+
+### 2. Formato de competición  
+| Elemento | Detalle | Comentario |
+|----------|---------|------------|
+| **Número de equipos** | 18 clubes |  |
+| **Calendario** | 38 jornadas (cada club juega 34 partidos: 17 casa, 17 fuera). | Se extiende de agosto a mayo. |
+| **Sistema de puntos** | 3 puntos por victoria, 1 por empate, 0 por derrota. | Igual que la mayoría de ligas europeas. |
+| **Clasificación** | Ordenada por puntos; desempate: diferencia de goles, goles a favor, partidos ganados, etc. | Se aplica la normativa UEFA. |
+| **Descenso** | Los dos últimos equipos descienden directamente a la Ligue 2. |  |
+| **Play‑off de ascenso** | 16.º clasificado disputa ida‑y‑vuelta con el 3.º de la Ligue 2. | Ganador obtiene cupo en la próxima temporada. |
+| **Clasificación europea** | 1.º y 2.º: Champions League (fase de grupos). 3.º: Champions League (pre‑fase). 4.º: Europa League (fase de grupos). | Además, el campeón de la Copa de Francia y la Copa de la Liga obtienen plazas en la Europa League. |
+| **Cambios recientes (2024‑25)** | DAZN obtuvo derechos de transmisión para 8 de 9 partidos por jornada (400 M €/año).  | Se generó controversia por precios y piratería.  |
+| **Transmisión actual (2025‑26)** | Canal propio “Ligue 1+” (streaming) con 9 encuentros por fecha, disponible también en DAZN y Prime Video. | LFP decidió lanzar su propio canal tras disputa con DAZN. |
+
+---
+
+### 3. Historia  
+| Año | Evento | Comentario |
+|-----|--------|------------|
+| **1894** | Primer campeonato francés (USFSA) con 5 equipos parisinos. | Formato de eliminatorias directas. |
+| **1918** | Creación de la Liga del Norte (Ligue du Nord). | Primer intento de organización regional. |
+| **1926** | Campeonato Amateur de Francia (Championnat de France Amateur). | Competencia de campeones regionales. |
+| **1932** | Se establece el fútbol profesional; se crea la *Division nationale* (14 equipos). | Primera jornada: 11 septiembre 1932. |
+| **1932‑33** | Se adopta formato de grupo único; se denomina *Division 1*. |  |
+| **1972** | Cambio de nombre a *Division 1*. |  |
+| **2002** | Se renombra oficialmente a *Ligue 1*. |  |
+| **2002‑08** | Olym. de Lyon gana 7 títulos consecutivos. | Récord de títulos consecutivos. |
+| **2018‑19** | PSG inicia mejor arranque de temporada (14 victorias de 14 partidos). |  |
+| **2024‑25** | PSG añade su 13.º título. |  |
+
+---
+
+### 4. Equipos participantes (Temporada 2025‑26)  
+- 18 clubes de la Francia continental y de la isla de Guadalupe (por ejemplo, *Stade Rennais*, *OGC Nice*, *FC Nantes*, *AS Monaco*, *Olympique Lyonnais*, *Paris Saint‑Germain*, *Olympique de Marseille*, *RC Lens*, *RC Strasbourg*, *FC Sochaux‑Montbéliard*, *Stade de Reims*, *Lille OSC*, *Montpellier HSC*, *FC Nantes*, *FC Nantes*, *FC Nantes*…).  
+- **Nota:** Los equipos que no participan en la temporada actual se indican en cursiva en la tabla histórica.  
+
+---
+
+### 5. Sistema de clasificación y premios  
+| Posición | Premio | Comentario |
+|----------|--------|------------|
+| 1.º | Título de campeón; cupo a Champions League (fase de grupos). |  |
+| 2.º | Cupo a Champions League (fase de grupos). |  |
+| 3.º | Cupo a Champions League (pre‑fase). |  |
+| 4.º | Cupo a Europa League (fase de grupos). |  |
+| 5.º‑14.º | No obtienen cupos europeos. |  |
+| 15.º‑16.º | Descenso directo a Ligue 2. |  |
+| 16.º | Play‑off de ascenso contra 3.º de Ligue 2. |  |
+
+- **Premios adicionales:**  
+  - **Títulos nacionales:** 13 (PSG), 10 (Saint‑Étienne), 9 (Marseille), 8 (Nantes, Monaco), 7 (Lyon), 6 (Burdeos, Reims), 5 (Lille), 4 (Nice), 2 (Sochaux, Sète), 1 (Lens, Paris, Strasbourg, Auxerre, Montpellier, Roubaix‑Tourcoing).  
+  - **Premios de rendimiento:** Bonos por récords (p.ej., PSG 2015‑16: 30 victorias, +83 diferencia de goles).  
+
+---
+
+### 6. Récords y estadísticas destacadas  
+| Categoría | Récord | Equipo / Jugador | Año / Temporada |
+|-----------|--------|------------------|-----------------|
+| **Más títulos** | 13 | Paris Saint‑Germain | 2025 |
+| **Más títulos consecutivos** | 7 | Olympique Lyon | 2002‑08 |
+| **Más partidos sin perder** | 32 (total) | Nantes | 1994‑95 |
+| **Más victorias en temporada** | 30 | PSG (2015‑16) / Monaco (2016‑17) |  |
+| **Mejor arranque** | 14 victorias de 14 | PSG | 2018‑19 |
+| **Menos derrotas en temporada** | 1 | Nantes | 1994‑95 |
+| **Más goles en temporada** | 118 | Racing Club de Paris | 1959‑60 |
+| **Menos goles encajados** | 19 | PSG | 2015‑16 |
+| **Mayor diferencia de goles** | +83 | PSG | 2015‑16 |
+| **Mayor goleada** | 12‑1 | Sochaux vs Valenciennes | 1935‑36 |
+| **Gol más rápido** | 8 s | Michel Rio (Cannes) / Kylian Mbappé (Lille) | 1992 / 2022 |
+| **Jugador con más partidos** | 618 | Mickaël Landreau | 19 temporadas |
+| **Máximo goleador histórico** | 299 | Delio Onnis (Argentina) |  |
+| **Jugador con más títulos** | 10 | Marquinhos (PSG) | 2014‑2025 |
+| **Mayor número de expulsiones en temporada** | 14 | Montpellier | 2013‑14 |
+| **Mayor asistencia media** | 23 154 | 2000‑01 |  |
+| **Mayor asistencia en jornada** | 278 139 | 1997‑98 (jornada 33) |  |
+
+---
+
+### 7. Cambios recientes en la organización y derechos de transmisión  
+- **2021‑23:** Mediapro y Canal+ gestionaron la mayoría de los paquetes de derechos; beIN Sports mantuvo el “lote 3”.  
+- **2024‑25:** DAZN obtuvo derechos de 8 de 9 partidos por jornada, pero la plataforma enfrentó quejas por precios y piratería.  
+- **2025:** LFP rescindió el contrato con DAZN tras disputa de pagos; se lanzó el canal propio “Ligue 1+” (streaming) con 9 encuentros por fecha, disponible también en DAZN y Prime Video.  
+- **Derechos en Francia:** La LFP mantiene acuerdos con canales de suscripción premium (Canal+, beIN Sports) y con la plataforma de streaming oficial.  
+
+---
+
+### 8. Resumen de la relevancia internacional  
+- **Coeficiente UEFA:** 5.º lugar entre las ligas europeas.  
+- **Relevancia global (IFFHS):** 6.º ranking mundial de ligas.  
+- **Participación en competiciones europeas:** Los cuatro primeros equipos clasifican a la Champions League y Europa League, lo que refuerza la competitividad y la visibilidad internacional de la Ligue 1.  
+
+---
+
+**Conclusión**  
+La Ligue 1, con su historia que se remonta a 1932 y su evolución de *Division 1* a su nombre actual, es la máxima categoría del fútbol francés y una de las cinco grandes ligas europeas. Su formato de 18 equipos, 38 jornadas y un sistema de descenso y ascenso bien definido garantiza un alto nivel de competitividad. Los récords de títulos, victorias y estadísticas individuales reflejan la calidad de los clubes y jugadores que han pasado por la competición. Los recientes cambios en los derechos de transmisión y la creación del canal propio “Ligue 1+” marcan una nueva era de control y distribución de contenidos, posicionando a la LFP como un actor proactivo en el mercado global del fútbol.

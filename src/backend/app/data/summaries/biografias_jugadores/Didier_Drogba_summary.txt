@@ -1,1 +1,61 @@
-[ERROR AL RESUMIR] Didier_Drogba.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Requested 12969, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Didier Drogba**
+
+**Datos básicos**
+
+* Nombre completo: Didier Yves Drogba Tébily
+* Apodo: Drogba
+* Fecha de nacimiento: 11 de marzo de 1978
+* Nacionalidad: Marfileña
+
+**Información física**
+
+* Altura: No disponible
+* Peso: No disponible
+* Posición principal: Delantero
+* Pierna dominante: No disponible
+
+**Carrera profesional**
+
+Didier Drogba comenzó su carrera profesional en el Le Mans en 1998, a los 18 años. Posteriormente, jugó para el Guingamp en 2001, donde anotó 17 goles en 34 partidos en la temporada 2002-03. En 2003, fue contratado por el Olympique de Marsella, donde anotó 19 goles en la temporada 2003-04. En 2004, firmó con el Chelsea FC por £24 millones, donde jugó durante ocho temporadas, ganando varios títulos, incluyendo la Premier League, la Football League Cup, la FA Cup y la Liga de Campeones de la UEFA. En 2012, se retiró del Chelsea FC y jugó para el Shanghái Shenhua chino, el Galatasaray turco y el Montreal Impact canadiense. En 2014, regresó al Chelsea FC y jugó durante una temporada antes de retirarse definitivamente.
+
+**Logros importantes**
+
+* Máximo goleador histórico de la selección de Costa de Marfil.
+* Campeón de la Premier League con el Chelsea en la temporada 2004-05.
+* Campeón de la Football League Cup con el Chelsea en la temporada 2004-05.
+* Campeón de la FA Cup con el Chelsea en la temporada 2006-07.
+* Campeón de la Liga de Campeones de la UEFA con el Chelsea en la temporada 2011-12.
+* Máximo goleador de la Premier League en la temporada 2006-07.
+* Futbolista del Año en África en 2006 y 2009.
+
+**Estilo de juego**
+
+* Fortalezas: Drogba es conocido por su habilidad para anotar goles importantes y su capacidad para liderar a su equipo.
+* Características técnicas: Drogba es un delantero con una gran habilidad para marcar goles y una buena visión de juego.
+* Rol táctico: Drogba ha jugado en diferentes posiciones, incluyendo la delantera y el extremo izquierdo.
+
+**Estadísticas destacadas**
+
+* Goles: 16 en la temporada 2004-2005, 16 en la temporada 2005-2006, 33 en la temporada 2006-2007, 17 en la temporada 2007-2008, 4 en la temporada 2008-2009, 10 en la temporada 2009-2010.
+* Asistencias: No se mencionan asistencias en este fragmento.
+* Títulos ganados: Premier League (2004-2005), Football League Cup (2004-2005), Community Shield (2005), Premier League (2005-2006), FA Cup (2009-2010).
+
+**Selección Nacional**
+
+Drogba hizo su debut con la selección de fútbol de Costa de Marfil el 9 de septiembre de 2002 ante Sudáfrica, mientras que su primer gol fue el 11 de febrero de 2003 ante Camerún. Durante la Copa Africana de Naciones 2006, Drogba fue fundamental durante la fase de grupos, ya que anotó 2 goles ante Marruecos y Libia respectivamente, además de haber anotado el tiro decisivo en la victoria en penales por 12-11 sobre Camerún en las cuartos de final, y el único gol en la victoria por 1-0 sobre Nigeria en las semifinales. En la Copa Mundial de Fútbol de 2006, Costa de Marfil tuvo que compartir el Grupo C con Serbia y Montenegro, Argentina y los Países Bajos, el cual fue denominado el "grupo de la muerte". En el primer encuentro ante Argentina, Drogba anotó su primer gol en una copa mundial y el primero en la historia de Costa de Marfil, aunque su selección fue derrotada por 2-1.
+
+**Vida privada**
+
+* Didier Drogba está casado con una mujer maliense llamada Diakité Lalla, a quien conoció en París.
+* La pareja tiene tres hijos, llamados Isaac, Iman y Kieran.
+* Drogba tiene dos hermanos menores, Joël y Freddy, quienes también son futbolistas.
+* Drogba tiene dos primos futbolistas, llamados Olivier Tébily y Severin Drogba.
+* El Levallois SC, el primer club en el que militó Drogba, nombró a su nuevo estadio como el "Stade Didier Drogba", en honor al jugador.
+
+**Obras de caridad**
+
+* El 24 de enero de 2007, el Programa de las Naciones Unidas para el Desarrollo nombró a Drogba como "Embajador de Buena Voluntad".
+* Drogba donó las 3 millones de libras esterlinas del contrato de patrocinio con Pepsi para la construcción de un hospital en su natal Abiyán.
+* La fundación de Drogba también donó dinero a las víctimas por inundaciones en Ghana, Burkina Faso, Benín, Guinea, Senegal y Níger.
+* Drogba recibió ayuda de compañeros de equipo y otros futbolistas para sus obras de caridad.
+* También recibió ayuda de celebridades como Akon, Nicole Scherzinger y Hurts.

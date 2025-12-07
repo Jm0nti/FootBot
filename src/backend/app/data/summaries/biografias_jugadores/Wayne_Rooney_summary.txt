@@ -1,1 +1,50 @@
-[ERROR AL RESUMIR] Wayne_Rooney.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96953, Requested 13694. Please try again in 2h33m19.008s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Wayne Rooney**
+
+Wayne Mark Rooney nació el 24 de octubre de 1985 en Croxteth, Liverpool, Inglaterra. Es un exfutbolista británico que jugó como delantero y centrocampista ofensivo para varios clubes, incluyendo el Everton, el Manchester United, el D.C. United y el Derby County.
+
+**Carrera profesional**
+
+Rooney inició su carrera deportiva en el Everton a la edad de 10 años y debutó profesionalmente en 2002. En 2004, fue transferido al Manchester United por 25,6 millones de libras y se convirtió en uno de los jugadores más importantes del club. Durante su etapa en el Manchester United, Rooney ganó 13 títulos, incluyendo la Premier League, la Liga de Campeones y la Copa de la Liga. También fue nombrado Jugador del Año de Inglaterra cuatro veces y ganó el premio al gol de la temporada por la encuesta Match of the Day de la BBC en tres ocasiones.
+
+En 2017, Rooney regresó al Everton después de 13 años en el Manchester United y jugó durante una temporada antes de unirse al D.C. United de la Major League Soccer en 2018. En su primer año con el D.C. United, Rooney anotó 12 goles en 21 partidos y fue nombrado MVP del club y ganador de la Bota de Oro. En la temporada 2019, Rooney anotó 23 goles y 15 asistencias en 48 partidos de la temporada regular y se convirtió en el máximo goleador del club.
+
+En 2020, Rooney se unió al Derby County como jugador-entrenador y jugó durante una temporada antes de retirarse como jugador en enero de 2021. En su debut como entrenador, Rooney lideró al Derby County a la permanencia en la Championship.
+
+**Estilo de juego**
+
+Wayne Rooney era un delantero creativo y enérgico que combinaba la habilidad técnica con la fuerza y el físico. Era un atacante versátil, capaz de jugar en cualquier parte del frente de ataque, aunque su papel preferido era el de delantero. También fue utilizado como segundo delantero, extremo, centrocampista ofensivo, creador de juego en profundidad, centrocampista central o de área.
+
+**Fortalezas**
+
+- Prolífico goleador en su mejor época en el Manchester United.
+- Potente atacante del balón y certero rematador.
+- Capaz de marcar tanto dentro como fuera del área, así como de volea.
+- Habilidad para golpear el balón le hizo marcar desde dentro de su propio campo con el Manchester United, el Everton y el D. C. United.
+- Ritmo de trabajo y resistencia destacados.
+
+**Características técnicas**
+
+- Capaz de jugar en cualquier parte del frente de ataque.
+- Habilidad para golpear el balón y marcar desde dentro de su propio campo.
+- Certero rematador y capaz de marcar tanto dentro como fuera del área.
+- Habilidad para volear.
+
+**Rol táctico**
+
+- Delantero creativo y enérgico.
+- Atacante versátil, capaz de jugar en cualquier parte del frente de ataque.
+- Utilizado como segundo delantero, extremo, centrocampista ofensivo, creador de juego en profundidad, centrocampista central o de área.
+
+**Premios individuales y reconocimientos**
+
+- Máximo goleador de la selección inglesa de todos los tiempos.
+- Considerado uno de los mejores futbolistas de Inglaterra.
+- Elogiado por su ritmo de trabajo y resistencia.
+- Recibió el apodo de "Wazza" en referencia al exinternacional inglés Paul "Gazza" Gascoigne.
+
+**Curiosidades**
+
+- Recibió los apodos de "el Chico Maravilla", "el nuevo Pelé" y "Pelé blanco".
+- Fue utilizado ocasionalmente como falso centrocampista ofensivo y como falso 9.
+- Tiene un tatuaje que dice "Just Enough Education to Perform", nombre de uno de los álbumes de la banda de rock Stereophonics.
+- Es el máximo goleador de la selección inglesa de todos los tiempos.

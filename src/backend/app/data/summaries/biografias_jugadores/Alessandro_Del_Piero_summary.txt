@@ -1,1 +1,33 @@
-[ERROR AL RESUMIR] Alessandro_Del_Piero.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Requested 13412, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Alessandro Del Piero**
+
+**Datos Básicos**
+
+Alessandro Del Piero nació el 9 de noviembre de 1974 en Conegliano, Italia. Es conocido como "Il Pinturicchio" y es considerado uno de los mejores jugadores de fútbol de la historia italiana. Es un delantero habilidoso y creativo que ha jugado para varios clubes, incluyendo la Juventus de Turín, el Sydney Football Club y el Delhi Dynamos.
+
+**Carrera Profesional**
+
+La carrera de Del Piero comenzó en el Calcio Padova en 1988, donde debutó como profesional en 1991. En 1993, se unió a la Juventus de Turín, donde jugó durante 19 temporadas y se convirtió en uno de los jugadores más importantes del club. Con la Juventus, Del Piero ganó 6 títulos de Serie A, 5 títulos de Copa Italia, 1 título de Supercopa de Italia y 1 título de Liga de Campeones de la UEFA. En 2012, se unió al Sydney Football Club, donde jugó durante 2 temporadas, y luego se unió al Delhi Dynamos en 2014.
+
+**Estadísticas Destacadas**
+
+Durante su carrera, Del Piero ha anotado 346 goles en todas las competiciones, lo que lo convierte en uno de los máximos goleadores de la historia del fútbol italiano. También ha ganado varios premios individuales, incluyendo el Premio al Futbolista Italiano del Año de la Serie A en 1998 y 2008. En 2004, fue incluido en la lista de Futbolistas FIFA 100.
+
+**Estilo de Juego**
+
+Del Piero es conocido por su técnica, creatividad y habilidad para anotar goles. Es un delantero de apoyo que se destaca por su velocidad, agilidad y visión de juego. También es especialista en tiros libres y ha anotado muchos goles de esta manera.
+
+**Carrera con la Selección Nacional**
+
+Del Piero debutó con la selección italiana en 1995 y jugó 91 partidos, anotando 27 goles. Con la selección, ganó 1 título de Copa Mundial de la FIFA en 2006 y 1 título de Eurocopa en 2020.
+
+**Palmarés**
+
+A lo largo de su carrera, Del Piero ha ganado varios títulos, incluyendo 6 títulos de Serie A, 5 títulos de Copa Italia, 1 título de Supercopa de Italia y 1 título de Liga de Campeones de la UEFA. También ha ganado 1 título de Copa Mundial de la FIFA con la selección italiana en 2006.
+
+**Distinciones Individuales**
+
+Del Piero ha recibido varias distinciones individuales, incluyendo el Premio al Futbolista Italiano del Año de la Serie A en 1998 y 2008. También ha sido incluido en la lista de Futbolistas FIFA 100 en 2004 y ha ganado el Premio Golden Foot en 2011.
+
+**Actividades Extrafutbolísticas**
+
+Del Piero ha sido involucrado en varias actividades extrafutbolísticas, incluyendo la beneficencia, la promoción de la investigación del cáncer y la participación en torneos de golf para recaudar fondos para la investigación de la esclerosis lateral amiotrófica. También ha sido embajador de la iniciativa "Un gol para la investigación" de la Asociación Italiana para la Investigación del Cáncer.

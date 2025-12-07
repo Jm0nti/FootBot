@@ -1,1 +1,129 @@
-[ERROR AL RESUMIR] Sport_Lisboa_e_Benfica.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 12432, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Sport Lisboa e Benfica – Resumen Completo (600‑1000 palabras)**  
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Sport Lisboa e Benfica  
+- **Apodo:** El Glorioso (O Glorioso) / El equipo del pueblo (o clube do povo)  
+- **Fundación:** 28 febrero 1904 (Grupo Sport Lisboa) – fusionado 1908 con Grupo Sport Benfica → nombre definitivo.  
+- **Ciudad‑país:** Lisboa, Portugal.  
+- **Club polideportivo:** Fútbol, baloncesto, balonmano, fútbol sala, voleibol, hockey patines, rugby, atletismo, ciclismo, waterpolo, billar, capoeira, gimnasia, golf, judo, natación, pesca, tenis de mesa, tiro con arco, triatlón, etc.  
+
+---
+
+### 2. Estadio  
+- **Nombre oficial:** Estádio do Sport Lisboa e Benfica (conocido como Estádio da Luz).  
+- **Ubicación:** Avenida General Norton de Matos 1500, Lisboa.  
+- **Capacidad:** 68 100 espectadores (nuevo estadio inaugurado 25 octubre 2003).  
+- **Historia:**  
+  - 1954: inauguración del Estadio da Luz original (30 000).  
+  - 2003: demolición y construcción del nuevo estadio (65 000, luego 68 100).  
+  - Categoría UEFA Elite (5 estrellas).  
+- **Instalaciones de entrenamiento:** Caixa Futebol Campus (Seixal, 2006) – 15 ha, campo principal, gimnasio, piscina, etc.  
+
+---
+
+### 3. Colores y escudo  
+- **Colores:** Rojo y blanco (camiseta roja, pantalón blanco, medias rojas).  
+- **Escudo:** Águila sobre escudo rojo‑blanco, con acrónimo SLB y rueda de bicicleta (herencia del Grupo Sport Benfica). Incluye el lema “E Pluribus Unum”.  
+- **Mascota:** Águila Vitória (Haliaeetus leucocephalus) que sobrevuela el estadio antes de cada partido.  
+- **Himno:** “Ser Benfiquista” (composición de António Vitorino, voz de Luís Piçarra).  
+
+---
+
+### 4. Historia  
+#### 4.1 Primeros años (1904‑1933)  
+- Fundado por 24 ex alumnos de la Real Casa Pitosricos.  
+- Primer terreno: Quinta de Ferreyra (1905).  
+- 1908: fusión con Grupo Sport Benfica → nombre definitivo.  
+- 1919: primer partido nocturno en la península ibérica.  
+- 1925: compra de terrenos en Amoreiras (estadio propio, 15 000).  
+
+#### 4.2 Época dorada con Eusébio (1960‑1969)  
+- 1959‑60 y 1960‑61: títulos de liga.  
+- 1961: primera final de la Copa de Europa (victoria 3‑2 vs Barcelona).  
+- 1962: bicampeón de la Copa de Europa (5‑3 vs Real Madrid).  
+- 1963‑68: múltiples finales europeas (5 finales, 3 victorias, 2 derrotas).  
+- 1965‑66: única temporada sin títulos en la década.  
+- 1968‑69: doblete (liga + copa).  
+
+#### 4.3 Años 70 y 80  
+- 1970‑71: primer título invicto (28 victorias, 101 goles).  
+- 1975‑77: 3 títulos consecutivos pese a crisis económica.  
+- 1980‑90: dominio de Sven‑Göran Eriksson, dobletes 1980‑81, 1982‑83, 1984‑85, 1986‑87, 1989‑90.  
+- 1987‑88: final de la Copa de Europa (PSV).  
+
+#### 4.4 Década de los 90 y crisis  
+- 1990‑99: 30.º título de liga (1992‑93).  
+- Crisis financiera y deportiva, pocos títulos, subcampeonatos.  
+- 1999: mayor derrota europea (Celta de Vigo 7‑0).  
+
+#### 4.5 2000‑2025  
+- 2004‑05: 32.º título de liga (último antes de 2005).  
+- 2010‑15: 35.º título de liga (2014‑15).  
+- 2015‑16: 36.º título de liga, eliminación por regla de goles de visitante en cuartos de la Champions (Bayern).  
+- 2018‑19: 37.º título de liga (último título hasta 2025).  
+- 2020: fichaje de Darwin Núñez (25 m€).  
+- 2022: 291 000 socios (superado solo por Boca Juniors y Bayern).  
+
+---
+
+### 5. Palmarés  
+#### 5.1 Títulos nacionales (85)  
+- **Liga (Primeira Liga):** 38  
+- **Copa de Portugal:** 26  
+- **Copa de la Liga:** 8  
+- **Supercopa de Portugal:** 10  
+- **Campeonato de Portugal:** 3  
+
+#### 5.2 Títulos internacionales  
+- **Copas de Europa (Champions League):** 2 (1961, 1962)  
+- **Copa Latina:** 1 (1950)  
+- **Subcampeonatos de la Copa de Europa:** 5 (1963, 1965, 1968, 1988, 1990)  
+- **Subcampeonatos de la Copa de la UEFA/Europa League:** 3 (1983, 2013, 2014)  
+- **Subcampeonato de la Copa Intercontinental:** 2 (1961, 1962)  
+
+#### 5.3 Otros logros  
+- 41 participaciones en la Champions League (récord de participaciones en Europa).  
+- 29 victorias consecutivas en la liga (1972‑73).  
+- 10 finales europeas (récord nacional, 7.º lugar en ranking histórico UEFA 2014).  
+
+---
+
+### 6. Jugadores legendarios  
+- **Eusébio (1959‑1975):** 638 goles, 2 Copas de Europa.  
+- **Óscar Cardozo (2004‑2013):** máximo goleador extranjero (172 goles).  
+- **Luisão (2000‑2014):** 538 partidos.  
+- **Darwin Núñez (2020‑):** fichaje más caro (25 m€).  
+
+---
+
+### 7. Rivalidades  
+- **Derby da Capital:** Sporting de Portugal (rival histórico, 3 Grandes).  
+- **O Clássico:** FC Porto (3 Grandes).  
+- **Otros:** Belenenses (ocasional), Boavista (título 2000‑01).  
+
+---
+
+### 8. Datos actuales (2025‑26)  
+- **Entrenador:** (actual nombre a confirmar, pero en 2025 sigue bajo la dirección de un técnico portugués).  
+- **Liga:** Primeira Liga (Portugal).  
+- **Situación reciente:** 37.º título de liga (2024‑25), participación en la Champions League 2025‑26, 2.º lugar en el ranking UEFA de clubes (2021‑22).  
+- **Socios:** 291 000 (2022), creciendo.  
+- **Mascota:** Águila Vitória.  
+- **Lema:** “E Pluribus Unum”.  
+
+---
+
+### 9. Otros datos relevantes  
+- **Órdenes portuguesas:** Cristo, Príncipe Enrique y Mérito.  
+- **Libro Guinness:** Club con más socios del mundo (2006, 2009, 2022).  
+- **Reconocimientos FIFA/ IFFHS:** 12.º club más grande del siglo XX (FIFA), 9.º mejor club europeo del siglo XX (IFFHS).  
+- **Estadísticas destacadas:**  
+  - Mayor goleada a favor: 10‑0 vs Stade Dudelange (1965).  
+  - Mayor goleada en contra: 7‑0 vs Celta de Vigo (1999).  
+
+---
+
+**Resumen final:**  
+Sport Lisboa e Benfica, fundado en 1904 y con sede en Lisboa, es el club más laureado de Portugal y uno de los más reconocidos mundialmente. Con 85 títulos nacionales y 2 Copas de Europa, su historia está marcada por la era de Eusébio y la “maldición” de Béla Guttmann. Su estadio, el Estádio da Luz, alberga a más de 68 000 aficionados y es sede de grandes eventos europeos. El club mantiene una rivalidad histórica con Sporting y Porto, y sigue siendo el club con más socios del mundo. En la actualidad, bajo la dirección de su entrenador actual, compite en la Primeira Liga y en la Champions League, con una plantilla que incluye a jugadores emblemáticos como Luisão y Darwin Núñez.

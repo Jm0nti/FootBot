@@ -1,1 +1,80 @@
-[ERROR AL RESUMIR] São_Paulo_Futebol_Clube.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 17168, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Identidad del club**  
+- **Nombre completo:** São Paulo Futebol Clube  
+- **Apodo:** Tricolor Paulista, Escuadrón de Acero (en la década de 1930)  
+- **Fundación:** 25 enero 1930 (con antecedente de 1900 como Club Athlético Paulistano y 1930 como São Paulo da Floresta; refundado el 26 enero 1930 y oficialmente el 16 diciembre 1935)  
+- **Ciudad / País:** São Paulo, Estado de São Paulo, Brasil  
+
+**Estadio**  
+- **Nombre:** Estádio Morumbi (Estádio de Futebol Morumbi)  
+- **Capacidad:** 72 039 asientos (desde 1960)  
+- **Características:** Sede de finales de la Copa Libertadores (1992‑1994, 2000, 2003, 2005‑2006) y de la Copa Intercontinental (1992, 1993). Construcción iniciada en 1953, inaugurado el 2 octubre 1960.  
+
+**Colores y escudo**  
+- **Colores:** Blanco (base), rojo y negro (franja horizontal en la camiseta).  
+- **Escudo:** Triángulo isósceles blanco invertido con rectángulo negro y letras SPFC en blanco; dentro del triángulo una franja blanca con triángulos rojo y negro.  
+- **Estrellas:**  
+  - Dos doradas (1955) – récords mundiales de Adhemar Ferreira da Silva (Helsinki 1952, Panamericanos 1955).  
+  - Tres rojas (2006) – bicampeonato de la Copa Intercontinental (1992‑1993) y Copa Mundial de la FIFA (2005).  
+
+**Historia**  
+1. **Orígenes y fundación** – Club Athlético Paulistano (1900) y Club de Regatas do Flamengo (Leônidas da Silva).  
+2. **São Paulo da Floresta** (1930‑1935) – subcampeón 1930, campeón 1931 (con “Escuadrón de Acero”).  
+3. **Refundación** (1935‑1936) – primer partido oficial 25 enero 1936 (3‑2 vs. Portuguesa).  
+4. **Década de 1940** – dominio en el Campeonato Paulista (1945, 1946, 1948, 1949) con Leônidas da Silva.  
+5. **Años 1950** – reconstrucción de plantilla (Maurinho, Dino Sani, Pie Waltz).  
+6. **Años 1960‑1970** – construcción del Morumbi, fichajes de Gerson, Toninho Guerreiro, Pablo Forlán, Pedro Rocha.  
+7. **Años 1970‑1980** – títulos paulistas (1970, 1971, 1975) y participación en Libertadores (1972, 1974).  
+8. **Años 1980** – “Menudos do Morumbi” (1981‑1984), campeonatos paulistas y brasileños (1986).  
+9. **Años 1990** – era Dorada bajo Telê Santana:  
+   - 1992: Copa Libertadores y Copa Intercontinental.  
+   - 1993: Copa Libertadores, Recopa Sudamericana, Copa Intercontinental.  
+   - 1994: Copa Conmebol, Recopa Sudamericana.  
+10. **2000‑2008** – tricampeonato Brasileirão (2006‑2008) y Copa Libertadores 2005, Copa Mundial de Clubes 2005.  
+11. **2012‑2021** – sequía deportiva: final polémica de la Copa Sudamericana 2012, eliminaciones en Libertadores 2016, 2017, 2019, 2020.  
+12. **2021‑2024** – título local en la Supercopa de Brasil 2024, subcampeonato de la Copa Sudamericana 2022.  
+
+**Palmarés**  
+- **Títulos internacionales (12):**  
+  - Copas Intercontinentales: 1992, 1993  
+  - Copa Mundial de Clubes FIFA: 2005  
+  - Copas Libertadores: 1992, 1993, 2005  
+  - Recopas Sudamericanas: 1993, 1994  
+  - Copa Sudamericana: 2012 (final polémica)  
+  - Copa Conmebol: 1994  
+- **Títulos nacionales (20):**  
+  - Campeonato Brasileño: 7 (1938, 1945, 1946, 1948, 1949, 1977, 2006, 2007, 2008, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024)  
+  - Campeonato Paulista: 22 (1931, 1938, 1945, 1946, 1948, 1949, 1957, 1970, 1971, 1975, 1981, 1984, 1986, 1987, 1989, 1990, 1992, 1995, 2005, 2006, 2010, 2014)  
+  - Copa de Brasil: 1 (2005)  
+  - Supercopa de Brasil: 1 (2024)  
+
+**Jugadores legendarios**  
+- **Históricos:** Leônidas da Silva, Friedenreich, Zizinho, Raí, Rogério Ceni, Adhemar Ferreira da Silva (atletismo).  
+- **Actuales (2025):** (lista no incluida en el documento original).  
+
+**Rivalidades**  
+- **Clásico Majestuoso:** Corinthians (115 victorias SP, 133 Corinthians, 116 empates).  
+- **Choque‑Rei:** Palmeiras (116 SP, 119 Palmeiras, 116 empates).  
+- **San‑São:** Santos (140 SP, 109 Santos, 76 empates).  
+
+**Datos actuales**  
+- **Entrenador:** Hernán Crespo (regreso tras 4 años, reemplazó a Luis Zubeldía).  
+- **Liga:** Campeonato Brasileño de Serie A (participación en 2025).  
+- **Situación reciente:** Campeón de la Supercopa de Brasil 2024; subcampeón de la Copa Sudamericana 2022; participación en la Copa Libertadores 2025 con Grupo E (Racing Club, Sporting Cristal, Rentistas).  
+
+---  
+
+**Resumen de datos económicos y de hinchada**  
+- **Valor de mercado:** 95 millones USD (296 millones BRL) en 2015 (Brand Finance, puesto 43 mundial). 1,1 mil millones BRL en 2018 (BDO Brasil, cuarto mayor valor en Brasil).  
+- **Hincha:** Tercera mayor en Brasil (IBOPE, 2010); segunda en el Estado y la ciudad de São Paulo; 5.º a nivel mundial (encuestas).  
+
+**Instalaciones adicionales**  
+- **Centro de Entrenamiento:** Barra Funda (1987).  
+- **Centro de Formación:** Presidente Laudo Natel (Cotia, 2005).  
+- **Complejo Social y Memorial:** en Morumbi.  
+
+**Mascota y himno**  
+- **Mascota:** “Santo” Paulo (anciano de barba blanca).  
+- **Himno:** Compuesto por Porfírio da Paz (1935), actualizado en 1997 y 2004 con voces de artistas brasileños.  
+
+**Conclusión**  
+São Paulo Futebol Clube es uno de los clubes más laureados de Brasil y Sudamérica, con una rica historia que abarca más de 90 años. Su identidad visual, su estadio monumental y su tradición en múltiples disciplinas deportivas lo convierten en un referente del fútbol brasileño. A lo largo de su trayectoria ha mantenido una hinchada numerosa y leal, ha producido ídolos legendarios y ha mantenido rivalidades históricas con Corinthians, Palmeiras y Santos. En la actualidad, bajo la dirección de Hernán Crespo, el club sigue compitiendo en la Serie A y en torneos internacionales, con la ambición de añadir más títulos a su ya impresionante palmarés.

@@ -1,1 +1,172 @@
-[ERROR AL RESUMIR] Olympique_de_Marsella.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 11515, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Olympique de Marseille (OM)**  
+
+---
+
+### 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| **Nombre completo** | Olympique de Marseille (en francés) / Olímpico de Marsella (en español) |
+| **Apodo** | Phocéens (focenses) – referencia a la ciudad de origen y a su escudo |
+| **Siglas** | OM |
+| **Año de fundación** | 1899 (registro oficial de socios); origen polideportivo 1895 (rugby) |
+| **Fundador** | René Dufaure de Montmirail |
+| **Ciudad / País** | Marsella, Francia |
+
+---
+
+### 2. Estadio  
+| Característica | Información |
+|----------------|-------------|
+| **Nombre** | Stade Vélodrome |
+| **Ubicación** | Marsella |
+| **Capacidad** | 67 394 espectadores (máxima de cualquier club francés) |
+| **Año de inauguración** | 1938 (sede de la Copa Mundial de 1938) |
+| **Ampliaciones** | 1984, 1998, 2014 |
+| **Eventos internacionales** | 7 partidos de la Copa Mundial 1998, 2 de Eurocopa 1960, 2 de Eurocopa 1984, 6 de Eurocopa 2016, 2 partidos de la Copa Mundial 1938 |
+| **Características** | Construido en cemento, primera instalación deportiva de su tipo en Francia; sede de la Copa de la Liga 2010‑11, etc. |
+
+---
+
+### 3. Colores y escudo  
+| Elemento | Descripción |
+|----------|-------------|
+| **Colores oficiales** | Blanco y azul celeste (originalmente azul oscuro, luego celeste) |
+| **Camiseta** | Blanco con detalles en azul; pantalones y medias negros en los primeros años, luego blanco y azul |
+| **Escudo** | Letras “O” y “M” entrelazadas; lema “Droit au but” (directo al gol) en la parte inferior; estrella dorada en la parte superior que simboliza la victoria en la Champions League 1993 |
+| **Variantes** | Uniformes alternativos en naranja, negro o gris, usados por motivos de mercadotecnia |
+
+---
+
+### 4. Historia  
+#### 4.1 Orígenes y primeras conquistas (1899‑1920)  
+- Fundado oficialmente en agosto 1899 tras la fusión del Football Club de Marsella (fundado 1897) y el club de esgrima L’Épée.  
+- Sección de rugby, boxeo y esgrima coexistieron; el fútbol se convirtió en la actividad principal gracias a la USFSA.  
+- 1903: Cuarto título regional consecutivo del Campeonato del Litoral; acceso al Campeonato Francés Amateur.  
+- 1917: Se crea la Coupe de France; OM gana su primer título nacional en la década de 1920.
+
+#### 4.2 Era dorada y profesionalismo (1920‑1940)  
+- 1924: Primer título de la Copa de Francia (provincial).  
+- 1926‑1927: Dos títulos más de la Copa de Francia.  
+- 1929: Primer campeón de la Ligue 1 (antes de la profesionalización).  
+- 1932: Se convierte en el primer club fuera de París que gana la Copa de Francia y se integra al nuevo campeonato profesional.  
+- 1936‑1937: Título de liga; Copa de Francia 1935 y 1938.  
+- 1937: Inauguración del Stade Vélodrome, construido como sede de la Copa Mundial 1938.
+
+#### 4.3 Guerra y declive (1940‑1965)  
+- 1943 y 1948: Títulos de Copa de Francia y de liga.  
+- 1959: Primer descenso de los fundadores de la liga profesional.  
+- 1965: Relegación a la segunda división; permanencia hasta 1965.
+
+#### 4.4 Renacimiento y éxito europeo (1970‑1994)  
+- 1971‑1972: Títulos de liga; 1976: Copa de Francia.  
+- 1986‑1994 (Bernard Tapie): 1989: Título de liga; 1993: Champions League invicta (primer club francés en ganar la competición).  
+- 1993: Escándalo de amaño de partidos; sanción de descenso a la Segunda División y prohibición de competiciones internacionales por un año.  
+- 1995: Tapie abandona el club.
+
+#### 4.5 Era Louis‑Dreyfus y McCourt (1996‑presente)  
+- 1996‑2016: Robert Louis‑Dreyfus; 2009‑10: Liga 1; 2010‑12: Tres Copas de la Liga consecutivas bajo Didier Deschamps.  
+- 2014‑15: Marcelo Bielsa; 2015‑16: temporada desastrosa.  
+- 2016‑presente: Frank McCourt; 2017‑18: Final de la Europa League (derrota ante Atlético de Madrid).  
+- 2019‑20: Contrata a André Villas‑Boas; 2020‑21: Jorge Sampaoli; 5.º puesto en la Ligue 1, Europa League.  
+- Situación financiera: déficit de 90 m€ (reducción a 60 m€ en mayo 2020), riesgo de inhabilitación para la Champions League si no se liquida la deuda.
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Observaciones |
+|-------------|---------|---------------|
+| **Ligue 1** | 10 (1992‑93 revocado) | 1992‑93 título revocado por irregularidades. |
+| **Coupe de France** | 10 | 1924, 1926, 1927, 1935, 1938, 1943, 1948, 1976, 1989, 2009‑10. |
+| **Coupe de la Ligue** | 3 | 2009‑10, 2010‑11, 2011‑12. |
+| **Supercoupe de France** | 3 | 1993, 2009, 2010. |
+| **Champions League** | 1 | 1993 (invicto). |
+| **Europa League** | 0 (3 subcampeonatos) | 1999, 2004, 2018. |
+| **Intertoto Cup** | 1 | 2005 (co‑ganador). |
+| **Regional (Litoral)** | 10 | 1903‑1908, 1910‑12, 1924‑25, 1926‑27, 1928‑29, 1930‑31. |
+| **Otros** | 1 Copa Charles Drago, 1 Liga de Segunda División | 1973‑74, 1948‑49. |
+
+---
+
+### 6. Jugadores legendarios  
+| Nombre | Posición | Años en el club | Logros destacados |
+|--------|----------|-----------------|-------------------|
+| **Jean‑Pierre Papin** | Delantero | 1985‑1995 | Balón de Oro 1991, 1992‑93 campeón de liga |
+| **Enzo Francescoli** | Delantero | 1990‑1994 | Parte del equipo campeón de la Champions 1993 |
+| **Rudi Völler** | Delantero | 1990‑1994 | Campeón de la Champions 1993 |
+| **Dragan Stojković** | Mediocampista | 1990‑1994 | Campeón de la Champions 1993 |
+| **Alen Bokšić** | Delantero | 1992‑1994 | Máximo goleador de la liga 1992‑93 |
+| **Didier Drogba** | Delantero | 2002‑2004 | Campeón de la Champions 1993 (participante) |
+| **Steve Mandanda** | Portero | 2006‑presente | Más partidos en la historia del club (613) |
+| **Dimitri Payet** | Mediocampista | 2009‑presente | Máximo goleador actual (66 goles) |
+| **Pepito (José Alcázar)** | Delantero | 1920‑1930 | Primer jugador africano del club, 67 goles en 95 partidos |
+| **Joseph Alcázar** | Defensa | 1920‑1930 | Contratado por el club en 1920 |
+
+---
+
+### 7. Rivalidades  
+| Rival | Tipo | Comentario |
+|-------|------|------------|
+| **Paris Saint‑Germain** | Clásico (le Classique) | Rivalidad creada en los años 1990 por la influencia de Bernard Tapie y Canal+ |
+| **Olympique Lyon** | Choc des Olympiques | Rivalidad moderna surgida en los 2000 |
+| **Saint‑Étienne** | Histórica | Rivalidad de la década de 1970 |
+| **Girondins de Burdeos** | Histórica | Rivalidad de la década de 1980 |
+| **AS Cannes, SC Toulon, OGC Niza, AS Monaco** | Derbies del Mediterráneo | Rivalidades locales |
+| **FC Sète, FC Sochaux, Racing, Olympique Lille** | Rivalidades de la era profesional temprana | Competidores de la década de 1930 |
+
+---
+
+### 8. Datos actuales (2023‑24)  
+- **Entrenador**: Jorge Sampaoli (desde 2020‑21, sigue en cargo).  
+- **Liga**: Ligue 1 (Francia).  
+- **Situación reciente**: 5.º puesto en la temporada 2020‑21, clasificación a la Europa League. El club enfrenta un déficit de 90 m€ (reducción a 60 m€ en 2020) y la UEFA ha impuesto una retención del 15 % de ingresos en torneos continentales hasta que se salde la deuda.  
+
+---
+
+### 9. Datos estadísticos destacados  
+| Métrica | Valor | Comentario |
+|---------|-------|------------|
+| **Partidos consecutivos sin perder en casa** | 38 | Máximo en la historia del club. |
+| **Goles en una temporada** | 95 (1948‑49) | Máximo goleador de la temporada. |
+| **Máximo goleador histórico** | Gunnar Andersson – 194 goles | |
+| **Partidos más disputados** | Steve Mandanda – 613 | |
+| **Récord de goleada en liga** | 10‑2 vs. Club Olympique de Roubaix Tourcoing (1947‑48) | |
+| **Récord de goleada en copa** | 19‑0 vs. Stade Raphaëlois (1933) | |
+
+---
+
+### 10. Distinciones individuales (selección)  
+- **Balón de Oro**: Jean‑Pierre Papin (1991)  
+- **Bota de Oro**: Josip Skoblar (1971 – 44 goles)  
+- **Mejor portero del mundo (IFFHS)**: Andreas Köpke (1996)  
+- **Futbolista francés del año**: Georges Carnus (1971), Marius Trésor (1972), Alain Giresse (1987)  
+- **Mejor jugador de la Ligue 1**: Didier Drogba (2004)  
+- **Mejor jugador joven de la Ligue 1**: Franck Ribéry (2006), Samir Nasri (2007), William Saliba (2022)  
+- **Mejor jugador extranjero de la Ligue 1**: Enzo Francescoli (1990)  
+- **Mejor entrenador de la Ligue 1**: Eric Gerets (2009)  
+- **Mejor jugador de la Ligue 2**: Marcel Dib (1996)  
+- **Mejor asistente de la Ligue 1**: Dimitri Payet (2014‑15)  
+
+---
+
+### 11. Sección femenina  
+- **Nombre**: Olympique de Marseille Féminin (conocido como OM Féminin).  
+- **Historia**: Sección fundada en 1920, desaparecida en 1930, reanudada en 1970, disuelta en 1988, refundada en 2011‑12.  
+- **Competición**: Division 1 (Francia) desde 2016‑17.  
+- **Logros**: Segunda división 2014‑15, cuarto lugar en la primera temporada en Division 1 (2016‑17).  
+
+---
+
+### 12. Referencias y fuentes  
+- *La grande histoire de l'OM* (Alain Pécheral, 2007).  
+- *First‑Gründ, ed. Marseille pour les Nuls* (Echinard, 2013).  
+- *Coupe de France: la folle épopée* (L'Équipe, 2007).  
+- *Coupe de France* (Fédération Française de Football, 1993).  
+- *Olympique de Marseille* (Gilles Castagno, 2011).  
+- *Tout (et même plus) sur l'OM* (Laurent Oreggia, 2009).  
+- *Olympique de Marseille - Un club à la Une* (L'Équipe, 2005).  
+- *100 ans de football en France* (Pierre Delaunay, 1982).  
+
+---  
+
+**Resumen final**  
+El Olympique de Marseille, fundado en 1899 y con raíces polideportivas desde 1895, es uno de los clubes más emblemáticos de Francia. Con su estadio, el Stade Vélodrome, y sus colores blanco‑azul, ha cosechado 10 títulos de liga, 10 Copas de Francia, 3 Copas de la Ligue, 3 Supercopas, la única Champions League francesa (1993) y la Intertoto (2005). Su historia está marcada por épocas doradas en los años 1920‑40, el ascenso a la élite europea bajo Bernard Tapie en los 1990, y la era de la Champions League. Los jugadores legendarios, desde Papin y Francescoli hasta Drogba y Mandanda, han dejado huella. Las rivalidades con PSG, Lyon, Saint‑Étienne y Burdeos, así como los derbis mediterráneos, definen la pasión local. En la actualidad, bajo la dirección de Jorge Sampaoli y la propiedad de Frank McCourt, el club lucha por superar un déficit financiero mientras mantiene su posición en la Ligue 1 y la Europa League.

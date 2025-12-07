@@ -1,1 +1,132 @@
-[ERROR AL RESUMIR] Villarreal_Club_de_Fútbol.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 13216, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**VILLARREAL CLUB DE FÚTBOL – RESUMEN ESTRUCTURADO**
+
+---
+
+### 1. Identidad del club  
+| Elemento | Información |
+|----------|-------------|
+| Nombre completo | Villarreal Club de Fútbol, S. A. D. |
+| Apodo | Submarino Amarillo, Groguets |
+| Año de fundación | 10 marzo 1923 (Club Deportivo Villarreal); 1942 (Club Atlético Foghetecaz) → 1954 (Villarreal Club de Fútbol) |
+| Ciudad / País | Villarreal (Castellón), Comunidad Valenciana, España |
+| Fundación original | 10 marzo 1923 como Club Deportivo Villarreal; 1942 como Club Atlético Foghetecaz; 1954 adoptó el nombre actual |
+
+---
+
+### 2. Estadio  
+| Característica | Detalle |
+|----------------|---------|
+| Nombre | Estadio de la Cerámica (antes “El Madrigal” hasta enero 2017) |
+| Capacidad | 22 000 espectadores (según resumen histórico) |
+| Ubicación | Plaza del Labrador, Villarreal |
+| Propiedad | Municipal |
+| Historia | Inaugurado 17 junio 1923 como Campo del Villarreal; 1925 renombrado “El Madrigal”; 8 enero 2017 pasó a “Estadio de la Cerámica” por patrocinio. |
+| Características | Instalaciones modernas, tribuna con capacidad para 22 000, zona de prensa y media, tribuna VIP, zona de prensa y media. |
+
+---
+
+### 3. Colores y escudo  
+* **Uniforme titular**: camiseta, pantalón y medias amarillas.  
+* **Uniforme alternativo**: camiseta, pantalón y medias azules.  
+* **Escudo**: representa la identidad del club con colores amarillo y azul, símbolo de la “Submarino Amarillo”.  
+* **Apodo visual**: “Submarino Amarillo” surgió en 1967 tras el ascenso a la Tercera División, con la canción “Submarino amarillo” de Los Mustang.  
+
+---
+
+### 4. Historia  
+#### 4.1 Antecedentes (1923‑1942)  
+* 10 marzo 1923: fundación del Club Deportivo Villarreal.  
+* 17 junio 1923: primer partido contra el Castellón.  
+* 21 octubre 1923: primer partido histórico vs. Castellón.  
+* Equipación inicial: camisetas blancas y pantalones negros; primer escudo reflejaba esta combinación.
+
+#### 4.2 Club Atlético Foghetecaz (1942‑1954)  
+* 1942: creación de Club Atlético Foghetecaz.  
+* 25 agosto 1947: federación; Lorenzo Cardá Corbató presidente, José Ramos Nebot secretario.  
+* 1950: cambio a Club Atlético Foghetecaz Villarreal (C.A.F. Villarreal).  
+* 1954: adopción del nombre Villarreal Club de Fútbol.  
+* 1956‑1961: ascenso a Tercera División, cinco campañas consecutivas.  
+* 1967: regreso a Tercera División; 1970: campeón y ascenso a Segunda División.  
+
+#### 4.3 Ascenso a la Primera División (1997‑1999)  
+* 15 mayo 1997: Fernando Roig se convierte en accionista y presidente.  
+* 1997‑98: cuarto en Segunda División → promoción a Primera (derrota 0‑0 vs. Compostela, 1‑1 en vuelta, criterio de goles en campo contrario).  
+* 31 agosto 1998: debut en Primera vs. Real Madrid (4‑1).  
+* 1998‑99: descenso tras 18.º puesto; promoción de descenso vs. Sevilla FC (0‑2, 1‑0).  
+
+#### 4.4 Consolidación y era Pellegrini (2004‑2009)  
+* 2004: fichaje de Manuel Pellegrini; incorporación de Diego Forlán, Gonzalo Rodríguez, Juan Román Riquelme.  
+* 2004‑05: 3.º puesto en LaLiga; Riquelme mejor jugador del equipo; IFFHS “Mejor equipo del mundo” (diciembre 2004).  
+* 2005‑06: primera participación en Champions League; fase de grupos invicta; semifinales (eliminado por Arsenal).  
+* 2006‑07: 5.º puesto en LaLiga; remontada final de temporada; derrota a Real Madrid (1‑0).  
+* 2007‑08: subcampeón de LaLiga (77 puntos, 8 puntos del Real Madrid).  
+
+#### 4.5 Altibajos y descenso (2009‑2013)  
+* 2009‑10: Ernesto Valverde → Juan Carlos Garrido → José Francisco Molina → Miguel Ángel Lotina.  
+* 2011‑12: Champions League fase de grupos (último); Europa League semifinales (eliminado por FC Oporto).  
+* 13 mayo 2012: descenso a Segunda División tras 18.º puesto.  
+
+#### 4.6 Regreso y éxitos internacionales (2013‑2020)  
+* 2012‑13: ascenso directo a Primera (segundo puesto en Segunda).  
+* 2014‑15: Europa League octavos de final; Copa del Rey octavos vs. Cádiz.  
+* 2015‑16: Champions League semifinales (eliminado por Liverpool).  
+* 2019‑20: quinta posición en LaLiga; adiós a Bruno Soriano y Santi Cazorla.  
+
+#### 4.7 Título europeo y participación en Champions (2021‑2022)  
+* 26 mayo 2021: campeón de la UEFA Europa League (final vs. Manchester United, 11‑10 en penaltis).  
+* 11 agosto 2021: Supercopa de Europa (1‑1 vs. Chelsea, Chelsea gana 6‑5 en penaltis).  
+* 2021‑22: Champions League semifinales (eliminado por Liverpool).  
+
+#### 4.8 Situación actual (2025‑26)  
+* Compite en LaLiga y en la UEFA Champions League 2022‑23.  
+* Plantilla 2025‑26 incluye jugadores con dorsales 1‑25; jugadores 26+ pertenecen a la filial.  
+* La dirección del equipo es gestionada por la directiva; el entrenador actual no se indica en el documento.  
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Fechas | Observaciones |
+|-------------|---------|--------|---------------|
+| **Torneos internacionales** | 3 | 2003 (Intertoto), 2004 (Intertoto), 2021 (Europa League) | Intertoto 2003/2004 → clasificación a la Copa de la UEFA. |
+| **Torneos nacionales** | 0 | — | Subcampeón de LaLiga 2007‑08; 3.º puesto 2004‑05. |
+| **Semifinales de Champions** | 2 | 2005‑06, 2021‑22 | 2005‑06: primera participación; 2021‑22: segunda semifinal. |
+| **Semifinales de Copa del Rey** | 1 | 2015 | Eliminado en cuartos de final. |
+| **Trofeos amistosos** | 16 | 2002‑2022 | Trofeo de la Cerámica. |
+
+---
+
+### 6. Jugadores legendarios  
+| Jugador | Nacionalidad | Período | Logros con el club |
+|---------|--------------|---------|--------------------|
+| Juan Román Riquelme | Argentina | 2003‑2007 | Mejor jugador 2004‑05; clave en subcampeonato 2007‑08. |
+| Diego Forlán | Uruguay | 2004‑2007 | Pichichi 2004‑05; 19 goles 2006‑07. |
+| Marcos Senna | Brasil/ESPAÑA | 1998‑2004 | Selección española 2008. |
+| Santi Cazorla | España | 2004‑2011 | Selección española 2008; contribuyó a la cantera. |
+| Bruno Soriano | España | 2012‑2018 | Capitán; clave en ascenso 2012‑13. |
+| Gerónimo Rulli | Argentina | 2021‑2022 | Héroe de la final de Europa League 2021. |
+| Otros: Riquelme, Forlán, Cazorla, Soriano, Rulli, Rukavina, etc. | | | |
+
+---
+
+### 7. Rivalidades  
+* **Derbi de la Comunitat** – Valencia CF (rivalidad autonómica).  
+* **Club Deportivo Castellón** – rival local.  
+* **Levante UD** – rival de la Comunidad Valenciana.  
+* **Club Deportivo Burriana** – rival histórico en categorías inferiores.  
+
+---
+
+### 8. Datos actuales (2025‑26)  
+* **Liga**: Compite en LaLiga (primera división).  
+* **Competencia europea**: Participa en la UEFA Champions League 2022‑23 (segundas rondas).  
+* **Estadio**: Estadio de la Cerámica (22 000).  
+* **Ciudad Deportiva**: José Manuel Llaneza (9 campos, 70 000 m²).  
+* **Cantera**: Referente europeo; ha producido jugadores como Santi Cazorla, Marcos Senna, etc.  
+* **Afición**: Más de 20 000 socios en una localidad de ~50 000 habitantes (porcentaje de población abonada líder).  
+* **Organigrama**: Plantilla 2025‑26 con jugadores 1‑25; 26+ pertenecen a la filial.  
+* **Entrenador**: No especificado en el documento; la dirección del equipo es gestionada por la directiva.  
+
+---
+
+**Resumen final**  
+El Villarreal Club de Fútbol, fundado en 1923 y rebautizado en 1954, es un club valenciano que ha recorrido un camino de ascensos, consolidaciones y grandes triunfos. Con su estadio “Estadio de la Cerámica” y la Ciudad Deportiva José Manuel Llaneza, el club ha producido una cantera de calidad y ha ganado tres títulos internacionales, destacando la Europa League 2021. Su identidad visual, los colores amarillo y azul, y el apodo “Submarino Amarillo” reflejan su carácter distintivo. Los jugadores legendarios como Riquelme, Forlán, Cazorla y Rulli han marcado la historia del club, mientras que las rivalidades con Valencia, Castellón y Levante añaden pasión a sus encuentros. En la actualidad, el Villarreal sigue compitiendo en LaLiga y en la Champions League, manteniendo su posición como uno de los equipos más emblemáticos de España.

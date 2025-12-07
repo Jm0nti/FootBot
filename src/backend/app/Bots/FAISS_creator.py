@@ -98,7 +98,7 @@ class FAISS_Creator:
 
     # Modelos
 
-    GROQ_MODEL = "llama-3.1-8b-instant" #Para textos cortos
+    GROQ_MODEL = "openai/gpt-oss-20b" #Para textos cortos
 
     # Embeddings de HuggingFace (GRATUITOS, no requieren API key)
     EMBEDDING_MODEL = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
@@ -106,6 +106,8 @@ class FAISS_Creator:
     # Chunking
     CHUNK_SIZE = 1000
     CHUNK_OVERLAP = 200
+    MAX_CHARS_PER_CHUNK = 900000000
+    CHUNK_OVERLAP_CHARS = 1000
 
     @classmethod
     def create_directories(cls):
@@ -168,6 +170,271 @@ class DocumentSummarizer:
         )
         logger.info(f"[DocumentSummarizer] Inicializado con {FAISS_Creator.GROQ_MODEL}")
 
+    def _split_long_document(self, content: str, filename: str) -> List[str]:
+        """
+        Divide un documento largo en chunks manejables.
+
+        Args:
+            content: Contenido completo del documento
+            filename: Nombre del archivo (para logging)
+
+        Returns:
+            Lista de chunks de texto
+        """
+        content_length = len(content)
+        max_chunk_size = FAISS_Creator.MAX_CHARS_PER_CHUNK
+
+        if content_length <= max_chunk_size:
+            return [content]
+
+        logger.info(f"📏 Documento largo detectado: {content_length:,} chars")
+        logger.info(f"🔪 Dividiendo en chunks de ~{max_chunk_size:,} chars")
+
+        chunks = []
+        overlap = FAISS_Creator.CHUNK_OVERLAP_CHARS
+        start = 0
+        chunk_num = 1
+
+        while start < content_length:
+            end = start + max_chunk_size
+
+            # Si no es el último chunk, intentar cortar en un punto natural
+            if end < content_length:
+                # Buscar un salto de línea cerca del final
+                search_start = max(start, end - 1000)
+                newline_pos = content.rfind('\n\n', search_start, end)
+
+                if newline_pos != -1 and newline_pos > start:
+                    end = newline_pos
+                else:
+                    # Si no hay doble salto, buscar salto simple
+                    newline_pos = content.rfind('\n', search_start, end)
+                    if newline_pos != -1 and newline_pos > start:
+                        end = newline_pos
+                    else:
+                        # Buscar un punto
+                        period_pos = content.rfind('. ', search_start, end)
+                        if period_pos != -1 and period_pos > start:
+                            end = period_pos + 1
+
+            chunk = content[start:end].strip()
+            if chunk:
+                chunks.append(chunk)
+                logger.info(f"  ✂️ Chunk {chunk_num}: {len(chunk):,} chars")
+                chunk_num += 1
+
+            # Mover start con overlap para mantener contexto
+            start = end - overlap if end < content_length else content_length
+
+        logger.info(f"✅ Documento dividido en {len(chunks)} chunks")
+        return chunks
+
+    def _summarize_chunk(
+            self,
+            chunk: str,
+            chunk_num: int,
+            total_chunks: int,
+            category: str,
+            filename: str
+    ) -> str:
+            """
+            Resume un chunk individual de un documento.
+
+            Args:
+                chunk: Texto del chunk
+                chunk_num: Número del chunk actual
+                total_chunks: Total de chunks
+                category: Categoría del documento
+                filename: Nombre del archivo original
+
+            Returns:
+                Resumen del chunk
+            """
+            system_prompt = self._get_summary_prompt(category)
+
+            # Prompt específico para chunks
+            if total_chunks > 1:
+                user_message = f"""Este es el CHUNK {chunk_num} de {total_chunks} del documento: {filename}
+
+    IMPORTANTE: 
+    - Resume SOLO este fragmento manteniendo toda la información relevante
+    - NO menciones que es un fragmento o chunk
+    - Mantén el formato estructurado según las instrucciones del system prompt
+    - Si este chunk termina abruptamente, no inventes conclusiones
+
+    CONTENIDO DEL CHUNK {chunk_num}/{total_chunks}:
+    {chunk}
+
+    Genera el resumen de este fragmento siguiendo las instrucciones del system prompt."""
+            else:
+                user_message = f"""Documento a resumir: {filename}
+
+    CONTENIDO:
+    {chunk}
+
+    Genera el resumen siguiendo las instrucciones del system prompt."""
+
+            messages = [
+                SystemMessage(content=system_prompt),
+                HumanMessage(content=user_message)
+            ]
+
+            try:
+                response = self.llm.invoke(messages)
+                return response.content.strip()
+            except Exception as e:
+                logger.error(f"❌ Error resumiendo chunk {chunk_num}: {e}")
+                return f"[ERROR EN CHUNK {chunk_num}] {str(e)}"
+
+    def _merge_chunk_summaries(self, chunk_summaries: List[str], category: str, filename: str) -> str:
+        """
+        Combina resúmenes de chunks en un resumen final cohesivo usando merge jerárquico.
+
+        Args:
+            chunk_summaries: Lista de resúmenes de chunks
+            category: Categoría del documento
+            filename: Nombre del archivo original
+
+        Returns:
+            Resumen final combinado
+        """
+        if len(chunk_summaries) == 1:
+            return chunk_summaries[0]
+
+        logger.info(f"🔗 Combinando {len(chunk_summaries)} resúmenes parciales...")
+
+        # 🆕 Si hay muchos chunks, usar merge jerárquico (combinar en grupos pequeños)
+        if len(chunk_summaries) > 4:
+            logger.info(f"📚 Usando merge jerárquico para {len(chunk_summaries)} resúmenes...")
+            return self._hierarchical_merge(chunk_summaries, category, filename)
+
+        # Para 2-4 chunks, merge directo (como antes)
+        combined_text = "\n\n---SEPARADOR DE SECCIÓN---\n\n".join(
+            f"RESUMEN PARTE {i + 1}:\n{summary}"
+            for i, summary in enumerate(chunk_summaries)
+        )
+
+        merge_prompt = f"""Eres un experto sintetizador de información.
+
+    Te voy a dar {len(chunk_summaries)} resúmenes parciales de diferentes secciones del mismo documento sobre {category}.
+
+    Tu tarea es:
+    1. COMBINAR toda la información de los {len(chunk_summaries)} resúmenes en un ÚNICO resumen cohesivo
+    2. ELIMINAR redundancias y repeticiones
+    3. ORGANIZAR la información de forma lógica y estructurada
+    4. MANTENER toda la información importante de cada sección
+    5. Usar el mismo formato estructurado que se pidió originalmente
+    6. NO mencionar que esto viene de múltiples partes
+
+    IMPORTANTE:
+    - El resultado debe leerse como un resumen único y natural
+    - Mantén TODO el detalle relevante de cada parte
+    - Si hay información complementaria entre partes, intégrala
+    - El resumen final puede ser extenso para mantener toda la información
+
+    Documento original: {filename}
+
+    RESÚMENES PARCIALES A COMBINAR:
+
+    {combined_text}
+
+    Genera el resumen final único y cohesivo:"""
+
+        try:
+            response = self.llm.invoke([HumanMessage(content=merge_prompt)])
+            merged_summary = response.content.strip()
+            logger.info(f"✅ Resumen final combinado: {len(merged_summary):,} chars")
+            return merged_summary
+        except Exception as e:
+            logger.error(f"❌ Error combinando resúmenes: {e}")
+            # Fallback: concatenar con separadores
+            logger.warning("⚠️ Usando fallback: concatenando resúmenes con separadores")
+            return "\n\n".join(chunk_summaries)
+
+    def _hierarchical_merge(self, summaries: List[str], category: str, filename: str) -> str:
+        """
+        Combina resúmenes usando estrategia jerárquica (merge en grupos de 2).
+        Trunca resúmenes largos para garantizar que quepan en el límite de tokens.
+
+        Args:
+            summaries: Lista de resúmenes a combinar
+            category: Categoría del documento
+            filename: Nombre del archivo
+
+        Returns:
+            Resumen final combinado
+        """
+        import time
+
+        GROUP_SIZE = 2
+        MAX_CHARS_PER_SUMMARY = 10000  # ~2,500 tokens por resumen, 5,000 total + prompt = <6,000
+        current_level = summaries.copy()
+        level = 1
+
+        while len(current_level) > 1:
+            logger.info(f"🔄 Nivel {level} de merge: {len(current_level)} resúmenes -> grupos de {GROUP_SIZE}")
+            next_level = []
+
+            # Dividir en grupos de GROUP_SIZE
+            for i in range(0, len(current_level), GROUP_SIZE):
+                group = current_level[i:i + GROUP_SIZE]
+
+                if len(group) == 1:
+                    # Si solo queda 1, pasarlo directamente al siguiente nivel
+                    next_level.append(group[0])
+                    continue
+
+                logger.info(f"   🔗 Combinando grupo {i // GROUP_SIZE + 1}: {len(group)} resúmenes")
+
+                # ✅ TRUNCAR resúmenes si son muy largos
+                truncated_group = []
+                for idx, summary in enumerate(group):
+                    if len(summary) > MAX_CHARS_PER_SUMMARY:
+                        truncated = summary[:MAX_CHARS_PER_SUMMARY] + "\n\n[... contenido truncado para merge ...]"
+                        logger.warning(
+                            f"      ⚠️ Resumen {idx + 1} truncado: {len(summary):,} -> {len(truncated):,} chars")
+                        truncated_group.append(truncated)
+                    else:
+                        truncated_group.append(summary)
+
+                # Combinar este grupo
+                combined_text = "\n\n---SEPARADOR---\n\n".join(
+                    f"PARTE {j + 1}:\n{summary}"
+                    for j, summary in enumerate(truncated_group)
+                )
+
+                # ✅ PROMPT MÁS CORTO para ahorrar tokens
+                merge_prompt = f"""Combina estos {len(truncated_group)} resúmenes en uno solo:
+
+    REGLAS:
+    - Integra toda la información
+    - Elimina redundancias
+    - Mantén formato estructurado
+
+    {combined_text}
+
+    Resumen combinado:"""
+
+                try:
+                    response = self.llm.invoke([HumanMessage(content=merge_prompt)])
+                    merged = response.content.strip()
+                    next_level.append(merged)
+                    logger.info(f"   ✅ Grupo combinado: {len(merged):,} chars")
+
+                    # Pausa para evitar rate limits
+                    time.sleep(2)
+
+                except Exception as e:
+                    logger.error(f"   ❌ Error en grupo {i // GROUP_SIZE + 1}: {e}")
+                    logger.warning(f"   ⚠️ Usando fallback: concatenando directamente")
+                    # Fallback: concatenar este grupo
+                    next_level.append("\n\n".join(truncated_group))
+
+            current_level = next_level
+            level += 1
+
+        logger.info(f"✅ Merge jerárquico completo en {level - 1} niveles")
+        return current_level[0]
     def _get_summary_prompt(
         self,
         category: Literal["biografias_jugadores", "informacion_equipos", "competiciones_y_reglas"]
@@ -254,11 +521,11 @@ Responde SOLO con el resumen estructurado, sin preámbulos."""
         return prompts[category]
 
     def summarize_document(
-        self,
-        file_path: Path,
-        category: Literal["biografias_jugadores", "informacion_equipos", "competiciones_y_reglas"],
-        output_file: Path,
-        force: bool = False
+            self,
+            file_path: Path,
+            category: Literal["biografias_jugadores", "informacion_equipos", "competiciones_y_reglas"],
+            output_file: Path,
+            force: bool = False
     ) -> Tuple[str, bool]:
         """
         Resume un documento usando Groq LLM.
@@ -298,27 +565,59 @@ Responde SOLO con el resumen estructurado, sin preámbulos."""
                 logger.warning(f"⚠️ Archivo vacío: {file_path.name}")
                 return f"[DOCUMENTO VACÍO] {file_path.name}", False
 
-            logger.info(f"📄 Resumiendo: {file_path.name} ({len(content)} chars)")
+            logger.info(f"📄 Resumiendo: {file_path.name} ({len(content):,} chars)")
 
-            system_prompt = self._get_summary_prompt(category)
+            # 🆕 DIVIDIR DOCUMENTO LARGO EN CHUNKS SI ES NECESARIO
+            chunks = self._split_long_document(content, file_path.name)
 
-            user_message = f"""Documento a resumir: {file_path.name}
+            if len(chunks) == 1:
+                # Documento corto - proceso normal
+                system_prompt = self._get_summary_prompt(category)
 
-CONTENIDO:
-{content}
+                user_message = f"""Documento a resumir: {file_path.name}
 
-Genera el resumen siguiendo las instrucciones del system prompt."""
+    CONTENIDO:
+    {chunks[0]}
 
-            messages = [
-                SystemMessage(content=system_prompt),
-                HumanMessage(content=user_message)
-            ]
+    Genera el resumen siguiendo las instrucciones del system prompt."""
 
-            response = self.llm.invoke(messages)
-            summary = response.content.strip()
+                messages = [
+                    SystemMessage(content=system_prompt),
+                    HumanMessage(content=user_message)
+                ]
 
-            logger.info(f"✅ Resumen generado: {len(summary)} chars")
-            return summary, False
+                response = self.llm.invoke(messages)
+                summary = response.content.strip()
+
+                logger.info(f"✅ Resumen generado: {len(summary):,} chars")
+                return summary, False
+
+            else:
+                # Documento largo - resumir por chunks y combinar
+                logger.info(f"📚 Documento largo: procesando {len(chunks)} chunks...")
+
+                chunk_summaries = []
+                for i, chunk in enumerate(chunks, 1):
+                    logger.info(f"🔄 Procesando chunk {i}/{len(chunks)}...")
+                    chunk_summary = self._summarize_chunk(
+                        chunk=chunk,
+                        chunk_num=i,
+                        total_chunks=len(chunks),
+                        category=category,
+                        filename=file_path.name
+                    )
+                    chunk_summaries.append(chunk_summary)
+
+                # Combinar todos los resúmenes de chunks
+                logger.info(f"🔗 Combinando {len(chunk_summaries)} resúmenes parciales...")
+                final_summary = self._merge_chunk_summaries(
+                    chunk_summaries=chunk_summaries,
+                    category=category,
+                    filename=file_path.name
+                )
+
+                logger.info(f"✅ Resumen final generado: {len(final_summary):,} chars")
+                return final_summary, False
 
         except Exception as e:
             logger.exception(f"❌ Error resumiendo {file_path.name}: {e}")
@@ -899,7 +1198,7 @@ def run_diagnostics():
 
             llm = ChatGroq(
                 temperature=0,
-                model_name="llama-3.1-8b-instant",
+                model_name="openai/gpt-oss-20b",
                 api_key=groq_key
             )
 

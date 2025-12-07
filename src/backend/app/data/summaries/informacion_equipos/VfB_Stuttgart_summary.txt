@@ -1,1 +1,136 @@
-[ERROR AL RESUMIR] VfB_Stuttgart.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 10346, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**VfB Stuttgart – Resumen Completo (2025‑26)**  
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Verein für Bewegungsspiele Stuttgart 1893 e. V.  
+- **Apodo:** “Caimanes” (derivado de la mascota Fritzle).  
+- **Fundación:** 9 septiembre 1893 (fusión de Stuttgarter FV y Kronen‑Club Cannstatt el 2 abril 1912).  
+- **Ciudad/País:** Stuttgart, Baden‑Wurtemberg, Alemania.  
+- **Liga actual:** 1. Bundesliga (máxima categoría del fútbol alemán).  
+- **Posición histórica:** 4.º en la tabla histórica de la Bundesliga, 5.º en la tabla histórica de la Bundesliga (según datos del documento).  
+
+---
+
+### 2. Estadio – MHPArena  
+- **Nombre oficial:** MHPArena (anteriormente Mercedes‑Benz‑Arena, Gottlieb‑Daimler‑Stadion).  
+- **Ubicación:** Distrito de Bad Cannstatt, cerca del río Neckar y de la fábrica Mercedes‑Benz.  
+- **Capacidad:** 60 449 espectadores (50 000 para partidos internacionales).  
+- **Socios:** 71 500 (según datos del documento).  
+- **Historia del recinto:** Inaugurado en 1933, remodelado en 2011, con 336 m lineales de publicidad perimetral.  
+- **Características especiales:** Estadio de “fútbol puro”, con tribunas cerradas y techo de gran altura.  
+
+---
+
+### 3. Colores y escudo  
+- **Colores tradicionales:** Blanco y rojo (franja horizontal roja en la camiseta).  
+- **Escudo:** Representa la franja roja (símbolo del VfB) y el nombre del club, con la tipografía clásica.  
+- **Uniformes actuales (proveedor Jako):**  
+  - *Titular:* Camiseta blanca con franja roja, pantalón blanco, medias blancas.  
+  - *Alternativo:* Camiseta roja, pantalón rojo, medias rojas.  
+  - *Tercer:* Camiseta verde oscuro o amarilla, pantalón y medias del mismo tono.  
+
+---
+
+### 4. Historia – Momentos clave  
+
+| Década | Eventos relevantes | Logros |
+|--------|--------------------|--------|
+| **1893‑1912** | Fundación y primeras fusiones. | – |
+| **1933‑1945** | Traslado al estadio Neckar; participación en Gauliga Württemberg. | Títulos de división 1935, 1937, 1938, 1940, 1943. |
+| **1946‑1958** | Competencia en Oberliga Süd; creación de la Bundesliga en 1963. | Campeones nacionales 1950, 1952; Copas de Alemania 1954, 1958. |
+| **1963‑1973** | Primeros años en la Bundesliga; estabilidad media. | – |
+| **1973‑1984** | Primera participación en la Liga de Europa (1974). | Tercer título de Bundesliga 1984. |
+| **1986‑1992** | Finales de Copa de Alemania (1986) y UEFA Cup (1989). | Cuarto título de Bundesliga 1992. |
+| **1997‑2000** | Tercera victoria de Copa de Alemania (1998). | – |
+| **2000‑2007** | Crisis y descenso (2000‑2001); regreso y título de Bundesliga 2007. | Título de Bundesliga 2007; final de Copa de Alemania 2007 (derrota). |
+| **2008‑2015** | Altos y bajos: Champions League 2008, Europa League 2009‑10, descenso 2015‑16. | – |
+| **2016‑2020** | Relegación a 2. Bundesliga 2015‑16; regreso como campeón 2016‑17. | – |
+| **2020‑2025** | Estabilidad moderada; 2024‑25: Copa de Alemania ganada (4.º título). | – |
+
+---
+
+### 5. Palmarés  
+
+| Competencia | Títulos | Fechas | Observaciones |
+|--------------|---------|--------|---------------|
+| **Bundesliga** | 5 | 1950, 1952, 1984, 1992, 2007 | 1.º en la tabla histórica de la Bundesliga. |
+| **Copa de Alemania** | 4 | 1954, 1958, 1998, 2024‑25 | Último título en 2025. |
+| **Supercopa alemana** | 1 | 1998 | |
+| **2. Bundesliga** | 2 | 1975‑76, 2016‑17 | |
+| **Copas Intertoto** | 2 | 1998, 2008 | |
+| **Otras competiciones internacionales** | 0 | – | Participaciones en Champions League (2003‑04, 2007‑08, 2009‑10) y Europa League (varias). |
+
+---
+
+### 6. Jugadores legendarios  
+
+| Período | Jugadores destacados | Comentarios |
+|---------|----------------------|-------------|
+| **Década de 1950** | Robert Schlienz, Karl Allgöwer | Schlienz perdió brazo izquierdo en accidente automovilístico. |
+| **1970‑80** | Gilbert Gress, Karlheinz Förster, Hansi Müller, Ottmar Hitzfeld | Hitzfeld como jugador y entrenador. |
+| **1980‑90** | Jürgen Klinsmann, Mario Gómez (actual), Kevin Kurányi, Alexander Hleb | Gómez regresó 2017‑18. |
+| **2000‑10** | Andreas Hinkel, Timo Hildebrand, Philipp Lahm (transferido 2006), Thomas Hitzlsperger | |
+| **2010‑20** | Mario Gómez (2017‑18), Sami Khedira, Serdar Tasci | |
+| **Actualidad (2025‑26)** | – | Plantilla actual no listada en el documento. |
+
+---
+
+### 7. Rivalidades  
+
+| Rival | Historia | Resultado histórico | Comentario |
+|-------|----------|---------------------|------------|
+| **Bayern de Múnich** | Südderby (Derbi del Sur). | Bayern con ventaja de casi 70 partidos. | Clásico más importante del sur de Alemania. |
+| **Stuttgarter Kickers** | Rival local. | 39 partidos a favor de Stuttgart; mayor victoria 8‑1 (1981). | Encuentros poco frecuentes. |
+| **TSG 1899 Hoffenheim, Karlsruher SC, SC Friburgo** | Rivalidades regionales. | – | |
+| **FC Augsburg** | Tensión entre seguidores. | – | |
+
+---
+
+### 8. Datos actuales (2025‑26)  
+
+- **Entrenador:** No especificado en el documento; se menciona que el cuerpo técnico está actualizado a 2025‑26.  
+- **Liga:** 1. Bundesliga.  
+- **Situación reciente:**  
+  - 2020‑21: 9.º lugar, sin competición europea.  
+  - 2021‑22: 15.º lugar, evitó play‑off de descenso.  
+  - 2022‑23: Zona baja, play‑off contra Hamburger SV (ganó 3‑0 en ida).  
+  - 2023‑24: No se menciona posición específica.  
+  - 2024‑25: Ganó la Copa de Alemania (4.º título) y clasificó a la Europa League.  
+
+- **Presidente:** Erwin Stadt (última mención 2017‑18).  
+- **Socios:** 72 500 (junio 2021).  
+- **Asistencia media:** No especificada.  
+
+---
+
+### 9. Otros departamentos deportivos (resumen)  
+
+- **Arbitraje:** Fundado 1923, 68 miembros activos.  
+- **Fistball:** Fundado 1937, equipos M40, M50, M60.  
+- **Hockey:** Fundado 1919, equipos masculinos y femeninos.  
+- **Atletismo:** Participación olímpica (Helmar Müller).  
+- **Tenis de mesa:** Fundado 1949, equipos en distritos.  
+- **Balonmano:** Fundado 1919, equipos retirados 1985.  
+- **Deportes electrónicos:** Equipo desde 2017, compite en FIFA e‑sports.  
+
+---
+
+### 10. Símbolos y cultura  
+
+- **Himno:** “Für Immer VfB” (cantado en MHPArena).  
+- **Mascota:** Fritzle (caimán), creado 1992, votado como la mascota más bella de la Bundesliga en 2015.  
+- **Club de Amigos (Freundeskreis):** Fundado 2015, promueve el fútbol juvenil y la comunidad.  
+
+---
+
+### 11. Patrocinadores y proveedores  
+
+- **Proveedor de equipamiento:** Jako (desde 2019‑20).  
+- **Patrocinadores históricos:** Frottesana, Canon, Dinkelacker, EnBW, Mercedes‑Benz Bank, Gazi.  
+- **Publicidad perimetral:** 336 m lineales en partidos en casa.  
+
+---
+
+**Resumen final:**  
+El VfB Stuttgart, fundado en 1893, es uno de los clubes más antiguos y tradicionales de Alemania. Con su estadio MHPArena de 60 449 plazas, el club ha cosechado cinco títulos de Bundesliga, cuatro Copas de Alemania y una Supercopa, además de dos Copas Intertoto. Su historia está marcada por épocas doradas en los años 1950, 1980 y 2007, así como por crisis y descensos, especialmente en la década de 2010. Los jugadores legendarios incluyen a Robert Schlienz, Jürgen Klinsmann y Mario Gómez, entre otros. La rivalidad más intensa es con el Bayern de Múnich en el Südderby, mientras que el Stuttgarter Kickers representa la rivalidad local. En la temporada 2024‑25, el club volvió a la gloria al ganar la Copa de Alemania y asegurar su participación en la Europa League. Con una base de socios de más de 70 000 y una cultura rica que abarca múltiples disciplinas deportivas, el VfB Stuttgart sigue siendo un pilar del fútbol alemán.

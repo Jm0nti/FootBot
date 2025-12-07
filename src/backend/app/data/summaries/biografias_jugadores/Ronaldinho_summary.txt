@@ -1,1 +1,92 @@
-[ERROR AL RESUMIR] Ronaldinho.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96955, Requested 11180. Please try again in 1h57m8.64s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Ronaldinho**
+
+**Datos básicos**
+
+* Nombre completo: Ronaldo de Assis Moreira
+* Apodo: Ronaldinho Gaúcho
+* Fecha de nacimiento: 21 de marzo de 1980
+* Nacionalidad: Brasileña
+
+**Información física**
+
+* Altura: No se menciona en el texto
+* Peso: No se menciona en el texto
+* Posición principal: Centrocampista o delantero
+* Pierna dominante: No se menciona en el texto
+
+**Carrera profesional**
+
+* Inició su carrera con Grêmio en 1998
+* Jugó en el Paris Saint-Germain en Francia desde 2001 hasta 2003
+* Fichó por el F. C. Barcelona en 2003 y jugó allí hasta 2008
+* Jugó en el A. C. Milan en 2008-2011
+* Regresó a Brasil para jugar en Flamengo en 2011 y en Atlético Mineiro en 2012
+* Jugó en Querétaro en México en 2013
+* Regresó a Brasil para jugar en Fluminense en 2015
+* Anunció su retiro del fútbol profesional en 2018
+
+**Logros importantes**
+
+* Ganó la Copa Mundial de la FIFA en 2002
+* Ganó la Copa América en 1999
+* Ganó la Copa Libertadores en 2013
+* Ganó la Serie A en 2011 con el A. C. Milan
+* Ganó la Supercopa de España en 2005 y 2006 con el F. C. Barcelona
+* Ganó la Liga de Campeones de la UEFA en 2006 con el F. C. Barcelona
+* Fue nombrado Mejor Jugador del Mundo en 2004 y 2005 por la FIFA
+* Fue nombrado Mejor Jugador de la UEFA en 2005
+* Fue incluido en el Equipo del Año de la UEFA en 2005 y 2006
+* Fue incluido en el FIFA/FIFPro World XI en 2005, 2006 y 2007
+* Fue nombrado Futbolista de Clubes del Año de la UEFA en 2006
+
+**Estilo de juego**
+
+* Destacó por su gran técnica y habilidad para controlar el balón
+* Era conocido por su precisión en los pases y tiros libres
+* Era conocido por sus regates y habilidad para improvisar jugadas
+* Era un jugador creativo y visionario que podía crear oportunidades para sus compañeros de equipo
+
+**Participaciones en Selecciones**
+
+* Copa América 1999: Campeón
+* Copa Confederaciones 1999: Máximo goleador
+* Juegos Olímpicos de Sídney 2000: Eliminado en cuartos de final
+* Copa Mundial de 2002: Disputó cinco encuentros, anotó dos goles
+* Copa Mundial de 2006: Disputó cinco encuentros, no anotó goles
+* Juegos de Pekín 2008: Medalla de bronce
+* Copa Confederaciones 2009: No fue convocado
+* Copa Mundial de 2010: No fue convocado
+* Amistoso contra Argentina (2010): Convocado, mostró buena actuación
+* Amistoso contra Ghana (2011): Convocado
+* Amistoso contra Argentina (2013): Convocado
+* Copa Confederaciones 2013: No fue convocado
+* Copa Mundial de 2014: No fue convocado
+
+**Estadísticas**
+
+* Goles: 33 en 101 partidos con la selección
+* Asistencias: 21 en 101 partidos con la selección
+
+**Palmarés y Distinciones**
+
+* Campeón de la Copa América 1999
+* Máximo goleador de la Copa Confederaciones 1999
+* Medalla de bronce en los Juegos de Pekín 2008
+* Embajador de la UNICEF desde 2006
+* Reclutado por el Programa Conjunto de las Naciones Unidas sobre el VIH/SIDA en 2011
+
+**Controversias**
+
+* Impuestos y multas impagas en 2019
+* Uso de pasaporte falso en Paraguay en 2020
+* Detención en prisión en Paraguay en 2020
+* Estafa de criptomonedas en 2025
+
+**Récords**
+
+* Único en conseguir los trofeos de Copa Mundial de Fútbol, Balón de Oro, Copa Confederaciones, Copa América, UEFA Champions League y Copa Libertadores
+* Máximo goleador en la historia de la Copa Confederaciones
+* Mejor cobrador de tiros libres de todos los tiempos
+* Uno de los mejores 10 pasadores en la historia del fútbol
+* Primer deportista en superar las 100 millones de vistas en YouTube
+* Ostenta el récord en internet de ser un video suyo el primero en la historia de YouTube que llegó al millón de visualizaciones

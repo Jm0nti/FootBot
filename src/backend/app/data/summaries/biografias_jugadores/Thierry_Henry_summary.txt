@@ -1,1 +1,72 @@
-[ERROR AL RESUMIR] Thierry_Henry.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96954, Requested 9720. Please try again in 1h36m6.335999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Thierry Henry**
+
+**Datos básicos**
+
+- Nombre completo: Thierry Daniel Henry
+- Apodo: Thierry Henry
+- Fecha de nacimiento: 17 de agosto de 1977
+- Nacionalidad: Francesa
+
+**Información física**
+
+- Altura: No se menciona en el texto
+- Peso: No se menciona en el texto
+- Posición principal: Delantero
+- Pierna dominante: No se menciona en el texto
+
+**Carrera profesional**
+
+- Debut profesional: 1994 en el A. S. Mónaco
+- Primer equipo: A. S. Mónaco
+- Equipos donde ha jugado:
+ - A. S. Mónaco (1994-1999)
+ - Juventus (1999)
+ - Arsenal F. C. (1999-2007)
+ - F. C. Barcelona (2007-2010)
+ - New York Red Bulls (2010-2014)
+- Logros importantes:
+ - Ganador del Mundial de Francia 1998
+ - Ganador de la Eurocopa 2000
+ - Ganador de la Copa FIFA Confederaciones 2003
+ - Máximo goleador de la Premier League cuatro veces
+ - Ganador de dos FA Cup y dos títulos de la Premier League con el Arsenal
+ - Parte clave del histórico triplete del F. C. Barcelona en la temporada 2008-09
+
+**Estadísticas destacadas**
+
+- Goles: 228 goles en todas las competiciones con el Arsenal
+- Asistencias: No se menciona un número específico de asistencias en el texto
+- Títulos ganados: No se menciona un número específico de títulos ganados en el texto
+
+**Estilo de juego**
+
+- Fortalezas: Henry es un delantero habilidoso y rápido que puede jugar en cualquier posición del ataque.
+- Características técnicas: Es conocido por su habilidad para marcar goles importantes y su capacidad para liderar a su equipo en la cancha.
+- Rol táctico: Puede jugar en cualquier posición del ataque.
+
+**Carrera como entrenador**
+
+- En agosto de 2016, Henry se convirtió en asistente técnico de Roberto Martínez en la selección de Bélgica.
+- En octubre de 2018, dejó su cargo para iniciar su primera experiencia como entrenador.
+- Fue entrenador del A.S. Monaco desde octubre de 2018 hasta enero de 2019.
+- En noviembre de 2019, se convirtió en entrenador del Montreal Impact de la Major League Soccer.
+- En mayo de 2021, se reincorporó al cuerpo técnico de selección de Bélgica previo a la Eurocopa 2020.
+- En febrero de 2023, tras el nombramiento de Domenico Tedesco como entrenador, la Real Asociación Belga de Fútbol decidió prescindir de sus servicios.
+- En agosto de 2023, fue nombrado entrenador de la selección sub-21 de Francia y también quedó a cargo de la selección sub-23 que disputó la Juegos Olímpicos de París 2024.
+
+**Datos contextuales**
+
+- Premios individuales:
+ - Segundo en los premios al Jugador Mundial de la FIFA en 2003 y 2004
+ - Once de Oro al mejor futbolista de Europa en 2003 y 2006
+ - Jugador del Año por los Jugadores de la PFA dos veces
+ - Futbolista del Año de la FWA tres veces
+ - Equipo del Año de la PFA seis veces seguidas
+ - XI Mundial de FIFA/FIFPro una vez
+ - Equipo del Año de la UEFA cinco veces
+- Reconocimientos:
+ - Máximo goleador de su país en octubre de 2007
+ - Incluido en el tercer Dream Team histórico del Balón de Oro en 2020
+- Curiosidades:
+ - Fue una figura de Nike y uno de los futbolistas más comercializados durante la década de 2000
+ - Es de herencia antillana, con padre de Guadalupe y madre de Martinica

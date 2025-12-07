@@ -1,1 +1,79 @@
-[ERROR AL RESUMIR] Defensa_fútbol.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 8844, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Resumen completo y detallado – Defensa (fútbol)**  
+
+---
+
+## 1. Posiciones de defensa  
+| Regla o aspecto | Descripción detallada | Casos especiales | Ejemplos | Cambios recientes |
+|-----------------|-----------------------|------------------|----------|-------------------|
+| **Defensa central (zaguero central)** | Núcleo de la línea defensiva, suele llevar los números 4/5. Su función principal es cubrir la zona central del área, leer el juego, despejar balones y organizar la línea. | *Defensa de zona* (marca de zona) vs *defensa de marcaje* (marca personal). | Franco Baresi, Sergio Ramos, Virgil van Dijk. | Mayor énfasis en la velocidad y la capacidad de salida con balón; se valora la lectura anticipada más que la fuerza bruta. |
+| **Defensa de corte (stopper / marcador de corte)** | Se adelanta al último defensor, presiona al atacante que llega con el balón. Se ubica en líneas de 3 o 5, a veces en rombos defensivos. | *Estóper* (del inglés *stopper*). | Daniel Passarella, Ronald Koeman, Fernando Hierro. | Su uso ha disminuido en sistemas 4‑4‑2 tradicionales; se prefiere el central con mayor cobertura. |
+| **Líbero (sweeper / defensa libre)** | Último jugador antes del portero, sin marca fija. Se mueve libremente por la defensa, intercepta balones y inicia la construcción. | *Líbero alemán* (salta al frente de la defensa) vs *líbero sweeper* (bajo la línea). | Franz Beckenbauer, Gaetano Scirea, Lothar Matthäus. | Posición casi desaparecida en la era de la presión alta y la defensa zonal; se sustituye por un central con mayor capacidad de salida. |
+| **Lateral / carrilero** | Defensa de banda que cubre la zona lateral y participa en la ofensiva con centros y desbordes. | *Carrilero* (más ofensivo que el lateral tradicional). | Dani Alves, Trent Alexander‑Arnold, Jordi Alba. | Se ha convertido en un “wing‑back” en sistemas 3‑5‑2 o 5‑3‑2, con mayor carga física y participación en ataque. |
+| **Defensa de medio campo (half back / lateral volante)** | Posición histórica de la pirámide invertida (2‑3‑5). Se situaba entre la defensa y el centro‑campo, cubriendo bandas y apoyando la salida. | *Half back* (1930s) vs *lateral volante* (1970s). | José Leandro Andrade, Marinho Chagas. | Desuso; su función se ha absorbido por el carrilero y el centrocampista defensivo. |
+
+---
+
+## 2. Formaciones defensivas históricas  
+| Regla o aspecto | Descripción detallada | Casos especiales | Ejemplos | Cambios recientes |
+|-----------------|-----------------------|------------------|----------|-------------------|
+| **2‑3‑5 (pirámide invertida)** | Dos centrales, tres mediocampistas defensivos y cinco atacantes. Los laterales subían al medio campo. | *Pirámide invertida* (antes de 1950). | Selección de Uruguay 1930. | Reemplazada por líneas de 4 defensores. |
+| **MW (defensa alemana)** | Presión en el medio campo, con un líbero que “sweep” la defensa. | *Defensa alemana* (1940s‑1950s). | Alemania 1954. | Evolución a zonal y a la defensa con carrileros. |
+| **4‑4‑2 (wingless)** | Cuatro defensores (dos centrales, dos laterales) y dos mediocampistas defensivos. Los laterales permanecen en la banda. | *Wingless* (Copa Mundial 1966). | Inglaterra 1966. | Se mantiene, pero con carrileros y “wing‑backs” en variantes 3‑5‑2. |
+| **3‑5‑2 (Bilardo)** | Tres centrales, dos carrileros y tres mediocampistas defensivos. | *Defensa alemana* (3‑2‑3‑2). | Argentina 1986. | Popular en Sudamérica; se ha adaptado a 3‑4‑3 o 3‑5‑2 con carrileros. |
+| **5‑3‑2 / 5‑2‑1‑2 (catenaccio)** | Cinco defensores, dos carrileros, tres mediocampistas defensivos. Líbero opcional. | *Catenaccio* (Italia 1970s). | Inter de Milán 1974. | Rara vez usado; se prefiere 4‑4‑2 o 4‑3‑3. |
+
+---
+
+## 3. Tácticas defensivas  
+| Regla o aspecto | Descripción detallada | Casos especiales | Ejemplos | Cambios recientes |
+|-----------------|-----------------------|------------------|----------|-------------------|
+| **Defensa individual** | Marcaje personal de cada atacante. Alta agresividad, recuperación rápida. | *Marcaje individual* (tradicional). | Manchester United 1990s. | Menos frecuente en la era de la presión colectiva. |
+| **Defensa zonal** | Cada defensor cubre un espacio, no un jugador. Reduce faltas y facilita contraataques. | *Zonal* (Arrigo Sacchi, 1980s). | AC Milan 1988‑90. | Dominante en la actualidad, especialmente en selecciones nacionales. |
+| **Defensa mixta** | Combina marcaje individual con zonal. Se aplica sobre el jugador clave, el resto se posiciona zonalmente. | *Mixta* (Inter 1960s). | Inter de Milán 1965. | Se utiliza en equipos que buscan flexibilidad táctica. |
+
+---
+
+## 4. Cometidos tácticos y técnicos  
+### 4.1 Cometidos tácticos  
+- **Marcaje**: cubrir a un jugador.  
+- **Corte**: salir de posición para interceptar.  
+- **Persecución**: seguir al rival con el balón.  
+- **Repliegue**: volver a la posición tras perder el balón.  
+- **Cobertura**: ocupar el espacio dejado por un compañero.  
+- **Permuta**: intercambiar posiciones para mantener la línea.  
+- **Pressing**: presión colectiva en bloque.  
+
+### 4.2 Habilidades técnico‑motrices  
+- **Entrada de frente / desde atrás**: despeje limpio.  
+- **Carga**: empuje con hombro.  
+- **Brega**: ganar posición física.  
+- **Interceptación**: cortar pases.  
+- **Anticipación**: leer jugadas.  
+
+### 4.3 Habilidades tácticas mentales  
+- **Lectura defensiva/ofensiva**: decidir cuándo atacar o defender.  
+- **Inteligencia táctica**: combinar lectura y posicionamiento.  
+- **Posicionamiento**: ubicarse según la táctica.  
+- **Coordinación en línea**: mantener la línea con el off‑side.  
+
+---
+
+## 5. Defensas goleadores y estadísticas  
+| Regla o aspecto | Descripción detallada | Casos especiales | Ejemplos | Cambios recientes |
+|-----------------|-----------------------|------------------|----------|-------------------|
+| **Defensa goleador** | Capacidad de marcar desde tiros libres, penales o jugadas de balón parado. | *Carrilero ofensivo* (Roberto Carlos). | Ronald Koeman, Daniel Passarella, Fernando Hierro, Roberto Carlos, Edgardo Bauza. | Se valora cada vez más la contribución ofensiva de los laterales y carrileros. |
+| **Ranking FIFA/IFHFS** | Lista de los mejores defensores del siglo XX y de la historia. | *Ranking FIFA 2004* (5 defensores en los 50 mejores). | Franz Beckenbauer, Bobby Moore, Franco Baresi, Elías Figueroa, Daniel Passarella. | Actualizaciones periódicas con nuevos jugadores. |
+
+---
+
+## 6. Cambios recientes en la defensa  
+1. **Desuso del líbero**: la presión alta y la defensa zonal han sustituido la función de “sweep”.  
+2. **Aumento de carrileros/wing‑backs**: en 3‑5‑2 y 5‑3‑2, los laterales se convierten en piezas ofensivas.  
+3. **Mayor velocidad y capacidad de salida**: los centrales modernos deben cubrir más terreno y iniciar contraataques.  
+4. **Uso de la defensa zonal**: se ha convertido en la norma en selecciones y clubes de élite.  
+5. **Enfoque en la inteligencia táctica**: la lectura del juego y la anticipación superan la fuerza física en la selección de defensores.  
+
+---
+
+**Conclusión**  
+La defensa en el fútbol ha evolucionado desde la pirámide invertida hasta la defensa zonal y los carrileros modernos. Cada posición tiene requisitos específicos de habilidades físicas, técnicas y mentales. Los cambios recientes reflejan una mayor velocidad, presión colectiva y la necesidad de que los defensores contribuyan también al ataque. Este resumen recoge los aspectos clave, ejemplos históricos y las tendencias actuales que definen la defensa contemporánea.

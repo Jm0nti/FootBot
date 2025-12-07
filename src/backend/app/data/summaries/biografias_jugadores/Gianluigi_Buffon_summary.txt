@@ -1,1 +1,83 @@
-[ERROR AL RESUMIR] Gianluigi_Buffon.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Requested 16697, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Gianluigi Buffon**
+
+**Datos Básicos**
+
+* Nombre completo: Gianluigi Buffon
+* Apodo: -
+* Fecha de nacimiento: 28 de enero de 1978
+* Nacionalidad: Italiana
+
+**Información Física**
+
+* Altura: No disponible
+* Peso: No disponible
+* Posición principal: Portero
+* Pierna dominante: No disponible
+
+**Carrera Profesional**
+
+Gianluigi Buffon ha tenido una carrera profesional destacada en el fútbol. Inició su carrera en el Parma A. C. en 1991 a los 13 años y debutó profesionalmente con el primer equipo del Parma en 1995 a los 17 años. Jugó en el Parma A. C. durante 6 temporadas (1991-1997) y fue transferido a la Juventus de Turín en 2001. Jugó en la Juventus de Turín durante 19 temporadas (2001-2021) y fue internacional con la selección de Italia desde 1997 hasta 2018. Fue parte del equipo que se proclamó campeón de la Copa Mundial de Fútbol de 2006.
+
+**Temporadas destacadas en la Juventus**
+
+* **Temporada 2011-12**: Obtuvo su tercer título de liga con la Juventus, siendo el campeón de la Serie A. Superó su propio récord de goles encajados, permitiendo solo 16 goles en 35 apariciones. Permaneció 568 minutos sin recibir anotaciones.
+* **Temporada 2012-13**: La Juventus derrotó al Napoli en la Supercopa de Italia, con Buffon levantando el trofeo como capitán. Regresó a la alineación titular después de una lesión menor. Disputó su partido número 400 con la camiseta de la Juventus en todas las competiciones.
+* **Temporada 2013-14**: La Juventus derrotó a la Lazio en la Supercopa de Italia, con Buffon manteniendo su arco invicto. Disputó su partido número 500 en la Serie A. Superó su récord personal de minutos sin encajar goles, acumulando 640 minutos.
+* **Temporada 2014-15**: La Juventus derrotó a la Sampdoria en la última jornada de la liga, con Buffon permitiendo solo 19 goles en 33 apariciones. Disputó su partido número 500 con la camiseta juventina en la derrota por 1-0 ante el Genoa.
+* **Temporada 2015-16**: La Juventus derrotó a la Lazio en la final de la Copa Italia, con Buffon permitiendo solo 19 goles en 33 apariciones. Disputó su partido número 100 en la Liga de Campeones de la UEFA.
+* **Temporada 2016-17**: La Juventus derrotó a la Lazio en la final de la Copa Italia, con Buffon permitiendo solo 19 goles en 33 apariciones. Disputó su partido número 443 en la Serie A con la Juventus.
+* **Temporada 2017-18**: La Juventus derrotó a la Lazio en la final de la Copa Italia, con Buffon permitiendo solo 19 goles en 33 apariciones. Disputó su partido número 616 en la Serie A con la Juventus.
+* **Temporada 2018-19**: Buffon fue contratado por el Paris Saint-Germain sin costo. Disputó su partido número 17 en la liga con el Paris Saint-Germain. Fue eliminado en la Liga de Campeones de la UEFA por el Manchester United.
+* **Temporada 2019-20**: Buffon regresó a la Juventus después de un año en el Paris Saint-Germain. Disputó su partido número 902 en clubes. Fue igualado con Paolo Maldini como el jugador italiano con más presencias en clubes.
+
+**Estadísticas Destacadas**
+
+* Goles recibidos en la Serie A: No disponible
+* Asistencias en la Serie A: No disponible
+* Títulos ganados en la Serie A: 9
+* Títulos ganados en la Copa Italia: 4
+* Títulos ganados en la Supercopa de Italia: 5
+
+**Estilo de Juego**
+
+Gianluigi Buffon ha sido reconocido por sus consistentes actuaciones a lo largo de su carrera. Ha recibido elogios de directores técnicos, jugadores, así como de colegas guardametas actuales y antiguos, por su concentración y serenidad bajo presión, así como por su ritmo de trabajo y su longevidad.
+
+**Carisma y liderazgo**
+
+Buffon ha sido destacado por su carisma, su fuerte mentalidad, su disciplina en los entrenamientos, su presencia vocal en la portería y su liderazgo. Ha sido descrito como "una personalidad clave en el vestuario".
+
+**Legado**
+
+Buffon es considerado por jugadores, expertos y directivos como uno de los mejores porteros de todos los tiempos. Ha sido elegido el vigésimo mejor futbolista del mundo por The Guardian en 2012, y ha sido nombrado el mejor portero de la historia por la revista France Football en 2016.
+
+**Equipamiento**
+
+Buffon siempre ha llevado mangas cortas durante toda su carrera, incluso durante los meses de invierno. Ha sido patrocinado por la empresa de indumentaria deportiva alemana Puma, y ha aparecido en anuncios de la marca.
+
+**Filantropía**
+
+Buffon también es conocido por su labor benéfica. Ha subastado su brazalete de capitán personalizado con fines benéficos después de cada partido. Ha sido nombrado embajador de buena voluntad de la ONU para el Programa Mundial de Alimentos en 2019.
+
+**Retiro**
+
+El 2 de agosto de 2023, se anunció su retirada del fútbol a sus 45 años.
+
+**Controversias**
+
+Gianluigi Buffon ha sido involucrado en varias controversias a lo largo de su carrera.
+
+**Escándalo del Calciopoli**
+
+En el año 2006, Buffon fue acusado de apostar ilegalmente en partidos de la Serie A, lo que ponía en peligro su puesto en la selección italiana para el Mundial de 2006. Fue interrogado formalmente y admitió haber realizado apuestas en partidos deportivos hasta que se prohibió a los jugadores hacerlo en octubre de 2005, pero negó haber apostado en partidos de fútbol italiano. En diciembre de 2006, fue absuelto de todos los cargos.
+
+**Pancarta con símbolo neonazi**
+
+Tras las celebraciones de la victoria de Italia en la Copa del Mundo de 2006, Buffon atrajo una nueva controversia cuando mostró distraídamente una pancarta que había recibido de la multitud, con la inscripción Fieri di essere italiani (Orgullosos de ser italianos), así como una cruz celta, un símbolo que ha sido adoptado por los neonazis. Buffon declaró posteriormente que no había visto el símbolo.
+
+**Expulsión en la Liga de Campeones**
+
+En el partido de vuelta de los cuartos de final de la Liga de Campeones 2017-18 disputado a domicilio contra el Real Madrid, la Juventus necesitaba un 3:0 para forzar la prórroga, que era el resultado cuando, en pleno tiempo de descuento de la segunda parte, el árbitro Michael Oliver concedió un penalti al Real Madrid. Buffon fue expulsado por disentir tras un enfrentamiento con Oliver; la Juventus fue eliminada de la Liga de Campeones, ya que el penalti resultante fue convertido por Cristiano Ronaldo.
+
+**Comentarios sobre el árbitro**
+
+Los comentarios de Buffon después del partido sobre Oliver atrajeron la atención de los medios de comunicación y la polémica. Fue acusado por la UEFA por sus comentarios posteriores al partido y más tarde, el Comité de Control, Ética y Disciplina de la UEFA lo sancionó con tres partidos de suspensión en competiciones de la UEFA. Buffon emitió más tarde una disculpa, declarando que había sido un gesto estúpido e ingenuo.

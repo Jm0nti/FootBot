@@ -1,1 +1,83 @@
-[ERROR AL RESUMIR] Toni_Kroos.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96954, Requested 7175. Please try again in 59m27.456s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Toni Kroos**
+
+**Datos básicos**
+
+* Nombre completo: Toni Kroos
+* Apodo: No disponible
+* Fecha de nacimiento: 4 de enero de 1990
+* Nacionalidad: Alemana
+
+**Información física**
+
+* Altura: No disponible
+* Peso: No disponible
+* Posición principal: Centrocampista
+* Pierna dominante: No disponible
+
+**Carrera profesional**
+
+* Greifswalder Sport-Club (2000-2006): Comenzó su carrera en su localidad natal jugando para el Greifswalder Sport-Club.
+* Fußballclub Hansa Rostock (2006): Fue transferido brevemente al equipo juvenil de Fußballclub Hansa Rostock.
+* Bayern de Múnich (2006-2009): Se unió a las categorías inferiores del Bayern de Múnich en 2006, con apenas 16 años.
+* Bayer Leverkusen (2009-2010): Fue cedido al Bayer 04 Leverkusen por 18 meses para ganar experiencia en la máxima categoría.
+* Bayern de Múnich (2010-2014): Regresó al Bayern de Múnich en 2010 y se convirtió en un jugador habitual en el equipo.
+* Real Madrid (2014-2024): Se unió al Real Madrid en 2014 y se convirtió en uno de los jugadores más importantes del equipo.
+
+**Logros importantes**
+
+* Copa Mundial de 2014: Conquistó la Copa Mundial de 2014 con la selección de Alemania.
+* Liga de Campeones de la UEFA: Ganó la Liga de Campeones de la UEFA con el Bayern de Múnich en 2013 y con el Real Madrid en 2016, 2017 y 2018.
+* Copa de Europa: Ganó la Copa de Europa con el Real Madrid en 2016, 2017 y 2018.
+* Supercopa de Europa: Ganó la Supercopa de Europa con el Real Madrid en 2014, 2016, 2017 y 2018.
+* Mundial de Clubes: Ganó el Mundial de Clubes con el Real Madrid en 2014, 2016, 2017 y 2018.
+* Bundesliga: Ganó la Bundesliga con el Bayern de Múnich en 2013 y con el Real Madrid en 2017 y 2018.
+* Copa de Alemania: Ganó la Copa de Alemania con el Bayern de Múnich en 2014.
+* Copa del Rey: Ganó la Copa del Rey con el Real Madrid en 2016, 2017 y 2018.
+
+**Estadísticas destacadas**
+
+* Goles: 113 goles en 542 partidos con el Bayern de Múnich y el Real Madrid.
+* Asistencias: 143 asistencias en 542 partidos con el Bayern de Múnich y el Real Madrid.
+* Títulos: 34 títulos con el Bayern de Múnich y el Real Madrid.
+
+**Estilo de juego**
+
+* Fortalezas: Su habilidad para controlar el juego, su visión de juego y su capacidad para crear oportunidades de gol.
+* Características técnicas: Su habilidad para pasar el balón, su capacidad para controlar el balón en el aire y su velocidad.
+* Rol táctico: Centrocampista defensivo, centrocampista ofensivo y regista.
+
+**Selección Nacional**
+
+La carrera de Toni Kroos en la selección nacional comenzó en la categoría sub-17, donde debutó el 14 de octubre de 2005 en un partido frente a las Islas Feroe, que su equipo ganó por 4-0.
+
+**Categorías Inferiores**
+
+* Debutó en la selección sub-17 en 2005.
+* Jugó el Europeo Sub-17 de 2006, donde anotó un gol en los cinco encuentros disputados y fue galardonado con el Balón de Oro del torneo.
+* Volvió a disputar el campeonato en 2007, celebrado en Bélgica, donde anotó tres goles en cuatro partidos y obtuvo la Bota de Oro.
+* Jugó la Copa del Mundo sub-17 de 2007 en Corea, donde su selección cayó en las semifinales frente a la selección nigeriana por 3-1.
+* Tras una gran carrera en la sub-17, Kroos pasó a jugar con la sub-19 y luego con la sub-21, donde fue un fijo en las convocatorias.
+
+**Selección Absoluta**
+
+* Debutó en la selección absoluta con apenas veinte años en un partido frente a la selección argentina el 3 de marzo de 2010.
+* Jugó la Copa Mundial de 2010 en Sudáfrica, donde su selección finalizó en el tercer puesto.
+* Jugó la Eurocopa 2012, donde su selección fue eliminada en las semifinales por la selección italiana.
+* Fue incluido en la lista de 30 jugadores de Joachim Löw para la Copa Mundial de 2014 y jugó todos los partidos del torneo, incluyendo la final, donde su selección consiguió el tetracampeonato.
+* Jugó la Copa Mundial de 2018 en Rusia, donde su selección fue eliminada en la primera fase.
+* En 2018 se convirtió en el jugador del año de Alemania y se logró consagrar entre los mejores 50 jugadores de la historia de Alemania.
+* Jugó la Liga de Naciones de la UEFA 2020-21 y llegó a las 100 internacionalidades con la absoluta.
+* Anunció su retiro de la selección en 2021, pero luego confirmó su vuelta para los partidos preparatorios de la Eurocopa 2024.
+* En mayo de 2024, anunció que pondría fin a su carrera al finalizar la Eurocopa del mismo año.
+
+**Estadísticas**
+
+* Jugó 120 partidos con la selección alemana.
+* Anotó 17 goles con la selección alemana.
+* Ganó la Copa Mundial de 2014 y la Eurocopa 2020 con la selección alemana.
+
+**Vida Privada**
+
+* Su padre, Roland Kroos, fue futbolista y su madre, Britta Kämmer, badmintonista en la República Democrática Alemana.
+* Su hermano menor Felix Kroos también fue jugador profesional de fútbol.
+* En julio de 2024, Kroos realizó su primer proyecto futbolístico llamado Icon League, un torneo deportivo profesional basado en el fútbol rápido.

@@ -1,1 +1,115 @@
-[ERROR AL RESUMIR] Neymar.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96956, Requested 17453. Please try again in 3h27m29.376s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Resumen de Neymar**
+
+**Datos Básicos**
+
+- Nombre completo: Neymar da Silva Santos Júnior
+- Apodo: Neymar
+- Fecha de nacimiento: 5 de febrero de 1992
+- Nacionalidad: Brasileña
+
+**Información Física**
+
+- Altura: No se menciona en el texto
+- Peso: No se menciona en el texto
+- Posición principal: Delantero
+- Pierna dominante: No se menciona en el texto
+
+**Carrera Profesional**
+
+- Equipo actual: Santos F. C. del Campeonato Brasileño de Serie A
+- Equipo anterior: F. C. Barcelona (2013-2017), Paris Saint-Germain F. C. (2017-2020)
+- Logros importantes:
+ + Campeón del Campeonato Paulista (2010)
+ + Campeón de la Copa Libertadores (2011)
+ + Campeón de la Liga de Campeones de la UEFA (2015)
+ + Campeón de la Ligue 1 (2018, 2019, 2020)
+ + Campeón de la Copa de Francia (2018, 2020)
+ + Campeón de la Copa de la Liga de Francia (2018, 2020)
+ + Máximo artillero de la selección de Brasil con 79 goles en 125 partidos
+ + Máximo goleador de la Copa Libertadores en 2011 y 2012
+ + Máximo goleador de la Liga de Campeones de la UEFA en 2014-15
+ + Jugador más caro de la historia del Fútbol Club Barcelona y del Paris Saint-Germain Football Club
+
+**Estadísticas Destacadas**
+
+- Goles: 371
+- Asistencias: 150
+- Títulos ganados: 10
+- Ligue 1: 4
+- Copa de Francia: 2
+- Copa de la Liga: 2
+- Liga de Campeones: 1
+- 6 goles en la Copa Libertadores 2011
+- 8 goles en la Copa Libertadores 2012
+- 10 goles en la Liga de Campeones de la UEFA 2014-15
+- 39 goles en todas las competiciones en la temporada 2014-15
+- 122 goles en una temporada para un equipo español en la temporada 2014-15
+- 19 goles en la Liga en la temporada 2016-17
+- 222 millones de euros en la cláusula de rescisión de su contrato con el Paris Saint-Germain Football Club
+
+**Estilo de Juego**
+
+- Fortalezas: Goleador y creador de juego
+- Características técnicas: Regates llamativos, habilidades para jugar en espacios pequeños
+- Rol táctico: Delantero ofensivo
+- Juega principalmente en las posiciones de segundo delantero, extremo y, en menor medida, mediocampista ofensivo
+- Es destacado por su capacidad para anotar y sus habilidades de creación
+
+**Estilo de Juego (Continuación)**
+
+Neymar juega principalmente en las posiciones de segundo delantero, extremo y, en menor medida, mediocampista ofensivo. Es descrito como un "verdadero fenómeno" debido a su capacidad para anotar y sus habilidades de creación. Suele jugar como el delantero de la izquierda en la formación 4–3–3, tanto en su club como en su país, debido a su notable aceleración y habilidades de creación. Esta posición le permite disparar con su pie hábil y asistir a sus compañeros.
+
+Dentro de sus aptitudes destacan su creatividad, visión, pase, definición, regate, finta, toque y técnica, lo que lo hace un jugador "eléctrico" y "explosivo".
+
+**Estadísticas Destacadas (Continuación)**
+
+* Clubes:
+ + Actualizado al último partido disputado el 03 de Diciembre de 2025.
+ + Fuente: UEFA - Transfermarkt - BDFutbol - ESPN - Soccerway.
+* Selecciones:
+ + Actualizado al último partido disputado el 24 de marzo de 2022.
+ + Fuentes: Transfermarkt.
+* Clubes goleados en Liga de Campeones por orden alfabético:
+ + Neymar es el decimoséptimo máximo goleador con 41 goles, por detrás de los 44 de Didier Drogba.
+ + Rival al que más goles marcó: Celtic F. C. con 7.
+ + Rival al que más veces enfrentó: Manchester City F. C. con 10.
+ + Cantidad de rivales a los que marcó: 17.
+ + A: Ajax, Anderlecht, Arsenal, Atlético de Madrid.
+ + B: BATE Borisov, Bayern Múnich, Borussia Dortmund.
+ + C: Celtic.
+ + E: Estambul Basaksehir, Estrella Roja de Belgrado.
+ + G: Galatasaray.
+ + J: Juventus.
+ + L: Leipzig, Liverpool.
+ + M: Manchester City, Manchester United.
+ + P: París Saint-Germain.
+* Hat-tricks:
+ + Partidos en los que anotó tres o más goles: Actualizado de acuerdo al último partido jugado el 9 de diciembre de 2020.
+* Resumen estadístico:
+ + Actualizado de acuerdo al último partido jugado el 4 de noviembre de 2023.
+
+**Vida Personal**
+
+Neymar es conocido por su fe cristiana y suele publicar fotos en su cuenta de Instagram antes de cada partido con una frase que dice: "Que Dios nos bendiga y nos proteja".
+
+En 2011, a los 19 años, se convirtió en padre de un hijo llamado David Lucca. Su ídolo es el también futbolista Robinho.
+
+Neymar ha firmado muchos patrocinios debido a su reputación creciente desde los 17 años de edad. En 2012, France Football lo clasificó en el séptimo puesto en la lista de los futbolistas más ricos del mundo, detrás de Lionel Messi y Cristiano Ronaldo.
+
+Tiene más de 10 millones de seguidores en Twitter y ha sido calificado por la revista SportsPro como el atleta más comercializable en el mundo, por delante de Lionel Messi y Cristiano Ronaldo.
+
+En 2022, mostró su apoyo al ultraderechista Jair Bolsonaro en las elecciones presidenciales de Brasil.
+
+El 18 de abril de 2023, él y su pareja, Bruna Biancardi, anunciaron que estaban esperando un hijo. Su hija Mavie nació en octubre de 2023.
+
+**Polémicas y Controversias**
+
+Neymar ha sido involucrado en varias polémicas y controversias a lo largo de su carrera. En 2015, fue expulsado del partido contra Colombia en la Copa América 2015 después de propinar un pelotazo a Pablo Armero y un cabezazo a Jeison Murillo.
+
+En 2017, protagonizó una pelea a empujones con su entonces compañero Nélson Semedo durante un entrenamiento en Miami.
+
+En 2019, le propinó un puñetazo a un aficionado del club rival cuando se disponía a subir las escaleras del estadio para recibir la medalla de subcampeón.
+
+En 2020, le dio un puñetazo en la nuca a Álvaro González tras varios empujones del brasileño durante el trascurso del partido.
+
+Neymar ha sido acusado de simular caídas para ganar penales, lo que ha generado burlas y memes en Internet.

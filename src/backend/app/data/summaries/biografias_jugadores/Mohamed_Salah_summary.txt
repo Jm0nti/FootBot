@@ -1,1 +1,64 @@
-[ERROR AL RESUMIR] Mohamed_Salah.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96956, Requested 6377. Please try again in 47m59.712s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Jugador:** Mohamed Salah
+
+**Resumen:**
+
+Mohamed Salah Hamed Mahrous Ghaly es un futbolista egipcio nacido el 15 de junio de 1992 en Nagrig, Gharbia. Es considerado uno de los mejores jugadores de su generación, uno de los mejores jugadores africanos de todos los tiempos y uno de los mejores extremos de la historia del fútbol.
+
+**Datos básicos:**
+
+- Nombre completo: Mohamed Salah Hamed Mahrous Ghaly
+- Apodo: Salah
+- Fecha de nacimiento: 15 de junio de 1992
+- Nacionalidad: Egipcia
+
+**Información física:**
+
+- Altura: No se proporciona
+- Peso: No se proporciona
+- Posición principal: Delantero
+- Pierna dominante: No se proporciona
+
+**Carrera profesional:**
+
+- Inicios y primeros años: Salah se formó en el El-Mokawloon El-Arab y en el Arab Contractors.
+- Chelsea: Fichó por el Chelsea en enero de 2014 y jugó durante la temporada 2013/14.
+- Fiorentina: Fue cedido a la Fiorentina en la segunda mitad de la temporada 2014-15.
+- A. S. Roma: Fue cedido a la Roma en verano de 2015 y jugó durante la temporada 2015/16.
+- Liverpool: Fichó por el Liverpool en junio de 2017 y ha jugado desde entonces.
+
+**Estadísticas destacadas:**
+
+- Goles: 32 goles en la temporada 2017/18 en la Premier League.
+- Asistencias: 11 asistencias en la temporada 2016/17 en la Serie A.
+- Títulos ganados: 1 título de la Premier League con el Liverpool en la temporada 2019/20, 1 título de la Supercopa de Europa con el Liverpool en 2020 y 1 título del Mundial de Clubes de la FIFA con el Liverpool en 2020.
+
+**Estilo de juego:**
+
+- Fortalezas: Precisión en la finalización, regate, velocidad y habilidades para crear juego.
+- Características técnicas: Salah es conocido por su habilidad para crear juego y su capacidad para marcar goles.
+- Rol táctico: Salah puede jugar como delantero central o como extremo.
+
+**Datos contextuales:**
+
+- Premios individuales: Ha sido galardonado con tres premios al Jugador del año de la PFA Players, 2 premios al Futbolista del año de la FWA, un premio al Jugador del Año de la Premier League, tres Botas de Oro de la Premier League y un premio al Creador de juego de la temporada de la Premier League.
+- Reconocimientos: Ha sido nombrado Futbolista Africano del Año y Futbolista Africano de la BBC del Año en 2017.
+- Curiosidades: Salah es conocido por su festejo musulmán después de marcar un gol contra su exequipo, el Chelsea F. C. en la temporada 2018/19.
+
+**Selección Nacional:**
+
+- Comenzó jugando para el equipo sub-20 y sub-23, representando a Egipto en la Copa Mundial Sub-20 de la FIFA 2011 y en los Juegos Olímpicos de Londres en 2012.
+- En las eliminatorias del Mundial 2014, Salah jugó un papel importante en la clasificación de Egipto, anotando un gol en el minuto 93 en tiempo de descuento contra Guinea y marcando un triplete en una victoria a domicilio de 4-2 contra Zimbabue.
+- En la Copa Africana de Naciones 2017, Salah jugó un papel importante en la clasificación de Egipto, anotando dos veces y asistiendo dos veces en seis partidos, lo que le valió un puesto en el Equipo CAF del Torneo.
+- En las eliminatorias del Mundial 2018, Salah jugó un papel importante en la clasificación de Egipto, anotando cinco goles durante la clasificación para la Copa Mundial de la FIFA 2018, lo que lo convirtió en el máximo goleador de Egipto.
+- En la Copa Mundial Rusia 2018, Salah jugó un papel importante en la selección de Egipto, convirtiendo de penal tras ser derribado en el área en el partido contra la selección anfitriona Rusia, pero Egipto perdió 3-1 y quedó matemáticamente eliminado del Mundial.
+
+**Estadísticas con la selección de Egipto:**
+
+- Partidos jugados: 83
+- Goles anotados: 45
+- Asistencias: 20
+
+**Polémicas y filantropía:**
+
+- Salah ha sido involucrado en varias polémicas durante su carrera, incluyendo su negativa a viajar a Israel para jugar un partido con el Maccabi Tel Aviv en 2018.
+- Salah es conocido por su generosidad y filantropía, y ha utilizado parte de su dinero para influir positivamente en cientos de vidas en su ciudad natal, incluyendo la compra de una ambulancia y equipos médicos para docenas de personas.

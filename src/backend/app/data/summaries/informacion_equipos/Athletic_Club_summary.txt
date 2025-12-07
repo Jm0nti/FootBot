@@ -1,1 +1,73 @@
-[ERROR AL RESUMIR] Athletic_Club.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96950, Requested 20235. Please try again in 4h7m27.84s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Identidad del club**  
+- **Nombre completo:** Athletic Club  
+- **Apodo:** Athletic de Bilbao, Los Leones de San Mamés  
+- **Fundación:** 18 julio 1898 (fundación legal 5 abril 1901)  
+- **Ciudad / País:** Bilbao, País Vasco, España  
+- **Socios:** 43 649 socios (30 junio 2024) y 466 peñas oficiales  
+
+**Estadio**  
+- **Nombre:** San Mamés (nuevo) – inaugurado 16 septiembre 2013, 53 289 plazas (aforo)  
+- **Características:** Arquitecto César Azcárate; galardón “Venue of the Year” 2017 (World Football Summit); polideportivo municipal con piscina, gimnasio, spa, restaurante y museo del club; comparte propiedad con Gobierno Vasco, Kutxabank, Diputación Foral de Vizcaya y Ayuntamiento de Bilbao.  
+- **Historia del estadio:** El antiguo San Mamés (1913‑2013) fue reemplazado por el nuevo recinto; ambos llevan el nombre del asilo de San Mamés y el apodo “Los Leones”.  
+
+**Colores y escudo**  
+- **Colores:** Rojo y blanco (bandera rojiblanca).  
+- **Escudo:** Combina los blasones de Bilbao y Vizcaya: puente e iglesia de San Antón, lobos de la familia Haro, árbol de Guernica y Cruz de San Andrés. La versión actual se estableció en 1941 y perfeccionada en 1972.  
+
+**Historia**  
+- **Orígenes (1898‑1903):** Creado por jóvenes del Gimnasio Zamacois; fundación legal 1901; rivalidad con Bilbao FC y creación del equipo combinado Bizcaya que ganó la Copa de la Coronación 1902.  
+- **Primeros años (1903‑1911):** Debut en la Copa del Rey 1903; victoria en 1903 y 1904; crisis institucional que casi lleva al club a la desaparición.  
+- **Filosofía de jugadores (1911‑1914):** Se adopta la política de jugar solo con jugadores nacidos o formados en Euskal Herria, derivada de la normativa de la RFEF que prohibía jugadores extranjeros.  
+- **Época dorada temprana (1914‑1924):** Pichichi (Rafael Moreno) lidera tres Copas consecutivas 1914‑1916; club gana la Copa del Rey en 1921.  
+- **Años de la Liga (1928‑1936):** Primer campeonato de liga 1928‑29; títulos de liga 1929‑30, 1930‑31 (12‑1 sobre Barcelona), 1933‑34, 1935‑36; cuatro Copas consecutivas 1930‑33.  
+- **Guerra Civil y posguerra (1936‑1945):** Suspensión de la liga 1936‑39; reconstrucción del equipo con siete jugadores pre‑guerra; cambio de nombre a Atlético de Bilbao en 1940; triunfos de la Copa del Rey 1942‑43, 1944‑45; Telmo Zarra domina con 6 Trofeos Pichichi y récord de 251 goles en liga.  
+- **Décadas de 1950‑1970:** “Once aldeanos” bajo Ferdinand Daučík; doblete 1955‑56; Copa del Rey 1958; primera participación en la Copa de Europa 1956‑57 (cuartos de final).  
+- **Años 1980‑1990:** Javier Clemente gana la liga 1982‑83 y 1983‑84; doblete 1983‑84; Supercopa 1984‑85; declive en los 1990‑s con peor posición 1994‑95.  
+- **2000‑2010:** Crisis “bienio negro” 2005‑07; Joaquín Caparrós rescata al club y llega a la final de la Copa 2009.  
+- **2010‑2025:** Marcelo Bielsa (2011‑12) lleva a dos finales europeas; Ernesto Valverde (2013‑14) vuelve a la Liga de Campeones y gana la Supercopa 2015; Marcelino (2020‑21) gana otra Supercopa; Jon Uriarte presidente 2022‑; 2024: título de la Copa del Rey (24ª vez); 2025: semifinal de la Liga Europa y clasificación a la Liga de Campeones con 70 puntos.  
+
+**Palmarés**  
+- **Títulos nacionales (36):**  
+  - *Primera División:* 8 (último 1984)  
+  - *Copa del Rey:* 24 (último 2024) – “rey de copas” en el siglo XX  
+  - *Supercopa de España:* 3 (último 2021)  
+- **Títulos internacionales:**  
+  - *Liga Europa (Copa de la UEFA):* subcampeón 1976‑77, 2011‑12  
+  - *Otros:* Copa de Ferias (5), Recopa de Europa (2), Copa Intertoto (1)  
+- **Récords:**  
+  - Mayor goleada en liga: 12‑1 vs. Barcelona (1930‑31)  
+  - Mayor goleada en Copa del Rey: 12‑1 vs. Celta (1946‑47)  
+  - Mayor goleada en competiciones europeas: 7‑1 vs. Standard Lieja (2004‑05)  
+
+**Jugadores legendarios**  
+- **Telmo Zarra:** 335 goles (251 liga, 84 copas) – máximo goleador histórico.  
+- **José Ángel Iribar:** 614 partidos (466 liga).  
+- **Pichichi (Rafael Moreno):** 4 Copas del Rey, origen del trofeo Pichichi.  
+- **Otros ídolos históricos:** Lafuente, Iraragorri, Bata, Chirri II, Gorostiza, Zarra, Zubizarreta, Dani, Llorente, Aduriz, Muniain, Sancet, Williams.  
+- **Jugadores actuales destacados (2025‑26):** Unai Simón (Trofeo Zamora 2024), Yuri Berchiche, Dani Vivian, Ohian Sancet, Iñaki y Nico Williams.  
+
+**Rivalidades**  
+- **Real Madrid:** “El Viejo Clásico”; mayor número de enfrentamientos; 79 victorias del Athletic.  
+- **Real Sociedad:** Derbi vasco; rivalidad histórica; 2021 final de la Copa del Rey (Real Sociedad 1‑0).  
+- **F.C. Barcelona:** “Athletic‑Barcelona”; 9 finales de Copa del Rey (2 victorias del Athletic).  
+- **C.A. Osasuna:** Rivalidad por fichajes y polémicas; acuerdos de préstamo en 1998; tensiones en 2017.  
+
+**Datos actuales (2025‑26)**  
+- **Entrenador:** Ernesto Valverde (de vuelta).  
+- **Liga:** Primera División (LaLiga).  
+- **Posición actual:** 4.º con 70 puntos (clasificación a la Liga de Campeones).  
+- **Presidente:** Jon Uriarte (elección 24 junio 2022).  
+- **Presupuesto 2024‑25:** 155 816 797,45 €; ingresos televisivos 67 500 000 €.  
+- **Asistencia media liga 2024‑25:** 48 420 aficionados.  
+
+**Filosofía deportiva**  
+- Política de “solo jugadores nacidos o formados en Euskal Herria”, considerada una de las más prolíficas de Europa.  
+- Cantera histórica: cantera de San Mamés, Lezama, y filiales Bilbao Athletic y Basconia.  
+
+**Secciones y otras**  
+- **Fútbol femenino:** 5 ligas (última 2015‑16).  
+- **Cantera:** Juvenil A (División de Honor Juvenil) y Juvenil B.  
+- **Filiales:** Bilbao Athletic (Primera División RFEF) y Basconia (Tercera División RFEF).  
+
+**Conclusión**  
+El Athletic Club, con más de 120 años de historia, es uno de los pilares del fútbol español, reconocido por su política de cantera, su tradición de “rey de copas” y su presencia constante en la Primera División. Su identidad, arraigada en la cultura vasca, se refleja en su estadio, su escudo y la pasión de sus 43 000 socios. En la temporada 2025‑26, bajo la dirección de Ernesto Valverde, el club consolida su posición como competidor europeo, alcanzando la Liga de Campeones y manteniendo la tradición de excelencia que lo ha hecho legendario.

@@ -1,1 +1,119 @@
-[ERROR AL RESUMIR] RB_Leipzig.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 10394, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**1. Identidad del club**  
+- **Nombre completo:** RasenBallsport Leipzig e. V. (abreviado RB Leipzig)  
+- **Apodo:** “Rattenball” (despectivo) o “Red Bull” (informal)  
+- **Año de fundación:** 19 de mayo 2009 (por compra de la plaza del SSV Markranstädt)  
+- **Ciudad/país:** Leipzig, Sajonia, Alemania  
+
+**2. Estadio**  
+- **Nombre:** Red Bull Arena (anteriormente Zentralstadion)  
+- **Capacidad:** 42 959 localidades (post‑reconstrucción 2004‑2005)  
+- **Características:**  
+  - Inaugurado 4 de agosto 1956, sede de la Copa Mundial 2006 y de la Confederaciones 2005.  
+  - Pista de atletismo eliminada en 2004; diseño moderno con tribunas de asientos.  
+  - Red Bull asumió la gestión en 2010 y compró el estadio en 2016, con planes de ampliación a ~57 000.  
+  - Asistencia media 2015‑16: 29 440 (2.º en 2. Bundesliga).  
+  - Bundesliga 2016‑17: 41 454 (97 % de capacidad).  
+
+**3. Colores y escudo**  
+- **Colores:** rojo y blanco (identidad corporativa Red Bull).  
+- **Escudo:**  
+  - Original (2009‑2010) sin logo.  
+  - Primer escudo (2010‑2014) similar al de Red Bull, rechazado por la DFL.  
+  - Escudo actual (desde 2014‑15) con balón de fútbol, sol amarillo sustituido por balón, iniciales “RasenBallsport” en la parte inferior.  
+  - Diferencia con otros equipos Red Bull (Salzburg, New York, Bragantino).  
+
+**4. Historia**  
+- **Fundación y primeros años (2009‑2013)**  
+  - Red Bull GmbH, tras adquirir Salzburg (2004) y New York (2006), buscó club en Alemania.  
+  - Compra de la plaza del SSV Markranstädt en mayo 2009 por ~350 000 €; club renombrado RB Leipzig.  
+  - Primer entrenador: Tino Vogel; ascenso a Regionalliga (4.º) en 2009‑10.  
+  - 2010‑11: Tomas Oral (4.º en Regionalliga, Copa de Sajonia 2011).  
+  - 2011‑12: Peter Pacult (3.º, sin promoción).  
+  - 2012: Ralf Rangnick (director deportivo) y Gérard Houllier (gerente general).  
+  - 2012‑13: Alexander Zorniger (entrenador) lleva a campeón de Regionalliga, ascenso a 3. Liga.  
+
+- **Ascenso a máxima división (2014‑2016)**  
+  - 2013‑14: 3. Liga; fichajes de Kimmich, Jung, Kaiser, Poulsen, etc.; 2.º, ascenso a 2. Bundesliga.  
+  - 2014‑15: 2. Bundesliga; 5.º, Rangnick combina roles de director deportivo y entrenador.  
+  - 2015‑16: 2. Bundesliga; 2.º, ascenso directo a Bundesliga.  
+
+- **Bundesliga (desde 2016)**  
+  - 2016‑17: debut en Bundesliga; 2.º (solo detrás del Bayern), clasificación a Champions League 2017‑18.  
+  - 2019‑20: Semifinales de Champions League (derrota 3‑0 a PSG).  
+  - 2021‑22: Semifinales de Europa League (eliminado por Rangers).  
+  - 2022‑23: Copa de Alemania (ganada 2022‑23, 2023‑24); Supercopa de Alemania 2023 (ganada 3‑0 a Bayern).  
+  - 2024‑25: Racha de 35 partidos invictos del Bayern Leverkusen terminada 2‑3 en BayArena.  
+
+- **Controversias**  
+  - Rechazo de aficiones rivales (1 FC Colonia, Bayern, Dortmund, etc.) por mercantilización.  
+  - Protestas y boicots de Lokomotive Leipzig y Sachsen Leipzig.  
+  - Campaña “Nein zu RB” (2014) y luto de Union Berlin.  
+  - Defensa del club como impulso para el fútbol del Este tras la reunificación.  
+
+**5. Palmarés**  
+| Competencia | Títulos | Fechas | Observaciones |
+|-------------|---------|--------|---------------|
+| **Bundesliga** | 0 | – | Mejor posición: 2.º (2016‑17, 2017‑18) |
+| **DFB‑Pokal** | 2 | 2022‑23, 2023‑24 | Primer título 2022‑23 (Friburgo 2‑4 p.p.) |
+| **DFL‑Supercup** | 1 | 2023‑24 | 3‑0 a Bayern (triplete de Dani Olmo) |
+| **UEFA Champions League** | 0 | – | Semifinales 2019‑20 |
+| **UEFA Europa League** | 0 | – | Semifinales 2021‑22 |
+| **Sachsen Pokal** | 2 | 2011, 2013 | Copa regional |
+| **Otras** | – | – | 8‑0 a Mainz (2019‑20), 7‑0 a Manchester City (CL 2022‑23) |
+
+**6. Jugadores legendarios**  
+- **Timo Werner** – 113 goles oficiales (máximo goleador).  
+- **Yussuf Poulsen** – 425 partidos oficiales (máximo de apariciones).  
+- **Emil Forsberg** – 67 asistencias oficiales (máximo de asistencias).  
+- **Otros ídolos históricos**: Joshua Kimmich (fichado 2013‑14), Naby Keïta, Marcel Sabitzer, Marvin Compper, Rani Khedira, etc.  
+
+**7. Rivalidades**  
+- **Lokomotive Leipzig** – rival histórico de la ciudad, boicot iniciales.  
+- **Sachsen Leipzig** – rival histórico, protestas iniciales.  
+- **Bayern Múnich** – rival de la Bundesliga, enfrentamientos en Champions y Supercopa.  
+- **Union Berlin** – protestas de luto.  
+- **Otros**: 1 FC Colonia, Borussia Dortmund, Werder Bremen, VfB Stuttgart, Hamburg, etc.  
+
+**8. Datos actuales (2025‑26)**  
+- **Entrenador:** Ole Werner (nombrado mayo 2025 tras fin de contrato de Zsolt Lőw).  
+- **Liga:** Bundesliga (9ª temporada consecutiva).  
+- **Posición histórica:** 26.º en la tabla de la Bundesliga (última temporada 2024‑25).  
+- **Mejor puesto:** 2.º (dos veces).  
+- **Peor puesto:** 7.º (2024‑25).  
+- **Mayor número de puntos en una temporada:** 67 (2016‑17).  
+- **Mayor número de goles en una temporada:** 81 (2019‑20).  
+- **Mayor victoria:** 8‑0 a Mainz 05 (2019‑20).  
+- **Mayor derrota:** 7‑0 a Manchester City (CL 2022‑23).  
+
+**9. Estructura y organización**  
+- **Club:** RasenBallsport Leipzig e. V. (asociación voluntaria).  
+- **GmbH:** RasenBallsport Leipzig GmbH (responsable del equipo profesional y reservas).  
+- **Accionistas:** Red Bull GmbH (99 %), club (1 %).  
+- **Regla 50+1:** Club mantiene mayoría de votos en junta de accionistas.  
+- **Socios:** Restrictiva política de afiliación; “socio colaborador oficial” con cuota anual 70‑1 000 € (sin derecho a voto).  
+
+**10. Centro de formación**  
+- **Ubicación:** Leipziger Kleinmesse, Cottaweg.  
+- **Instalaciones:** 92 000 m², 3 campos de césped natural, 1 artificial, centro juvenil, grada de 1 000 espectadores.  
+- **Coste:** 30 millones € (fase 1), 33 millones € (fase 2).  
+- **Inauguración:** 12 agosto 2011 (fase 1), octubre 2015 (fase 2).  
+
+**11. Patrocinio y equipaciones**  
+- **Kit:** Adidas (fundación) → Nike (desde 2014).  
+- **Patrocinadores:** Hugo Boss, Porsche (juvenil), Volkswagen (estadio), Krostitzer Brauerei (cervecero oficial 2016‑18).  
+
+**12. Fútbol femenino**  
+- **Entrada:** 2016.  
+- **Logro:** Campeón de segunda división 2022‑23, ascenso a Bundesliga femenina 2023‑24.  
+
+**13. Afiliaciones**  
+- **Red Bull‑controlled clubs:** RB Salzburg (Austria), New York Red Bulls (USA), Red Bull Bragantino (Brasil).  
+- **Dirección deportiva:** Ralf Rangnick (desde 2012).  
+
+**14. Referencias clave**  
+- Sitio oficial: https://www.rbl.de  
+- UEFA: https://www.uefa.com/teams/000063/  
+- Bundesliga: https://www.bundesliga.com  
+- FIFA: https://www.fifa.com  
+
+*Este resumen conserva toda la información relevante del documento original, manteniendo fechas, cifras y datos específicos, y está estructurado en secciones claras para facilitar su lectura y referencia.*

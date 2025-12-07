@@ -1,1 +1,65 @@
-[ERROR AL RESUMIR] Karim_Benzema.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Requested 12063, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Karim Benzema**
+
+**Datos básicos**
+
+- Nombre completo: Karim Mostafa Benzema
+- Apodo: Karim "The Dream"
+- Fecha de nacimiento: 19 de diciembre de 1987
+- Nacionalidad: Francia
+
+**Información física**
+
+- Altura: No se proporciona
+- Peso: No se proporciona
+- Posición principal: Delantero
+- Pierna dominante: No se proporciona
+
+**Carrera profesional**
+
+Karim Benzema inició su carrera en la Association Sportive Des Buers Villeurbanne y luego en el Sporting Club Bron de su barrio natal, Le Terraillon (Bron). A la edad de 9 años se incorporó a la Olympique Lyonnais Academy. Debutó en el Olympique de Lyon el 15 de enero de 2005 ante el Football Club de Metz. Firmó su primer contrato profesional con el Olympique por tres años en 2005. Jugó en el Olympique de Lyon hasta 2009, donde disputó 112 partidos de liga y anotó 43 goles. Fue traspasado al Real Madrid Club de Fútbol en 2009 por 35 millones de euros. Ha jugado en el Real Madrid desde 2009, donde ha ganado 25 títulos, incluyendo cuatro Ligas, tres Copas del Rey, cuatro Supercopas de España, cinco Ligas de Campeones de la UEFA, cuatro Supercopas de Europa y cinco Mundiales de Clubes. En junio de 2023, después de 14 años en el Real Madrid, Karim Benzema ficha por el Al-Ittihad Jeddah Club de Arabia Saudita.
+
+**Estadísticas destacadas**
+
+- Máximo goleador de la Ligue 1 en la temporada 2007-08 con 20 goles.
+- Ganador del Trophée du Meilleur Buteur en la temporada 2007-08.
+- Incluido en el equipo ideal de la Ligue 1 en la temporada 2007-08.
+- Nominado al Balón de Oro en 2008.
+- Máximo goleador de la Liga de Campeones de la UEFA en la temporada 2021-22 con 15 goles.
+- Ganador del premio al máximo goleador y jugador de la temporada en la Liga de Campeones de la UEFA 2021-22.
+- Ganador del Balón de Oro en 2022.
+
+**Estilo de juego**
+
+- Fortalezas: Técnica, velocidad, habilidad para marcar goles.
+- Características técnicas: Excelente control de balón, habilidad para driblar, visión de juego.
+- Rol táctico: Delantero, falso 9, único delantero.
+
+**Carrera en el Real Madrid**
+
+Karim Benzema se unió al Real Madrid en 2009, después de que el Lyon alcanzara un acuerdo con el club para su traspaso. El montante total fue de 35 millones de euros, más la posibilidad de abonar seis adicionales por objetivos logrados. Benzema pasó el reconocimiento médico y firmó su contrato de seis años de duración el 9 de julio de 2009. En la pretemporada, Benzema consiguió marcar un total de 5 goles, lo que le convirtió en el máximo goleador junto con Raúl. Benzema debutó con el Real Madrid en partido oficial el 29 de agosto frente al Deportivo de La Coruña, en el primer partido de liga. Su primer gol lo logró el 20 de septiembre en el estadio Santiago Bernabéu frente al Xerez Club Deportivo.
+
+Benzema ha tenido una carrera exitosa en el Real Madrid, ganando 25 títulos, incluyendo cuatro Ligas, tres Copas del Rey, cuatro Supercopas de España, cinco Ligas de Campeones de la UEFA, cuatro Supercopas de Europa y cinco Mundiales de Clubes. En la temporada 2010/11, Benzema marcó ocho goles en liga tras disputar 27 partidos. Con la llegada de José Mourinho al Real en la temporada 2010/11, el técnico luso aseguró que uno de sus principales retos era «recuperar» a Benzema. En la temporada 2011/12, Benzema comenzó con una racha de once goles en diecisésis partidos oficiales con el Real Madrid. Durante el mes de marzo, Benzema anotó siete goles en cuatro encuentros frente al Málaga CF, Racing de Santander, Hércules CF y Olympique de Lyon, su exequipo.
+
+**Títulos y logros**
+
+- Ganador de 25 títulos con el Real Madrid, incluyendo cuatro Ligas, tres Copas del Rey, cuatro Supercopas de España, cinco Ligas de Campeones de la UEFA, cuatro Supercopas de Europa y cinco Mundiales de Clubes.
+- Máximo goleador de la Ligue 1 en la temporada 2007-08 con 20 goles.
+- Ganador del Trophée du Meilleur Buteur en la temporada 2007-08.
+- Incluido en el equipo ideal de la Ligue 1 en la temporada 2007-08.
+- Nominado al Balón de Oro en 2008.
+- Máximo goleador de la Liga de Campeones de la UEFA en la temporada 2021-22 con 15 goles.
+- Ganador del premio al máximo goleador y jugador de la temporada en la Liga de Campeones de la UEFA 2021-22.
+- Ganador del Balón de Oro en 2022.
+
+**Estilo de juego en el Real Madrid**
+
+- Fortalezas: Técnica, velocidad, habilidad para marcar goles.
+- Características técnicas: Excelente control de balón, habilidad para driblar, visión de juego.
+- Rol táctico: Delantero, falso 9, único delantero.
+
+**Carrera en la selección nacional**
+
+- Formó parte del combinado nacional que ganó la Campeonato Europeo Sub-17 de la UEFA en 2004.
+- Fue incluido en la lista final de 23 jugadores que representarán a Francia en la Copa Mundial de 2014.
+- Regresó a la selección nacional después de seis años de ausencia y jugó en la Eurocopa 2020 en 2021.
+- Se convirtió en el máximo goleador francés en la historia del Real Madrid Club de Fútbol y fue galardonado con el Balón de Oro en 2022.

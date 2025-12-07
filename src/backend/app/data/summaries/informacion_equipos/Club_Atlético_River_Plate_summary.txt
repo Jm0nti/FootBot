@@ -1,1 +1,111 @@
-[ERROR AL RESUMIR] Club_Atlético_River_Plate.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 32861, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Club Atlético River Plate – Resumen Completo (2025)**  
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Club Atlético River Plate  
+- **Apodo:** Millonario, Millonarios, El Millonario, El Millonario de la Ciudad  
+- **Año de fundación:** 25 de mayo 1901  
+- **Lugar de origen:** Barrio de La Boca, Ciudad de Buenos Aires, Argentina  
+- **Fundación:** Fusión de los clubes Santa Rosa y La Rosales; nombre derivado de la denominación inglesa “River Plate” para el Río de la Plata.  
+- **Socios activos (2024):** 351 487 (segundo club con más socios del mundo, solo detrás del Real Madrid).  
+
+---
+
+### 2. Estadio  
+- **Nombre:** Estadio Monumental “Mâs Monumental” (patrocinio de Mâs)  
+- **Ubicación:** Barrio de Núñez, Ciudad de Buenos Aires  
+- **Capacidad:** 85 018 espectadores (máxima del continente tras remodelaciones 2025)  
+- **Historia:** Inaugurado 26 mayo 1938 con victoria 3–1 sobre Peñarol; tribunas San Martín, Belgrano, Centenario, Almirante Brown, Sívori y la tribuna alta.  
+- **Características:** Sistema híbrido de césped (última remodelación 2025), pista de atletismo eliminada, túnel de salida, tribunas bajas y 75 palcos nuevos.  
+
+---
+
+### 3. Colores y escudo  
+- **Colores oficiales:** Blanco, rojo (principal), negro (en menor proporción).  
+- **Escudo:** Evolución desde la sigla CARP en 1930 hasta el diseño actual (2022). Elementos: letras “C.A.R.P.” en negro sobre fondo blanco, banda roja transversal, bordeado en rojo‑blanco‑negro. El escudo ha mantenido su forma básica desde los años 90, con ligeros ajustes de estilo.  
+
+---
+
+### 4. Historia  
+| Periodo | Eventos clave | Títulos | Récords |
+|---------|---------------|---------|---------|
+| **1901‑1920** | Fundación, primeras canchas (Dársena Sud, Sarandí), ascenso a Primera 1908, primera victoria 1913 vs Boca. | 1 Copa de Competencia Jockey Club (1914) | Primer título internacional (Cup Tie 1914) |
+| **1920‑1930** | Construcción de estadio en Tagle‑Alvear (1923), 3 campeonatos en la era profesional (1932‑1934). | 3 títulos de liga | Primer club con fichajes “millonarios” (Peucelle 1931, Ferreyra 1932) |
+| **1930‑1949** | “La Máquina” (1941‑1949) – 4 campeonatos, 3 Copas Aldao, 1 Copa Ibarguren, 1 Copa Escobar. | 4 ligas, 3 Copas Aldao | Récord de 32 partidos invicto (2018‑19) |
+| **1950‑1969** | Duelos con Boca y Racing, 5 títulos de liga (1951‑1955), 3 Copas Aldao. | 5 ligas | 18 años de sequía (1960‑1978) |
+| **1970‑1989** | 1975 tricampeonato, 1981‑82 Copa Libertadores (final 1976), 1986 triple corona (Liga, Libertadores, Intercontinental). | 1 Copa Libertadores, 1 Intercontinental | Único club argentino con triple corona 1986 |
+| **1990‑2009** | 1993‑94 Apertura invicto, 1996 Copa Libertadores, 1997 Copa Sudamericana, 2000‑01 descenso a Primera B Nacional (primer descenso en historia). | 1 Copa Libertadores, 1 Copa Sudamericana | 1ª caída a segunda categoría |
+| **2010‑2019** | 2014‑15 Recopa, 2015 Copa Libertadores, 2018 Copa Libertadores (final 2018 en Madrid). | 4 Copas Libertadores, 1 Copa Sudamericana, 3 Recopas | 4ª Copa Libertadores (2018) |
+| **2020‑2025** | 2021 Liga Profesional (título tras 7 años), 2023 Liga Profesional (título con 61 puntos), 2024 Trofeo de Campeones. | 2 ligas (2021, 2023), 1 Trofeo de Campeones | 2024: salida de Marcelo Gallardo, llegada de Martín Demichelis (2025) |
+
+- **Récords nacionales:** 38 títulos de Primera División (máximo en Argentina), 16 Copas Nacionales, 3 Copas Argentina, 1 Supercopa Argentina, 1 Trofeo de Campeones.  
+- **Récords internacionales:** 12 títulos confederativos (4 Libertadores, 1 Sudamericana, 3 Recopas, 1 Intercontinental) + 6 interconfederativos (5 Copa Aldao, 1 Cup Tie) = 18.  
+- **Otros logros:** 69 títulos oficiales desde 1931, 69 títulos oficiales en la era profesional, 72 títulos totales según documento.  
+
+---
+
+### 5. Palmarés (resumen de títulos oficiales)  
+| Competencia | Títulos | Observaciones |
+|-------------|---------|---------------|
+| **Primera División** | 38 | Máximo en Argentina |
+| **Copa Argentina** | 3 | Único club bicampeón |
+| **Supercopa Argentina** | 1 | Más ganador |
+| **Trofeo de Campeones** | 1 | Último título 2024 |
+| **Copa Libertadores** | 4 | 1986, 1996, 2015, 2018 |
+| **Copa Sudamericana** | 1 | 1997 |
+| **Recopa Sudamericana** | 3 | 2014, 2015, 2019 |
+| **Copa Intercontinental** | 1 | 1986 |
+| **Copa Aldao** | 5 | Máximo ganador |
+| **Cup Tie Competition** | 1 | 1914 |
+| **Otros** | 5 | Copa Ibarguren, Copa de Oro, etc. |
+
+---
+
+### 6. Jugadores legendarios (selección de ídolos históricos y actuales)  
+- **Ángel Labruna** – máximo goleador (317 goles), 4 ligas, 3 Copas Aldao.  
+- **Amadeo Carrizo** – 546 partidos, 1 Copa Aldao.  
+- **Norberto Alonso** – 1 Copa Libertadores, 1 Intercontinental.  
+- **Enzo Francescoli** – 1 Copa Libertadores, 1 Copa Sudamericana.  
+- **Ariel Ortega** – 1 Copa Libertadores, 1 Copa Sudamericana.  
+- **Marcelo Gallardo** – entrenador con 14 títulos (incl. 4 ligas, 3 Copas Libertadores).  
+- **Julian Álvarez** – 2021 Liga Profesional, 2022 Copa Argentina.  
+- **Franco Armani** – 2021‑22 Copa Sudamericana, 2022 Copa Argentina.  
+
+---
+
+### 7. Rivalidades  
+- **Superclásico (Boca Juniors)** – 215 partidos de Primera, 72 victorias de River, 78 de Boca, 65 empates.  
+- **Clásico con Racing Club** – “más antiguo” del fútbol argentino.  
+- **Clásicos con Independiente y San Lorenzo** – parte del grupo de los “cinco grandes”.  
+
+---
+
+### 8. Datos actuales (2025)  
+- **Entrenador:** Martín Demichelis (última salida de Gallardo 29 julio 2024).  
+- **Presidente:** Jorge Brito (elección 2021).  
+- **Liga:** Primera División (Liga Profesional).  
+- **Situación reciente:** Campeón de la Liga Profesional 2023, campeón de Trofeo de Campeones 2024, participación en Copa Libertadores 2025 (fase de grupos).  
+- **Presupuesto:** ~7 mil millones de pesos anuales.  
+- **Socios:** 351 487 (segundo club con más socios del mundo).  
+- **Divisiones inferiores:** 12.º club con mejores divisiones según CIES.  
+
+---
+
+### 9. Infraestructura y otras secciones deportivas  
+- **River Camp** – centro de entrenamiento de 14 ha en Ezeiza (cancha de 105 × 68 m, vestuarios, kinesiología, etc.).  
+- **Museo River** – 3 500 m², inaugurado 2009.  
+- **Deportes adicionales:** fútbol femenino (11 títulos), hockey sobre césped, balonmano, voleibol, tenis, futsal, natación, fútbol sala.  
+
+---
+
+### 10. Cultura y legado  
+- **Himno:** grabado 1918, melodía de “It’s a Long Way to Tipperary”.  
+- **Lema actual:** “Vivir y jugar con grandeza” (2021).  
+- **Eventos emblemáticos:** 100 años (2001), 9 diciembre (títulos de 2018 y 2015), 25 mayo (aniversario).  
+- **Apodos:** Millonario, Gallinas (derivados de la final de 1966).  
+
+---
+
+**Resumen final:**  
+El Club Atlético River Plate, fundado en 1901 en La Boca, es el club más laureado de Argentina y uno de los más exitosos del mundo, con 72 títulos oficiales, 38 campeonatos de Primera División y 4 Copas Libertadores. Su estadio, el Estadio Monumental, es el de mayor capacidad del continente (85 018). La identidad rojiblanca y el escudo con la sigla CARP definen su imagen. La historia del club se divide en épocas doradas: la “Máquina” (1940s), la triple corona 1986, la era de Gallardo (2014‑2022) y la actual etapa bajo Martín Demichelis. River mantiene rivalidades históricas, especialmente el Superclásico con Boca Juniors. Con 351 487 socios, un presupuesto de 7 mil millones de pesos y una cantera reconocida mundialmente, el club sigue siendo un referente deportivo y cultural en Argentina y en el fútbol mundial.

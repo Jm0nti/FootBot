@@ -1,1 +1,108 @@
-[ERROR AL RESUMIR] Copa_del_Rey.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 8514, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Copa del Rey – Resumen Completo y Detallado**
+
+---
+
+### 1. Nombre y Tipo  
+- **Nombre oficial**: *Campeonato de España – Copa de Su Majestad el Rey*  
+- **Tipo**: Copa nacional de fútbol de España, competición de eliminación directa organizada anualmente por la Real Federación Española de Fútbol (RFEF).  
+
+---
+
+### 2. Formato (vigente 2019‑2024)  
+| Etapa | Número de equipos | Modalidad | Lugar de juego | Observaciones |
+|-------|-------------------|-----------|----------------|---------------|
+| **Primera fase** | 116 equipos | Partido único | Estadio del equipo de menor categoría (o del sorteo si son iguales) | Se incluyen 20 de Primera, 22 de Segunda, 10 de Primera Federación, 25 de Segunda Federación, 25 de Tercera Federación, 4 semifinalistas de la Copa RFEF y 10 ganadores de divisiones regionales. |
+| **Octavos de final** | 32 equipos | Partido único | Estadio del equipo de menor categoría | Los equipos profesionales suelen jugar en estadios de césped natural. |
+| **Cuartos de final** | 16 equipos | Partido único | Estadio del equipo de menor categoría | |
+| **Semifinales** | 8 equipos | Dos partidos (ida y vuelta) | Estadio del equipo de menor categoría en la ida, estadio del otro equipo en la vuelta | |
+| **Final** | 2 equipos | Partido único | Estadio de La Cartuja (Sevilla) – sede fija 2019‑2027 | Se celebra sin público en 2020‑21 por la pandemia. |
+
+- **Participantes**: 116 equipos (excluidos los filiales).  
+- **Requisitos de entrada**: equipos de la Primera y Segunda División, los 10 primeros de cada grupo de Primera Federación, los 5 primeros de cada grupo de Segunda Federación, los 18 campeones de Tercera Federación más 7 segundos con mejor coeficiente, 4 semifinalistas de la Copa RFEF y 10 ganadores de divisiones regionales.  
+
+---
+
+### 3. Historia  
+| Año | Evento | Comentario |  
+|-----|--------|------------|  
+| **1902** | Concurso Madrid de Foot‑ball Association (Copa de la Coronación) | Torneo no oficial, impulsado por los hermanos Padrós; ganador: Bizcaya (Athletic + Bilbao). |  
+| **1903** | Primera edición regular de la *Copa de España* | Organizada por el Madrid Foot‑Ball Club; ganador: Athletic Club. |  
+| **1903‑1930** | *Campeonato de España – Copa de Su Majestad el Rey* | Donación de la copa por el Rey Alfonso XIII. |  
+| **1913** | *Copa de Su Majestad la Reina* (torneo de la RUECF) | Donación por la Reina Victoria Eugenia. |  
+| **1931‑1936** | *Copa de Su Excelencia el Presidente de la República* | Cambio de régimen a la Segunda República. |  
+| **1939‑1975** | *Copa del Generalísimo* | Donación por el Generalísimo Franco. |  
+| **1976‑Act.** | *Copa de Su Majestad el Rey* | Regreso a la monarquía; nombre oficial actual. |  
+| **1941‑1945** | Reestructuración post‑guerra: eliminación de campeonatos regionales; acceso por clasificación de la Liga. |  
+| **1961‑1998** | El campeón accedía a la *Recopa de Europa* (tournament extinto). |  
+| **1998‑Act.** | Acceso a la *Liga Europa* (antes Copa UEFA). |  
+| **2019‑Act.** | Reformas de la RFEF: sede fija de la final (La Cartuja), partidos únicos hasta semis, doble partido solo en semis, aumento de participantes a 116, inclusión de equipos de la Copa RFEF y divisiones regionales. |  
+
+---
+
+### 4. Equipos Participantes (2023‑24)  
+- **Primera División**: 20 equipos (incluye el Real Madrid, Barcelona, Atlético Madrid, etc.).  
+- **Segunda División**: 22 equipos.  
+- **Primera Federación**: 10 equipos (5 de cada grupo).  
+- **Segunda Federación**: 25 equipos (5 de cada grupo).  
+- **Tercera Federación**: 25 equipos (18 campeones + 7 segundos).  
+- **Copa RFEF**: 4 semifinalistas.  
+- **Divisiones Regionales**: 10 ganadores de la previa interterritorial.  
+
+---
+
+### 5. Sistema de Clasificación  
+- **Ganador**: Se proclama *Campeón de España* y recibe la Copa de Su Majestad el Rey.  
+- **Clasificación europea**:  
+  - **Liga Europa**: El campeón (y, en caso de que también sea campeón de la Liga, el subcampeón de la Copa) obtiene una plaza.  
+  - **Supercopa de España**: El campeón de la Copa se enfrenta al campeón de la Liga (o al subcampeón de la Copa si el mismo club gana ambas).  
+- **Títulos de propiedad**: Si un club gana tres veces consecutivas o cinco alternas, recibe el trofeo en propiedad; de lo contrario, recibe una réplica.  
+
+---
+
+### 6. Premios  
+| Premio | Descripción |  
+|--------|-------------|  
+| **Copa de Su Majestad el Rey** | Trofeo oficial; propiedad según regla de tres consecutivas / cinco alternas. |  
+| **Títulos de Campeón de España** | Reconocimiento histórico; 16 clubes han ganado la Copa. |  
+| **Clasificación a la Liga Europa** | Plaza europea para el campeón (y subcampeón en caso de doble título). |  
+| **Supercopa de España** | Competencia anual entre campeón de la Liga y campeón de la Copa (o subcampeón de la Copa en caso de doble título). |  
+
+---
+
+### 7. Récords y Estadísticas  
+| Categoría | Récord | Detalle |  
+|-----------|--------|---------|  
+| **Clubes con más títulos** | FC Barcelona | 31 títulos (último en 2024). |  
+| **Clubes con más títulos** | Athletic Club | 23 títulos (último en 2023). |  
+| **Jugadores con más finales** | Lionel Messi, Sergio Busquets | 10 finales cada uno (hasta 2021). |  
+| **Jugadores con más títulos** | José María Belauste, Agustín Piru Gaínza, Lionel Messi, Sergio Busquets, Gerard Piqué | 7 títulos cada uno. |  
+| **Máximo goleador histórico** | Telmo Zarra (Athletic Club) | 81 goles (1943‑1955). |  
+| **Máximo goleador de finales** | Lionel Messi | 9 goles en 10 finales (2009‑2021). |  
+| **Jugador con más partidos** | Andoni Zubizarreta | 108 partidos (1970‑1985). |  
+| **Mayor goleada** | Real Murcia 14–0 vs Cieza Promesas | 16–0 global (1992). |  
+| **Títulos en propiedad** | FC Barcelona (7), Athletic Club (3), Sevilla FC (2), Real Madrid (1), Racing de Irún (1), Atlético de Madrid (1) | 15 trofeos en posesión. |  
+| **Participación de equipos no profesionales** | 6 equipos no de Primera División llegaron a octavos de final (2019‑20). |  
+
+---
+
+### 8. Cambios Recientes (2019‑2024)  
+- **Sede fija de la final**: Estadio de La Cartuja (Sevilla) por 8 años (2019‑2027).  
+- **Formato de eliminación**: Partido único en todas las rondas salvo semis (doble partido).  
+- **Aumento de participantes**: De 116 equipos en 2019‑20, el número máximo alcanzado.  
+- **Inclusión de equipos de Copa RFEF y divisiones regionales**: 4 + 10 equipos adicionales.  
+- **Pandemia COVID‑19**: Finales 2020‑21 se jugaron sin público; 2020‑21 final se celebró el 17 abril 2021.  
+- **Regulación de filiales**: Desde 1990‑91 los equipos filiales están excluidos; el único caso de final con filial y matriz fue 1979‑80 (Real Madrid vs Castilla).  
+
+---
+
+### 9. Datos de Interés  
+- **Torneo más antiguo de España**: Primera edición regular en 1903.  
+- **Nombre oficial**: Cambia según jefe de Estado (Rey, Reina, Presidente de la República, Generalísimo).  
+- **Organizadores históricos**: Madrid F.C., Agrupación Madrileña, Unión Española, Federación Española, RFEF.  
+- **Reconocimiento de ediciones**: RFEF reconoce oficialmente las ediciones previas, incluidas las disputadas en 1913 por la RUECF.  
+- **Recurso de la Copa de la España Libre**: En 2023 la RFEF reconoció la Copa de 1937 como competición oficial, pero no como edición del Campeonato de España.  
+
+---
+
+### 10. Resumen de la Competencia  
+La Copa del Rey es la competición de fútbol más antigua y prestigiosa de España, con una rica historia marcada por cambios de nombre, formato y organización. Su formato actual, introducido en 2019, busca maximizar la competitividad y la inclusión de equipos de todas las categorías, manteniendo la tradición de que el ganador se proclama *Campeón de España*. Los récords de clubes y jugadores reflejan la grandeza de la competición, mientras que las recientes reformas garantizan su relevancia en el panorama futbolístico europeo.

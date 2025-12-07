@@ -1,1 +1,164 @@
-[ERROR AL RESUMIR] Copa_de_Oro_de_la_Concacaf.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 7362, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Copa Oro de la Concacaf – Resumen Completo y Detallado**
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial:** Copa Oro de la Concacaf (CONCACAF Gold Cup).  
+- **Tipo:** Torneo internacional de selecciones nacionales de fútbol.  
+- **Frecuencia:** Bienal (cada dos años).  
+- **Regulador:** Confederación de Fútbol de Norteamérica, Centroamérica y el Caribe (CONCACAF).
+
+---
+
+### 2. Formato  
+| Año | Número de equipos | Fase inicial | Fase final | Observaciones |
+|-----|-------------------|--------------|------------|---------------|
+| 1963‑1989 | 8 | Grupo único (o grupos) | Final directa | Torneo también servía como fase final de la clasificación mundial. |
+| 1991‑1993 | 8 | Grupos + eliminación directa | Final | Primeros años de la Copa Oro. |
+| 1996 | 9 | Grupos | Eliminación directa | Se añadió un equipo invitado (Brasil). |
+| 1998 | 10 | Grupos | Eliminación directa | Brasil invitado nuevamente. |
+| 2000 | 12 | Grupos | Eliminación directa | Se invitó a Colombia, Corea del Sur y Perú. |
+| 2002‑2017 | 12 | Grupos | Eliminación directa | Se mantuvo la misma estructura. |
+| 2019‑2025 | 16 | Grupos (4 grupos de 4) | Eliminación directa (octavos, cuartos, semis, final) | Expansión a 16 equipos con sistema de clasificación propio. |
+
+- **Sedes:** Estados Unidos ha sido el país anfitrión en 21 de las 26 ediciones.  
+  - **Co‑anfitriones:**  
+    - 1993, 2003 – México  
+    - 2015, 2023, 2025 – Canadá  
+    - 2019 – Costa Rica y Jamaica  
+  - **Invitados:** Desde 2007 el torneo es exclusivo de equipos CONCACAF, salvo la participación de Catar en 2021 y 2023.
+
+---
+
+### 3. Historia  
+| Periodo | Detalles clave |
+|---------|----------------|
+| **1963‑1989** | Campeonato de Naciones de la Concacaf (también conocido como Campeonato Concacaf). Reemplazó a la Copa CCCF y la Copa NAFC. Se utilizó como fase final de la clasificación mundial (1973‑1989). |
+| **1991** | Se renombra a Copa Oro de la Concacaf. Se separa de la fase de clasificación mundial. Primera edición en EE. UU. |
+| **1993‑1998** | México domina con tres títulos consecutivos (1993, 1996, 1998). Se invita a Brasil (1996, 2003) y Colombia (2000). |
+| **2000‑2009** | Se expande a 12 equipos. Canadá gana su primer título (2000). México vuelve a dominar (2005, 2007, 2009). |
+| **2011‑2019** | México y EE. UU. compiten en casi todas las finales. Se introduce la “Copa Concacaf” (play‑off 2013‑2015) para la clasificación a la Copa Confederaciones. |
+| **2021‑2025** | Qatar participa en 2021 y 2023. Se mantiene la expansión a 16 equipos. La Copa Oro ya no sirve como clasificatoria a la Copa Confederaciones (FIFA la eliminó en 2019). |
+
+---
+
+### 4. Equipos participantes  
+- **Total de equipos que han jugado:** 30.  
+- **Equipos campeones (7):**  
+  - México – 13 títulos (más exitoso).  
+  - Estados Unidos – 7 títulos.  
+  - Costa Rica – 3 títulos.  
+  - Canadá – 2 títulos.  
+  - Guatemala – 1 título.  
+  - Haití – 1 título.  
+  - Honduras – 1 título.  
+- **Invitados (hasta 2007):** Brasil, Colombia, Perú, Ecuador, Corea del Sur, Catar, Sudáfrica, Arabia Saudita.  
+- **Participación más frecuente:**  
+  - México – 26 de 26 ediciones.  
+  - EE. UU. – 26 de 26.  
+  - Canadá – 16 de 26.  
+  - Costa Rica – 16 de 26.  
+  - Honduras – 16 de 26.
+
+---
+
+### 5. Sistema de clasificación  
+- **Para la Copa Confederaciones (hasta 2019):**  
+  - 1991‑2011: El campeón de la edición anterior clasificaba directamente.  
+  - 2013‑2015: Los campeones de las ediciones “antes” y “después” del Mundial disputan un partido extra (“Copa Concacaf”). El ganador obtiene el cupo; si un equipo gana ambas, se clasifica directamente.  
+- **Para la Copa Mundial (desde 2019):**  
+  - Se utiliza el sistema de clasificación de la CONCACAF Nations League y el hexagonal final de la clasificación mundial.  
+  - Los seis equipos que llegan al hexagonal final de la clasificación mundial se clasifican directamente a la Copa Oro.  
+  - Los diez equipos mejor ubicados en la Nations League complementan los 16 cupos.
+
+---
+
+### 6. Premios  
+| Premio | Descripción | Cambios recientes |
+|--------|-------------|-------------------|
+| **Copa Oro** | Título de campeón. | Se mantiene. |
+| **Botín de Oro (Golden Boot)** | Máximo goleador del torneo. | Oficializado en 2011. |
+| **Balón de Oro** | Mejor jugador del torneo. | Se mantiene. |
+| **Mejor portero** | Mejor guardameta. | Se mantiene. |
+| **Equipo estelar** | Selección de los mejores jugadores. | Se mantiene. |
+| **Premio al juego limpio** | Equipo con mejor conducta. | Se mantiene. |
+
+---
+
+### 7. Récords y estadísticas  
+| Categoría | Récord | Detalles |
+|-----------|--------|----------|
+| **Títulos más** | México – 13 | 1991, 1993, 1996, 1998, 2005, 2007, 2009, 2011, 2015, 2019, 2023, 2025 (pre‑título) |
+| **Títulos más** | EE. UU. – 7 | 1991, 2002, 2003, 2005, 2013, 2017, 2021 |
+| **Títulos más** | Costa Rica – 3 | 1967, 1971, 2011 |
+| **Títulos más** | Canadá – 2 | 2000, 2015 |
+| **Máximo goleador histórico** | Landon Donovan – 18 | EE. UU. (2000‑2025) |
+| **Máximo goleador individual** | Luis Roberto Alves – 11 | 1993 (México) |
+| **Mayor número de goles en una edición** | 2019 – 96 goles (31 partidos) | 3.1 goles/pérdida |
+| **Menor número de goles en una edición** | 2002 – 39 goles (12 partidos) | 3.25 goles/pérdida |
+| **Mayor promedio de goles por partido** | 1993 – 3.75 | 30 goles en 8 partidos |
+| **Menor promedio de goles por partido** | 1989 – 1.67 | 10 goles en 6 partidos |
+| **Mayor goleada en un partido** | 1973 – 11 : 1 (Trinidad y Tobago vs Antigua y Barbuda) | En la Copa de Naciones Concacaf |
+| **Final con más goles** | 2011 – 4 : 2 (EE. UU. vs México) | 6 goles |
+| **Final con menor goles** | 1991, 2005, 2013, 2017, 2019, 2021, 2023 – 1 : 0 | 1 gol |
+| **Mayor margen de victoria en final** | 5 : 0 (México vs EE. UU., 2009) | 5 goles |
+| **Participaciones más frecuentes** | México – 26, EE. UU. – 26, Canadá – 16 |  |
+
+---
+
+### 8. Casos especiales y cambios recientes  
+- **Invitaciones internacionales:**  
+  - 1996‑2003: Brasil (1996, 2003), Colombia (2000), Perú (2000), Ecuador (2002), Corea del Sur (2000, 2002), Sudáfrica (2005), Catar (2021, 2023), Arabia Saudita (2025, 2027).  
+  - 2007: Se decide que el torneo sea exclusivo de equipos CONCACAF, con excepción de la participación de Catar en 2021 y 2023.  
+- **Participación de Catar:**  
+  - 2021: Grupo D, llegó a semifinales, perdió 1 : 0 ante EE. UU.  
+  - 2023: Eliminado en cuartos de final por Panamá.  
+- **Participación de Arabia Saudita:**  
+  - 2025: Grupo D, llegó a cuartos de final, perdió 2 : 0 ante México.  
+- **Copa Confederaciones:**  
+  - Hasta 2019, la Copa Oro era la vía de clasificación a la Copa FIFA Confederaciones.  
+  - 2019: FIFA elimina la Copa Confederaciones; la Copa Oro ya no tiene función de clasificación.  
+- **Copa Concacaf (play‑off):**  
+  - 2013 y 2015: Los campeones de las ediciones “antes” y “después” del Mundial compiten por un cupo a la Copa Confederaciones.  
+- **Expansión a 16 equipos:**  
+  - 2019: Se introduce un sistema de clasificación propio (Nations League + hexagonal).  
+  - 2025: Se mantiene la expansión a 16 equipos; se incluye a Arabia Saudita como invitado.  
+
+---
+
+### 9. Ejemplos de finales destacadas  
+| Año | Final | Resultado | Comentario |
+|-----|-------|-----------|------------|
+| 1993 | México vs EE. UU. | 4 : 0 | México invicto, récord de 28 goles en la edición. |
+| 1998 | México vs EE. UU. | 2 : 0 | México logra su sexto título. |
+| 2000 | Canadá vs Colombia | 2 : 0 | Primer título de Canadá. |
+| 2002 | EE. UU. vs Costa Rica | 2 : 0 | EE. UU. gana su segunda Copa Oro. |
+| 2005 | EE. UU. vs Panamá | 3 : 1 (pen.) | EE. UU. gana su tercera Copa Oro. |
+| 2007 | EE. UU. vs México | 2 : 1 | EE. UU. gana su quinta Copa Oro. |
+| 2009 | México vs EE. UU. | 5 : 0 | Mayor margen de victoria en una final. |
+| 2011 | EE. UU. vs México | 4 : 2 | Final más goleada (6 goles). |
+| 2013 | EE. UU. vs Panamá | 1 : 0 | EE. UU. gana su quinta Copa Oro. |
+| 2015 | México vs Jamaica | 3 : 1 | México gana su décimo título. |
+| 2017 | EE. UU. vs Jamaica | 2 : 1 | EE. UU. gana su sexta Copa Oro. |
+| 2019 | México vs EE. UU. | 1 : 0 | México gana su decimoprimer título. |
+| 2021 | EE. UU. vs México | 1 : 0 | EE. UU. gana su séptimo título. |
+| 2023 | México vs Panamá | 1 : 0 | México gana su decimosegundo título. |
+
+---
+
+### 10. Resumen de la evolución de la Copa Oro  
+- **1963‑1989:** Campeonato de Naciones de la Concacaf, doble función de campeonato continental y fase final de la clasificación mundial.  
+- **1991‑2000:** Rebranding a Copa Oro, expansión gradual de equipos, invitaciones internacionales.  
+- **2001‑2018:** Consolidación de la estructura de grupos + eliminación directa, México y EE. UU. dominan.  
+- **2019‑2025:** Expansión a 16 equipos, sistema propio de clasificación, eliminación de la función de clasificación a la Copa Confederaciones, participación de equipos externos (Catar, Arabia Saudita).  
+
+---
+
+### 11. Conclusiones clave  
+- La Copa Oro es el torneo más prestigioso de la región y el principal medio de reconocimiento de las selecciones nacionales de CONCACAF.  
+- México es el club más dominante, con 13 títulos y la mayor cantidad de participaciones.  
+- EE. UU. y México compiten en la mayoría de las finales, con un historial de rivalidad que ha definido la competición.  
+- La expansión a 16 equipos y la introducción de un sistema de clasificación propio han modernizado el torneo, aumentando la competitividad y la representación de todas las federaciones de la región.  
+- La eliminación de la Copa Confederaciones como vía de clasificación ha cambiado el enfoque de la Copa Oro, convirtiéndola en un evento de prestigio y no de clasificación.  
+
+---

@@ -1,1 +1,122 @@
-[ERROR AL RESUMIR] Club_Atlético_de_Madrid.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 53146, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Club Atlético de Madrid – Resumen histórico y actual (hasta 2025)**  
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Club Atlético de Madrid, S. A. D.  
+- **Apodo:** *Colchoneros* (por la tradición de las fundas de colchón), *Rojiblancos* (por los colores).  
+- **Año de fundación:** 26 abril 1903 (sucursal del Athletic Club de Bilbao).  
+- **Ciudad/país:** Madrid, España.  
+- **Fundación original:** Athletic Club (Sucursal de Madrid) → Athletic Club de Madrid → Atlético Aviación → Club Atlético de Madrid.  
+
+---
+
+### 2. Estadio  
+- **Estadio Metropolitano (actual):**  
+  - **Capacidad:** 70 692 espectadores (ampliado en 2023).  
+  - **Características:** Tres anillos de grada, diseño de Antonio Cruz, inaugurado 16 septiembre 2017.  
+  - **Historia de estadios:** Campo del Retiro (1903‑13), Campo de O'Donnell (1913‑23), Stadium Metropolitano (1923‑66, 1943‑66), Estadio Vicente Calderón (1966‑17), Metropolitano (2017‑actual).  
+
+---
+
+### 3. Colores y escudo  
+- **Colores:** Rojo y blanco (camiseta rojiblanca, pantalón azul).  
+- **Escudo:**  
+  - Osa y madroño (símbolos de Madrid) en la parte superior.  
+  - Siete franjas rojiblancas en la parte inferior.  
+  - Siete estrellas de la Osa Mayor en el borde azul.  
+  - Varias versiones a lo largo de la historia (1903‑2017, 2017‑24, 2024‑actual).  
+
+---
+
+### 4. Historia – Momentos clave y eras  
+| Periodo | Destacados |  
+|---------|------------|  
+| **1903‑1907** | Fundación como sucursal de Bilbao; primer equipo y vestimenta arlequinada. |  
+| **1907‑1924** | Independencia jurídica; cambio de colores a rojiblancos en 1911; primer título regional 1921. |  
+| **1924‑1939** | Consolidación como club propio; participación en la primera edición de la Primera División (1928). |  
+| **1939‑1947** | Fusión con Club Aviación Nacional → Atlético Aviación; obtención de la primera liga (1940) y la Copa Intercontinental (1975). |  
+| **1947‑1970** | Renombrado Club Atlético de Madrid; dominio de la “Delantera de Seda” y “Delantera de Cristal”; primeros títulos nacionales. |  
+| **1970‑1980** | Era “Ala Infernal”; subcampeonato de la Copa de Europa 1974; primer título internacional (Copa Intercontinental 1975). |  
+| **1980‑1990** | Crisis económica, descenso a Segunda División (1981); ascenso 1982; “doblete” 1995‑96 (Liga + Copa). |  
+| **1990‑2000** | Era Gil‑Cerezo: descenso 2000, ascenso 2002; crisis judicial y administrativa. |  
+| **2000‑2010** | Consolidación financiera, inversión internacional (Atlético Kolkata, San Luis, Ottawa). |  
+| **2010‑present** | **Simeone** (2011‑present): Europa League 2012, 2018; Liga 2014, 2021; Supercopa de Europa 2012, 2018; consolidación como club europeo de élite. |  
+
+---
+
+### 5. Palmarés (títulos oficiales)  
+| Competencia | Títulos |  
+|-------------|---------|  
+| **Liga** | 11 (último 2021) |  
+| **Copa del Rey** | 10 (último 2023) |  
+| **Supercopa de España** | 2 (2012, 2018) |  
+| **Copa Eva Duarte / Copa Presidente** | 1 (1947) |  
+| **Recopa de Europa** | 1 (1962) |  
+| **Liga Europa** | 3 (2002, 2003, 2010) |  
+| **Supercopa de Europa** | 3 (2012, 2018, 2022) |  
+| **Copa Intercontinental** | 1 (1975) |  
+| **Segunda División** | 1 (2002) |  
+| **Copa de la Liga** | 1 (1983) |  
+
+> *Total títulos de primer nivel:* 33 (incluye competiciones europeas y la Intercontinental).  
+
+---
+
+### 6. Jugadores legendarios  
+- **Luis Aragonés** – 172 goles, 10 títulos, entrenador (1975‑1987, 1995‑2004).  
+- **Manuel "Monchín" Triana** – ídolo de la era de los “caballeros”.  
+- **Paco Campos, José "El Divino" Calvo** – figuras de la “Delantera de Seda”.  
+- **Javier "El Niño" Collar, Joaquín Peiró** – “Ala Infernal”.  
+- **Radamel Falcao, Diego Forlán, João Félix** – estrellas de la era Simeone.  
+- **Antoine Griezmann** – máximo goleador histórico (200 goles).  
+- **Koke** – capitán, más partidos (553).  
+- **Jan Oblak** – portero más partidos de la era moderna.  
+
+---
+
+### 7. Rivalidades  
+- **Derbi madrileño** – Real Madrid (más de 1 000 encuentros, 1 000+ goles).  
+- **Clásico** – FC Barcelona (títulos europeos, finales de Champions).  
+- **Rivalidades históricas** – Real Sociedad (por la Guerra Civil), Sevilla (por la “derbi” de la zona sur).  
+
+---
+
+### 8. Datos actuales (2025‑26)  
+- **Entrenador:** Diego Simeone (desde 2011).  
+- **Liga:** La Liga (España).  
+- **Posición reciente:** 3.º en la temporada 2024‑25 (punto de referencia).  
+- **Presidente:** Enrique Cerezo Torres (con Miguel Ángel Gil Marín como consejero delegado).  
+- **Socios:** > 150 000 (más de 60 000 abonados).  
+- **Redes sociales:** > 60 millones de seguidores (2023).  
+- **Ingresos:** 416,2 millones € (última temporada).  
+- **Valoración:** 2 100 millones € (estimado).  
+
+---
+
+### 9. Secciones y desarrollo juvenil  
+- **Femenino:** Fundado 2001; 3 Ligas (2017‑19), 2 Copas de la Reina (2016, 2023), 1 Supercopa (2021).  
+- **B & C:** Atlético B (segunda división 2002‑03, 2020‑21); Atlético C (descontinuado 2015).  
+- **Academia:** Más de 70 equipos de cantera, 3 000 jóvenes, 2012 Campeón Mundial Juvenil Sub‑17.  
+
+---
+
+### 10. Aspectos económicos y sociales  
+- **Sociedad Anónima Deportiva:** Conversión 1992; accionariado mayoritario de la familia Gil‑Cerezo.  
+- **Deuda pública:** 215 millones € (2011), reducida a 170 millones € en 2021.  
+- **Fondos internacionales:** Atlético Kolkata (India), Atlético San Luis (México), Atlético Ottawa (Canadá).  
+- **Fundación Atlético:** 1997; programas sociales y educativos.  
+
+---
+
+### 11. Símbolos y cultura  
+- **Himno:** “Himno del Metropolitano” (1947) y “Himno del Centenario” (2003).  
+- **Cresta clásica:** 1947‑2017; rediseño 2017‑24; retorno a la clásica en 2024.  
+- **Camiseta:** Rojiblanca con franjas verticales; pantalón azul; medias rojas.  
+
+---
+
+### 12. Resumen de la trayectoria  
+El Atlético de Madrid, fundado en 1903 como sucursal del Athletic Club de Bilbao, se independizó en 1924 y se consolidó como uno de los clubes más laureados de España y Europa. Con 11 títulos de liga, 10 copas nacionales y 3 títulos europeos (Europa League, Recopa y Supercopa de Europa), el club ha sido pionero en el deporte femenino y en la creación de una cantera de referencia. La era de Diego Simeone ha marcado la última década con títulos internacionales y una filosofía de juego aguerrido.  
+
+El club mantiene una fuerte identidad rojiblanca, un estadio moderno con capacidad de 70 692, y una base de socios y seguidores que supera los 60 millones en redes sociales. Con una valoración de 2 100 millones € y ingresos de 416 millones €, el Atlético de Madrid se posiciona como uno de los clubes más valiosos y competitivos del fútbol mundial.

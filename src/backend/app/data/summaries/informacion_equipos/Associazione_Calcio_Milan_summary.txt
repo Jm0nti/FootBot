@@ -1,1 +1,75 @@
-[ERROR AL RESUMIR] Associazione_Calcio_Milan.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96951, Requested 38880. Please try again in 8h35m57.984s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Identidad del club**
+La Associazione Calcio Milan S.p.A., también conocida como A. C. Milan o simplemente Milan, es un club de fútbol italiano con sede en la ciudad de Milán, en la región de Lombardía. Fundado el 18 de diciembre de 1899 por Alfred Edwards y Herbert Kilpin, entre otros, bajo el nombre de Milan Foot-Ball & Cricket Club, adoptó su actual denominación en 2003, la cual tuvo su origen en 1945. El apodo del club es "Rossoneri" debido a los colores rojo y negro de su uniforme.
+
+**Estadio**
+El equipo juega sus partidos de local en el Stadio Calcistico San Siro, también conocido como Stadio Giuseppe Meazza, desde el año 1926, bajo una capacidad que ha variado a lo largo de los años, llegando a tener una capacidad para aproximadamente 80.000 espectadores en algunos momentos, aunque actualmente se cita una capacidad para albergar a más de 75.000 espectadores. Este estadio es el más grande del fútbol italiano y lo comparte con su acérrimo rival histórico, el Football Club Internazionale, con quien disputa el «Derby della Madonnina».
+
+**Colores y escudo**
+El club es identificado por su camiseta rojinegra, de la que recibe el calificativo de rossoneri. Los colores que siempre lo han distinguido son el rojo y el negro, y fueron escogidos en la reunión constitutiva para infundir respeto a sus rivales en alusión al diablo. El escudo del club consiste en un escudo rojo y negro con un águila dorada en el centro, rodeada por las iniciales "ACM", y representa los colores del club y la bandera del municipio de Milán, con el acrónimo ACM en la parte superior y el año de fundación (1899) en la parte inferior.
+
+**Historia**
+La historia del AC Milan se divide en varias etapas. En sus primeros años, el club conquistó varios títulos, incluyendo la Medaglia del Re y el campeonato italiano de 1901. En la década de 1950, el club experimentó un renacimiento y dominio en el fútbol italiano, conquistando varios títulos de liga y copas. En la década de 1960, el club conquistó su primera Copa de Campeones de Europa y se convirtió en uno de los equipos más destacados del fútbol europeo. En la década de 1970, el club sufrió un declive, pero logró recuperarse y conquistó varios títulos, incluyendo la Copa de Italia y la Supercopa de Europa. En la década de 1990, bajo la dirección de Arrigo Sacchi, el club vivió otra era dorada, conquistando títulos nacionales e internacionales. En la década de 2010, el club experimentó una crisis económica y deportiva, pero en los últimos años ha mostrado signos de recuperación.
+
+**Palmarés**
+El AC Milan ha conquistado numerosos títulos a lo largo de su historia, incluyendo:
+- 19 títulos de campeón de la Serie A
+- 5 títulos de la Coppa Italia
+- 8 títulos de la Supercoppa Italiana
+- 7 títulos de la Copa de Campeones de Europa/Liga de Campeones de la UEFA
+- 2 títulos de la Recopa de Europa
+- 5 títulos de la Supercopa de Europa
+- 3 títulos de la Copa Intercontinental
+- 1 título de la Copa Mundial de Clubes
+- Otros títulos nacionales e internacionales, sumando un total de 52 trofeos oficiales.
+
+**Jugadores legendarios**
+El AC Milan ha tenido varios jugadores legendarios a lo largo de su historia, incluyendo:
+- Gianni Rivera
+- Cesare Maldini
+- Giovanni Trapattoni
+- Pierino Prati
+- José Altafini
+- Gunnar Nordahl
+- Nils Liedholm
+- Franco Baresi
+- Paolo Maldini
+- Marco van Basten
+- Ruud Gullit
+- Andriy Shevchenko
+- Kaka
+- Andrea Pirlo
+- Zlatan Ibrahimovic
+- Alessandro Costacurta
+- Carlo Ancelotti
+- Roberto Donadoni
+- Clarence Seedorf
+
+**Rivalidades**
+El AC Milan tiene varias rivalidades importantes, tanto a nivel nacional como internacional. La rivalidad más enconada es con el Inter de Milán, con quien disputa el «Derby della Madonnina». También tiene una gran rivalidad con la Juventus, con quien ha disputado varias finales importantes. A nivel internacional, la rivalidad más destacada es con el Real Madrid, con quien ha competido por la supremacía en la Copa de Europa/Liga de Campeones.
+
+**Datos actuales**
+En la actualidad, el AC Milan compite en la Serie A del fútbol italiano y ha logrado mantener su posición como uno de los equipos más destacados del fútbol europeo. El club ha experimentado un resurgimiento en los últimos años, gracias en parte a la inversión y la dirección del entrenador Stefano Pioli. El equipo actual del AC Milan cuenta con jugadores talentosos como Rafael Leão, Theo Hernández, Olivier Giroud, y Mike Maignan, y sigue siendo uno de los clubes más seguidos y respetados del fútbol europeo.
+
+**Economía**
+El AC Milan ha tenido un impacto económico significativo en el fútbol italiano y europeo. Ha sido uno de los clubes con mayores ingresos en el pasado, aunque su posición ha decayó en años recientes. El club ha tenido varios patrocinadores principales a lo largo de los años, incluyendo a Emirates, y ha firmado acuerdos con proveedores de indumentaria como Puma. La situación financiera del club ha sido desafiante, con pérdidas netas en varios años, aunque se han tomado medidas para mejorar la situación.
+
+**Relación con stakeholders**
+El AC Milan tiene una relación estrecha con sus stakeholders, incluyendo a sus seguidores, socios, y patrocinadores. El club ha establecido varias iniciativas para involucrar a sus seguidores, como el Milan Channel y la plataforma de contenido en línea. También ha desarrollado relaciones con otras entidades, como la Fundación Milan, que se enfoca en la asistencia social y el desarrollo de la juventud.
+
+**Seguidores**
+El AC Milan tiene una base de seguidores muy amplia y apasionada, tanto en Italia como en todo el mundo. Según varios estudios, el club es uno de los más seguidos en Italia y en Europa, con millones de seguidores en las redes sociales y en los estadios.
+
+**Cultura popular**
+El AC Milan ha tenido un impacto significativo en la cultura popular, con apariciones en películas, música, y otros medios de comunicación. El club ha sido tema de varias películas y documentales, y ha sido mencionado en canciones y libros. La popularidad del club se refleja en su presencia en las redes sociales, con millones de seguidores en plataformas como Facebook, Twitter, y Instagram.
+
+**Presidencia y junta directiva**
+La presidencia y la junta directiva del AC Milan han jugado un papel crucial en la historia del club. Desde su fundación, han habido varios presidentes que han dejado su huella en el club, incluyendo a Silvio Berlusconi, quien fue presidente durante veinte años y es considerado uno de los más importantes en la historia del club.
+
+**Categorías inferiores**
+El AC Milan tiene un sistema de categorías inferiores muy desarrollado, con equipos de diferentes edades que compiten en torneos nacionales e internacionales. El club ha producido varios jugadores talentosos a través de su academia, incluyendo a Paolo Maldini, Franco Baresi, y Alessandro Costacurta.
+
+**Equipo primavera**
+El equipo primavera del AC Milan es el equipo filial del club, que compite en el Campionato Nazionale Primavera. El equipo ha ganado varios títulos, incluyendo el campeonato nacional en 1965.
+
+**Otras secciones deportivas**
+El AC Milan también tiene una sección femenina, que fue establecida en 2018. El club ha invertido en el fútbol femenino y ha desarrollado un equipo competitivo que compite en la Serie A femenina.

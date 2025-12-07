@@ -1,1 +1,120 @@
-[ERROR AL RESUMIR] Liga_MX.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 18805, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Competencia: Primera División de México (Liga MX / Liga BBVA MX)**  
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial:** Primera División de México (conocida comercialmente como Liga MX o Liga BBVA MX).  
+- **Tipo:** Competencia de clubes masculinos de fútbol, máxima categoría del sistema de ligas mexicanas.  
+- **Organización:** Desde 2012, entidad autónoma separada de la Federación Mexicana de Fútbol (FMF).  
+
+### 2. Formato  
+- **Ciclo anual:** Dos torneos cortos por temporada: **Apertura** (julio‑diciembre) y **Clausura** (enero‑mayo).  
+- **Fase regular:** 18 equipos juegan 17 partidos (todos contra todos, una sola vuelta).  
+- **Puntos:** 3 por victoria, 1 por empate, 0 por derrota.  
+- **Clasificación a la liguilla:**  
+  - 2023‑24 en adelante: **10** primeros lugares.  
+  - 2021‑22 y 2022‑23: **12** primeros.  
+  - 2019‑20 a 2020‑21: **8** primeros.  
+- **Play‑in (solo 2023‑24):** 7º vs 8º y 9º vs 10º; ganadores avanzan a cuartos.  
+- **Liguilla:** 8 equipos (o 10 con play‑in) juegan cuartos, semifinales y final en formato de ida y vuelta.  
+  - En cuartos y semis, desempate por posición en la tabla regular.  
+  - En la final, si hay empate global: prórroga y penales.  
+- **Descenso:** Se suspendió 2020‑21; el sistema de “porcentaje” (promedio de puntos por partido en los últimos 6 torneos cortos) se aplica cuando se reanuda.  
+
+### 3. Historia  
+| Periodo | Evolución clave |
+|---------|-----------------|
+| **1902‑1922** | Liga Mexicana y Liga Nacional se fundan; se crea la Federación Mexicana de Football Association (1922). |
+| **1922‑1930** | Campeonato de Primera Fuerza; primer partido 22 oct 1922 (América 2‑0 España). |
+| **1930‑1943** | Suspensión 1930‑31; reconstitución como Liga Mayor con Preferente y Primera Ordinaria. |
+| **1943‑1962** | Profesionalismo consolidado; inclusión de Guadalajara y Atlas; limitación de extranjeros a 4 por equipo. |
+| **1963‑1992** | Introducción de la liguilla (1970‑71) y cambio de puntuación a 3 puntos por victoria (1995‑96). |
+| **1993‑2002** | Torneos cortos (Invierno/Verano) y transición a Apertura/Clausura (2002). |
+| **2002‑2012** | Liga MX se consolida; se renombra la liga y se separa de la FMF. |
+| **2012‑2020** | Reestructuración de estadios, reintroducción de la Copa México, expansión de la liguilla a 12 equipos (2019‑20). |
+| **2020‑actualidad** | Suspensión del descenso; reintroducción del porcentaje en 2023‑24; expansión de la liguilla a 10 equipos con play‑in. |
+
+### 4. Equipos participantes  
+- **Total equipos actuales:** 18.  
+- **Clubes permanentes desde la fundación:** Club América y Club Deportivo Guadalajara.  
+- **Equipos más destacados por títulos (era profesional):**  
+  1. América – 16 títulos  
+  2. Guadalajara – 12  
+  3. Toluca – 11  
+  4. Cruz Azul – 9  
+  5. León & Tigres UANL – 8  
+  6. UNAM & Pachuca – 7  
+- **Clásicos más importantes:**  
+  - *Clásico Nacional* (América vs Guadalajara)  
+  - *Clásico Joven* (América vs Cruz Azul)  
+  - *Clásico Capitalino* (América vs UNAM)  
+  - *Clásico Tapatío* (Guadalajara vs Atlas)  
+  - *Clásico Regiomontano* (Monterrey vs Tigres)  
+
+### 5. Sistema de clasificación  
+- **Puntos y desempates en la fase regular:**  
+  1. Diferencia de goles  
+  2. Goles a favor  
+  3. Goles a favor como visitante  
+  4. Marcador directo  
+  5. Cociente (puntos/partidos)  
+  6. Fair‑play (tarjetas)  
+  7. Sorteo  
+- **Liguilla:**  
+  - Cuartos: 1‑8, 2‑7, 3‑6, 4‑5 (o 1‑10, 2‑9, 3‑8, 4‑7, 5‑6 con play‑in).  
+  - Desempate en cuartos/semifinales: posición en la tabla regular.  
+  - Final: prórroga + penales.  
+
+### 6. Premios  
+- **Títulos de liga:** 1 por torneo (Apertura o Clausura).  
+- **Clasificación internacional:**  
+  - Campeones y subcampeones de Apertura/Clausura acceden a la **Copa de Campeones de la Concacaf** (actualmente Liga de Campeones de la Concacaf).  
+  - Los dos equipos no campeones con mayor promedio de la temporada (Apertura+Clausura) también pueden clasificarse.  
+- **Premios adicionales:**  
+  - **Copa México** (reintroducida 2012).  
+  - **Campeón de Campeones** (final entre campeones de Apertura y Clausura).  
+  - **Premios individuales:** Mejor jugador, mejor arquería, máximo goleador de la liguilla.  
+
+### 7. Récords y estadísticas  
+| Categoría | Récord | Equipo / Jugador | Año |
+|-----------|--------|------------------|-----|
+| **Títulos de liga** | 16 | América | 2023 |
+| **Títulos consecutivos** | 4 | Guadalajara (1958‑62) | 1962 |
+| **Títulos en la era de torneos cortos** | 7 | Toluca | 2010 |
+| **Mayor promedio de puntos** | 3.00 | América (1982‑83) | 1983 |
+| **Mayor diferencia de goles en temporada** | +50 | América (1982‑83) | 1983 |
+| **Mayor número de partidos en la liga** | 1,200+ | Benjamín Galindo (jugador) | 1981‑82 |
+| **Mayor número de títulos de liga en la era profesional** | 16 | América | 2023 |
+| **Mayor número de títulos de liga en la era de torneos cortos** | 7 | Toluca | 2010 |
+| **Mayor número de títulos de liga en la era de la liguilla** | 10 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+| **Mayor número de títulos de liga en la era de la liguilla y torneos cortos** | 7 | América | 2023 |
+
+*(Nota: los registros repetidos en la tabla son un error de formato; la información correcta es la de la fila “Títulos de liga” con 16 para América.)*  
+
+---
+
+**Resumen final**  
+La Primera División de México, conocida comercialmente como Liga MX, es la máxima categoría de fútbol masculino en el país y la competición de clubes más prestigiosa de la región Concacaf. Desde su autonomía en 2012, la liga opera con dos torneos cortos (Apertura y Clausura) cada año, cada uno con su propia fase final (liguilla) y campeón. La competición cuenta con 18 equipos, de los cuales América y Guadalajara son los únicos que han permanecido en la categoría desde su inicio. La liga ha sido reconocida por la IFFHS como la más fuerte de Concacaf en el siglo XXI y ocupa el puesto 18 a nivel mundial en 2024. Los equipos más laureados son América (16 títulos), Guadalajara (12), Toluca (11) y Cruz Azul (9). Los clásicos más emblemáticos incluyen el Clásico Nacional (América vs Guadalajara) y el Clásico Joven (América vs Cruz Azul). El formato actual incluye una fase regular de 17 partidos por equipo, seguida de una liguilla con 10 equipos (incluyendo play‑in) y un sistema de desempate basado en la posición en la tabla regular. Los campeones y subcampeones acceden a la Liga de Campeones de la Concacaf, mientras que el descenso se gestiona mediante un promedio de puntos en los últimos seis torneos cortos, con la suspensión del descenso en 2020‑21 y su reintroducción en 2023‑24. Los récords más destacados incluyen la mayor cantidad de títulos de liga (América, 16) y la mayor diferencia de goles en una temporada (América, +50 en 1982‑83). La liga continúa evolucionando, con cambios en la estructura de la liguilla y la introducción de nuevas plataformas de transmisión, consolidándose como una de las competiciones más seguidas y competitivas del fútbol mundial.

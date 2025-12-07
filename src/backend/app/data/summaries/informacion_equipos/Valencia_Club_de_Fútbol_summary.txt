@@ -1,1 +1,119 @@
-[ERROR AL RESUMIR] Valencia_Club_de_Fútbol.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 42866, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Valencia Club de Fútbol – Resumen histórico y actual (hasta 2025)**  
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo**: *Valencia Club de Fútbol, S. A. D.*  
+- **Apodo**: *El Che* (derivado de “che” valenciano).  
+- **Fundación**: 18 marzo 1919, bajo el nombre de *Valencia Foot‑ball Club*; acta de constitución del 1 marzo 1919 en el Bar Torino.  
+- **Ciudad / País**: Valencia, Comunidad Valenciana, España.  
+- **Evolución de denominaciones**:  
+  - 1919‑1941: *Valencia Foot‑ball Club*  
+  - 1941‑1992: *Valencia Club de Fútbol*  
+  - 1992‑hoy: *Valencia Club de Fútbol, S. A. D.*  
+
+---
+
+### 2. Estadio  
+- **Nombre**: *Estadio de Mestalla* (cambió a *Estadio Luis Casanova* 1969‑1994 y volvió a Mestalla en 1994).  
+- **Capacidad**: 49 430 espectadores (aforo actual 48 600 tras ajustes de seguridad).  
+- **Características**:  
+  - Inaugurado 20 mayo 1923, 100 × 59 m.  
+  - Renovaciones: “Gran Mestalla” (1955‑1960), ampliación 1998 (105 × 68 m).  
+  - Instalaciones de media naranja y negro, murciélago en la fachada.  
+  - Sede de 31 partidos internacionales de la Selección española y de la Selección olímpica en los Juegos de Barcelona 1992.  
+
+---
+
+### 3. Colores y escudo  
+- **Colores**: Blanco, negro y rojo (senyera valenciana).  
+- **Escudo**:  
+  - Murciélago negro posado sobre escudo con franja azul superior y nueve franjas verticales (5 amarillas, 4 rojas) que representan la bandera de Valencia.  
+  - Variaciones: 2018 nuevo logotipo con murciélago naranja; 2018‑19 escudo dorado y negro con “CENTENARI”.  
+
+---
+
+### 4. Historia – Momentos clave y eras doradas  
+
+| Periodo | Eventos principales | Títulos | Comentario |
+|---------|---------------------|---------|------------|
+| **1919‑1939** | Fundación, primer estadio (Campo de Algirós), ascenso a Primera (1931). | 1 Campeonato regional (1922‑23). | Consolidación en la máxima categoría. |
+| **1940‑1959** | “Delantera eléctrica” (Epi, Mundo, Asensi, Gorostiza). 7 títulos (4 Ligas, 3 Copas). | 4 Ligas (1942, 1944, 1947, 1951). 3 Copas (1941, 1949, 1954). | Era de oro bajo Luis Casanova. |
+| **1960‑1969** | Primeras participaciones europeas (Copa de Ferias, Copa de la UEFA). 1966 Pequeña Copa del Mundo de Clubes. | 1 Copa de Ferias (1962, 1963). | Consolidación internacional. |
+| **1970‑1979** | Llegada de Alfredo Di Stéfano como técnico (1970‑1973). 1971 subcampeón de Liga, 1979 Copa. | 1 Copa (1979). | Resurgimiento bajo Di Stéfano. |
+| **1980‑1989** | Mario Alberto Kempes (1976‑1984). 1980 Recopa de Europa, 1980 Supercopa de Europa. | 1 Recopa (1980), 1 Supercopa (1980). | Época de oro internacional. |
+| **1990‑1999** | Guus Hiddink (1991‑92), 1998‑99 Copa del Rey. 1999‑2000 Champions League final (derrota). | 1 Copa del Rey (1998‑99). | Primeras finales europeas. |
+| **2000‑2004** | Rafa Benítez (2001‑02) – Liga 2002; 2003‑04 – doblete (Liga + Copa de la UEFA). 2004 IFFHS “Mejor club del mundo”. | 2 Ligas (2002, 2004), 1 Copa de la UEFA (2004). | Era dorada moderna. |
+| **2005‑2014** | Crisis económica, venta de jugadores (Villa, Silva, Mata). 2008 Copa (7ª). 2014 venta a Peter Lim. | 1 Copa (2008). | Periodo de crisis y reestructuración. |
+| **2014‑2025** | Peter Lim compra 2014, intento de reconstrucción, fichajes jóvenes (Gonçalo Guedes, etc.). 2019 Copa del Rey (victoria). 2020‑21 venta de Ferran Torres. 2022‑23 venta de Carlos Soler. | 1 Copa del Rey (2019). | Periodo de altibajos, gestión de deuda y cambios de plantilla. |
+
+---
+
+### 5. Palmarés (títulos oficiales)  
+| Competencia | Títulos | Subcampeonatos | Observaciones |
+|-------------|---------|----------------|---------------|
+| **Primera División** | 6 (1942, 1944, 1947, 1971, 2002, 2004) | 6 | 5.º club español con más títulos de liga. |
+| **Copa del Rey** | 8 (1941, 1949, 1954, 1979, 1998‑99, 2008, 2019, 2022) | – | 5.º club español con más Copas. |
+| **Supercopa de España** | 1 (2004) | – |  |
+| **Copa Eva Duarte** | 1 (1948) | – |  |
+| **Copa de la UEFA / Europa League** | 1 (2004) | – |  |
+| **Copa de Ferias** | 2 (1962, 1963) | – |  |
+| **Supercopa de Europa** | 2 (1980, 1981) | – |  |
+| **Recopa de Europa** | 1 (1980) | – |  |
+| **Copa Intertoto** | 1 (2000) | – |  |
+| **Pequeña Copa del Mundo de Clubes** | 1 (1966) | – | No reconocido oficialmente por FIFA. |
+| **Total de títulos oficiales** | 25 | – | 5.º club español con más trofeos oficiales. |
+
+---
+
+### 6. Jugadores legendarios  
+| Ídolo | Nacionalidad | Período | Logros con el club | Otros reconocimientos |
+|-------|--------------|---------|--------------------|------------------------|
+| Alfredo Di Stéfano | Argentina/Spain | 1941‑1945 (jugador), 1970‑1973 (técnico) | 4 Ligas, 3 Copas | Salón de la Fama FIFA, 5.º Trofeo Zarra |
+| Mario Alberto Kempes | Argentina | 1976‑1984 | 1 Recopa, 1 Supercopa | Salón de la Fama FIFA |
+| Romário | Brasil | 1994‑1996 | 1 Copa de la UEFA (1994) | Salón de la Fama FIFA |
+| Jorge Valdano | Argentina | 1994‑1996 (jugador), 1997‑2000 (técnico) | 1 Copa de la UEFA (1994) |  |
+| Didier Deschamps | Francia | 1994‑1996 | 1 Copa de la UEFA (1994) | Salón de la Fama FIFA |
+| David Villa | España | 2005‑2010 | 1 Copa del Rey (2009) | Bota de Plata 2010, Balón de Bronce 2010 |
+| Carlos Marchena | España | 2005‑2010 | 1 Copa del Rey (2009) |  |
+| David Silva | España | 2005‑2010 | 1 Copa del Rey (2009) |  |
+| Juan Mata | España | 2005‑2010 | 1 Copa del Rey (2009) |  |
+| David Albelda | España | 1998‑2007 | 1 Copa del Rey (2009) |  |
+| Miguel Ángel Angulo | España | 2008‑2013 | 1 Copa del Rey (2009) |  |
+| Carlos Soler | España | 2014‑2023 | 1 Copa del Rey (2019) |  |
+| Otros: Fabián Ayala, Éver Banega, Cristhian Mosquera, Diego López, Giorgi Mamardashvili |  |  |  |
+
+---
+
+### 7. Rivalidades  
+- **Derbi Valenciano**: *Valencia CF vs Levante UD* – rivalidad histórica desde 1920, intensificada en la era de la Liga.  
+- **Derbi Autonómico**: *Valencia CF vs Villarreal CF* – competencia por puestos europeos y territorio valenciano.  
+- **Derbis de la Comunidad**: *Elche CF, Hércules CF, Castellón* – encuentros frecuentes en la liga.  
+- **Rivalidades nacionales**: *Real Madrid, FC Barcelona, Atlético de Madrid, Athletic Club* – enfrentamientos en competiciones de alto nivel y en finales de Copa.  
+
+---
+
+### 8. Datos actuales (2024‑25)  
+- **Entrenador**: *Pablo García Pitarch* (desde 2023).  
+- **Liga**: *LaLiga EA Sports* (Primera División).  
+- **Posición reciente**: 9.º en la temporada 2023‑24, 12.º en 2024‑25 (última jornada).  
+- **Propietario**: *Peter Lim* (Meriton Holdings Ltd., 82 % de las acciones tras ampliación de capital 2016).  
+- **Valoración**: 57.º club más valioso mundialmente (~216 m €).  
+- **Deuda**: > 150 m € en los últimos años; refinanciación con Bankia y Generalidad Valenciana en 2014.  
+- **Afición**: 4.º club con mayor porcentaje de simpatizantes en España (3,5 %) y > 10 millones de seguidores en redes sociales (2024).  
+- **Infraestructura**: Ciudad Deportiva de Paterna (180 000 m², 13 campos), Mestalla (capacidad 49 430).  
+- **Futuro**: Proyecto “Nuevo Mestalla” (≈ 75 100 plazas) en Benicalap, construcción en pausa desde 2009.  
+
+---
+
+### 9. Otros datos relevantes  
+- **Salón de la Fama FIFA**: 5 exjugadores del club.  
+- **FIFA 100**: 4 personalidades del club.  
+- **Premios individuales**: 5 Trofeo Zarra, 9 Trofeo Zamora, 6 Trofeo Pichichi, 10 Premio Don Balón.  
+- **Participación internacional**: 77 jugadores en la Selección española (5.º club que aporta más internacionales).  
+- **Rivalidades internacionales**: 41 competiciones europeas disputadas, 13 finales de Champions, 2 subcampeonatos (2000, 2001).  
+
+---
+
+**Resumen final**  
+El Valencia Club de Fútbol, fundado en 1919, es uno de los clubes más emblemáticos de España, con una rica historia de éxitos nacionales e internacionales, una afición apasionada y una identidad profundamente arraigada en la cultura valenciana. A lo largo de más de un siglo, el club ha atravesado periodos de gloria (delantera eléctrica, era de Kempes, doblete 2003‑04) y crisis (deuda, venta de jugadores, cambios de propietarios). En la actualidad, bajo la dirección de Peter Lim y el técnico Pablo Pitarch, el club busca consolidar su posición en la Primera División y recuperar la competitividad europea, mientras gestiona una deuda significativa y continúa con el proyecto de un nuevo estadio. El legado de leyendas como Di Stéfano, Kempes y Villa, junto con la pasión de sus seguidores, mantiene vivo el espíritu del “Che” en cada partido disputado en el histórico Mestalla.

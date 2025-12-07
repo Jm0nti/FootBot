@@ -1,1 +1,63 @@
-[ERROR AL RESUMIR] Robert_Lewandowski.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96956, Requested 8371. Please try again in 1h16m42.528s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Robert Lewandowski**
+
+**Datos básicos**
+
+- Nombre completo: Robert Lewandowski
+- Apodo: Lewy
+- Fecha de nacimiento: 21 de agosto de 1988
+- Nacionalidad: Polaca
+
+**Información física**
+
+- Altura: 1,85 m
+- Peso: 80 kg
+- Posición principal: Delantero
+- Pierna dominante: Derecha
+
+**Carrera profesional**
+
+- Comenzó su carrera en el Delta Varsovia en 2005.
+- Fue transferido al Legia de Varsovia en 2005, donde jugó en el equipo filial.
+- En 2006 se trasladó al Znicz Pruszków, donde fue máximo goleador en dos ocasiones.
+- En 2008 se unió al Lech Poznań de la Primera División de Polonia, ganando la Ekstraklasa 2009-10 y siendo el máximo goleador.
+- En 2010, fue transferido al Borussia Dortmund alemán dirigido por Jürgen Klopp por 4,5 millones de euros.
+- En 2014, fichó por el Bayern de Múnich, donde ganó el título de la Bundesliga en cada una de sus primeras ocho temporadas.
+- En 2022, fichó por el F. C. Barcelona de la Primera División de España.
+- **Bayern de Múnich** (2014-2022)
+ + Debut: 9 de julio de 2014
+ + Logros importantes: Tres títulos de Bundesliga, Supercopa de Alemania, Liga de Campeones de la UEFA, Copa Mundial de Clubes de la FIFA
+- **F. C. Barcelona** (2022-actualidad)
+ + Debut: 16 de julio de 2022
+ + Logros importantes: Supercopa de España 2023, Liga y Copa del Rey 2024-25
+
+**Estadísticas destacadas**
+
+- Ha anotado más de 300 goles en la Bundesliga (el segundo máximo goleador de todos los tiempos en la Bundesliga, solo detrás de los 365 goles de la Bundesliga de Gerd Müller).
+- Es el máximo goleador extranjero de todos los tiempos en la Bundesliga.
+- Ganó el premio al máximo goleador de la Bundesliga en siete temporadas.
+- Es el tercer máximo goleador en la historia de la Liga de Campeones de la UEFA.
+- Ha sido nombrado Jugador de la Temporada de la VDV Bundesliga cinco veces, un récord.
+- Ha anotado 84 goles internacionales, siendo el máximo goleador de todos los tiempos de Polonia.
+- Goles: 750 en 965 partidos (promedio de 0,78 goles por partido)
+- Asistencias: 150 en 965 partidos (promedio de 0,16 asistencias por partido)
+- Títulos ganados: 10 títulos nacionales e internacionales
+
+**Estilo de juego**
+
+- Es considerado uno de los mejores delanteros del mundo y de la historia.
+- Ostenta algunas de las mejores marcas, como el triplete, cuadruplete y quintuplete más rápidos en un mismo encuentro.
+- Es el autor del triplete, cuadruplete y quintuplete más rápidos en un mismo encuentro.
+- Es el suplente que más goles marcó tras ingresar a un partido, con cuatro récord Guinness reconocidos.
+- Fortalezas: Técnica, velocidad, habilidad para marcar goles en situaciones de uno contra uno
+- Características técnicas: Excelente control del balón, habilidad para driblar, visión de juego
+- Rol táctico: Delantero central, anotador de goles
+
+**Datos contextuales**
+
+- Ha sido nombrado el Futbolista Polaco del Año diez veces y la Personalidad Deportiva Polaca del Año tres veces.
+- Con 26 trofeos es el futbolista polaco más exitoso de la historia.
+- En 2020, ganó el premio al mejor jugador masculino de la FIFA (retenido en 2021) y el premio al jugador masculino del año de la UEFA.
+- Ha sido nombrado en el Equipo del Año de la UEFA dos veces y Equipo de la Temporada de la Liga de Campeones de la UEFA cuatro veces.
+- Recibió la Cruz de Comandante de la Orden de Polonia Restituta por "logros deportivos sobresalientes y promoción de Polonia en el ámbito internacional".
+- Es licenciado en Educación Física y Deporte por la Wyższa Szkoła de Varsovia.
+- Es el primer jugador en ganar los 3 torneos más importantes de Europa (Liga, Copa y Champions) en la misma temporada, siendo a su vez, el máximo goleador en las tres competiciones.

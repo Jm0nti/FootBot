@@ -1,1 +1,64 @@
-[ERROR AL RESUMIR] Samuel_Etoo.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96954, Requested 7324. Please try again in 1h1m36.192s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Samuel Eto'o**
+
+**Datos Básicos**
+
+* Nombre completo: Samuel Eto'o Fils
+* Apodo: Samuel Eto'o
+* Fecha de nacimiento: 10 de marzo de 1981
+* Nacionalidad: Camerunés nacionalizado español
+
+**Información Física**
+
+* Altura: No se proporciona información
+* Peso: No se proporciona información
+* Posición principal: Delantero
+* Pierna dominante: No se proporciona información
+
+**Carrera Profesional**
+
+Samuel Eto'o ha jugado en varios clubes a lo largo de su carrera. A continuación, se presentan algunos de los equipos donde ha jugado:
+
+* 1996-1999: Club Deportivo Leganés, Real Madrid Castilla y Real Madrid
+* 1999-2004: RCD Mallorca
+* 2004-2009: FC Barcelona
+* 2009-2011: Inter de Milán
+* 2011-2013: Anzhi Makhachkala
+* 2013-2014: Chelsea
+* 2014: Everton
+* 2014-2015: Sampdoria
+* 2015-2018: Antalyaspor
+* 2018-2019: Catar SC
+
+**Logros Importantes**
+
+* Campeón de la Copa Intercontinental con el Real Madrid en 1998
+* Campeón de la Copa del Rey con el RCD Mallorca en 2003
+* Campeón de la Liga española con el FC Barcelona en 2005 y 2006
+* Campeón de la Liga de Campeones de la UEFA con el FC Barcelona en 2006 y con el Inter de Milán en 2010
+* Campeón de la Copa Italia con el Inter de Milán en 2010
+* Campeón del Mundial de Clubes con el Inter de Milán en 2010
+* Máximo goleador de la Liga española en 2005-06 con 26 goles
+* Máximo goleador de la Serie A con el Inter de Milán en 2009-10 con 20 goles
+* Mejor jugador de la Final de la Liga de Campeones de la UEFA en 2006
+* Mejor jugador de la Final del Mundial de Clubes en 2010
+* Balón de Oro del Mundial de Clubes en 2010
+
+**Estadísticas Destacadas**
+
+* Goles: más de 400 goles en clubes y selección
+* Títulos ganados: 4 UEFA Champions League, 2 Copas de la UEFA, 3 Copas del Mundo de Clubes, 1 Copa Africana de Naciones, 1 Copa de África de Naciones Sub-20, 1 Medalla de Oro en los Juegos Olímpicos de Sídney
+* Récords: único camerunés y único africano en ganar cuatro UEFA Champions League, único jugador africano en participar en cuatro Copas Mundiales de fútbol, uno de los tres jugadores a nivel mundial en marcar en siete torneos oficiales distintos en un mismo año natural
+
+**Estilo de Juego**
+
+Samuel Eto'o es un delantero habilidoso y rápido, conocido por su capacidad para marcar goles importantes en partidos importantes. Es un jugador con una gran visión del juego y es capaz de crear oportunidades para sus compañeros de equipo. También es conocido por su capacidad para liderar a su equipo y motivar a sus compañeros.
+
+**Selección Nacional**
+
+Samuel Eto'o ha sido internacional con la selección de fútbol de Camerún en 118 ocasiones y ha anotado 56 goles, siendo el máximo goleador histórico de la selección. Ha participado en cuatro Copas Mundiales de Fútbol y ha ganado una Copa Africana de Naciones y una Copa de África de Naciones Sub-20.
+
+**Datos Contextuales**
+
+* En 2021, Eto'o fue elegido presidente de la Federación Camerunesa de Fútbol.
+* En 2023, fue acusado de participar en un plan de arreglo de partidos.
+* En 2025, el Tribunal Arbitral del Deporte ordenó la reincorporación de la candidatura de Samuel Eto'o en la lista de candidatos para la elección de los miembros del comité ejecutivo de la CAF.

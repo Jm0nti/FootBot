@@ -1,1 +1,116 @@
-[ERROR AL RESUMIR] Real_Sociedad_de_Fútbol.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 8417, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Real Sociedad de Fútbol – Resumen Completo y Detallado**
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Real Sociedad de Fútbol, S. A. D.  
+- **Apodo:** La Real, Txuri‑urdin (blanquiazules)  
+- **Fundación:** 7 septiembre 1909 (orígenes 1904 con Recreation Club → San Sebastián Foot‑Ball Club → Sociedad de Foot‑Ball de San Sebastián)  
+- **Ciudad/País:** San Sebastián, Guipúzcoa, España  
+
+---
+
+### 2. Estadio  
+| Aspecto | Detalle |
+|---------|---------|
+| **Nombre actual (2025‑26):** Anoeta (cambio a Reale Arena 2025‑2027 por patrocinio, volverá a Anoeta en 2026) |
+| **Capacidad:** ~40 000 espectadores (ampliada de 29 000 → 32 076 en 1998 → 40 000 tras remodelación 2017‑2019) |
+| **Características:** Estadio multiusos con pista de atletismo original; remodelación eliminó pista y añadió tribunas; incluye zona de prensa, tribuna VIP, y zona de prensa. |
+| **Ubicación:** Barrio de Amara, San Sebastián. |
+| **Abonados:** Más de 37 000 (2022). |
+| **Otros recintos históricos:** Campo de Atocha (1913‑1993), Ondarreta (1906‑1913). |
+
+---
+
+### 3. Colores y escudo  
+- **Colores:** Blanco y azul (blanquiazules), apodo Txuri‑urdin.  
+- **Escudo:** Evolución desde la “Sociedad de Foot‑Ball” hasta la actual “Real Sociedad de Fútbol”. El escudo lleva la corona real (reintroducida 1940) y el símbolo vasco.  
+- **Himno oficial:** “Txuri‑urdin” (composición de Ricardo Sabadie, letra de F. Ugarte, versión oficial 1970; modificación 2018).  
+- **Otros himnos:** “Bat, bi, hiru, lau” (Xabier Amuriza), himno del centenario “Ehun urtez” (Mikel Erentxun + Andoni Egaña).  
+
+---
+
+### 4. Historia  
+- **Orígenes (1903‑1909):** Recreation Club → San Sebastián Foot‑Ball Club → Sociedad de Foot‑Ball de San Sebastián.  
+- **Fundación legal:** 7 septiembre 1909.  
+- **Título “Real”:** Otorgado por el rey Alfonso XIII el 11 febrero 1910.  
+- **Participación en la primera Liga (1929):** Club fundador de la Primera División.  
+- **Época dorada (1980‑82):** Campeones de La Liga 1980‑81 y 1981‑82; subcampeones en 1982‑83, 1983‑84, 1984‑85.  
+- **Unbeaten record:** 38 jornadas sin perder (1979‑80), superado en 2018.  
+- **Clasificación histórica:** 8.º lugar en la tabla de puntos de la Primera División.  
+- **Relegaciones:** Nunca descendió a la Segunda División (solo 3 títulos de Segunda).  
+- **Cambios de denominación:**  
+  - 1909‑10: Sociedad de Foot‑Ball de San Sebastián  
+  - 1910‑31: Real Sociedad de Foot‑Ball de San Sebastián  
+  - 1931‑31: Sociedad de Foot‑Ball de San Sebastián (eliminación de “Real”)  
+  - 1931‑40: Donostia FC  
+  - 1940‑41: Real Sociedad (restauración)  
+  - 1941‑92: Real Sociedad de Fútbol (castellanización)  
+  - 1992‑presente: Real Sociedad de Fútbol S. A. D. (sociedad anónima deportiva)  
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Fechas | Observaciones |
+|-------------|---------|--------|---------------|
+| **Liga (Primera División)** | 2 | 1980‑81, 1981‑82 | Campeones consecutivos |
+| **Copa del Rey** | 3 | 1909 (Club Ciclista), 1987, 2020 | 5 finales adicionales |
+| **Supercopa de España** | 1 | 1982 (primera edición) | |
+| **Segunda División** | 3 | 1945‑46, 1958‑59, 2004‑05 | |
+| **Campeonatos de Guipúzcoa** | 5 | 1920‑21, 1921‑22, 1922‑23, 1923‑24, 1924‑25 | |
+| **Campeonatos Mancomunados** | 2 | 1925‑26, 1926‑27 | |
+| **Internacionales** |  |  | 9 participaciones en la UEFA Europa League (ex‑Copa de la UEFA), 1 en la Recopa de Europa, 4 en la UEFA Champions League |
+| **Otros trofeos amistosos** |  |  | Trofeo Internacional de San Sebastián (1923), Trofeo Reino de Navarra (1981, 1994, 2001, 2010), etc. |
+
+---
+
+### 6. Jugadores legendarios  
+| Jugador | Posición | Años en el club | Partidos oficiales | Goles | Comentario |
+|---------|----------|-----------------|--------------------|-------|------------|
+| **Alberto Górriz** | Portero | 1975‑1989 | 599 | 0 | Más partidos oficiales de la Real (461 en La Liga) |
+| **Luis Miguel Arconada** | Portero | 1979‑1995 | 551 | 0 | Guardameta más histórico, 16 temporadas |
+| **Jesús María Satrústegui** | Delantero | 1979‑1990 | 162 | 162 | Máximo goleador histórico (33 más que Roberto López Ufarte) |
+| **Roberto López Ufarte** | Delantero | 1979‑1990 | 162 | 129 | Segundo máximo goleador |
+| **Xabi Alonso** | Mediocampista | 1999‑2005, 2010‑2011 | 200+ | 0 | Campeón del mundo 2010 con España |
+| **Mikel Oyarzabal** | Delantero | 2015‑2022 | 274 | 107 | Más partidos de la plantilla activa (2022) |
+| **Asier Illarramendi** | Mediocampista | 2014‑2022 | 300+ | 0 | Máximo número de temporadas en la primera plantilla (8) |
+| **Darko Kovačević** | Delantero | 1996‑1999, 2001‑2007 | 284 | 107 | Jugador extranjero con más partidos y goles |
+| **Nihat Kahveci** | Delantero | 2004‑2007 | 142 | 58 | Único extranjero en la alineación histórica ideal |
+
+---
+
+### 7. Rivalidades  
+- **Derbi Vasco:** Contra el Athletic Club (Bilbao).  
+- **Otros clásicos:** No se menciona rivalidad específica con equipos de la misma región, pero la Real es considerada la sexta club que más internacionales ha aportado a la selección española.  
+
+---
+
+### 8. Datos actuales (2025‑26)  
+- **Liga:** Primera División de LaLiga (participación ininterrumpida desde 2006‑07).  
+- **Entrenador:** No se indica en el documento.  
+- **Situación reciente:** La Real mantiene su posición en la tabla de la Primera División; no se detallan resultados específicos.  
+- **Plantilla:** Se menciona que los jugadores con dorsal > 25 pertenecen al “B” (Sanse). Los jugadores activos incluyen a Mikel Oyarzabal y Asier Illarramendi.  
+- **Directiva:** No se especifica en el documento.  
+- **Afición:** 37 584 abonados (2022), 1,3 % de la población española, 5 % de la provincia de Guipúzcoa.  
+
+---
+
+### 9. Secciones y categorías inferiores  
+- **Real Sociedad “B” (Sanse):** Fundado 1951, oficial 1955; debut en Segunda División 2021‑22 con media edad 20,3 años.  
+- **Real Sociedad “C”:** Fundado 1998; disputa Segunda RFEF (Grupo 2) 2021‑22.  
+- **Sección femenina:** Creada 2004; ascenso a Primera División 2005.  
+- **Otras secciones deportivas:** Atletismo, hockey hierba, pelota vasca, actividades subacuáticas.  
+
+---
+
+### 10. Datos de interés adicional  
+- **Club clásico:** Reconocido por la FIFA como uno de los “clubes clásicos” de España.  
+- **Premios y reconocimientos:** Premio “Jugador n.º 12” de la LFP (2011).  
+- **Puente “La Real”:** Dedicado al club en 2010 sobre el río Urumea.  
+- **Cantera:** Zubieta (7 campos, 4 naturales, 3 artificiales).  
+- **Contribución a la selección española:** Sexto club con más internacionales (19).  
+
+---
+
+**Resumen final:**  
+La Real Sociedad de Fútbol, con su identidad “Txuri‑urdin” y su historia que se remonta a 1904, es uno de los pilares del fútbol español. Con dos títulos de liga, tres Copas del Rey, una Supercopa y una sólida trayectoria en competiciones europeas, el club ha mantenido una presencia constante en la Primera División sin descender a la Segunda. Su estadio, el Anoeta, ha evolucionado hasta alcanzar una capacidad de 40 000 espectadores, y su afición, representada por más de 37 000 abonados, lo posiciona como el séptimo club con mayor número de simpatizantes en España. La rivalidad con el Athletic Club y la contribución de jugadores legendarios como Arconada, Górriz, Satrústegui y Alonso consolidan su legado. En la temporada 2025‑26, la Real continúa compitiendo en LaLiga, con una plantilla que incluye a jugadores destacados como Oyarzabal e Illarramendi, y mantiene su tradición de formación de talento a través de sus equipos “B” y “C”.

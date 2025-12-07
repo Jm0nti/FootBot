@@ -1,1 +1,137 @@
-[ERROR AL RESUMIR] Aston_Villa_Football_Club.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96950, Requested 10143. Please try again in 1h42m8.352s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Aston Villa Football Club – Resumen Completo (2025)**  
+
+---
+
+### 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| **Nombre completo** | Aston Villa Football Club |
+| **Apodo** | The Villains, The Villa, The Granates |
+| **Fundación** | 1874 (marzo) por miembros de la Cruz Villa Wesleyan Chapel en Handsworth, Birmingham |
+| **Ciudad / País** | Birmingham, Inglaterra, Reino Unido |
+| **Fundadores** | Jack Hughes, Frederick Matthews, Walter Price, William Scattergood |
+| **Fundador de la liga** | William McGregor (fundó la Football League en 1888) |
+| **Fundador de la Premier League** | Sí (1992) – uno de los tres clubes que fundaron tanto la Football League como la Premier League |
+
+---
+
+### 2. Estadio – Villa Park  
+- **Nombre**: Villa Park (inaugurado 1897)  
+- **Capacidad**: 42 682 espectadores (capacidad actual; ampliación prevista a ~51 000 con la obra del North Stand)  
+- **Características**:  
+  - Estadio de élite según UEFA.  
+  - Ha albergado 16 partidos internacionales de la Selección inglesa (desde 1899).  
+  - 55 semifinales de la FA Cup (máximo en Inglaterra).  
+  - Sede de la Copa Mundial 1966 y Eurocopa 1996.  
+  - Instalaciones modernas, tribunas con vistas panorámicas y zona VIP.  
+
+---
+
+### 3. Colores y escudo  
+- **Colores**: Granate (vino) y celeste (azul cielo).  
+- **Escudo** (modelo 2007):  
+  - **Iniciales**: AVFC en la parte superior.  
+  - **León**: símbolo de la historia y la monarquía británica.  
+  - **Estrella blanca**: representa la Copa de Europa 1982.  
+  - **Colores**: celeste y vino.  
+- **Uniforme**:  
+  - **Titular**: camiseta granate con mangas celestes, pantalón blanco, medias celestes.  
+  - **Alternativo**: camiseta celeste, pantalón granate, medias blancas.  
+  - **Tercer**: camiseta verde con mangas negras, pantalón negro, medias negras.  
+
+---
+
+### 4. Historia – Momentos clave  
+
+| Década | Logros / Eventos | Comentario |
+|--------|------------------|------------|
+| **1874–1880** | Fundación, primeros partidos, victoria en Birmingham Senior Cup 1880 | Consolidación regional. |
+| **1880–1888** | George Ramsay introduce el juego de pases cortos y rápidos; club pionero del profesionalismo (1885). | Ramsay nombrado primer entrenador profesional (1886). |
+| **1888** | Club fundador de la Football League. | Primera edición de la liga. |
+| **1893–1900** | 5 títulos de liga (1894, 1896, 1897, 1898, 1900) y 3 FA Cups (1895, 1896, 1898). | Era dorada victoriana. |
+| **1901–1910** | 6.º título de liga (1909–10). | Consolidación como club dominante. |
+| **1912–13** | 5.º FA Cup (victoria sobre Sunderland). | Máxima asistencia histórica (121 919). |
+| **1920** | 6.º FA Cup (victoria sobre Huddersfield). | |
+| **1930–31** | 128 goles anotados en temporada – récord de la máxima categoría. | |
+| **1936** | Primer descenso a Segunda División. | Fin de la era de dominio. |
+| **1956–57** | FA Cup ganada bajo Eric Houghton. | |
+| **1968–70** | Doug Ellis compra el club; descenso al Tercer Nivel (1969–70). | Primer descenso a la tercera categoría. |
+| **1974–81** | Ron Saunders dirige; 7.º título de liga (1980–81). | |
+| **1981–82** | Copa de Europa ganada (1–0 vs. Bayern Munich). | 4.º club inglés en ganar la Copa de Europa. |
+| **1982** | Supercopa de Europa (victoria sobre Barcelona). | |
+| **2001** | Copa Intertoto ganada. | |
+| **1992** | Club fundador de la Premier League. | |
+| **2015–16** | Primer descenso a la Championship. | |
+| **2019** | Regreso a la Premier League tras ganar playoffs. | |
+| **2023–24** | 4.º puesto en la Premier League; clasificación a la Champions League. | Mejor temporada en la Premier League desde 2019. |
+| **2024** | Victoria 1–0 sobre Bayern Munich en la Champions League (fase de grupos). | |
+
+---
+
+### 5. Palmarés – Títulos nacionales e internacionales  
+
+| Competencia | Títulos | Fechas | Observaciones |
+|-------------|---------|--------|---------------|
+| **English Football League / Premier League** | 7 | 1893–94, 1895–96, 1896–97, 1897–98, 1898–99, 1909–10, 1980–81 | 7.º club más exitoso en Inglaterra. |
+| **FA Cup** | 6 | 1887, 1895, 1896, 1905, 1912–13, 1920 | 6.º club con más FA Cups. |
+| **League Cup** | 2 | 1975–76, 2000–01 | |
+| **European Cup / Champions League** | 1 | 1981–82 | |
+| **Supercopa de Europa** | 1 | 1982 | |
+| **Copa Intertoto** | 1 | 2001 | |
+| **Total de títulos oficiales** | 23 | | 5.º club con más títulos oficiales en Inglaterra. |
+
+---
+
+### 6. Jugadores legendarios  
+
+| Jugador | Posición | Años en el club | Logros destacados |
+|---------|----------|-----------------|-------------------|
+| **Archie Hunter** | Delantero | 1880–1900 | Primer club en ganar una copa internacional (Football World Championship 1887). |
+| **Billy Walker** | Delantero | 1920–1938 | Máximo goleador histórico (244 goles). |
+| **Peter Withe** | Delantero | 1980–1984 | Parte del equipo europeo 1982. |
+| **Gary Cahill** | Defensa | 2005–2011 | Parte de la era de la Copa de Europa y la Supercopa. |
+| **John Terry** | Defensa | 1999–2003 | Parte de la era de la Copa de Europa. |
+| **Jack Grealish** | Delantero | 2014–2023 | Jugador clave en la era de la Champions League 2024. |
+| **Jhon Durán** | Delantero | 2023– | Gol decisivo contra Bayern Munich en la Champions League 2024. |
+
+*(La lista no es exhaustiva; se incluyen los ídolos más relevantes mencionados en el documento.)*
+
+---
+
+### 7. Rivalidades  
+
+| Rival | Tipo | Historia / Datos |
+|-------|------|------------------|
+| **Birmingham City** | Derby local (Second City Derby) | 117 encuentros: 51 victorias Villa, 37 Birmingham, 29 empates. |
+| **West Bromwich Albion** | Rivalidad histórica | 3 finales de FA Cup en el siglo XIX. |
+| **Sheffield United** | Rivalidad regional | Competencia en Midlands. |
+| **Wolverhampton Wanderers** | Rivalidad histórica | Competencia en Midlands. |
+
+---
+
+### 8. Datos actuales (2025)  
+
+- **Entrenador**: Unai Emery (desde 2022).  
+- **Liga**: Premier League (2024–25).  
+- **Posición actual**: 4.º en la tabla (clasificado a la Champions League).  
+- **Estadio**: Villa Park (42 682).  
+- **Presidente**: Randy Lerner (propietario estadounidense).  
+- **Club en la tabla histórica**: 5.º en puntos totales de la máxima categoría inglesa (desde 1888).  
+- **Temporadas en la máxima categoría**: 110 (segunda mayor).  
+- **Partidos internacionales con Inglaterra**: 77 (segunda mayor).  
+- **Máximo goleador histórico**: Billy Walker (244 goles).  
+- **Mayor goleada en temporada**: 128 goles (1930–31).  
+
+---
+
+### 9. Instalaciones adicionales  
+
+- **Campo de entrenamiento**: Bodymoor Heath, Kingsbury, Warwickshire.  
+  - Inversión de £13 millones en 2005 (renovación).  
+  - Inaugurado oficialmente el 6 mayo 2007.  
+
+---
+
+### 10. Resumen de logros y legado  
+
+Aston Villa es uno de los clubes más antiguos y exitosos de Inglaterra, con una rica historia que abarca la era victoriana, la consolidación del profesionalismo y la conquista de la Copa de Europa en 1982. Su estadio, el Villa Park, es un hito histórico y sigue siendo un punto de referencia en el fútbol inglés. Con 23 títulos oficiales, 7 títulos de liga y 6 FA Cups, el club ocupa el quinto lugar en la tabla histórica de la máxima categoría inglesa. La rivalidad con Birmingham City y la presencia constante en competiciones europeas reflejan la importancia del club tanto a nivel nacional como internacional. En la actualidad, bajo la dirección de Unai Emery, Aston Villa continúa consolidándose como un competidor de élite en la Premier League y la Champions League.

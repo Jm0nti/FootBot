@@ -1,1 +1,98 @@
-[ERROR AL RESUMIR] Liga_de_Campeones_de_la_UEFA.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 26683, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Liga de Campeones de la UEFA – Resumen Completo y Detallado**
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial:** UEFA Champions League (anteriormente Copa de Europa).  
+- **Tipo:** Competencia internacional de clubes, la más prestigiosa de Europa.  
+
+### 2. Formato (actual y evolución histórica)  
+| Temporada | Estructura | Número de equipos | Notas clave |
+|-----------|------------|-------------------|-------------|
+| 1955‑56 a 1991‑92 | Eliminación directa (octavos, cuartos, semis, final) | 16‑22 equipos | Sólo campeones de ligas nacionales. |
+| 1992‑93 a 1998‑99 | Fase de grupos + eliminación directa | 22‑32 equipos | Primer uso de grupos; se introdujo la fase de grupos. |
+| 1999‑00 a 2023‑24 | 8 grupos de 4 + octavos, cuartos, semis, final | 32 equipos | Se añadió la fase de play‑off (9.º‑24.º) en 2021‑22. |
+| 2024‑25 en adelante | **Nueva fase de liga** (36 equipos) | 36 equipos | 8 equipos por grupo de 4, cada uno juega 8 partidos (4 locales, 4 visitantes). Los 8 primeros pasan a octavos; 9.º‑24.º juegan play‑off. |
+
+**Fases actuales (2024‑25):**  
+- **Fase de liga:** 36 equipos, 8 partidos cada uno, tabla única.  
+- **Play‑off:** 9.º‑24.º → 8 equipos que avanzan a octavos.  
+- **Octavos a final:** Eliminación directa a doble partido (excepto final, partido único en sede neutral).  
+
+**Reglas de participación:**  
+- Se clasifican por coeficiente UEFA y posición en ligas nacionales.  
+- Se permite un máximo de 5 equipos por federación (incluido el campeón vigente).  
+- El campeón vigente recibe la cabeza de serie y acceso directo a la fase de liga.  
+
+### 3. Historia  
+- **1955‑56:** Creación impulsada por L'Équipe; primera edición con 16 equipos invitados.  
+- **1956‑60:** Dominio de Real Madrid (5 títulos consecutivos).  
+- **1960‑61:** Benfica gana su primer título, marcando el inicio de la rivalidad madrileña‑portuguesa.  
+- **1970‑80:** Dominio de clubes del sur de Europa (Real Madrid, Bayern, Ajax, Inter).  
+- **1985‑92:** Resurgimiento inglés (Manchester United, Liverpool, Barcelona).  
+- **1992:** Reestructuración: introducción de fase de grupos, cambio de nombre a Champions League.  
+- **1997‑99:** Se abre la competición a subcampeones y a equipos clasificados hasta el cuarto puesto según coeficiente.  
+- **2004‑05:** Se crea la fase de play‑off (9.º‑24.º) para ampliar la competición.  
+- **2009‑18:** Se introducen cambios de horario (18:55 y 21:00) y se aumenta la participación de equipos de las “cuatro grandes ligas”.  
+- **2024‑25:** Se elimina la fase de grupos y se adopta la fase de liga con 36 equipos.  
+
+### 4. Equipos participantes (principales ganadores)  
+| País | Clubes con más títulos | Total de títulos | Comentario |
+|------|------------------------|------------------|------------|
+| España | Real Madrid, Barcelona | 20 + 5 = 25 | Real Madrid con 14 títulos (incl. 5 consecutivos 1956‑60). |
+| Inglaterra | Manchester United, Liverpool, Chelsea, Arsenal, Tottenham | 15 | Liverpool con 6 títulos, Manchester United con 5. |
+| Italia | Inter, Milan, Juventus | 12 | Inter con 5 títulos, Milan con 5. |
+| Alemania | Bayern | 6 | 3 títulos consecutivos 1974‑76. |
+| Otros | Benfica (Portugal), Ajax (Países Bajos), Celtic (Escocia), etc. | 1‑3 | Cada uno con al menos 1 título. |
+
+**Clubes con más finales:** Real Madrid (31), Barcelona (15), Bayern (14), Liverpool (13).  
+
+### 5. Sistema de clasificación y criterios de acceso  
+1. **Coeficiente UEFA:** Determina el número de plazas por federación y la posición de entrada (directa a fase de liga o previa).  
+2. **Posición en liga nacional:** Campeones, subcampeones, 3.º y 4.º (según coeficiente).  
+3. **Fase previa (play‑off):** Los equipos que no llegan directamente a la fase de liga compiten por 8 plazas.  
+4. **Reglas de “no emparejar” en grupos:** No se pueden colocar dos equipos del mismo país en el mismo grupo (excepto Rusia).  
+5. **Reglas de distancia de estadios:** No se juegan partidos en estadios a menos de 200 km el mismo día (excepto Rusia).  
+
+### 6. Premios y recompensas  
+- **Torneo:** Trofeo oficial (copa de plata de 8 kg).  
+- **Supercopa de Europa:** El campeón enfrenta al campeón de la UEFA Europa League.  
+- **FIFA Club World Cup / Copa Intercontinental:** El campeón representa a la UEFA.  
+- **Premios económicos:**  
+  - **Fase de liga:** 1,7 m € por partido, 1 m € por victoria, 0,5 m € por empate.  
+  - **Bonos por ronda:** 3,5 m € a octavos, 3,9 m € a cuartos, 4,9 m € a semis.  
+  - **Premios finales:** 10,5 m € a campeón, 6,5 m € a subcampeón (2023‑24).  
+- **Derechos televisivos:** La final es el evento deportivo más visto (≈ 360 m espectadores).  
+
+### 7. Récords y estadísticas destacadas  
+| Categoría | Registro | Club/Persona | Año |
+|-----------|----------|--------------|-----|
+| **Títulos más** | 14 | Real Madrid | 2023‑24 |
+| **Finales más** | 31 | Real Madrid | 2024‑25 |
+| **Goles en competición** | 141 | Cristiano Ronaldo | 2024‑25 |
+| **Goles en fase de grupos** | 80 | Lionel Messi | 2023‑24 |
+| **Partidos más** | 187 | Cristiano Ronaldo | 2024‑25 |
+| **Títulos consecutivos** | 5 | Real Madrid (1956‑60) | 1956‑60 |
+| **Títulos consecutivos** | 5 | Bayern (1974‑76) | 1974‑76 |
+| **Títulos consecutivos** | 5 | Inter (1998‑2002) | 1998‑2002 |
+| **Títulos consecutivos** | 5 | Barcelona (2009‑2013) | 2009‑2013 |
+| **Títulos consecutivos** | 5 | Liverpool (2018‑2022) | 2018‑2022 |
+| **Máximo goleador por club** | 120 | Lionel Messi (Barcelona) | 2024‑25 |
+| **Máximo goleador por torneo** | 141 | Cristiano Ronaldo | 2024‑25 |
+| **Máximo asistente** | 80 | Xavi Hernández (Barcelona) | 2024‑25 |
+
+**Otros datos relevantes:**  
+- **Supercopa de Europa:** 2024‑25, PSG vs. Inter (resultado pendiente).  
+- **FIFA Club World Cup 2023:** Real Madrid campeón.  
+- **Fair‑Play Financiero:** 9 clubes investigados (2024‑25).  
+
+### 8. Cambios recientes y controversias  
+- **2024‑25:** Se elimina la fase de grupos; se introduce fase de liga con 36 equipos.  
+- **Superliga Europea (2021‑22):** Propuesta de 18 clubes, cancelada tras la reacción de la UEFA y la FIFA.  
+- **Fair‑Play Financiero:** Se intensifica la supervisión; se han impuesto sanciones a clubes con déficit.  
+- **COVID‑19 (2020‑21):** Temporada suspendida; final jugada en Lisboa con 8 000 espectadores.  
+- **Derechos de transmisión:** Se renegoció el acuerdo con la UEFA para incluir patrocinadores globales (Bet365, Heineken, etc.).  
+
+---
+
+**Resumen final:** La UEFA Champions League, fundada en 1955‑56, ha evolucionado de un torneo de eliminación directa a la competición global de clubes que hoy combina fase de liga y eliminación directa. Con 36 equipos en la temporada 2024‑25, el formato busca mayor competitividad y ingresos. Los clubes españoles dominan la historia con 20 títulos, seguidos por Inglaterra y Italia. Los récords de Real Madrid, Cristiano Ronaldo y Lionel Messi son emblemáticos. La competición sigue siendo el evento deportivo más visto del mundo y el principal motor económico del fútbol europeo.

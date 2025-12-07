@@ -1,1 +1,78 @@
-[ERROR AL RESUMIR] Lille_OSC.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 8325, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Identidad del club**  
+- **Nombre completo:** Lille Olympique Sporting Club (LOSC)  
+- **Apodo:** Los “Dogues” (Los perros)  
+- **Fundación:** 1902 como Olympique Lillois; 1944 tras la fusión con el Sporting Club Fives (SC Fives) → LOSC oficial.  
+- **Ciudad‑país:** Lille, Norte de Francia (Alta Francia).  
+
+**Estadio**  
+- **Estadio actual:** Stade Pierre‑Mauroy, Villeneuve‑d’Ascq, inaugurado agosto 2012.  
+  - Capacidad: 50 186 espectadores.  
+  - Categoría UEFA 4.  
+  - Registro de abonados: 30 500 en la temporada 2012‑13.  
+- **Estadio anterior:** Lille‑Metropole (Villeneuve‑d’Ascq), 18 185 plazas, construido 1976 por Roger Taillibert.  
+- **Centro de entrenamiento:** Domaine de Luchin, antiguo granja en la periferia de Lille, renovado para albergar instalaciones deportivas y administrativas.  
+
+**Colores y escudo**  
+- **Uniforme titular:** camiseta roja, pantalón azul, medias azules.  
+- **Uniforme alternativo:** camiseta amarilla, pantalón negro, medias negras.  
+- **Tercer uniforme:** camiseta blanca, pantalón blanco, medias blancas.  
+- **Escudo:** tradicional escudo con los colores rojo, azul y blanco, representando la identidad lilloina y la fusión histórica.  
+
+**Historia**  
+
+| Periodo | Eventos clave |
+|---------|---------------|
+| **1902‑1944** | Fundación de Olympique Lillois; éxito en la primera división francesa (título 1933). |
+| **1944** | Fusión con SC Fives → creación del LOSC. |
+| **1945‑1955** | Época dorada: 5 títulos de liga (1946, 1954) y 6 Copas de Francia. Entrenadores George Berry y André Cheuva. |
+| **1956‑1996** | Descenso a Ligue 2 (1956); alternancia entre 1ª y 2ª división; crisis financiera. |
+| **1994‑2000** | Recuperación bajo Bernard Lecomte; ascenso a Ligue 1 1999‑2000. |
+| **2000‑2011** | Consolidación europea: Copa Intertoto 2004; participación en Champions League 2006‑07. |
+| **2010‑2011** | Doble (Liga y Copa) bajo Rudi García. |
+| **2011‑2016** | Periodo de reconstrucción: cambios de entrenador (René Girard, Hervé Renard, Frédéric Antonetti). |
+| **2016‑2021** | Era Gerard Lopez: compra del club, inversión en jóvenes, título de Ligue 1 2020‑21. |
+| **2021‑2024** | Nuevo propietario Merlyn Partners; presidente Olivier Létang; entrenador Bruno Génésio. |
+
+**Palmarés**  
+
+| Competencia | Títulos | Fechas | Observaciones |
+|-------------|---------|--------|---------------|
+| **Ligue 1** | 5 | 1933, 1946, 1954, 2011, 2021 | 1.º puesto 1945‑46, 1953‑54, 2010‑11, 2020‑21 |
+| **Copa de Francia** | 6 | 1933, 1946, 1954, 2011, 2021, 2024 (12‑0 vs Golden Lion) | 4.º club con más Copas |
+| **Copa Intertoto** | 1 | 2004 | Primer título europeo |
+| **Ligue de Campeones** | 0 | Participaciones 2006‑07, 2011‑12, 2012‑13, 2018‑19 | Alcanzó octavos de final 2006‑07 |
+| **Europa League** | 0 | Participaciones 2010‑11, 2011‑12, 2012‑13, 2014‑15, 2016‑17 | Eliminado en fases iniciales |
+
+**Jugadores legendarios**  
+- **René Bihel** – máximo goleador 1946 (28 goles).  
+- **Adil Rami** – figura clave en la campaña 2010‑11.  
+- **Gervinho** – contribuyó al doblete 2010‑11.  
+- **Mathieu Debuchy** – soldado de la defensa en la década de 2010.  
+- **Eden Hazard** – traspaso que marcó la salida de jugadores clave.  
+- **Aurélien Chedjou, Dimitri Payet, Lucas Digne** – exportaciones de talento en los últimos años.  
+- **Salomon Kalou** – máximo goleador de los últimos dos años antes de su traspaso a Hertha Berlín.  
+
+**Rivalidades**  
+- **Derby du Nord** contra el Racing Club de Lens (rivalidad histórica y sociológica).  
+- Rivalidades regionales con Valenciennes FC y US Boulogne, aunque de menor intensidad.  
+
+**Datos actuales**  
+- **Entrenador:** Bruno Génésio (actual).  
+- **Liga:** Ligue 1 (primera división francesa).  
+- **Temporada 2024‑25:** 65ª temporada en la Ligue 1, 14ª en la Ligue 2.  
+- **Presidente:** Olivier Létang (Merlyn Partners).  
+- **Directiva deportiva:** Franck Béria (Director de Fútbol Profesional).  
+- **Estadísticas recientes:**  
+  - Mejor posición: 1.º (2020‑21).  
+  - Peor posición: 19.º (1996‑97).  
+  - Mayor goleada a favor: 12‑0 vs Golden Lion (Copa de Francia, 6 ene 2024).  
+  - Mayor goleada en contra: 7‑1 vs OGC Niza (Première Division, 18 sept 1955).  
+  - Máximo goleador histórico: Jean Baratte (170 goles).  
+  - Más partidos disputados: Marceau Somerlinck (359).  
+
+**Resumen de logros y trayectoria**  
+Lille OSC, con raíces que datan de 1902 y consolidado en 1944, ha sido un actor importante del fútbol francés. Su historia se caracteriza por períodos de esplendor (1945‑1955), crisis (1956‑1996) y resurgimiento (2000‑presente). El club ha logrado cinco títulos de liga y seis Copas de Francia, posicionándose como el cuarto club con más Copas en Francia. En el ámbito internacional, la victoria en la Copa Intertoto 2004 y la participación en la Champions League 2006‑07 son hitos destacados.  
+
+El estadio Pierre‑Mauroy, con capacidad de más de 50 000, simboliza la modernización del club, mientras que el Domaine de Luchin refleja su compromiso con la formación de jóvenes talentos. La rivalidad con Lens, alimentada por diferencias sociológicas y geográficas, sigue siendo el punto culminante de la temporada.  
+
+En la actualidad, bajo la dirección de Bruno Génésio y la presidencia de Olivier Létang, el LOSC busca consolidar su posición como competidor de élite en la Ligue 1 y en competiciones europeas, manteniendo la tradición de una identidad lilloina marcada por la pasión, la resiliencia y la búsqueda constante de la excelencia.

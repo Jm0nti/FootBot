@@ -1,1 +1,144 @@
-[ERROR AL RESUMIR] Bayer_04_Leverkusen.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 10829, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Bayer 04 Leverkusen – Resumen Completo (2025‑26)**  
+
+---
+
+### 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| Nombre completo | Bayer 04 Leverkusen Fußball GmbH |
+| Apodo | “Bayer”, “Werkself” (equipo de fábrica) |
+| Año de fundación | 1 julio 1904 (como Turn- und Spielverein Bayer 04 Leverkusen) |
+| Ciudad / País | Leverkusen, Renania del Norte‑Westfalia, Alemania |
+| Denominaciones históricas | *Fußball‑Club Bayer 04 Leverkusen* (1904‑1958) – *TSV Bayer 04 Leverkusen* (1958‑1999) – *Bayer 04 Leverkusen Fußball GmbH* (1999‑presente) |
+| Fundación original | Empleados de Bayer AG, la empresa farmacéutica con sede en Leverkusen |
+
+---
+
+### 2. Estadio – BayArena  
+- **Nombre**: BayArena (anteriormente Ulrich‑Haberland‑Stadion, 1958‑1998)  
+- **Capacidad**: 30 210 espectadores (ampliada 2007‑2009)  
+- **Características**:  
+  - Inaugurado 2 agosto 1958, con 4 000 asientos.  
+  - Renovaciones 1997 (tribuna sur) y 2007‑2009 (expansión a 30 000).  
+  - Sede de partidos de la Copa Mundial Femenina 2011 y de encuentros de la selección alemana.  
+  - Se intentó ampliar a 40 000 para la Copa Mundial 2006, pero no se cumplió el requisito FIFA.  
+
+---
+
+### 3. Colores y escudo  
+- **Colores**: Rojo y negro (rayas verticales) – usados en la camiseta principal y en los colores de casa.  
+- **Escudo**: Cruz “Bayer” con dos leones en el centro; versión actual establecida 1996.  
+
+---
+
+### 4. Historia  
+#### 4.1 Fundación y primeros años (1904‑1960)  
+- 27 nov 1903: Wilhelm Hauschild solicita apoyo a Bayer AG.  
+- 1 jul 1904: Fundación de Turn‑und Spielverein Bayer 04 Leverkusen.  
+- 31 may 1907: Se crea departamento de fútbol.  
+- 1928: Separa “Sportvereinigung Bayer 04 Leverkusen” (fútbol, balonmano, atletismo, boxeo).  
+- 1936: Ascenso a segunda categoría más alta; se adopta la cruz “Bayer”.  
+- 1951‑1956: Participación en Oberliga Oeste (primera liga superior).  
+
+#### 4.2 Ascenso a la Bundesliga y consolidación (1968‑1990)  
+- 1968: Campeón de división, pero no logra ascenso.  
+- 1973: Descenso, vuelve a 2. Bundesliga.  
+- 1979‑80: Primera temporada en Bundesliga.  
+- 1984: Reunificación de TSV y Bayer 04; adopción de colores rojo‑blanco.  
+- 1985‑86: Erich Ribbeck lleva al equipo a la Copa de la UEFA (primer acceso).  
+- 1988: Victoria en la Copa de la UEFA (final 3‑0 vs Espanyol).  
+
+#### 4.3 Era de Reiner Calmund y éxitos de la década de los 90 (1990‑2000)  
+- 1990: Fichajes de Ulf Kirsten, Andreas Thom, Jens Melzig.  
+- 1993: DFB‑Pokal (victoria 1‑0 sobre Hertha BSC).  
+- 1996‑2000: Christoph Daum, fichajes de Lúcio, Emerson, Zé Roberto, Michael Ballack.  
+- 2000‑02: Cinco subcampeonatos de Bundesliga (2000, 2002) y finales de la Liga de Campeones (2002 vs Real Madrid).  
+
+#### 4.4 Los años 2000‑2022 – altibajos y búsqueda de la gloria  
+- 2002‑03: Despido de Klaus Toppmöller, llegada de Thomas Hörster y Klaus Augenthaler.  
+- 2004‑05: Sexto puesto en Bundesliga, participación en la Copa de la UEFA.  
+- 2005‑08: Cambios de entrenador (Rudi Völler, Michael Skibbe).  
+- 2008‑09: Bruno Labbadia, final de la DFB‑Pokal (derrota 0‑1 vs Werder Bremen).  
+- 2009‑11: Jupp Heynckes, subcampeonato de Bundesliga (2011).  
+- 2012‑16: Terceros en Bundesliga bajo Sami Hyypiä (2012‑13) y Roger Schmidt (2015‑16).  
+- 2019‑20: Cuartos de final de la Europa League (derrota 2‑1 vs Inter de Milán).  
+
+#### 4.5 Era de Xabi Alonso y el histórico doblete (2022‑2025)  
+- Oct 2022: Xabi Alonso asume la dirección.  
+- 2023‑24:  
+  - 14 mar 2024: Victoria 3‑2 vs Qarabağ (Europa League).  
+  - 14 abr 2024: Campeón de la Bundesliga (1‑0 vs Werder Bremen), 51 partidos invictos (máximo europeo).  
+  - 22 may 2024: Final de la Europa League (derrota 3‑0 vs Atalanta).  
+  - 25 may 2024: Copa de Alemania (victoria 1‑0 vs FCK, gol de Granit Xhaka).  
+  - 17 ago 2024: Supercopa Alemana (victoria 2‑1 vs VFB Stuttgart).  
+  - 31 ago 2024: Fin de racha de 35 partidos invictos en Bundesliga (derrota 2‑3 vs RB Leipzig).  
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Subcampeonatos | Observaciones |
+|-------------|---------|----------------|---------------|
+| **Bundesliga** | 1 (2023‑24) | 6 (1997, 1999, 2000, 2002, 2011, 2025) | 51 partidos invictos 2023‑24 (máximo europeo) |
+| **DFB‑Pokal** | 2 (1993, 2024) | 3 (2002, 2009, 2020) | 2024 “doblete” (liga + copa) |
+| **Supercopa Alemana** | 1 (2024) | 1 (1993) |  |
+| **2. Bundesliga** | 1 (1979, Grupo Norte) | – |  |
+| **Copa de la UEFA** | 1 (1988) | – |  |
+| **Liga de Campeones** | – | 1 (2002) | Final 2‑1 vs Real Madrid |
+| **Liga Europa** | – | 1 (2023‑24) | Final 3‑0 vs Atalanta |
+
+---
+
+### 6. Jugadores legendarios  
+- **Ulf Kirsten** – máximo goleador histórico (182 goles en Bundesliga).  
+- **Michael Ballack** – figura clave en la década de los 90.  
+- **Zé Roberto, Lúcio, Emerson** – fichajes de la era Daum.  
+- **Cha Bum‑kunn** – primer jugador surcoreano en la Bundesliga.  
+- **Bernd Schuster, Rudi Völler** – contribuyeron a la popularidad y éxito.  
+- **Jorginho, Paulo Sérgio, Pavel Hapal** – fichajes de la era Calmund.  
+- **Granita Xhaka** – gol decisivo en la Copa de Alemania 2024.  
+- **Ademola Lookman** – triple gol en la final de la Europa League 2024.  
+
+*(La plantilla 2025‑26 incluye jugadores activos y transferencias recientes; se mantiene la lista actualizada al 25 nov 2025.)*
+
+---
+
+### 7. Rivalidades  
+- **Derbis del Rin**: 1 FC Köln, Borussia Mönchengladbach, Fortuna Düsseldorf.  
+- **Derbi local**: 1 FC Köln (más tradicional).  
+- **Tensión**: KFC Uerdingen 05 (por la salida de Bayer).  
+- **Amistad**: Kickers Offenbach (por el incidente de 1980‑81).  
+
+---
+
+### 8. Datos actuales (2025‑26)  
+- **Entrenador**: Xabi Alonso (desde octubre 2022).  
+- **Liga**: Bundesliga (primera división).  
+- **Posición histórica**: 10.º (máximo 1.º 2023‑24).  
+- **Peor posición**: 16.º (1981‑82).  
+- **Mayor número de puntos en una temporada**: 90 (2023‑24).  
+- **Mayor número de goles en una temporada**: 89 (2023‑24).  
+- **Mayor goleada**: 0‑11 vs FC Brandenburg (Copa de Alemania, 13 mar 1994).  
+- **Mayor derrota**: 6‑1 vs Hannover 96 (Bundesliga, 26 mar 1988).  
+- **Más partidos en liga**: Rüdiger Vollborn (401).  
+- **Más partidos en competiciones UEFA**: Bernd Schneider (75).  
+
+---
+
+### 9. Secciones deportivas adicionales  
+- **Fútbol femenino**: Creado 2008‑09, ascenso a 1. Bundesliga 2009‑10.  
+- **Baloncesto**: 5 campeonatos nacionales, 4 copas.  
+- **Balonmano**: 12 títulos femeninos, 9 copas femeninas.  
+- **Otros**: natación, atletismo, tenis de mesa, hockey sobre césped, voleibol.  
+
+---
+
+### 10. Afición y cultura  
+- 355 peñas, 25 000 miembros.  
+- “Mad‑Boyz Leverkusen” (ultras, fundados 1994).  
+- Imagen “limpia y familiar” contrastada con la percepción de “club de plástico”.  
+- Identifican como “Werkself” o “Pillendreher”.  
+
+---
+
+**Resumen**  
+Bayer 04 Leverkusen, fundado en 1904 por empleados de Bayer AG, ha evolucionado de un departamento deportivo a un club de fútbol de la Bundesliga con una identidad marcada por los colores rojo‑negro y la cruz Bayer. Tras ascender a la máxima categoría en 1979, el club ha buscado la gloria con cinco subcampeonatos de liga, una Copa de la UEFA (1988) y una Copa de Alemania (1993). La era Xabi Alonso culminó en 2024 con el primer título de Bundesliga y una racha de 51 partidos invictos, el récord europeo. El club mantiene rivalidades tradicionales en el Rin y cuenta con una afición activa y secciones deportivas diversificadas, consolidándose como una institución deportiva integral en Alemania.

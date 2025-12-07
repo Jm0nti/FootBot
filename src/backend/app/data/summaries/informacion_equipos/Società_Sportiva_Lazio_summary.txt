@@ -1,1 +1,170 @@
-[ERROR AL RESUMIR] Società_Sportiva_Lazio.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 7946, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Società Sportiva Lazio – Resumen Completo y Detallado**
+
+---
+
+### 1. Identidad del club  
+| Elemento | Información |
+|----------|-------------|
+| Nombre completo | Società Sportiva Lazio (Sociedad Deportiva Lazio) |
+| Apodo | Blanquicelestes, Águilas Romanas |
+| Año de fundación | 9 de enero de 1900 |
+| Ciudad / País | Roma, Italia |
+| Logo | Escudo con águila dorada sobre fondo azul y blanco, con la palabra “Lazio” en la franja superior. En el centenario (2000‑2001) se añadió el número 100 en dorado. |
+| Himnos | “So’ già du’ ore” (1977) y “Vola Lazio Vola” (1983); “Cent’anni insieme” (2000) para el centenario. |
+| Mascota | “Olympia”, águila blanca y azul que sobrevuela el estadio antes de cada partido. |
+
+---
+
+### 2. Estadio  
+**Stadio Olimpico – Foro Itálico**  
+- Capacidad: 72 698 espectadores.  
+- Inaugurado: 1937; renovado en 2008.  
+- Usado por: SS Lazio y AS Roma (derby).  
+- Eventos: Juegos Olímpicos 1960, Eurocopa 1980, Mundial 1990, finales de Champions League (2009).  
+- Otros estadios históricos: Estadio dei Marmi (1932), Estadio Flaminio (1989‑90).  
+
+---
+
+### 3. Colores y Escudo  
+- **Colores**: Celeste (azul claro) y blanco.  
+- **Escudo**: Águila dorada sobre escudo azul y blanco, con la inscripción “Lazio” en la franja superior.  
+- **Uniformes**:  
+  - Titular: camiseta celeste, pantalón blanco, medias blancas.  
+  - Alternativo: camiseta blanca, pantalón celeste, medias blancas.  
+  - Tercero: camiseta azul marino, pantalón azul marino, medias azul marino.  
+
+---
+
+### 4. Historia  
+
+#### 4.1 Comienzos (1900‑1920)  
+- Fundado el 9 ene 1900 en el barrio Prati por nueve amigos, incluido Luigi Bigiarelli.  
+- Se unió a la liga en 1912; llegó a finales de playoffs en 1913 (vs. Pro Vercelli), 1914 (vs. Casale) y 1923 (vs. Genoa 1893).  
+- 1927: rechazó la fusión que dio origen a AS Roma.  
+
+#### 4.2 Primeros éxitos deportivos (1950‑1974)  
+- 1958: Primera Copa de Italia.  
+- 1961: Primera caída a Serie B; regreso 1963.  
+- 1972‑73: Regreso a Serie A y rivalidad sorpresa contra AC Milan y Juventus.  
+- 1973‑74: Primer título de Scudetto.  
+
+#### 4.3 Época negativa (1975‑1988)  
+- 1980: Descenso a Serie B tras escándalo de apuestas.  
+- 1983: Regreso a Serie A; 1984‑85: 15 puntos.  
+- 1986: Sanción de 9 puntos por apuestas; lucha por evitar descenso a Serie C.  
+- 1988: Regreso definitivo a Serie A bajo gestión de Gianmarco Calleri.  
+
+#### 4.4 Segunda gran época (1992‑2000) – “Cragnotti”  
+- 1992: Sergio Cragnotti llega, invierte en fichajes de alto calibre (Vieri, Verón, Nedved, Crespo).  
+- 1994‑95: Subcampeón de Serie A.  
+- 1995‑96: Tercero; 1996‑97: Cuarto.  
+- 1997‑98: Copa de Italia (victoria 3‑1 sobre AC Milan).  
+- 1998‑99: Supercopa Italiana (victoria 1‑0 sobre Juventus).  
+- 1999‑2000: Segundo Scudetto y Copa de Italia (victoria 2‑1 sobre Inter).  
+- 1999: Recopa de Europa (victoria 2‑1 sobre Mallorca) y Supercopa de la UEFA (victoria 1‑0 sobre Manchester United).  
+
+#### 4.5 Llegada de Lotito y reconstrucción (2002‑2015)  
+- 2002‑03: Problemas financieros, venta de estrellas (incl. Nesta).  
+- 2004: Claudio Lotito compra el club.  
+- 2005‑06: Calciopoli – penalización de 16 puntos.  
+- 2006‑07: Tercer puesto en Serie A, fase de grupos de la Champions.  
+- 2008‑09: Quinta Copa de Italia (victoria 6‑5 en penales sobre Juventus).  
+- 2010‑11: 5.º puesto, Europa League.  
+- 2011‑12: 4.º puesto, Europa League (cortada en octavos por Atlético).  
+- 2012‑13: 7.º puesto, Europa League (cuartos).  
+- 26 may 2013: Sexta Copa de Italia (victoria 1‑0 sobre AS Roma, Senad Lulić).  
+
+#### 4.6 Periodo de Inzaghi y Sarri (2015‑2025)  
+- 2014‑15: Stefano Pioli, 3.º puesto, Champions League (octavos).  
+- 2015‑16: Pioli renuncia; Simone Inzaghi asume.  
+- 2016‑17: 5.º puesto, Europa League (fase de grupos), final de la Copa de Italia (derrota 2‑0 a Juventus).  
+- 2017‑18: 5.º puesto, Europa League (cuartos), Supercopa Italiana (victoria 3‑2 a Juventus).  
+- 2019: Séptima Copa de Italia (victoria 2‑0 a Atalanta).  
+- 2019‑20: 4.º puesto, Champions League (octavos vs. Bayern), Ciro Immobile 36 goles (Bota de Oro).  
+- 2020‑21: 6.º puesto, Europa League (octavos vs. Bayern).  
+- 2021‑22: Maurizio Sarri, 2.º puesto, Champions League (octavos).  
+- 2022‑23: 2.º puesto, Champions League (octavos), Europa League (fase de grupos).  
+- 2023‑24: 7.º puesto, Europa League (octavos), Supercopa (semifinal).  
+- 2024‑25: Marco Baroni, 7.º puesto, Europa League (cuartos vs. Bodø/Glimt).  
+
+---
+
+### 5. Palmarés  
+
+| Competencia | Títulos | Fechas |
+|-------------|---------|--------|
+| **Serie A (Scudetto)** | 2 | 1973‑74, 1999‑2000 |
+| **Copa de Italia** | 7 | 1958, 1978‑79, 1997‑98, 2003‑04, 2008‑09, 2012‑13, 2018‑19 |
+| **Supercopa Italiana** | 4 | 1998, 2000, 2017, 2018 |
+| **Recopa de Europa** | 1 | 1999 |
+| **Supercopa de la UEFA** | 1 | 1999 |
+| **Títulos regionales** | 3 | 1912, 1913, 1923 |
+| **Títulos de guerra** | 1 | 1943 |
+
+> **Total de títulos oficiales**: 16 (incluye competiciones nacionales e internacionales).  
+
+---
+
+### 6. Jugadores legendarios  
+
+| Periodo | Jugadores destacados | Comentario |
+|---------|----------------------|------------|
+| 1970‑80 | Giorgio Chinaglia, Luciano Re Cecconi, Bruno Giordano | Pioneros de la era dorada. |
+| 1990‑2000 | Christian Vieri, Sebastián Verón, Pavel Nedved, Hernán Crespo, Alessandro Nesta, Marcelo Salas | Fase de Cragnotti, múltiples títulos. |
+| 2000‑2010 | Fernando Muslera, Stephan Lichtsteiner, Hernanes, Djibril Cisse, Miroslav Klose | Consolidación en la era de Lotito. |
+| 2010‑2020 | Ciro Immobile, Mauro Icardi, Luis Alberto, Jordan Lukaku, Felipe Anderson | Generación moderna, Bota de Oro. |
+| 2020‑2025 | Marco Baroni (entrenador), jugadores actuales (no listados en el documento). | En transición bajo nuevo liderazgo. |
+
+---
+
+### 7. Rivalidades  
+
+| Rival | Descripción |
+|-------|-------------|
+| **AS Roma** | Derby di Roma, encuentros tensos, ambos comparten el Stadio Olimpico. |
+| **Napoli** | Rivalidad histórica, conflictos entre aficionados. |
+| **Fiorentina** | Rivalidad fuerte en los 90s. |
+| **Frosinone** | Rivalidad reciente, proximidad de afición. |
+| **Livorno** | Rivalidad política (fascismo vs. izquierda). |
+| **Milán / Juventus** | Rivalidades secundarias, encuentros de alta intensidad. |
+
+---
+
+### 8. Datos actuales (2024‑25)  
+
+- **Entrenador**: Marco Baroni (desde 2024).  
+- **Liga**: Serie A – 7.º puesto.  
+- **Competencias europeas**: Europa League – cuartos de final (derrota ante Bodø/Glimt).  
+- **Plantilla**: No se detallan nombres en el documento; se menciona que el equipo se vio afectado por lesiones y falta de plantilla.  
+- **Estadística clave**: Ciro Immobile sigue siendo máximo goleador histórico (207 goles).  
+- **Presencia internacional**: Participación en Champions League (octavos) y Europa League (cuartos).  
+
+---
+
+### 9. Símbolos y cultura  
+
+- **Escudo**: Águila romana, símbolo de poder y victoria.  
+- **Mascota**: “Olympia” (águila).  
+- **Himnos**: Dos oficiales y uno especial de centenario.  
+- **Uniformes**: Variaciones con colores celeste y blanco.  
+- **Patrocinadores**: No se especifican en el documento.  
+
+---
+
+### 10. Secciones y otras actividades  
+
+- **Polisportiva**: 49 secciones deportivas (fútbol, fútbol americano, rugby, waterpolo, etc.).  
+- **Sección femenina**: No se detalla en el documento.  
+
+---
+
+### 11. Referencias y enlaces  
+
+- Sitio web oficial (en italiano).  
+- Sección “Irriducibili” (ultras de la Lazio).  
+- “Lazio Marines” (fútbol de playa).  
+
+---  
+
+**Resumen final**  
+Società Sportiva Lazio, fundada en 1900 en Roma, es uno de los clubes más emblemáticos de Italia, con una rica historia de altibajos que culmina en 16 títulos oficiales, incluyendo dos Scudetti, siete Copas de Italia y una Recopa de Europa. Su identidad se centra en los colores celeste y blanco, el águila romana y el estadio Stadio Olimpico, que comparte con su rival AS Roma. A lo largo de las décadas, el club ha pasado por épocas doradas bajo la presidencia de Sergio Cragnotti, crisis financieras y escándalos de apuestas, hasta la era de reconstrucción con Claudio Lotito y la consolidación bajo entrenadores como Inzaghi y Sarri. En la actualidad, bajo Marco Baroni, la Lazio sigue compitiendo en la Serie A y Europa League, manteniendo su tradición de rivalidades intensas y una base de aficionados apasionados.

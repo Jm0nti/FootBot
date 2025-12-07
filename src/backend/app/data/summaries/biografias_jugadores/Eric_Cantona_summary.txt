@@ -1,1 +1,76 @@
-[ERROR AL RESUMIR] Eric_Cantona.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Requested 12085, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Éric Cantona**
+
+**Datos Básicos**
+
+* Nombre completo: Éric Daniel Pierre Cantona
+* Apodo: El Rey
+* Fecha de nacimiento: 24 de mayo de 1966
+* Nacionalidad: Francesa
+
+**Información Física**
+
+* Altura: No se menciona en el texto
+* Peso: No se menciona en el texto
+* Posición principal: Delantero
+* Pierna dominante: No se menciona en el texto
+
+**Carrera Profesional**
+
+* Inició su carrera en la cantera del A. J. Auxerre en 1981
+* Debutó como profesional con el A. J. Auxerre en 1983
+* Jugó para el Olympique de Marsella de 1988 a 1991
+* Jugó para el Girondins de Burdeos en 1989
+* Jugó para el Montpellier Hérault en 1990
+* Jugó para el Nîmes Olympique en 1991
+* Jugó para el Leeds United en 1991
+* Jugó para el Manchester United F. C. de 1992 a 1997
+
+**Logros Importantes**
+
+* Ganó la liga francesa con el Olympique de Marsella en 1989
+* Ganó la Copa de Francia con el Montpellier Hérault en 1990
+* Ganó la liga inglesa con el Manchester United F. C. en 1993, 1994, 1996 y 1997
+* Ganó la FA Cup con el Manchester United F. C. en 1994 y 1996
+* Fue galardonado con el Premio PFA al jugador del año en 1993/94
+* Fue galardonado con el Premio FWA en 1995/96
+* Fue galardonado con el Onze d'Or en 1996
+
+**Estadísticas Destacadas**
+
+* Jugó más de 440 partidos oficiales
+* Marcó 165 goles en su carrera
+* Fue convocado con Francia en 45 ocasiones y marcó 20 goles
+
+**Estilo de Juego**
+
+* Fue un delantero tenaz y goleador
+* Tenía una mentalidad competitiva y un estilo de juego creativo
+* Fue conocido por su falta de disciplina y su comportamiento polémico
+
+**Carrera en Inglaterra**
+
+* Llegó al Leeds United en 1992 después de jugar para el Nîmes Olympique
+* Fue traspasado al Manchester United F. C. en 1992 por 1,2 millones de libras
+* Ganó tres títulos con el Manchester United F. C. en la temporada 1992-93
+* Fue elegido "Jugador del año" por la Asociación de Futbolistas Profesionales (PFA) en la temporada 1993-94
+* Fue nombrado capitán del Manchester United F. C. en la final de la FA Cup en 1996
+* Marcó el único gol del partido en el minuto 86, convirtiendo al Manchester United en el primer equipo en conquistar el doblete en dos ocasiones
+
+**Estadísticas en Inglaterra**
+
+* Goles: 14 en 30 partidos (1995-96)
+* Asistencias: desconocidas
+* Títulos ganados: 3 Premier League, 1 FA Cup, 1 Liga de Campeones de la UEFA
+
+**Dirigencia Deportiva**
+
+* Fue el jugador-entrenador de la selección francesa de fútbol playa
+* Ganó la Eurocopa de fútbol playa con Francia en 2004
+* Fue el campeón del mundo de fútbol playa con Francia en 2005
+* Fue reemplazado como seleccionador nacional en 2011
+
+**Carrera como Actor**
+
+* Debutó como actor en 1995 en la película "La alegría está en el campo"
+* Ha aparecido en varias películas y series de televisión, incluyendo "Elizabeth", "Mookie", "La fortuna de vivir" y "Recursos inhumanos"
+* Ha sido coproductor de varias películas, incluyendo "Buscando a Eric"

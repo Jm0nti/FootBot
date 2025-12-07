@@ -1,1 +1,112 @@
-[ERROR AL RESUMIR] Real_Madrid_Club_de_Fútbol.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 42993, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Real Madrid Club de Fútbol – Resumen Completo (2025‑26)**  
+
+---
+
+### 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| Nombre completo | **Real Madrid Club de Fútbol** |
+| Apodo | **Blancos** / **Merengues** |
+| Fundación | 6 de marzo de 1902 (registro oficial; origen 1900‑1901) |
+| Ciudad / País | Madrid, España |
+| Propiedad | Más de 90 000 socios (no es sociedad anónima deportiva) |
+| Colores | Blanco (uniforme principal), azul y morado (banda transversal del escudo) |
+| Símbolo | Escudo circular con corona real, iniciales **MFC** entrelazadas y banda morada/azul |
+
+---
+
+### 2. Estadio  
+**Santiago Bernabéu** (también llamado “Nuevo Estadio de Chamartín”)  
+- **Ubicación**: Chamartín, Madrid  
+- **Capacidad**: 78 297 asientos (tamaño 3.º de Europa; antes 120 000)  
+- **Características**: techo retráctil, césped subterráneo, pantalla 360°, fachada de acero iluminado, zona de restauración, museo interactivo, espacios para videojuegos y eventos tecnológicos.  
+- **Historia**: inaugurado 14 dic 1947; remodelación en curso (2019‑2025) con objetivo de convertirlo en recinto multifuncional y aumentar ingresos.
+
+---
+
+### 3. Colores y escudo  
+- **Uniforme**: blanco puro (camisa, pantalón y medias).  
+- **Escudo**: circular, corona real, iniciales **MFC** (Madrid Football Club), banda transversal morada/azul, borde dorado.  
+- **Historia del escudo**: evolución desde 1902; morado original, cambio a azul marino en 1998 por motivos de mercadotecnia.  
+
+---
+
+### 4. Historia – Momentos clave  
+| Periodo | Resumen | Logros / Cambios |
+|---------|---------|------------------|
+| **1900‑1920** | Creación de la Sociedad Madrid Foot‑ball Club; primeros partidos en Campo del Retiro; adopción de colores blancos. | Primeros títulos regionales (1904‑1908); obtención del título “Real” en 1920 por Alfonso XIII. |
+| **1929‑1936** | Ingreso a la Primera División (La Liga) y primera temporada profesional. | 3 títulos de liga (1931‑32, 1935‑36); 2 Copas de España (1934, 1936). |
+| **1936‑1945** | Guerra Civil y suspensión de competiciones. | Reconstrucción post‑guerra; re‑adopción del título “Real” en 1940. |
+| **1945‑1970** | Era de Santiago Bernabéu (presidente 1943‑1978). | 10 títulos de liga, 4 Copas de España, 5 Copas de Europa (1955‑1960). |
+| **1970‑1990** | “Madrid de Di Stéfano” y “Madrid de los Yéyé”. | 5 Copas de Europa (1955‑1960), 2 Copas de la UEFA (1975‑76), 3 Copas de la Liga, 6 Supercopas. |
+| **1990‑2000** | “La Quinta del Buitre” y “La Quinta de los Machos”. | 5 títulos de liga (1986‑90), 2 Copas de la UEFA (1985‑86), 1 Copa del Rey (1989). |
+| **2000‑2010** | Era de Florentino Pérez (Galácticos). | 3 títulos de liga, 1 Copa del Rey (2002), 1 Copa de Europa (2002), 1 Supercopa de Europa (2002). |
+| **2010‑2020** | “Madrid de Zidane” y “Madrid de Ancelotti”. | 3 títulos de liga, 1 Copa del Rey (2011), 3 Copas de Europa (2014‑17), 2 Mundiales de Clubes (2014, 2016). |
+| **2020‑2025** | Consolidación financiera y deportiva tras la pandemia. | 1 título de liga (2024‑25), 1 Copa del Rey (2023‑24), 1 Champions League (2024‑25), 1 Mundial de Clubes (2023‑24). |
+
+---
+
+### 5. Palmarés (fútbol)  
+| Competencia | Títulos | Observaciones |
+|--------------|---------|---------------|
+| **La Liga** | 36 (último en 2024‑25) | Club con más títulos en España. |
+| **Copa del Rey** | 19 (último en 2023‑24) | 2 copas en propiedad. |
+| **Supercopa de España** | 13 | 1 en propiedad. |
+| **UEFA Champions League** | 14 (último en 2024‑25) | 1.º club con más títulos en la competición. |
+| **UEFA Cup / Europa League** | 2 | 1.º club con más títulos en la competición. |
+| **UEFA Supercopa** | 6 | 1.º club con más títulos. |
+| **Copa Intercontinental / Mundial de Clubes** | 5 | 1.º club con más títulos en ambas competiciones. |
+| **Otros** | 1 Copa Iberoamericana, 1 Copa Latina, 1 Copa de la Liga, 1 Trofeo Eva Duarte |  |
+
+**Baloncesto**  
+- **Liga ACB**: 35 títulos (último en 2024‑25).  
+- **Euroliga**: 9 títulos (último en 2024‑25).  
+- **Copa de España**: 13 títulos.  
+
+---
+
+### 6. Jugadores legendarios  
+| Nombre | Posición | Años en el club | Títulos con el club | Comentario |
+|--------|----------|-----------------|---------------------|------------|
+| **Alfredo Di Stéfano** | Delantero/mediocampista | 1953‑1964 | 5 Copas de Europa, 4 ligas, 2 Copas de la UEFA | “Madrid de Di Stéfano” |
+| **Ferenc Puskás** | Delantero | 1958‑1965 | 3 Copas de Europa, 2 ligas | “Mágico” |
+| **Paco Gento** | Extremo | 1955‑1975 | 6 Copas de Europa, 3 ligas | Jugador con más títulos oficiales |
+| **Zinedine Zidane** | Mediocampista | 2001‑2006, 2016‑2018 | 3 Copas de Europa, 2 ligas | Entrenador con 8 títulos |
+| **Cristiano Ronaldo** | Delantero | 2009‑2018 | 3 Copas de Europa, 2 ligas | Máximo goleador histórico (450 goles) |
+| **Iker Casillas** | Portero | 1999‑2015 | 4 ligas, 1 Copa del Rey, 3 Copas de Europa | Mejor portero del mundo (Balón de Oro 2010) |
+| **Raúl González** | Delantero | 1994‑2010 | 4 ligas, 1 Copa del Rey, 1 Copa de la UEFA | Máximo goleador histórico (323 goles) |
+| **Sergio Ramos** | Defensa | 2005‑2023 | 5 ligas, 1 Copa del Rey, 4 Copas de Europa | Capitán de la defensa más laureada |
+| **Karim Benzema** | Delantero | 2009‑2023 | 4 ligas, 1 Copa del Rey, 1 Copa de la UEFA | Máximo goleador de la era moderna |
+
+---
+
+### 7. Rivalidades  
+| Rival | Tipo de clásico | Historia breve |
+|-------|-----------------|----------------|
+| **FC Barcelona** | Clásico | Rivalidad histórica desde 1916; 14 finales de Champions League entre ambos. |
+| **Atlético de Madrid** | Derbi madrileño | Compite por la supremacía local; encuentros con alta intensidad y rivalidad de estilo. |
+| **Athletic Club** | Rivalidad regional | Compite en la Copa del Rey y en la Liga; tradición de respeto mutuo. |
+| **Bayern de Múnich** | Rivalidad europea | Enfrentamientos decisivos en Champions League, especialmente en los 70‑80s. |
+| **AC Milan** | Rivalidad europea | Competencia histórica en Champions League; rivalidad disminuida en la última década. |
+
+---
+
+### 8. Datos actuales (2025‑26)  
+- **Entrenador**: **Carlo Ancelotti** (hasta 2025; anunciado su salida al final de la temporada).  
+- **Liga**: **La Liga** (Primera División).  
+- **Posición 2024‑25**: 3.º lugar en La Liga; Champions League: eliminación en cuartos de final ante Arsenal.  
+- **Presidente**: **Florentino Pérez** (en su quinta etapa).  
+- **Presupuesto**: 1 128 millones € (2024‑25); deuda neta 12 millones € (excluye proyecto de remodelación del Bernabéu).  
+- **Valor de mercado**: ~6 750 millones USD (2025).  
+- **Seguidores**: >600 millones de seguidores globales; 45 millones de visitas mensuales en Google.  
+- **Fundación**: 91 701 socios (2021) con 2 452 peñas en 92 países.  
+
+---
+
+### 9. Observaciones finales  
+- **Polideportivo**: Además del fútbol y baloncesto, el club mantiene secciones de voleibol, tenis, hockey, y una activa fundación social con más de 60 000 beneficiarios.  
+- **Innovación**: Proyecto **Real Madrid Next** y la creación de la **Ciudad Real Madrid** (Ciudad Deportiva de Valdebebas) refuerzan la apuesta por la tecnología y la formación de cantera.  
+- **Reconocimientos**: FIFA – Mejor club del siglo XX; IFFHS – Mejor club europeo del siglo XX; Globe Soccer – Mejor club del siglo XXI (2025).  
+- **Cultura**: El club es protagonista en cine, videojuegos y medios digitales, con su propio canal de televisión y presencia en 8 idiomas.  
+
+Este resumen conserva la información esencial y los datos específicos del documento original, ofreciendo una visión completa y actualizada del Real Madrid Club de Fútbol.

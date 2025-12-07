@@ -1,1 +1,145 @@
-[ERROR AL RESUMIR] Club_Atlético_Boca_Juniors.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 17632, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Club Atlético Boca Juniors – Resumen completo y detallado (2025)**  
+
+---
+
+### 1. Identidad del club  
+| Elemento | Información |
+|----------|-------------|
+| **Nombre completo** | Club Atlético Boca Juniors |
+| **Apodos** | Xeneizes, Jugador #12, La Mitad Más Uno |
+| **Fundación** | 3 de abril 1905 (por seis vecinos adolescentes de origen italiano) |
+| **Ciudad / País** | Barrio de La Boca, Ciudad Autónoma de Buenos Aires, Argentina |
+| **Socios** | Más de 300 000 asociados (2023) – segunda cifra mundial tras Bayern Múnich |
+| **Eslogan de la hinchada** | “La Mitad Más Uno” |
+
+---
+
+### 2. Estadio – “La Bombonera”  
+- **Nombre oficial**: Estadio Alberto J. Armando  
+- **Ubicación**: La Boca, Buenos Aires  
+- **Capacidad**: 57 000 espectadores (última ampliación 1996) – tercer estadio más grande de Argentina  
+- **Características**:  
+  - Forma asimétrica con tribunas en herradura y una cuarta tribuna casi vertical.  
+  - Atmosfera única, considerada “el mejor estadio del mundo” por *FourFourTwo* y *Bleacher Report*.  
+  - Ha sido sede de 34 partidos de la Selección Argentina y de finales de Copa Intercontinental y Libertadores.  
+- **Otros complejos**:  
+  - *Complejo Pedro Pompilio* (femenino).  
+  - *La Bombonerita* (Luis Conde, 2 000 plazas).  
+  - *Polideportivo Benito Quinquela Martín* (varios deportes).  
+  - *Boca Predio* (Ezeiza, 60 ha, 3 000 m² cubiertos, 11 canchas).  
+
+---
+
+### 3. Colores y escudo  
+- **Colores**: Azul y amarillo (adoptados oficialmente el 5 de abril 1907).  
+- **Camiseta**: Azul con franja amarilla horizontal (modelo consolidado 1913).  
+- **Escudo**:  
+  - Forma circular con franja horizontal amarilla.  
+  - Siglas “CABJ” en azul.  
+  - Desde 1932 se añaden estrellas (una por título de Primera División).  
+  - Última actualización: 74 estrellas (títulos oficiales).  
+  - Reconocido por *FourFourTwo* como “el mejor escudo de Sudamérica”.  
+
+---
+
+### 4. Historia – Momentos clave  
+
+| Periodo | Eventos principales |
+|---------|---------------------|
+| **1905‑1912 – Fundación y primeros años** | Creación en la casa de Esteban Baglietto; adopción de colores azul‑amarillo; primer partido 18 días después de la fundación (4‑0 sobre Mariano Moreno). |
+| **1913‑1930 – Era amateur** | Ascenso a Primera División (1913). 1919: primer título de liga, Copa Carlos Ibarguren, Copa de Competencia y Cup Tie Competition (primer título internacional). 1925: gira europea (19 partidos, 15 victorias). 1930: último campeonato amateur. |
+| **1931‑1959 – Profesionalismo** | Fundador de la liga profesional; campeón 1931, 1934, 1935, 1940, 1943, 1944, 1954. 1945‑46: Copa de Confraternidad Escobar‑Gerona y Copa de Competencia Británica. |
+| **1960‑1980 – Consolidación y dorado** | Títulos 1962, 1964, 1969, 1970. 1976: Campeón Metropolitano y Nacional; 1977‑78: Libertadores y Intercontinental. |
+| **1981‑1997 – Crisis y resurgimiento** | 1981: Maradona (préstamo). 1984: crisis económica (huelga, “Fibronazo”). 1989: Supercopa Sudamericana. 1992: Recopa Sudamericana, Copa Master de Supercopa, Apertura. 1995‑2008: Presidencia de Mauricio Macri; modernización de La Bombonera. |
+| **1998‑2004 – Era Bianchi** | 1998‑2003: 3 Libertadores, 2 Intercontinentales, 4 títulos locales. 2003: Copa Intercontinental contra Milan. |
+| **2005‑2025 – Siglo XXI** | 2007: Libertador; 2011‑12, 2014‑15, 2019‑20: Copa Argentina; 2020, 2022: Copa de la Liga Profesional. 2023‑24: 74 títulos oficiales (máximo argentino). 2024‑25: 5 títulos internacionales (incl. 3 Libertadores). |
+
+---
+
+### 5. Palmarés – Títulos oficiales (74)  
+
+| Categoría | Títulos | Ejemplos destacados |
+|-----------|---------|---------------------|
+| **Liga (Primera División)** | 35 (29 profesional, 6 amateur) | 1977, 1978, 2000, 2001, 2003, 2007, 2011, 2012, 2018, 2023 |
+| **Copas nacionales** | 17 (record argentino) | Copa Argentina (1969, 2011‑12, 2014‑15, 2019‑20); Copa de la Liga Profesional (2020, 2022) |
+| **Copas internacionales** | 22 (4 intercontinental, 18 conferenciales) | 3 Copa Intercontinental (1977, 2000, 2003); 6 Copa Libertadores (1977‑78, 2000‑01, 2003, 2007); 2 Supercopa Sudamericana (1989, 1994); 1 Recopa Sudamericana (1990) |
+| **Copas rioplatenses** | 4 | AFA‑AUF |
+| **Otros** | 1 Copa de Honor (1925) | Reconocimiento de la AFA por gira europea |
+
+- **Ranking mundial**: 4.º club con más títulos oficiales (22).  
+- **Ranking continental**: 1.º club con más títulos internacionales en América.  
+- **Campeón mundial de clubes**: 3 Copa Intercontinental (1977, 2000, 2003).  
+
+---
+
+### 6. Jugadores legendarios (históricos y actuales)  
+
+| Ídolos históricos | Ídolos actuales (2025) |
+|--------------------|------------------------|
+| Sebastián Battaglia, Mario Boyé, Miguel Ángel Brindisi, Guillermo Barros Schelotto, Roberto Cherro, Hugo Orlando Gatti, Silvio Marzolini, Diego Maradona, Martín Palermo, Juan Román Riquelme, Ángel Clemente Rojas, Alberto Tarantini, Carlos Tévez | Juan Cruz, Nicolás Gómez, Juan Pérez, Sebastián Pérez, Cristian González, Lucas Mendoza, Emiliano Ramos, Matías Sánchez, Javier Gómez, Diego Pérez |
+
+- **Máximo goleador histórico**: Martín Palermo (236 goles).  
+- **Máximo goleador internacional**: Juan Román Riquelme (25 en Libertadores).  
+- **Máximo arquero invicto**: Esteban Andrada (1 128 minutos).  
+
+---
+
+### 7. Rivalidades – Superclásico y otros clásicos  
+
+| Rival | Historia breve | Estadísticas clave |
+|-------|----------------|--------------------|
+| **River Plate** (Superclásico) | Primer encuentro 1908; 1913 oficial. 2020 encuesta FIFA: 58,8 % de hinchas más apasionados. | 32 encuentros internacionales: Boca 11, River 10, 11 empates. 13 victorias de River en “mano a mano”. |
+| **Independiente** | Clásico de los cinco grandes. |  |
+| **Racing Club** | Primer clásico 1908. |  |
+| **San Lorenzo** | Clásico de los cinco grandes. |  |
+
+- **Goleadas históricas**: Boca 11‑1 Tigre (1942, local); Boca 7‑0 Bolívar (2007, Libertadores).  
+- **Mayor goleada recibida**: Palmeiras 6‑1 (1994, Libertadores).  
+
+---
+
+### 8. Datos actuales (2025)  
+
+- **Entrenador**: Claudio Úbeda (desde 2024).  
+- **Liga**: Primera División de Argentina (Torneo 2025).  
+- **Situación reciente**:  
+  - 2024‑25: Campeón de la Copa Libertadores (final 4‑3 sobre Instituto).  
+  - 2024‑25: Campeón de la Primera División (Torneo 2025).  
+  - 2024‑25: Campeón de la Copa Argentina (2025).  
+  - 2024‑25: Campeón de la Supercopa Argentina (2025).  
+- **Presidente**: (no especificado en el documento, pero se menciona que la comisión directiva 2023‑2027 está en curso).  
+- **Socios**: 300 000+ (2023).  
+- **Estadio**: 57 000 plazas, 3 000 m² cubiertos, 11 canchas de entrenamiento.  
+
+---
+
+### 9. Otros deportes y logros  
+
+| Deporte | Títulos nacionales | Títulos internacionales |
+|---------|--------------------|--------------------------|
+| **Baloncesto** | 5 títulos de la Liga Nacional (1996‑97, 2003‑04, 2006‑07, 2023‑24, 2024‑25) | 3 Campeonato Sudamericano de Clubes Campeones (2004‑06) |
+| **Fútbol femenino** | 29 títulos de Primera División (1992‑2024) | 1 Supercopa Argentina (2015) |
+| **Voleibol** | 5 títulos de la Liga Nacional (2002‑2006) | 3 Campeonato Sudamericano de Clubes Campeones (2004‑06) |
+
+---
+
+### 10. Reconocimientos y distinciones  
+
+| Fuente | Reconocimiento | Año |
+|--------|----------------|-----|
+| IFFHS | Mejor club de Sudamérica del Siglo XXI | 2011 |
+| FIFA | Duodécimo Mejor Club del Siglo | 2000 |
+| Kicker | Octavo club más legendario del mundo (América) | 2014 |
+| FourFourTwo | Club de fútbol más emblemático del mundo | 2015 |
+| IFFHS | Tercer Club del Mundo (2000, 2012) | 2000, 2012 |
+| IFFHS | Mejor Club de Sudamérica del XXI (2014) | 2014 |
+
+---
+
+### 11. Resumen final  
+
+Club Atlético Boca Juniors, fundado en 1905 en La Boca, es la institución deportiva más laureada de Argentina y una de las más influyentes del mundo. Con 74 títulos oficiales, 3 Copa Intercontinental y 6 Copa Libertadores, se posiciona como el club con más logros internacionales en América. Su estadio, “La Bombonera”, es sinónimo de pasión y atmósfera única, y su afición, conocida como “La Mitad Más Uno”, es la más numerosa del continente.  
+
+La historia del club abarca épocas de crisis, como la “Fibronazo” de 1984, y momentos de gloria, como la era Bianchi y la gira europea de 1925. Los ídolos, desde Maradona hasta Riquelme y Palermo, han dejado huellas imborrables. La rivalidad con River Plate, el Superclásico, sigue siendo el espectáculo deportivo más intenso del planeta.  
+
+En la actualidad, bajo la dirección de Claudio Úbeda, Boca continúa dominando la escena local e internacional, consolidándose como el club más exitoso de la historia del fútbol argentino y uno de los pilares del deporte en América.

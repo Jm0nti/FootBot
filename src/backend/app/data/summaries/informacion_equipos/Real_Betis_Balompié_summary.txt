@@ -1,1 +1,142 @@
-[ERROR AL RESUMIR] Real_Betis_Balompié.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 24201, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Real Betis Balompié – Resumen Completo y Detallado**
+
+---
+
+## 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| Nombre completo | Real Betis Balompié, S. A. D. |
+| Apodo | “El Balompié”, “Los Béticos” |
+| Año de fundación | 12 septiembre 1907 (Sevilla Balompié) – registro oficial 1 febrero 1908 |
+| Ciudad / País | Sevilla, Andalucía, España |
+
+---
+
+## 2. Estadio  
+**Estadio Benito Villamarín**  
+- Capacidad: 59 378 espectadores (última ampliación 2017: 60 721, reducida a 59 378 tras instalación de palcos VIP).  
+- Dimensiones: 107 × 64 m.  
+- Ubicación: Barrio de Heliópolis, Avenida de la Palmera.  
+- Historia de nombres: Estadio de la Exposición (1936‑39), Estadio de Heliópolis (1939‑1961), Estadio Benito Villamarín (1961‑2000), Estadio Manuel Ruiz de Lopera (2000‑2010), retorno a Benito Villamarín (2010‑actualidad).  
+- Instalaciones: Ciudad Deportiva Luis del Sol (cámpus de entrenamiento, piscina, gimnasio, sala de prensa, etc.).  
+
+---
+
+## 3. Colores y Escudo  
+- **Colores**: Verde y blanco (rayas verticales), oro y rojo (accesorios).  
+- **Escudo**: Círculo con dos letras “B” entrelazadas, coronado. El círculo está inscrito en un triángulo con trece barras verdes y blancas. La corona real es la tradicional “coroa cerrada” de la ley 33/81.  
+- **Uniforme**: Camisa verde‑blanca con rayas verticales, pantalón negro, medias verdes. Tercer uniforme: azul (memoria de la época de Sevilla Balompié).  
+
+---
+
+## 4. Historia  
+### 4.1 Antecedentes y fundación  
+- Primer equipo de fútbol en España: Huelva Recreation Club (1889).  
+- Grupo de estudiantes de la Academia Politécnica de Sevilla se reunió en 1907; fundaron Sevilla Balompié (12 septiembre 1908).  
+- Primer presidente: Alfonso del Castillo Ochoa.  
+- Uniforme inicial: camisa azul‑celeste, pantalón blanco, escudo circular.  
+
+### 4.2 Primeros años y fusión  
+- 1910: se escinde Betis Foot‑ball Club (hijos Gutiérrez) y se fusiona con Sevilla Balompié (6 diciembre 1914).  
+- 17 agosto 1914: el rey Alfonso XIII concede el título “Real”.  
+- 1914‑1915: se establece la denominación “Real Betis Balompié”.  
+
+### 4.3 Edad de oro (1930‑1940)  
+- 1931: final de la Copa de España (derrota ante Athletic).  
+- 1932: campeón de Segunda División, ascenso a Primera.  
+- 1934‑35: campeón de Primera División (28 abril 1935, 0‑5 sobre Racing de Santander).  
+- 1935‑1940: descenso a Segunda (1940) y a Tercera (1947) tras la Guerra Civil y crisis económica.  
+
+### 4.4 Periodo negro y resurgimiento (1943‑1955)  
+- 1955‑1965: presidencia de Benito Villamarín.  
+
+### 4.5 Época de la Copa del Rey y los 80 (1977‑1992)  
+- 1977: primera Copa del Rey (título con “manquepierda”).  
+- 2005: segunda Copa del Rey (victoria sobre Barcelona).  
+
+### 4.6 Conversión en Sociedad Anónima Deportiva (1992)  
+- 1992: club se convierte en S.A.D. bajo la ley de SAD.  
+
+### 4.7 Éxitos y crisis (2000‑2015)  
+- 2000: descenso a Segunda División.  
+- 2005: clasificación a la Liga de Campeones (fase de grupos).  
+- 2009: descenso a Segunda División (última jornada 31 mayo).  
+- 2011: ascenso a Primera (Pepe Mel).  
+- 2014‑15: campeón de Segunda División (84 puntos).  
+
+### 4.8 Era Pellegrini (2020‑actualidad)  
+- 9 julio 2020: Manuel Pellegrini contratado.  
+- 2022: tercera Copa del Rey (victoria sobre Real Madrid).  
+- 2024‑25: subcampeón de la UEFA Conference League (final contra Chelsea).  
+
+---
+
+## 5. Palmarés  
+| Competencia | Títulos | Observaciones |
+|-------------|---------|---------------|
+| **Primera División** | 1 (1934‑35) | Único club andaluz con título de liga |
+| **Copa del Rey** | 3 (1977, 2005, 2022) | Primer club andaluz en ganar la Copa en democracia |
+| **Segunda División** | 7 | 1ª en 1932, 1ª en 2015 |
+| **Tercera División** | 1 | 1947 |
+| **Copa de Andalucía** | 1 (1928) | |
+| **Competiciones europeas** | 17 participaciones | 1 Liga de Campeones, 11 Liga Europa, 2 Conference League (subcampeón 2024‑25), 2 Recopa de Europa, 1 Copa de Ferias, 1 Copa Ibérica |
+
+---
+
+## 6. Jugadores legendarios  
+- **Rodolfo Sosa** (16 temporadas, 1 460 partidos)  
+- **Joaquín Sánchez** (máx. partidos, 460+ en 2020‑21)  
+- **Rubén Castro** (147 goles, 7 temporadas)  
+- **Denílson de Oliveira** (más de 200 partidos, extranjero)  
+- **Rafael Gordillo** (75 internacionales con España)  
+- **Toni Prats, Alfonso Pérez, Arzu García** (Copa 2005)  
+- **Borja Iglesias, Nabil Fekir, Sergio Canales** (Copa 2022)  
+
+---
+
+## 7. Rivalidades  
+- **Derbi Sevillano** vs. Sevilla FC (desde 1910).  
+- Rivalidad histórica con el Sevilla Balompié (antes de la fusión).  
+- En competiciones europeas: derbi contra Sevilla FC en la fase de grupos de la Conference League 2024‑25.  
+
+---
+
+## 8. Datos actuales (2025‑26)  
+- **Entrenador**: Manuel Pellegrini (contrato hasta 2025, renovado 2025‑26).  
+- **Liga**: LaLiga (Primera División).  
+- **Posición reciente**: 8.º en la temporada 2024‑25 (último partido 1 junio 2025).  
+- **Presidente**: Ángel Haro García (desde febrero 2016).  
+- **Socios**: 85 708 (53 161 con localidad en el estadio).  
+- **Peñas**: 528 (más de 50 fuera de Andalucía, 20 fuera de España).  
+
+---
+
+## 9. Secciones deportivas y categorías  
+- **Fútbol femenino**: Real Betis Balompié Féminas (Primera División).  
+- **Fútbol sala**: Real Betis FutSal (Primera División).  
+- **Baloncesto**: Club Baloncesto Sevilla (Segunda División).  
+- **Cantera**: Betis Deportivo Balompié (Segunda Federación).  
+
+---
+
+## 10. Afición y cultura  
+- **Afición**: 4.º puesto de asistencia en LaLiga (media 47 399 espectadores).  
+- **Supporters Gol Sur**: grupo ultras, origen 1986‑87.  
+- **Peñas**: Puerta de la Carne (más antigua de España, fundada 1927).  
+- **Medios**: Betis TV, Radio Betis, revista Trece Barras.  
+
+---
+
+## 11. Resumen de hitos clave  
+- **1907**: Fundación como Sevilla Balompié.  
+- **1914**: Fusión y obtención del título “Real”.  
+- **1934‑35**: Primer y único título de liga.  
+- **1977, 2005, 2022**: Copas del Rey.  
+- **2005**: Primera participación en la fase de grupos de la Liga de Campeones.  
+- **2011**: Ascenso a Primera tras descenso 2009.  
+- **2022**: Tercera Copa del Rey.  
+- **2024‑25**: Subcampeón de la UEFA Conference League.  
+
+---
+
+**Este resumen conserva toda la información relevante del documento original, manteniendo fechas, cifras y datos específicos, y está estructurado en secciones claras para facilitar la comprensión del club Real Betis Balompié.**

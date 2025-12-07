@@ -1,1 +1,110 @@
-[ERROR AL RESUMIR] Paris_Saint-Germain_Football_Club.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 19330, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Paris Saint‑Germain Football Club – Resumen Completo (600‑1 000 palabras)**  
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Paris Saint‑Germain Football Club  
+- **Apodo:** *les rouge‑et‑bleu* (los rojo‑azules)  
+- **Fundación:** 12 de agosto 1970, resultado de la fusión entre **Paris Football Club** (fundado 1969) y **Stade Saint‑Germain** (fundado 1904).  
+- **Ciudad / País:** París, Francia.  
+
+---
+
+### 2. Estadio  
+| Estadio | Capacidad | Características / Historia |
+|---------|-----------|----------------------------|
+| **Parc des Princes** (Parque de los Príncipes) | 47 929 espectadores | Sede oficial desde 1973. Primer partido: 10 noviembre 1973 vs Red Star. Renovaciones en 2002 y 2008. Asistencia récord 49 407 (cuartos de final de la Recopa 1983). |
+| **Camp des Loges** (Stade Georges Lefèvre) | 5 000 (aprox.) | Centro de formación desde 1974; usado por la reserva, la academia y la sección femenina. Renovado completamente en 2008. |
+
+---
+
+### 3. Colores y escudo  
+- **Colores tradicionales:** rojo, azul y blanco.  
+- **Escudo histórico (1972‑1992):** silueta roja de la Torre Eiffel, cuna real de Luis XIV en blanco debajo, fondo azul con borde blanco y flor de lis.  
+- **Escudo 2013 (QSI):** mantiene la forma circular; “PARIS” en la parte superior, “Saint‑Germain” inferior; se elimina la cuna real y se conserva la flor de lis.  
+- **Camiseta:** diseño de Daniel Hechter (1970) – azul con barra roja vertical central y orlas blancas.  
+
+---
+
+### 4. Historia – Línea de tiempo clave  
+
+| Periodo | Eventos principales |
+|---------|---------------------|
+| **1970‑1983 – Primeros años** | 1971‑72: 16.º puesto; crisis económica; descenso administrativo a Tercera División; ascensos consecutivos (1974). 1982‑83: Copas de Francia ganadas. 1986: Primer título de liga. |
+| **1984‑1996 – Edad de oro** | 1991: Canal+ compra club. 1993: fichaje de Raí. 1996: campeón de la Recopa de Europa. 1992‑98: 2 finales de Recopa, 2 semifinales de Champions. |
+| **1997‑2009 – Crisis y resurgimiento** | 2001: Copa Intertoto. 2004‑07: descenso a 9.º‑15.º en Ligue 1. 2008‑09: 6.º puesto, casi título. 2009‑10: doble copa (liga y cup). |
+| **2010‑2023 – Era dorada incompleta** | 2011: QIA compra 70 % del club. 2012: QIA adquiere 100 % (valor 100 m€). 2012‑13: primer título de liga bajo QIA. 2014‑15: triple corona (liga, copa, liga de copa). 2019‑20: subcampeón de Champions (1‑0 vs Bayern). 2020‑21: final de Champions (1‑0 vs Bayern). 2021‑22: Champions League final 1‑0 vs Real Madrid. 2023‑24: triple corona nacional, semifinales de Champions. |
+| **2023‑25 – Primer título de Champions** | 2024‑25: PSG gana la Champions League 5‑0 vs Inter de Milán (primer título europeo y primer triplete francés). 2024‑25: Campeón de Ligue 1, Copa de Francia, Supercopa. |
+
+---
+
+### 5. Palmarés (títulos oficiales)  
+
+| Competencia | Títulos | Fechas clave |
+|-------------|---------|--------------|
+| **Ligue 1** | 13 | 1986, 1994, 1995, 1997, 2001, 2002, 2003, 2004, 2013, 2015, 2016, 2024‑25 |
+| **Coupe de France** | 16 | 1982, 1983, 1985, 1990, 1991, 1993, 1994, 1996, 1997, 2000, 2001, 2002, 2003, 2004, 2005, 2024‑25 |
+| **Coupe de la Ligue** | 9 | 1994, 1995, 1996, 1997, 2000, 2001, 2002, 2003, 2004 |
+| **Supercoupe de France** | 13 | 1995, 1996, 1997, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2013, 2015 |
+| **Ligue 2** | 1 | 1974‑75 (promoción a Primera) |
+| **Recopa de Europa** | 1 | 1996 |
+| **Copa Intertoto** | 1 | 2001 |
+| **Supercopa de Europa** | 1 | 2025 |
+| **Liga de Campeones** | 1 | 2024‑25 |
+| **Total nacional** | 55 | 51 (liga, copa, supercopa, liga de copa) |
+| **Total internacional** | 4 | 1 Recopa, 1 Intertoto, 1 Supercopa, 1 Champions |
+
+---
+
+### 6. Jugadores legendarios (históricos y actuales)  
+
+| Jugador | Nacionalidad | Años en PSG | Logros destacados | Estadísticas clave |
+|---------|--------------|-------------|-------------------|--------------------|
+| **Raí** | Brasileño | 1993‑1998 | 1 Recopa 1996, 2 Copas de Francia | 200 apariciones, 35 goles |
+| **Ronaldinho** | Brasileño | 2001‑2003 | 1 Copa Intertoto 2001 | 90 apariciones, 20 goles |
+| **Zlatan Ibrahimović** | Sueco | 2012‑2016 | 1 Copa de la Liga 2014, 1 Copa de Francia 2015 | 156 goles (máximo histórico) |
+| **Edinson Cavani** | Uruguayo | 2013‑2019 | 1 Copa de la Liga 2014, 1 Copa de Francia 2015 | 200 goles |
+| **Kylian Mbappé** | Francés | 2017‑2025 | 1 Copa de la Liga 2018, 1 Copa de Francia 2020, 1 Champions 2024‑25 | 256 goles (máximo histórico) |
+| **Marquinhos** | Brasileño | 2009‑2025 | 1 Copa de la Liga 2014, 1 Copa de Francia 2015 | 490 apariciones (máximo histórico) |
+| **Neymar** | Brasileño | 2017‑2023 | 1 Copa de la Liga 2018, 1 Copa de Francia 2019 | 100 goles |
+| **Lionel Messi** | Argentino | 2023‑2024 | 1 Copa de la Liga 2024 | 30 goles |
+| **Gianluigi Donnarumma** | Italiano | 2023‑2024 | 1 Copa de la Liga 2024 | 10 apariciones |
+
+---
+
+### 7. Rivalidades  
+
+| Rival | Nombre del clásico | Contexto |
+|-------|--------------------|----------|
+| **Olympique de Marseille** | *Le Classique* | Mayor clásico francés; rivalidad histórica desde los 80 s; ambos compiten por la supremacía en la Ligue 1 y la Copa de Francia. |
+| **Real Madrid** | Rivalidad en Champions (2019‑20, 2021‑22) | Conflictos por fichajes (Neymar, Mbappé) y enfrentamientos en la Champions. |
+| **FC Barcelona** | Rivalidad en Champions (2021‑22, 2023‑24) | Enfrentamientos en octavos y cuartos de final; disputa por la supremacía europea. |
+
+---
+
+### 8. Datos actuales (2024‑25)  
+
+- **Presidente:** Nasser Al‑Khelaïfi (Qatar Sports Investments).  
+- **Director deportivo:** N/A (actualmente bajo la dirección de la junta).  
+- **Entrenador:** **Luis Enrique** (desde 2023‑24).  
+- **Liga:** Ligue 1 (campeón 2024‑25).  
+- **Situación reciente:**  
+  - **Champions League:** Campeón 2024‑25 (5‑0 vs Inter de Milán).  
+  - **Ligue 1:** Campeón 2024‑25.  
+  - **Coupe de France:** Campeón 2024‑25.  
+  - **Supercopa de Francia:** Campeón 2024‑25.  
+  - **Plantel destacado:** Kylian Mbappé (salida a Real Madrid 2025), Marquinhos (líder de partidos), Neymar (salida 2023‑24), Lionel Messi (2023‑24).  
+
+---
+
+### 9. Otros datos relevantes  
+
+- **Afición:** PSG es el club más seguido de Francia, con promedios de asistencia superiores a 46 000 en 2015‑16.  
+- **Mascota y himno:** “Germain el lince” (mascota) y himno oficial basado en “Go West” (Pet Shop Boys) lanzado en 2010.  
+- **Sección femenina:** Existente desde 1971.  
+- **Torneo de París:** Organizado por el club desde 1975; PSG es el club más exitoso con siete títulos.  
+
+---
+
+**Resumen final**  
+Paris Saint‑Germain, fundado en 1970 tras la fusión de dos clubes parisinos, se ha convertido en el club más laureado de Francia y uno de los más influyentes en Europa. Con sede en el Parc des Princes, su identidad se refleja en los colores rojo‑azul‑blanco y en el emblemático escudo de la Torre Eiffel. La historia del club se divide en tres grandes eras: la consolidación en los 80 s, la edad de oro de los 90 s bajo Canal+, y la era dorada incompleta de los 2010‑2023 impulsada por la Qatar Investment Authority, que culminó con la primera Champions League en 2024‑25. Con 55 títulos nacionales y 4 internacionales, PSG cuenta con leyendas como Raí, Ronaldinho, Ibrahimović, Mbappé y Marquinhos, y mantiene rivalidades históricas con el Olympique de Marseille y rivalidades europeas con Real Madrid y Barcelona. Bajo la dirección de Luis Enrique, el club sigue consolidándose como potencia dominante en Francia y en la Champions League.

@@ -1,1 +1,114 @@
-[ERROR AL RESUMIR] Bayern_de_Múnich.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96948, Requested 32715. Please try again in 7h7m8.832s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Bayern de Múnich – Resumen Completo (2025‑26)**  
+
+---
+
+### 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| Nombre completo | Fußball‑Club Bayern München e.V. (FC Bayern) |
+| Apodo | “Bávaro”, “Die Bayern” |
+| Año de fundación | 27 febrero 1900 |
+| Ciudad / País | Múnich, Alemania |
+| Sociedad de gestión | FC Bayern München AG (75 % club, 8,33 % Adidas, 8,33 % Audi, 8,33 % Allianz) |
+| Lema | **Mia san mía** (“nosotros somos nosotros”) |
+
+---
+
+### 2. Estadio  
+**Allianz Arena** – inaugurado 2005, capacidad 75 024 (liga) / 70 000 (internacional).  
+- Exterior translúcido que cambia de color (rojo para Bayern, azul para 1860 Múnich, blanco para la Selección Alemana).  
+- Tres filas de tribunas, zona VIP y “business seats”.  
+- Construcción financiada parcialmente por la AG (deuda saldada 16 años antes de la fecha límite).  
+
+---
+
+### 3. Colores y escudo  
+- **Colores**: azul y blanco (rodamientos de la bandera bávara).  
+- **Escudo**: círculo rojo con rombos azules y blancos en el centro, borde azul‑blanco, nombre “FC Bayern München” en arco.  
+- **Estrellas**: cinco estrellas bordadas que representan más de 30 títulos de Bundesliga.  
+
+---
+
+### 4. Historia – Momentos clave  
+
+| Periodo | Resumen | Logros / Eventos |
+|---------|---------|------------------|
+| **1900‑1910** | Fundación por 11 jugadores liderados por Franz John. Primer rival 1860 Múnich (1902). | Primer título local 1932 (Campeonato Alemán). |
+| **1910‑1939** | Integración con Münchner Sport‑Club (1906), luego independencia (1919). | Campeón del Sur de Alemania 1926, 1928, 1932. |
+| **1933‑1945** | Persecución nazi (presidente Landauer y entrenador Dombi de origen judío). | 1944: Campeonato del Sur; 1945: 3‑2 sobre 1860. |
+| **1945‑1963** | Reconstrucción post‑guerra, subida a Oberliga Süd. | 1957: primera Copa de Alemania. |
+| **1963‑1976** | Primera temporada de Bundesliga (1963). Ascenso a la élite con “eje” Beckenbauer‑Müller‑Maier. | 3 títulos de la Liga de Campeones (1974‑76), triplete 1974‑76, Copa Intercontinental 1976. |
+| **1977‑1990** | Era de “Breitnigge” (Breitner + Rummenigge). Cambios de entrenadores (Zebec, Lattek). | 5 títulos de Bundesliga (1984‑89), 2 Copas de Alemania (1984, 1986). |
+| **1991‑2004** | Jupp Heynckes, Ottmar Hitzfeld. | 4 títulos de Bundesliga (1999‑2001), 1 Liga de Campeones (2001). |
+| **2005‑2014** | Relocalización a Allianz Arena, Jürgen Klinsmann, Pep Guardiola. | 3 títulos de Bundesliga (2012‑14), 1 Liga de Campeones (2013), 1 Copa Mundial de Clubes (2013). |
+| **2015‑2024** | Hans‑Dieter Flick (triplete 2019‑20, sextuplete 2020). Julian Nagelsmann (2021‑23). Thomas Tuchel (2023‑24). | 11 títulos consecutivos de Bundesliga (2012‑23), 6 L. C. (2020), 2 Copas Intercontinentales (1976, 2001). |
+| **2024‑25** | Vincent Kompany nombrado entrenador (2024). | Desafíos en Champions (derrota 2024‑25 vs Aston Villa). |
+
+---
+
+### 5. Palmarés (títulos oficiales)  
+
+| Competencia | Títulos | Fechas clave |
+|-------------|---------|--------------|
+| **Bundesliga** | 34 | 1932, 1969, 1972‑74, 1985‑87, 1999‑01, 2001‑02, 2004‑05, 2007‑08, 2012‑13, 2013‑14, 2015‑16, 2017‑18, 2018‑19, 2019‑20, 2020‑21, 2021‑22, 2022‑23, 2023‑24 |
+| **Copa de Alemania** | 20 | 1957, 1961, 1976, 1984, 1986, 1996, 2001, 2005, 2008, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022 |
+| **Supercopa de Alemania** | 11 | 1987, 1990, 1996, 2004, 2007, 2010, 2012, 2016, 2017, 2018, 2020 |
+| **Liga de Campeones** | 6 | 1974, 1975, 1976, 2001, 2013, 2020 |
+| **Copa Intercontinental / Mundial de Clubes** | 4 | 1976, 2001, 2013, 2020 |
+| **Recopa / Copa de la UEFA** | 2 | 1967 (Recopa), 1996 (Copa de la UEFA) |
+| **Otros** | 1 Copa de la Liga (2004) |  |
+
+---
+
+### 6. Jugadores legendarios  
+
+| Jugador | Posición | Años | Logros con el club |
+|---------|----------|------|--------------------|
+| **Franz Beckenbauer** | Defensa | 1964‑77 | 3 L. C., 1 Copa Intercontinental, 1 Mundial de Clubes |
+| **Gerd Müller** | Delantero | 1964‑79 | 3 L. C., 1 Copa Intercontinental, 1 Mundial de Clubes, 570 goles |
+| **Sepp Maier** | Portero | 1962‑79 | 3 L. C., 1 Copa Intercontinental, 1 Mundial de Clubes |
+| **Karl‑Heinz Rummenigge** | Delantero | 1974‑84 | 3 L. C., 1 Copa Intercontinental, 1 Mundial de Clubes |
+| **Thomas Müller** | Delantero | 2000‑present | 34 títulos, 756 partidos, 570 goles |
+| **Philipp Lahm** | Defensa/CM | 2002‑17 | 3 L. C., 1 Copa Intercontinental, 1 Mundial de Clubes |
+| **Oliver Kahn** | Portero | 1994‑08 | 3 L. C., 1 Copa Intercontinental, 1 Mundial de Clubes |
+| **Bastian Schweinsteiger** | CM | 2004‑17 | 3 L. C., 1 Copa Intercontinental, 1 Mundial de Clubes |
+| **David Alaba** | Defensa/CM | 2010‑present | 3 L. C., 1 Copa Intercontinental, 1 Mundial de Clubes |
+
+---
+
+### 7. Rivalidades  
+
+| Rival | Nombre del clásico | Comentario |
+|-------|--------------------|------------|
+| **Borussia Dortmund** | Der Klassiker | Mayor rival alemán, encuentros en Signal Iduna Park y Allianz Arena. |
+| **1860 Múnich** | Derbi de Múnich | Rival local, encuentros en Allianz Arena y Grünwalder Stadion. |
+| **Stuttgart** | Südderby | Rivalidad regional, partidos en Allianz Arena. |
+| **Hamburgo** | Cumbre norte‑sur | Rivalía histórica, encuentros en Allianz Arena. |
+| **Real Madrid** | Clásico europeo | Rivalía histórica en Champions, más partidos y victorias en la competición. |
+
+---
+
+### 8. Datos actuales (2025‑26)  
+
+- **Entrenador**: Vincent Kompany (desde mayo 2024).  
+- **Liga**: 1. Bundesliga (temporada 2025‑26).  
+- **Posición actual**: 1.º (34.º título consecutivo).  
+- **Plantilla**: 25 jugadores, 4 fichajes recientes (incl. Lucas Hernández, 2024).  
+- **Presupuesto**: 2024‑25 ingresos de €480 m (Deloitte), valoración Forbes €1.8 bn.  
+- **Socios**: 382 000 (2024‑25), 4 188 clubes oficiales de fans.  
+- **Asistencia media**: 75 000 (2024‑25).  
+
+---
+
+### 9. Otros datos relevantes  
+
+- **Club multideportivo**: sección de baloncesto, balonmano, tenis de mesa, ajedrez, etc.  
+- **Cantera**: Bayern Campus (30 ha, 8 000 m²), residencia de la cantera con 13 jugadores.  
+- **Patrocinadores**: Adidas (proveedor de equipamiento), Deutsche Telekom (patrocinador principal), Audi, Allianz.  
+- **Reconocimientos**: 3.º club con más títulos de la Liga de Campeones (6), 2.º en Europa con sextuplete (2020).  
+- **Cultura**: Himno “Stern des Südens”, lema “Mia san mía”, mascota “Berni”.  
+
+---
+
+**Resumen**  
+El FC Bayern Múnich, fundado en 1900, es el club más laureado de Alemania y uno de los más exitosos del mundo. Con 34 títulos de Bundesliga, 20 Copas de Alemania y 6 Ligas de Campeones, su historia se divide en eras doradas: los triunfos de la década de 1970, la dominación de los 80 y 90, la consolidación bajo Hitzfeld y Guardiola, y la era de Flick con triplete y sextuplete. Su estadio, la Allianz Arena, es un ícono moderno con capacidad para 75 024 espectadores. Los jugadores legendarios como Beckenbauer, Müller, Maier y la generación de Thomas Müller han dejado huella. La rivalidad con Dortmund y el clásico europeo con Real Madrid son los encuentros más esperados. En la temporada 2025‑26, bajo Vincent Kompany, el club sigue dominando la Bundesliga y mantiene su posición como potencia financiera y deportiva.

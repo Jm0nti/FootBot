@@ -1,1 +1,164 @@
-[ERROR AL RESUMIR] Società_Sportiva_Calcio_Napoli.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 18251, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Società Sportiva Calcio Napoli – Resumen Completo (2025‑2026)**  
+
+---
+
+## 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| **Nombre completo** | Società Sportiva Calcio Napoli S.p.A. (S.S.C. Napoli) |
+| **Apodo** | Gli Azzurri (Los Azules) |
+| **Año de fundación** | 1926 (como Associazione Calcio Napoli) |
+| **Ciudad / País** | Nápoles, Campania, Italia |
+| **Presidente** | Aurelio De Laurentiis (2024‑25) |
+| **Sitio web oficial** | www.sscnapoli.it (multilingüe) |
+
+---
+
+## 2. Estadio  
+**Estadio Diego Armando Maradona** (anteriormente Estadio San Paolo)  
+- **Ubicación**: Fuorigrotta, Nápoles.  
+- **Capacidad**: 54 726 espectadores (después de la renovación para la Universiada de 2019).  
+- **Características**:  
+  - Construcción original 1959.  
+  - Ha sido sede de eventos olímpicos (Roma 1960), Eurocopas (1968, 1980) y la Copa Mundial de 1990.  
+  - Se ha mantenido como estadio local desde 1959, con varias ampliaciones y reducciones de capacidad a lo largo de los años.
+
+---
+
+## 3. Colores y escudo  
+- **Colores oficiales**: Azul cielo (camiseta) + blanco (pantalón).  
+- **Escudo**:  
+  - Versión actual (2024) – N mayúscula en dos círculos concéntricos, minimalista.  
+  - Variantes históricas: caballo encabritado, N dorada, “Ma.Gi.Ca” (triángulo con N y cabeza de burro).  
+- **Himno**: “O surdato 'nnammurato” (2013) y “Napoli” de Nino D'Angelo (2023).  
+
+---
+
+## 4. Historia  
+### 4.1 Orígenes (1904‑1926)  
+- 1904: Naples Foot‑Ball & Cricket Club fundado por William Poths, Emilio Anatra y Ernesto Bruschini.  
+- 1906: Cambio a Naples Foot‑Ball Club.  
+- 1912: Separa la parte napolitana → Unione Sportiva Internazionale Napoli.  
+- 1921: Reunión → Foot‑Ball Club Internazionale‑Naples (FBC Internaples).  
+- 1 agosto 1926: Asamblea cambia nombre a Associazione Calcio Napoli; Giorgio Ascarelli primer presidente.  
+
+### 4.2 Primeros años y consolidación (1926‑1964)  
+- Contratación de William Garbutt y Attila Sallustro.  
+- Construcción del “Stadio Vesuvio” (más tarde “Partenopeo”).  
+- Suspensión durante la Segunda Guerra Mundial (1943).  
+- 1947: Reanudación bajo nombre AC Napoli.  
+
+### 4.3 Era de la “Azzurri” y primeros triunfos (1964‑1987)  
+- 25 junio 1964: Se adopta el nombre actual S.S.C. Napoli.  
+- 1965: Ascenso a Serie A; fichajes de Omar Sívori y José Altafini → Copa de los Alpes.  
+- 1970: Llegada de Angelo Sormani (“Pelé blanco”).  
+- 1975: Segunda Copa de Italia y Copa de la Liga anglo‑italiana.  
+- 1984‑1985: Adquisición de Diego Maradona; temporada 1984‑85 termina octavo.  
+
+### 4.4 El primer Scudetto y la era Maradona (1987‑1991)  
+- 10 mayo 1987: Napoli gana su primer Scudetto (1‑1 vs. Fiorentina).  
+- 1987‑88: “Ma.Gi.Ca” (Maradona, Giordano, Careca) → Copa de la UEFA (victoria 3‑3 vs. Stuttgart).  
+- 1989‑90: Segundo Scudetto (1‑0 vs. Lazio).  
+- 1990‑91: Supercopa de Italia (5‑1 vs. Juventus).  
+- 1991: Suspensión de Maradona (cocaína) → fin de su etapa napolitana.  
+
+### 4.5 Crisis y reestructuración (1991‑2006)  
+- 1996‑97: Final de Copa Italia vs. Vicenza.  
+- 1997‑98: Descenso a Serie B.  
+- 1998‑99: Permanencia en Serie B.  
+- 1999‑00: Ascenso a Serie A, descenso 2001.  
+- 2004: Quiebra → nacimiento de Napoli Soccer (Aurelio De Laurentiis).  
+- 2005‑06: Ascenso a Serie B; 2006: Renombre a S.S.C. Napoli.  
+
+### 4.6 Resurgimiento y títulos modernos (2006‑2025)  
+- 2007‑08: Primera participación en Europa League.  
+- 2010‑11: Tercer lugar en Serie A → Champions League 2011‑12.  
+- 2011‑12: Copa Italia (2‑0 vs. Juventus).  
+- 2012‑13: Subcampeón de Serie A; Champions League 2012‑13.  
+- 2013‑14: Copa Italia (2‑0 vs. Juventus).  
+- 2014‑15: Supercopa de Italia (5‑1 vs. Juventus).  
+- 2017‑18: Segunda en Serie A (91 puntos).  
+- 2022‑23: Tercer Scudetto (4‑1 vs. Juventus).  
+- 2024‑25: Cuarto Scudetto (2‑0 vs. Cagliari) bajo Antonio Conte.  
+
+---
+
+## 5. Palmarés  
+| Competencia | Títulos | Fechas |
+|-------------|---------|--------|
+| **Serie A** | 4 | 1986‑87, 1989‑90, 2022‑23, 2024‑25 |
+| **Copas de Italia** | 6 | 1961‑62, 1975‑76, 1986‑87, 2011‑12, 2013‑14, 2019‑20 |
+| **Supercopas de Italia** | 2 | 1990, 2014 |
+| **Copa de la UEFA** | 1 | 1988‑89 |
+| **Copa de los Alpes** | 1 | 1966 |
+| **Copa de la Liga anglo‑italiana** | 1 | 1976 |
+| **Otros torneos internacionales** | 1 | Trofeo Padre Pio (2000) |
+| **Torneos amistosos** | 7 | 2005, 2009, 2011, 2012, 2013, 2017, 2018 |
+
+---
+
+## 6. Jugadores legendarios  
+| Jugador | Posición | Fechas | Logros con el club |
+|---------|----------|--------|--------------------|
+| **Diego Maradona** | Delantero | 1984‑1991 | 2 Scudetti, 1 Copa Italia, 1 Copa de la UEFA, 1 Supercopa |
+| **Omar Sívori** | Delantero | 1965‑1968 | Copa de los Alpes |
+| **José Altafini** | Delantero | 1965‑1968 | Copa de los Alpes |
+| **Luís Vinício** | Delantero | 1955‑1960, 1974‑75 | 1 Copa Italia (1975) |
+| **Edinson Cavani** | Delantero | 2010‑2014 | 1 Copa Italia (2012), máximo goleador Serie A 2013 |
+| **Gonzalo Higuaín** | Delantero | 2014‑2017 | 1 Copa Italia (2014), 1 Supercopa (2014) |
+| **Dries Mertens** | Delantero | 2014‑2022 | Máximo goleador histórico del club |
+| **Lorenzo Insigne** | Delantero | 2014‑2023 | Máximo goleador histórico (148 goles) |
+| **Marek Hamšík** | Mediocampista | 2014‑2023 | Máximo goleador histórico (122 goles) |
+| **Kvaratskhelia, Kim, Raspadori, Simeone, Olivera** | Recién llegados | 2022‑2025 | Contribuyeron al título 2024‑25 |
+
+---
+
+## 7. Rivalidades  
+- **Derby del Sole**: A.S. Roma (clásico del sur‑norte).  
+- **Derbi norte‑sur**: Juventus de Turín.  
+- **Clásicos del norte**: A.C. Milan, Inter de Milán.  
+- **Derbis de Campania**: U.S. Salernitana, Benevento Calcio, U.S. Avellino (en la Serie A).  
+- **Otros**: Hellas Verona, Atalanta, Lazio (histórica rivalidad en los 90).  
+
+---
+
+## 8. Datos actuales (temporada 2025‑26)  
+- **Entrenador**: Antonio Conte (desde 2024‑25).  
+- **Liga**: Serie A (máxima división).  
+- **Posición actual**: 1.º (campeón 2024‑25).  
+- **Plantilla**:  
+  - **Titular**: Camiseta azul claro, pantalón blanco, medias azul claro.  
+  - **Alternativo**: Arena con detalles cobrizos.  
+  - **Tercer**: Café con cuello polo azul claro.  
+- **Capitán**: Di Lorenzo (desde 2022).  
+- **Estadía**: Estadio Diego Armando Maradona (54 726).  
+- **Presidente**: Aurelio De Laurentiis.  
+- **Vicepresidentes**: Jacqueline De Laurentiis, Edoardo De Laurentiis.  
+- **Director deportivo**: Giovanni Manna.  
+
+---
+
+## 9. Datos de rendimiento y récords  
+- **Mayor victoria local**: Napoli‑Pro Patria 8‑1 (Serie A 1955‑56).  
+- **Mayor victoria visitante**: Bologna‑Napoli 1‑7 (Serie A 2016‑17).  
+- **Peor derrota local**: Napoli‑Bologna 1‑6 (Serie A 1938‑39).  
+- **Peor derrota visitante**: Torino‑Napoli 11‑0 (Divisione Nazionale 1927‑28).  
+- **Participaciones en Serie A**: 83 (79 en la actual Serie A).  
+- **Promociones**: 5 (Serie B) y 1 (Serie C1).  
+
+---
+
+## 10. Afición y cultura  
+- **Tamaño de la afición**: 10 % de la población italiana, 20 % del sur (Sicilia, Cerdeña).  
+- **Grupos ultras**: Curva A (Brigata Carolina, etc.), Curva B (Ultras Napoli 1972, etc.).  
+- **Amistades internacionales**: Barcelona, PSG, Millwall, Borussia Dortmund, Celtic, Feyenoord, etc.  
+- **Derbi de Campania**: Reencarnado con Salernitana en la Serie A (2021‑22).  
+
+---
+
+### Resumen final  
+El Società Sportiva Calcio Napoli, fundado en 1926 y con sede en Nápoles, es uno de los clubes más emblemáticos de Italia. Su identidad se refleja en la camiseta azul cielo y el escudo con la N dorada, y su estadio, el Diego Armando Maradona, es un símbolo de la pasión napolitana. Con cuatro títulos de Serie A, seis Copas de Italia y una Copa de la UEFA, el club ha consolidado su posición como el equipo del Mezzogiorno con más títulos y la cuarta afición más grande del país.  
+
+La historia del club está marcada por la llegada de Diego Maradona, que llevó al Napoli a su primer Scudetto y a la gloria europea, y por la resiliencia que le permitió superar crisis financieras y de descenso para regresar a la élite del fútbol italiano.  
+
+En la actualidad, bajo la dirección de Antonio Conte, el Napoli sigue siendo un competidor dominante en la Serie A, con una plantilla que combina veteranos legendarios y jóvenes talentos. Su rivalidad con Roma, la Juventus y los grandes del norte, junto con la pasión de sus hinchas, mantiene vivo el espíritu de los “Azzurri” en cada partido.

@@ -1,1 +1,99 @@
-[ERROR AL RESUMIR] Major_League_Soccer.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 7718, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Major League Soccer (MLS)**  
+*Competición de fútbol profesional en Estados Unidos y Canadá*  
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial:** Major League Soccer (MLS)  
+- **Tipo:** Liga de fútbol profesional (clubes)  
+- **Ámbito:** Estados Unidos y Canadá (30 equipos en 2025)  
+
+### 2. Formato  
+| Elemento | Detalle | Comentario |
+|----------|---------|------------|
+| **Estructura de la temporada** | 30 equipos (15 Conferencia Este, 15 Conferencia Oeste) | Cada club juega 34 partidos (17 vs. su conferencia, 17 vs. la otra) |
+| **Calendario** | Inicio marzo, final noviembre | 34 partidos + playoffs |
+| **Playoffs** | 18 equipos (9 por conferencia) | 1.º‑7.º de cada conferencia: 1.º directo a semifinales, 2.º‑7.º en ronda de eliminación directa (un solo partido, local 2.º‑4.º) |
+| **Final** | MLS Cup (partido único) | Se disputa en la ciudad con más puntos en la temporada regular |
+| **Torneos internos** | *Conference Cup* (campeón de cada conferencia) | Torneo eliminatorio anual de playoffs |
+| **Torneos externos** | *CONCACAF Champions League* | 5 cupos de la MLS (ver sección “Clasificación a la Copa de Campeones”) |
+
+### 3. Historia  
+| Año | Evento | Impacto |
+|-----|--------|---------|
+| 1993 | Creación (17 dic 1993) | Promesa de la FIFA para la Copa Mundial 1994 |
+| 1996 | Primera temporada | 10 equipos, 2 conferencias |
+| 1998 | Expansión a 12 equipos | Añadió Chicago Fire y Miami Fusion |
+| 2000 | Reorganización a 3 divisiones | Central, Este, Oeste |
+| 2001 | Contracción: Miami Fusion & Tampa Bay Mutiny | Reducción a 10 equipos |
+| 2004 | Expansión a 12 equipos | Real Salt Lake, Chivas USA |
+| 2007 | Toronto FC (primer canadiense) | 3 equipos canadienses |
+| 2008 | Seattle Sounders FC | 14 equipos |
+| 2010 | Philadelphia Union | 16 equipos |
+| 2011 | Portland Timbers & Vancouver Whitecaps | 18 equipos |
+| 2012 | Montreal Impact | 19 equipos |
+| 2013 | New York City FC | 20 equipos |
+| 2014 | Atlanta United | 21 equipos |
+| 2015 | Orlando City, Minnesota United, Atlanta United | 23 equipos |
+| 2016 | Los Angeles FC | 24 equipos |
+| 2017 | Expansion a 24 equipos (12 por conferencia) | Nueva identidad visual (logo 2015) |
+| 2019 | Anuncio de expansión a 30 equipos | 24 → 30 equipos en 2025 |
+| 2020 | Nashville SC, Inter Miami CF | 26 equipos |
+| 2021 | Austin FC | 27 equipos |
+| 2022 | Charlotte FC | 28 equipos |
+| 2023 | FC Cincinnati, San Luis FC | 29 equipos |
+| 2025 | San Diego FC | 30 equipos (meta final) |
+
+- **Superliga Norteamericana** (2007‑2009) y **Superliga de la CONCACAF** (2015‑2017) fueron intentos de competencia inter‑ligas.  
+- **Reformas de reglas**: eliminación del *shoot‑out* y *golden goal* en 1999; adopción de reloj normal; introducción de la *Ley del Jugador Franquicia* (2007) que permite fichar estrellas internacionales con un descuento salarial.  
+
+### 4. Equipos participantes (2025)  
+- **Canadá (3):** Toronto FC, Montreal Impact, Vancouver Whitecaps  
+- **Estados Unidos (27):**  
+  - *Conferencia Este:* Atlanta United, Austin FC, Charlotte FC, Chicago Fire, Columbus Crew, D.C. United, Inter Miami CF, New York City FC, Philadelphia Union, Toronto FC (canadiense), etc.  
+  - *Conferencia Oeste:* Austin FC, Los Angeles FC, Minnesota United, Nashville SC, Portland Timbers, San Diego FC, Seattle Sounders FC, etc.  
+
+*(Lista completa de 30 equipos disponible en la página oficial de la MLS.)*  
+
+### 5. Sistema de clasificación  
+| Etapa | Detalle | Resultado |
+|-------|---------|-----------|
+| **Temporada regular** | 34 partidos | Se acumulan puntos (3 por victoria, 1 por empate) |
+| **Supporters' Shield** | Mejor rendimiento total | 1.º de la tabla general |
+| **Playoffs** | 18 equipos | 1.º de cada conferencia directo a semifinales; 2.º‑7.º en ronda de eliminación directa |
+| **MLS Cup** | Final de la liga | Campeón de la MLS |
+| **Clasificación a la CONCACAF Champions League** | 5 cupos | 1.º MLS Cup, 2.º Supporters' Shield, 3.º primer de la conferencia opuesta al Shield, 4.º y 5.º los mejores puntos de la temporada regular (incluye equipos canadienses) |
+
+### 6. Premios  
+| Trofeo | Descripción | Importancia |
+|--------|-------------|-------------|
+| **MLS Cup** | Final de la liga | Campeón de la MLS |
+| **Supporters' Shield** | Mejor equipo de la temporada regular | Reconocimiento de consistencia; acceso automático a la fase de grupos de la CONCACAF Champions League |
+| **Conference Cup** | Campeón de cada conferencia | Reconocimiento de dominio en la conferencia |
+| **Individual** | MVP, Golden Boot, Best XI, Portero del año, Defensor del año, Entrenador del año, Jugador Joven del año | Premios anuales de rendimiento |
+
+### 7. Récords y estadísticas  
+| Categoría | Récord | Equipo/Persona | Año |
+|-----------|--------|----------------|-----|
+| **Títulos de MLS Cup** | 5 | Los Angeles Galaxy | 2002, 2005, 2011, 2012, 2014 |
+| **Supporters' Shield** | 5 | New York Red Bulls | 2004, 2005, 2007, 2010, 2015 |
+| **Mayor asistencia en un partido** | 35 523 | Seattle Sounders FC (CenturyLink Field) | 2009 |
+| **Asistencia media 2024** | > 20 000 | MLS | Tercera liga más alta en EE. UU. |
+| **Títulos de la CONCACAF Champions League** | 1 | Club de Fútbol Monterrey (MLS Club de Fútbol Monterrey) | 2019 (no MLS) – *Nota:* MLS no ha ganado la Champions League |
+| **Tamaño de la liga** | 30 equipos | 2025 | Expansión final |
+| **Tamaño de la audiencia televisiva** | 90 millones USD/temporada (2014‑2022) | Contrato ESPN/Fox/Univision | 2014‑2022 |
+| **MLS Season Pass** | 10 años (2023‑2033) | Apple TV | Todos los partidos en streaming global |
+| **Mayor goleador histórico** | 175 goles | Chris Wright | 2000‑2012 |
+| **Mayor número de partidos** | 1 200 | Chris Wright | 2000‑2012 |
+
+#### Cambios recientes (2023‑2025)  
+- **Apple TV MLS Season Pass**: transmisión global de todos los partidos, reemplazando la distribución regional.  
+- **Sunday Night Soccer (SNS)**: nuevo paquete de partidos dominicales en EE. UU. con derechos internacionales en varios países.  
+- **Expansión a 30 equipos**: finalizada en 2025 con la incorporación de San Diego FC.  
+- **Regla del jugador franquicia**: sigue vigente, permitiendo fichar a estrellas internacionales con un descuento de 335 000 USD por jugador.  
+- **Tope salarial**: promedio de 2,55 millones USD en 2010; sigue siendo un mecanismo de control de costos.  
+
+---
+
+**Resumen final**  
+La Major League Soccer es la principal competición de fútbol profesional en Estados Unidos y Canadá, con 30 equipos distribuidos en dos conferencias. Desde su creación en 1993 y la primera temporada en 1996, la liga ha experimentado una expansión constante, incorporando equipos canadienses y estadounidenses en ciudades clave. El formato combina una temporada regular de 34 partidos con playoffs de 18 equipos, culminando en la MLS Cup. Los premios incluyen la MLS Cup, el Supporters' Shield y la Conference Cup, además de reconocimientos individuales. La liga se distingue por su modelo de tope salarial, la regla del jugador franquicia y su enfoque en la construcción de estadios propios. En los últimos años, la MLS ha reforzado su presencia mediática mediante acuerdos con Apple TV y la creación de paquetes de partidos como Sunday Night Soccer, consolidándose como la liga de fútbol con la tercera asistencia media más alta en EE. UU. y la séptima a nivel mundial.

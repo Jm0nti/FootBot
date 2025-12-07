@@ -1,1 +1,95 @@
-[ERROR AL RESUMIR] Premier_League.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 13477, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Premier League – Competición de Fútbol (Inglaterra)**  
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial**: Premier League (desde 2016‑17).  
+- **Tipo**: Liga de primera categoría de fútbol profesional, la máxima competición de Inglaterra y de Gales (clubes galeses que cumplan requisitos históricos).  
+- **Reconocimientos**:  
+  - Primera de las “Five Big Leagues” de Europa (Premier League, La Liga, Serie A, Bundesliga, Ligue 1).  
+  - 1.º puesto del coeficiente UEFA (última actualización 2024‑25).  
+  - Clasificada como la “liga más relevante del mundo” por la IFFHS (2021‑22).  
+
+### 2. Formato  
+| Elemento | Detalle | Comentario |
+|----------|---------|------------|
+| **Número de equipos** | 20 clubes (desde 1995‑96). | Reducción de 22 a 20 en 1995‑96; se mantiene constante a la fecha. |
+| **Calendario** | Temporada de agosto a mayo; cada equipo juega 38 partidos (18 homólogos, 18 visitantes). | Doble round‑robin. |
+| **Sistema de puntuación** | 3 puntos por victoria, 1 por empate, 0 por derrota. | Igual que en todas las ligas europeas. |
+| **Clasificación** | Ordenada por puntos; desempate por diferencia de goles, goles a favor, y si persiste, por partidos jugados. | En caso de empate en la posición de campeón, ambos equipos se proclaman campeones. |
+| **Relegación** | Los 3 últimos descenden a la Championship (segunda división). | Se sustituyen por los 2 primeros de la Championship + el ganador del playoff de 3.º‑6.º. |
+| **Promoción** | Los 3 primeros de la Championship ascienden; el playoff decide el tercer ascenso. | Playoff se juega en la sede neutral del estadio de Wembley. |
+| **Playoff de la Premier** | Se aplica solo en caso de empate por descenso o clasificación a competiciones europeas. | Se juega en neutral. |
+
+### 3. Historia  
+| Año | Evento | Impacto |
+|-----|--------|---------|
+| **1888** | Fundación de la Football League (First Division). | Primera liga profesional del mundo. |
+| **1892** | Fusión con la Football Alliance → creación de First y Second Divisions. | Primer sistema de divisiones. |
+| **1992‑93** | Creación de la Premier League (20 clubes iniciales). | Separación de la Football League; inicio de la era televisiva. |
+| **1995‑96** | Reducción a 20 equipos. | Se mantiene hasta la actualidad. |
+| **2004‑05** | Último año con patrocinador en el nombre (Barclays Premier League). | Desde 2016‑17 se usa “Premier League” sin patrocinador. |
+| **2003‑04** | Arsenal “Invincibles” (24‑0). | Único club sin perder en una temporada. |
+| **2015‑16** | Leicester City gana (milagro). | Primer club fuera de los “Big Six” en ganar. |
+| **2017‑18** | VAR introducido oficialmente. | Mejora de la justicia arbitral. |
+| **2020‑21** | Proyecto Big Picture anunciado (controversial). | Intento de reorganizar la liga con la FA. |
+| **2023‑24** | Manchester City gana su 6.º título en 7 años. | Primer equipo de primera división en ganar 4 títulos consecutivos. |
+
+### 4. Equipos participantes (2024‑25)  
+- **Clubes permanentes**: 20 equipos que compiten cada temporada.  
+- **Clubes galeses**: Swansea City (desde 2011‑12) y Cardiff City (2013‑14, descendido 2014‑15).  
+- **Clubes históricos**: Arsenal, Chelsea, Liverpool, Manchester United, Manchester City, Tottenham Hotspur, Everton, Aston Villa, Newcastle United, etc.  
+
+### 5. Sistema de clasificación a competiciones europeas  
+| Posición | Competencia | Detalle |
+|----------|-------------|---------|
+| 1.º – 3.º | UEFA Champions League | Directo a fase de grupos. |
+| 4.º | UEFA Champions League | Cuarta ronda de clasificación (doble eliminatoria). |
+| 5.º | UEFA Europa League | Fase de grupos. |
+| 6.º – 7.º | UEFA Europa League | Dependiendo de resultados de FA Cup y League Cup. |
+| Fair‑Play | UEFA Europa League | Si la liga ocupa 1.º, 2.º o 3.º en ranking Fair‑Play, se concede un cupo extra. |
+| **Excepciones** | 2005 | Liverpool ganó la Champions League 2004‑05 pero terminó 4.º; se le concedió un cupo extra. |
+| **Regla de Champions** | El campeón de la Champions League siempre entra a la siguiente edición, incluso si no termina entre los 4 primeros. | Si ocupa 5.º o más, se desplaza el 4.º. |
+
+### 6. Premios y reconocimientos  
+- **Títulos de liga**: 29 temporadas jugadas (1992‑93 a 2024‑25).  
+- **Clubes campeones**:  
+  - Manchester United – 13 títulos.  
+  - Manchester City – 8 títulos.  
+  - Chelsea – 5 títulos.  
+  - Arsenal – 3 títulos.  
+  - Liverpool – 2 títulos.  
+  - Blackburn Rovers – 1 título.  
+  - Leicester City – 1 título.  
+- **Trofeo**: Diseñado por Garrard & Co; pesa 25 kg, altura 76 cm, con leones heráldicos y corona dorada.  
+- **Premios individuales** (ej.: Golden Boot, Player of the Season, Manager of the Season).  
+- **Premios corporativos**:  
+  - **Sponsorship**: Carling (1993‑2001), Barclaycard (2001‑2004), Barclays (2004‑2016), Nike & EA Sports (2016‑actualidad).  
+  - **TV Rights**: La Premier League vende los derechos colectivamente; ingresos estimados 2,47 miles de millones EUR en 2009‑10.  
+
+### 7. Récords y estadísticas (hasta 2024‑25)  
+| Categoría | Récord | Club/Persona | Año |
+|-----------|--------|--------------|-----|
+| **Mayor número de puntos en una temporada** | 100 | Manchester City | 2017‑18 |
+| **Mayor número de goles en una temporada** | 106 | Manchester City | 2017‑18 |
+| **Mayor número de títulos** | 13 | Manchester United | 2024‑25 |
+| **Mayor número de goles en la historia** | 260 | Alan Shearer | 2006 |
+| **Mayor número de partidos sin perder** | 24‑0 | Arsenal (Invincibles) | 2003‑04 |
+| **Mayor número de goles en una temporada de debutante** | 36 | Erling Haaland (Man City) | 2022‑23 |
+| **Mayor número de asistencias en una temporada** | 102 | Gareth Bale (Tottenham) | 2019‑20 |
+| **Mayor número de partidos jugados por un jugador** | 1 000+ | Ryan Giggs (Manchester United) | 2020 |
+| **Mayor número de títulos de liga en 10 años** | 6 | Manchester City | 2017‑2026 (proyección) |
+| **Mayor número de equipos en la Premier League** | 49 |  | 2024‑25 |
+| **Mayor número de equipos en la Premier League que han ganado** | 7 |  | 2024‑25 |
+
+### 8. Cambios recientes (últimos 5 años)  
+- **VAR**: Implementado oficialmente en 2017‑18, con mejoras continuas.  
+- **Reforma de la estructura de ingresos**: En 2022‑23 se introdujo un nuevo modelo de reparto de derechos televisivos, aumentando la parte de “méritos” y la “facilitación” para los equipos de mayor posición.  
+- **Política de Fair‑Play Financiero**: Refuerzo de la supervisión de gastos y de la distribución de ingresos para evitar desequilibrios.  
+- **COVID‑19**: Temporadas 2019‑20 y 2020‑21 se jugaron sin espectadores, con ajustes en la distribución de ingresos y en la programación de partidos.  
+- **Sostenibilidad**: Iniciativas de la Premier League para reducir la huella de carbono de los estadios y promover la igualdad de género en la gestión de clubes.  
+
+---
+
+**Resumen final**  
+La Premier League, creada en 1992 como una entidad independiente de la Football League, se ha consolidado como la competición de fútbol más lucrativa y competitiva del mundo. Con 20 equipos que juegan 38 partidos cada temporada, su formato de doble round‑robin y su sistema de puntos de 3‑1‑0 generan una intensa lucha por el título, la clasificación europea y la supervivencia en la liga. La historia de la competición está marcada por la hegemonía de los “Big Four” y “Big Six”, el milagro de Leicester City, la invencibilidad de Arsenal y la dominación reciente de Manchester City. Los récords de puntos, goles y títulos reflejan la calidad de los clubes y jugadores que han pasado por la liga. La Premier League sigue evolucionando, adaptándose a nuevas tecnologías, regulaciones financieras y demandas de sostenibilidad, manteniendo su posición como la liga más relevante y rentable del fútbol mundial.

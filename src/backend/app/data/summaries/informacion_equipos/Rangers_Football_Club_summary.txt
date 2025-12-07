@@ -1,1 +1,112 @@
-[ERROR AL RESUMIR] Rangers_Football_Club.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 7230, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Rangers Football Club – Resumen Completo y Detallado**
+
+---
+
+### 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| Nombre completo | Rangers Football Club (también conocido como Glasgow Rangers, aunque “Glasgow” no forma parte del nombre oficial) |
+| Fundado | 1872 (algunos registros indican 1873 como la primera reunión anual) |
+| Fundadores | Hermanos Moses McNeil y Peter McNeil, Peter Campbell y William McBeath |
+| Ciudad / País | Glasgow, Escocia, Reino Unido |
+| Apodos de la afición | Gers, Teddy Bears, Blues (o Light Blues), Bluenoses (“puritanos”) |
+| Club original | Rangers (sin “Glasgow”) |
+| Estado actual (2016‑17) | Club activo en la Scottish Premiership, la máxima categoría del fútbol escocés |
+
+---
+
+### 2. Estadio – Ibrox Stadium  
+- **Ubicación**: Distrito de Ibrox, zona sudoeste de Glasgow, a la ribera sur del río Clyde.  
+- **Capacidad**: 50 817 espectadores (tercer estadio más grande de Escocia, décimo del Reino Unido).  
+- **Propiedad**: El club ha sido propietario desde su fundación.  
+- **Características**:  
+  - Superreforzado con columnas de concreto y césped artificial.  
+  - Historial de tragedias:  
+    - 1961: muerte de dos hinchas por caída de barrera en la grada 13.  
+    - 1967 y 1969: dos accidentes trágicos adicionales.  
+    - 2 enero 1971: desastre más grave del fútbol británico; 66 personas muertas tras una avalancha en la grada 13 durante el Old Firm contra Celtic.  
+  - El estadio sigue siendo considerado uno de los mejores de Europa por su infraestructura y seguridad.
+
+---
+
+### 3. Colores y Escudo  
+- **Colores tradicionales**: Azul marino, blanco y rojo.  
+  - **Uniforme titular**: Camiseta azul, pantalón blanco, medias negras.  
+  - **Uniforme suplente**: Camiseta blanca, pantalón azul, medias blancas.  
+  - **Tercer uniforme**: Varias combinaciones (blanco, rojo, azul oscuro, azul claro, negro) con cambios de diseño a lo largo de los años.  
+- **Escudos oficiales**:  
+  - **Escudo de las iniciales (RFC)**: Letras superpuestas, usado en camisetas y pantalones desde 1968 y 1978‑79 respectivamente.  
+  - **Escudo del león rampante**: León desenfrenado, balón antiguo, lema “Ready” (abreviación de “Aye Ready”). Adoptado en 1959, modernizado en 1968 y ligeramente actualizado en los años 90.  
+  - **Uso**: El león rampante se emplea en medios, merchandising y documentos oficiales; el escudo de las iniciales aparece en la camiseta y en ocasiones especiales (ej. 140.º aniversario 2012).  
+- **Estrellas**: Cinco estrellas añadidas sobre el escudo tras el 50.º título de liga (2003), representando cada diez títulos ganados.
+
+---
+
+### 4. Historia  
+| Periodo | Eventos clave |
+|---------|---------------|
+| **1872‑1873** | Fundación en West End Park (Kelvingrove Park). Primer partido 0‑5 contra Callander. |
+| **1872** | William Waddell nombrado entrenador el 8 diciembre (según el documento). |
+| **1971** | Desastre en Ibrox (66 muertos). Se organizó un partido benéfico entre Rangers y Celtic. |
+| **1972** | Rangers gana la Recopa de Europa (UEFA Cup Winners' Cup) 3‑2 contra Dynamo Moscú en el Camp Nou. |
+| **2008** | Subcampeón de la Copa de la UEFA; final en Manchester contra Zenit de San Petersburgo (0‑2). 200 000 seguidores acompañaron al equipo. |
+| **2012** | Bancarrota y liquidación; club renombrado como The Rangers Football Club. Se pierde la participación en la SPL y se cae a la cuarta categoría. |
+| **2012‑2016** | Re‑formación bajo Charles Green (Sevco 5088 Ltd → The Rangers Football Club Ltd). Ascenso de la cuarta a la segunda categoría en cuatro temporadas. |
+| **4 abril 2016** | Regresa a la Scottish Premiership tras ganar la SFL First Division. Se reaviva la rivalidad Old Firm. |
+| **2016‑17** | Club competiendo en la máxima categoría; se menciona la “brillante temporada” en la SFL First Division que llevó al ascenso. |
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Notas |
+|-------------|---------|-------|
+| **Scottish Premiership / SPL** | 55 | Máxima cifra en la historia del fútbol escocés. |
+| **Scottish Cup** | 34 | Título nacional más importante. |
+| **Scottish League Cup** | 28 | Competencia de copa de liga. |
+| **Domestic Treble** | 7 | Ganado las tres competiciones en la misma temporada. |
+| **UEFA Cup Winners' Cup** | 1 (1972) | Primer equipo británico en ganar un torneo UEFA. |
+| **UEFA Cup / Europa League** | 0 | Subcampeón en 2007‑08 y 2021‑22. |
+| **UEFA Cup (Copa de la UEFA)** | 0 | Subcampeón en 2007‑08 y 2021‑22. |
+
+---
+
+### 6. Jugadores legendarios y personal destacado  
+- **William Waddell** – entrenador (1972) y figura histórica.  
+- **Steven Gerrard** – entrenador (2015‑2016) que condujo al club a la victoria en la Scottish Premiership.  
+- **Maurice “Mo” Johnston** – primer fichaje importante católico (1989).  
+- **Lorenzo Amoruso** – primer capitán católico del club (1999).  
+- **38 leyendas** celebraron el 140.º aniversario en 2012 con un partido especial contra Stirling Albion.  
+- **Otros**: Se menciona la presencia de 200 000 seguidores en la final de la Copa de la UEFA 2008 y la participación de 140 años de historia con 38 leyendas en el campo.
+
+---
+
+### 7. Rivalidades  
+| Rival | Descripción | Incidencias relevantes |
+|-------|-------------|------------------------|
+| **Celtic FC** (Old Firm) | Rivalidad histórica y sectaria; Old Firm es el clásico escocés más famoso. | 66 muertos en el desastre de Ibrox 1971; aumento de hospitalizaciones y muertes durante los derbis. |
+| **Aberdeen FC** | Rivalidad surgida en la final de la Copa de la Liga 1979 y agravada por incidentes de jugadores. | Incidentes de Derek Johnstone, Doug Rougvie, Neil Simpson, y la “boca de la vida” de John McMaster. |
+| **Queen’s Park FC** | Rivalidad original, “Derby de Glasgow Original” y “Derby más viejo en el mundo”. | Re‑encuentro en la tercera división 2012‑13. |
+| **Otros** | Se menciona la rivalidad con Aberdeen y la relación con Queen’s Park, pero el foco principal es el Old Firm. |
+
+---
+
+### 8. Datos actuales (2016‑17)  
+- **Liga**: Scottish Premiership (máxima división).  
+- **Entrenador**: No especificado en el documento (se menciona a Steven Gerrard como entrenador en 2015‑16).  
+- **Situación reciente**: Club recuperado tras ascenso de la cuarta categoría, con una asistencia media de más de 50 000 en la cuarta categoría, la más alta de Europa a ese nivel.  
+- **Propiedad**: The Rangers Football Club Ltd (empresa de Charles Green).  
+- **Sanciones**: Prohibición de transferencias durante doce meses (vigente a partir de 1 septiembre 2012).  
+
+---
+
+### 9. Otros datos relevantes  
+- **Afición**: Rangers es uno de los clubes con mayor apoyo en Europa; en 2013‑14 fue el 25.º club con mayor asistencia.  
+- **Tragedias**: El desastre de Ibrox 1971 sigue siendo el peor accidente en la historia del fútbol británico.  
+- **Patrocinadores**: El documento incluye una tabla de cronología de patrocinadores, aunque no se detalla aquí.  
+- **Cultura**: La identidad unionista protestante del club contrastada con la comunidad católica de Celtic.  
+- **Menciones**: Se hace referencia a la influencia de la inmigración irlandesa y el sentimiento anti‑católico en el siglo XIX.
+
+---
+
+**Resumen**  
+Rangers Football Club, fundado en 1872 en Glasgow, es uno de los equipos más laureados del fútbol escocés, con 55 títulos de liga, 34 Copas de Escocia y 28 Copas de la Liga. Su estadio, Ibrox, es un hito histórico con una capacidad de 50 817 y un legado marcado por tragedias, especialmente el desastre de 1971. El club ha atravesado una profunda crisis financiera en 2012, resultando en su liquidación y re‑formación bajo la dirección de Charles Green, antes de ascender de la cuarta a la primera categoría en cuatro años. La rivalidad más intensa es con Celtic FC (Old Firm), que refleja tensiones sectarias y sociales. A nivel internacional, Rangers ganó la Recopa de Europa en 1972 y ha sido subcampeón en la Copa de la UEFA en 2008 y 2022. Con una afición apasionada y una historia rica en triunfos y tragedias, Rangers sigue siendo un símbolo emblemático del fútbol escocés y británico.

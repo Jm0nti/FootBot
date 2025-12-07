@@ -1,1 +1,118 @@
-[ERROR AL RESUMIR] Club_Atlético_Peñarol.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 20911, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Club Atlético Peñarol – Resumen Completo (600‑1000 palabras)**  
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Club Atlético Peñarol  
+- **Apodo:** Aurinegros, Manyas, Tricolores (en la época CURCC)  
+- **Año de fundación:** 28 septiembre 1891 (CURCC) – 13 diciembre 1913 (sección de fútbol separada) – 12 marzo 1914 (nombre definitivo)  
+- **Ciudad/País:** Montevideo, Uruguay  
+- **Historia de la fundación:** Surgió como Central Uruguay Railway Cricket Club (CURCC), con 118 miembros (72 ingleses, 45 uruguayos, 1 alemán). La sección de fútbol se separó de la empresa de ferrocarriles el 13 diciembre 1913, generando la discusión del “decanato” sobre la fecha de fundación oficial.  
+
+---
+
+### 2. Estadio  
+| Estadio | Capacidad | Características | Ubicación |
+|---------|-----------|-----------------|-----------|
+| **Estadio Campeón del Siglo** | 40 005 espectadores | Tribunas: Frank Henderson (Norte), José Pedro Damiani (Sur), Washington Cataldi (Oeste), Gastón Guelfi (Este). Pantalla gigante, campo 105 × 68 m, sala de conferencias, museo, locales comerciales, estacionamientos. | Ruta 102, entre Camino Mangangá y Camino de los Siete Cerros, Montevideo |
+| **Estadio José Pedro Damiani (Las Acacias)** | 7 000 | 37 949 m², usado principalmente por fútbol femenino y categorías juveniles. | Barrio José Pedro Damiani, Montevideo |
+| **Palacio Contador Gastón Guelfi** | – | Estadio de básquetbol, sede oficial, 1955, con 8 canchas y gimnasio. | Barrio Cordón, Montevideo |
+| **Complejo Deportivo Washington Cataldi** | – | 4 ha, usado para entrenamientos y concentraciones. | Villa Los Aromos, Canelones |
+| **Ciudad Deportiva Néstor Gonçalves** | – | 24 ha, 8 canchas, gimnasio, polideportivo, zona de trabajo. | Sur del Estadio Campeón del Siglo, Canelones |
+
+---
+
+### 3. Colores y escudo  
+- **Colores:** Amarillo y negro, inspirados en la locomotora “Rocket” y el gremio ferroviario.  
+- **Escudo:** Fondo negro con cuatro franjas horizontales amarillas en la parte inferior y once estrellas amarillas sobre fondo negro en la parte superior (representan a los once jugadores que salen al campo). El escudo no lleva la palabra “Peñarol” en la versión actual.  
+- **Bandera:** 9 franjas (4 amarillas, 5 negras) con 11 estrellas amarillas en el cantón. La bandera gigante de 309 m de largo y 46 m de alto se desplegó en 2011 y 2018.  
+
+---
+
+### 4. Historia  
+#### 4.1 Amateurismo (1891‑1931)  
+- CURCC fundado 28 septiembre 1891.  
+- Primer partido de fútbol 1892 (victoria 2‑0 vs. English High).  
+- Campeón uruguayo 1900, 1901, 1905, 1907.  
+- Conflictos con la empresa de ferrocarriles (1906‑1913) → separación de la sección de fútbol 13 diciembre 1913.  
+- Primer estadio oficial: Las Acacias (19 abril 1916).  
+- Campeón con nombre Peñarol 1918, 1920.  
+- Cisma con Nacional y creación de la Federación Uruguaya de Football (FUF) 1924, ganada por Peñarol.  
+
+#### 4.2 Profesionalismo (1932‑presente)  
+- **1932:** Primer campeonato profesional (Peñarol 40 puntos).  
+- **Década de 1930:** 4 títulos consecutivos (1935‑1938).  
+- **1940‑1950:** 7 títulos (1944, 1945, 1949, 1951, 1953, 1954, 1958, 1959).  
+- **1960‑1970:** 5 Copas Libertadores (1960, 1961, 1966, 1970, 1971) y 3 Copas Intercontinentales (1961, 1966, 1970).  
+- **1980‑1990:** 3 Copas Libertadores (1981, 1987, 1990) y 3 Copas Intercontinentales (1981, 1987, 1990).  
+- **1993‑1997:** Quinquenio de campeonatos uruguayos.  
+- **2003, 2009‑10, 2012‑13, 2015‑16, 2017‑18, 2021, 2024:** Títulos nacionales recientes.  
+- **2024:** Campeón del “Campeón del Siglo” (3‑1 vs. Fénix).  
+
+#### 4.3 Otras ramas deportivas  
+- **Baloncesto:** Campeón de la Liga Uruguaya de Básquetbol 1983, 1985, 1997, 2018, 2024.  
+- **Ciclismo:** Campeón individual 1952‑1956, 1990‑1991.  
+- **Fútbol femenino:** Campeón 2017‑2019, 2024.  
+- **Futsal:** Campeón 2015‑2024 (seis títulos consecutivos 2019‑2024).  
+- **Rugby:** Superliga Americana 2022 (campeón).  
+- **Otros:** Cricket (desde 2019), fútbol playa, voleibol femenino, deportes electrónicos, “Games of the Future”.  
+
+---
+
+### 5. Palmarés  
+| Competencia | Títulos | Observaciones |
+|-------------|---------|---------------|
+| **Torneos nacionales** | 146 (incl. 43 en era profesional, 52 con CURCC) | 41 en Primera División (1932‑2025). |
+| **Torneos internacionales** | 15 | 5 Copas Libertadores, 3 Copas Intercontinentales, 1 Supercopa Intercontinental, 1 Copa del Consejo Provisorio, 1 Copa FUF, 1 Copa Aldao, 1 Copa de Campeones, 1 Copa del Atlántico, 1 Copa de Campeones de la FUF, 1 Copa de la FUF, 1 Copa de la FUF, 1 Copa de la FUF, 1 Copa de la FUF. |
+| **Torneos juveniles** | 1 | Copa Libertadores Femenina 2018 (participación). |
+| **Otros logros** | 16 | Incluye títulos de baloncesto, ciclismo, fútbol femenino, futsal, rugby. |
+
+- **Club Sudamericano del siglo XX** (IFFHS 2009): Peñarol 531,00 puntos (superó a Independiente 426,50 y Nacional 414,00).  
+
+---
+
+### 6. Jugadores legendarios  
+- **Antonio Pacheco** – 607 partidos oficiales, 131 goles.  
+- **Fernando Morena** – 198 goles en Primera División, 452 totales, 228 goles en Campeonato Uruguayo, 36 en 1978 (máximo de temporada).  
+- **Alberto Spencer** – 116 goles en Primera División, 48 en Copa Libertadores.  
+- **Óscar Míguez** – 105 goles en Primera División.  
+- **Otros ídolos históricos:** Juan Hohberg, Juan Romay, Julio César Abbadie, Diego Aguirre, Marcelo Zalayeta, Juan Manuel Olivera, Cristian Rodríguez, Walter Gargano, Maximiliano Rodríguez, Diego Forlán (2015).  
+
+---
+
+### 7. Rivalidades  
+- **Clásico Nacional‑Peñarol** (el más antiguo del fútbol uruguayo).  
+  - 541 encuentros oficiales y amistosos (192 victorias aurinegros, 174 victorias tricolores, 170 empates).  
+  - Ventaja histórica para Peñarol en finales de Campeonato Uruguayo (8‑6).  
+  - 28 finales de torneos diferentes, 18 triunfos aurinegros.  
+  - Clásico de los 8 contra 11 (23 abril 1987).  
+
+- **Rivalidades internacionales**: Nacional, Independiente (Argentina), Boca Juniors (Argentina), River Plate (Argentina), Cobreloa (Chile), Olimpia (Paraguay), Palmeiras (Brasil), Real Madrid (España), Benfica (Portugal), Aston Villa (Inglaterra).  
+
+---
+
+### 8. Datos actuales (2025)  
+- **Entrenador:** (No especificado en el documento; se menciona que en 2023 se eligió Ignacio Ruglio como presidente, pero el entrenador actual no se indica).  
+- **Liga:** Primera División de Uruguay (Campeón 2024).  
+- **Situación reciente:**  
+  - Campeón del Campeonato Uruguayo 2024 (tanto Apertura como Clausura).  
+  - Participación en la Copa Sudamericana 2025 (octavos de final).  
+  - Estadio Campeón del Siglo en pleno funcionamiento con 40 005 asientos.  
+  - Club mantiene una base de socios de 85 000 (marzo 2016) y continúa creciendo.  
+
+---
+
+### 9. Otros datos relevantes  
+- **Hinchada:** Barra Ámsterdam (La Caterva), 31 puntos perdidos por sanciones (1994‑2005).  
+- **Socios:** 85 000 socios (marzo 2016).  
+- **Presidencia:** Ignacio Ruglio (2023‑2026).  
+- **Patrocinadores y proveedores:** Tenfield (nombre comercial del estadio), Dédalo Films (documental).  
+- **Estadísticas de rendimiento:**  
+  - Mayor invicto en Campeonato Uruguayo: 56 partidos (3 sept 1966‑14 sept 1968).  
+  - Mayor goleada internacional: 11‑2 vs. Valencia de Venezuela (15 mar 1970).  
+  - Mayor diferencia de goles en Copa Libertadores: 14‑1 vs. Everest de Ecuador.  
+
+---
+
+**Conclusión**  
+El Club Atlético Peñarol, con raíces que se remontan al CURCC de 1891, es uno de los equipos más laureados y emblemáticos del fútbol sudamericano. Su identidad se refleja en los colores amarillo‑negro, el escudo con once estrellas y la pasión de su hinchada. A lo largo de su historia ha dominado la escena nacional con 146 títulos y ha dejado huella internacional con cinco Copas Libertadores y tres Copas Intercontinentales. La rivalidad con Nacional sigue siendo el clímax del fútbol uruguayo, mientras que la institución continúa expandiéndose en múltiples disciplinas deportivas y consolidándose como un referente cultural y deportivo en Uruguay y América del Sur.

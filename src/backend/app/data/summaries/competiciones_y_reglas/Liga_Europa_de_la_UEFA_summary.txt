@@ -1,1 +1,116 @@
-[ERROR AL RESUMIR] Liga_Europa_de_la_UEFA.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 13877, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Liga Europa de la UEFA – Resumen Completo (2024‑25)**  
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial**: *UEFA Europa League* (anteriormente *Copa de la UEFA* y *UEFA Cup*).  
+- **Tipo**: Competición continental de clubes organizada por la UEFA.  
+- **Categoría**: Torneo de clubes de segundo nivel (después de la Liga de Campeones y la Liga de Conferencia).  
+
+---
+
+### 2. Formato (2024‑25)  
+| Etapa | Descripción | Número de equipos | Notas clave |
+|-------|-------------|-------------------|-------------|
+| **Fase de liga** | 36 equipos se enfrentan a 8 rivales distintos (4 locales, 4 visitantes). Cada partido vale 3 puntos. | 36 | Se eliminan los 20 equipos que no alcanzan los 8 primeros. |
+| **Octavos de final** | 8 equipos clasificados directamente (1‑8) juegan a doble partido (ida y vuelta). | 8 | Se aplican regla de gol de visitante, prórroga y penales si es necesario. |
+| **Play‑offs** | 16 equipos (9‑20) compiten a doble partido para ganar 8 plazas en octavos. | 16 | Igual regla de desempate que octavos. |
+| **Cuartos, Semifinales** | A doble partido. | 8 → 4 → 2 | Igual regla de desempate. |
+| **Final** | Partido único en estadio neutral designado por la UEFA. | 2 | Decisión por tiempo reglamentario, prórroga y penales. |
+
+- **Clasificación de equipos**: Campeones de copas nacionales, mejores clasificados de ligas que no acceden a la Champions League, terceros de la fase de grupos de la Champions, y 3 equipos de Fair‑Play.  
+- **Títulos de la fase de liga**: Los 8 primeros pasan a octavos; los 9‑20 compiten en play‑offs.  
+
+---
+
+### 3. Historia  
+| Año | Evento | Detalle |
+|-----|--------|---------|
+| **1971‑72** | Creación de la Copa de la UEFA | 64 equipos de 32 federaciones, eliminación directa, gol de visitante. |
+| **1999‑00** | Se incorpora la Recopa de Europa (campeones de copa) y los terceros de la Champions. |
+| **2004‑05** | Se introduce fase de grupos (8 grupos de 5 equipos). |
+| **2009‑10** | Renombrado a *UEFA Europa League*; fase de grupos ampliada a 12 grupos de 4 equipos. |
+| **2014‑15** | El campeón gana plaza directa en la siguiente Champions League. |
+| **2018‑19** | Se introduce el emblema de campeón múltiple (3 títulos consecutivos o 5 alternos). |
+| **2021‑22** | Se reduce la fase de grupos a 32 equipos tras la creación de la Liga de Conferencia. |
+| **2024‑25** | Reestructuración: fase de liga sustituye a la fase de grupos; 36 equipos, 8 rivales por club. |
+
+- **Dominio histórico**: Sevilla FC (7 títulos), España (14 campeonatos), Italia e Inglaterra (10 cada uno).  
+- **Participantes totales**: 994 equipos desde la creación.  
+
+---
+
+### 4. Equipos participantes (2024‑25)  
+- **Clubes de la Champions**: 12 equipos que terminan 3.º‑4.º en sus grupos de la Champions.  
+- **Clubes de la Europa**: 32 equipos que terminan 5.º‑8.º en sus grupos de la Champions.  
+- **Clubes de la Liga**: 32 equipos que terminan 1.º‑4.º en sus ligas nacionales (excluidos los que ya acceden a la Champions).  
+- **Clubes de la Copa**: 16 equipos ganadores de copas nacionales (excluidos los que ya acceden a la Champions).  
+- **Fair‑Play**: 3 equipos con mejor ranking de Fair‑Play de la UEFA.  
+
+---
+
+### 5. Sistema de clasificación (detallado)  
+1. **Fase de liga**  
+   - 3 puntos por victoria, 1 por empate, 0 por derrota.  
+   - Orden de desempate:  
+     1. Puntos en partidos entre equipos empatados.  
+     2. Diferencia de goles en esos partidos.  
+     3. Goles fuera de casa en esos partidos.  
+     4. Diferencia de goles global.  
+     5. Goles marcados global.  
+     6. Coeficiente UEFA (últimos 5 años).  
+
+2. **Play‑offs y rondas de eliminación**  
+   - Se suman los goles de los dos partidos.  
+   - Si empate, se juega 30 minutos de prórroga (2×15 min).  
+   - Si sigue empatado, se decide por penales.  
+
+3. **Final**  
+   - Partido único.  
+   - Si empate, prórroga y penales.  
+
+---
+
+### 6. Premios y beneficios  
+| Premio | Beneficio | Comentario |
+|--------|-----------|------------|
+| **Torneo** | Trofeo de 15 kg de plata, 3 puntos de oro. | Diseñado por Milano Bertoni (1972). |
+| **Ganador** | Plaza directa en la siguiente edición de la Champions League (octavos de final). | Desde 2014‑15. |
+| **Supercopa de Europa** | Enfrentamiento contra el campeón de la Champions. | Se mantiene desde 2014‑15. |
+| **UEFA‑CONMEBOL Club Challenge** | Desde 2023‑24, enfrentamiento contra el campeón de la Copa Sudamericana. |
+| **Premios económicos** | 5 m € al campeón, 2.5 m € al finalista, 1 m € semifinalista, 450 k € cuartos, 350 k € octavos, 200 k € 3.º en grupos, 400 k € 1.º en grupos, 200 k € 2.º en grupos, 1.3 m € por victoria en grupos, 100 k € por empate en grupos, 120 k € por participación en fase de grupos. |
+| **Emblema de campeón múltiple** | Se otorga a clubes con 3 títulos consecutivos o 5 alternos. | Se muestra en la manga izquierda de la camiseta. |
+
+---
+
+### 7. Récords y estadísticas (hasta 2024‑25)  
+- **Club con más títulos**: Sevilla FC – 7 (2006, 2007, 2014, 2015, 2016, 2020, 2023).  
+- **Club con más finales**: Sevilla (12 finales).  
+- **Mayor goleada global**: Feyenoord 21–0 vs. US Rumelange (1972‑73).  
+- **Mayor goleada en final**: Real Madrid 5–1 vs. F.C. Colonia (1985‑86).  
+- **Máximo goleador histórico**: Henrik Larsson – 40 goles.  
+- **Jugador con más títulos**: José Antonio Reyes – 5 (3 con Sevilla, 2 con Atlético).  
+- **Entrenador con más títulos**: Unai Emery – 4 (todos con Sevilla).  
+- **Títulos consecutivos**:  
+  - Sevilla: 3 (2013‑14, 2014‑15, 2015‑16).  
+  - Real Madrid: 2 (1984‑85, 1985‑86).  
+- **Títulos por país**: España – 14, Italia – 10, Inglaterra – 10, Alemania – 9, Francia – 7.  
+
+---
+
+### 8. Cambios recientes (2024‑25)  
+- **Reestructuración del formato**: Fase de grupos sustituida por fase de liga de 36 equipos.  
+- **Reducción de equipos en play‑offs**: 16 equipos (9‑20) compiten por 8 plazas en octavos.  
+- **Ajuste de premios económicos**: Incremento de la cifra máxima a 9.9 m € (incluye cuota de mercado).  
+- **Patrocinadores**: Nuevos acuerdos con Heineken, Just Eat, Lieferando, entre otros, con exclusividad por país.  
+- **Himno**: Última actualización en 2018‑19 con composición de Michel Kadelbach.  
+
+---
+
+### 9. Observaciones finales  
+- La Liga Europa de la UEFA ha evolucionado desde una competición de eliminación directa para clubes “no‑premier” hasta un torneo con fase de liga y play‑offs, reflejando la creciente competitividad y la integración con la Champions League.  
+- El club más laureado, Sevilla, ha establecido un estándar de éxito con 7 títulos, incluyendo tres consecutivos en la década de 2010.  
+- La participación de 994 equipos a lo largo de su historia demuestra su papel como plataforma de ascenso y reconocimiento para clubes de toda Europa.  
+- El formato actual, con fase de liga y play‑offs, busca equilibrar la calidad de los encuentros y la oportunidad de los equipos de menor ranking, mientras mantiene la emoción de los partidos de eliminación directa.  
+
+---

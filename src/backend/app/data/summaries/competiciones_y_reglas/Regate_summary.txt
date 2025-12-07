@@ -1,1 +1,108 @@
-[ERROR AL RESUMIR] Regate.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 7290, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Resumen Completo y Detallado – Regate (Dribbling) en Fútbol, Baloncesto y Waterpolo**
+
+---
+
+## 1. Regla o aspecto: Concepto general de Regate  
+**Descripción detallada**  
+El regate es una habilidad individual que implica movimientos y amagues con distintas partes del cuerpo (pies, piernas, cadera, brazos o manos) mientras se mantiene la posesión del balón. Su objetivo es eludir a un rival y evitar la pérdida de la pelota. En fútbol se denomina *dribbling* (del inglés *dribble*), mientras que en otros deportes se conoce como *pasar a sí mismo* (baloncesto) o *mover la pelota* (waterpolo).  
+**Casos especiales**  
+- **Regate prohibido**: en baloncesto, si el jugador deja de regatear y sostiene la pelota con las manos, se considera *doble regate* y la jugada se detiene.  
+- **Regate con contacto**: en waterpolo, el contacto con la pelota es mínimo; cualquier intento de robarla debe evitar el contacto físico.  
+**Ejemplos**  
+- Fútbol: Ronaldinho con la *elástica*.  
+- Baloncesto: LeBron James con el *regate detrás de la espalda*.  
+- Waterpolo: Jugador que mantiene la pelota con golpes de brazo cortos mientras nada.  
+**Cambios recientes**  
+- En baloncesto, la NABC (1927) defendió la preservación del regate frente a propuestas de eliminación.  
+- En fútbol, la FIFA no ha modificado la definición de regate, pero sí ha actualizado la interpretación de *falta* cuando se intenta robar el balón durante un regate.
+
+---
+
+## 2. Regla o aspecto: Tipos de Regate en Fútbol  
+| Tipo | Descripción detallada | Casos especiales | Ejemplos | Cambios recientes |
+|------|-----------------------|------------------|----------|-------------------|
+| **Clásico** | Movimiento súbito del pie para controlar el balón y eludir al adversario. | Se aplica en espacios reducidos y contra defensores marcados. | Lionel Messi con la *finta de izquierda a derecha*. | No hay cambios. |
+| **Autopase** | Tocar el balón en un espacio libre y recuperarlo en movimiento. | Se usa en contragolpes y requiere velocidad y control. | Gareth Bale en el 2018 World Cup. | No hay cambios. |
+| **Cambio de ritmo** | Alterar la velocidad súbitamente para superar al rival. | Popularizado por Johan Cruyff (1970s). | Cruyff con el *giro de Cruyff* vs. Jan Olsson (1974). | No hay cambios. |
+| **Freno** | Controlar el balón con velocidad, detenerse y cambiar de dirección. | Garrincha (1960s) lo utilizó en bandas. | Neymar con el *freno* en la Champions 2019. | No hay cambios. |
+| **Sombrero / Vaselina** | Controlar la pelota con la punta del pie y pasarla por encima del defensor. | Se considera autopase aéreo. | Pelé en la final 1958. | No hay cambios. |
+| **Túnel** | Pasar el balón entre las piernas del rival. | Requiere espacio y velocidad. | Cristiano Ronaldo con el *túnel* vs. defender 2016. | No hay cambios. |
+| **Arcoíris** | Levantar el balón con el talón y pasar por encima del defensor. | Se usa en situaciones de ataque rápido. | Ronaldinho con el *arcoíris* 2005. | No hay cambios. |
+| **Rabona** | Golpear el balón con la pierna trasera cruzando ambas piernas. | Puede ser tiro, pase o centro. | Luis Suárez con la *rabona* 2014. | No hay cambios. |
+| **Bicicleta** | Engañar al marcador con un movimiento de pedalada. | Se usa para crear faltas. | Denílson en la final 1998. | No hay cambios. |
+| **Elástica** | Curvar el balón con el borde interno del pie y luego empujar con el externo. | Requiere potencia y elasticidad. | Ronaldinho con la *elástica* 2008. | No hay cambios. |
+| **Ruleta Marsellesa** | Rotación sobre el balón sin perder velocidad. | Zidane lo usó en la Euro 2000. | Zidane con la *ruleta* 2000. | No hay cambios. |
+| **Cola de Vaca** | Gira el cuerpo 180° manteniendo el balón en la punta. | Romario lo popularizó. | Romario en la Copa América 1995. | No hay cambios. |
+| **Croqueta** | Tocar el balón con el interior de ambos pies en sucesión. | Se usa en espacios reducidos. | Andrés Iniesta con la *croqueta* 2010. | No hay cambios. |
+| **Abracadabra** | Pasar el balón por detrás del pie de apoyo y luego por delante. | Se considera una rabona. | Lionel Messi con la *abracadabra* 2014. | No hay cambios. |
+| **Dominada** | Golpes continuos al balón en el aire sin tocar el suelo. | Se practica en fútbol callejero. | Vinícius Júnior en la Copa Libertadores 2022. | No hay cambios. |
+| **Espuela** | Golpear el balón con el exterior o talón manteniendo la pierna flexionada. | Se usa para controlar y redirigir. | Neymar con la *espuela* 2019. | No hay cambios. |
+| **Falsa Rabona** | Engaño con la pierna trasera sin patear hacia adelante. | Se usa para despistar. | Kylian Mbappé en la Ligue 1 2023. | No hay cambios. |
+| **Ocho** | Mover el cuerpo a un lado y patear el balón al otro lado. | Se usa para confundir al defensor. | Sergio Agüero en la Premier League 2017. | No hay cambios. |
+| **Foquinha** | Elevar el balón y tocarlo con la cabeza mientras corre. | Se popularizó por Maradona y Kerlon. | Kerlon en la Copa Libertadores 2007. | No hay cambios. |
+| **Gravesinha** | Simular un tiro falso y luego patear. | Realizado solo por Thomas Gravesen. | Gravesen vs. Sevilla 2006. | No hay cambios. |
+| **Ranita** | Agarrar el balón con ambas piernas y saltar. | Se usa en fútbol callejero. | Jugadores de la calle en Brasil 2010. | No hay cambios. |
+| **Regate del Árbitro** | Realizar un regate (croqueta, bicicleta, túnel) con el árbitro entre los jugadores. | Rareza, usado por Messi. | Messi en la Copa América 2015. | No hay cambios. |
+| **Regate del Banderín** | Regatear en la zona del banderín (saque de esquina). | Se requiere fuerza y control. | Jugador de la Real Madrid 2019. | No hay cambios. |
+| **Regate Invisible** | Movimientos sin tocar el balón, solo con el cuerpo. | Usado por Messi para engañar. | Messi en la Copa del Rey 2016. | No hay cambios. |
+| **Tiro al Vacío** | Fingir un tiro potente sin tocar el balón. | Se usa para provocar risa. | Jugador de la Barcelona 2018. | No hay cambios. |
+| **Tiro Falso** | Simular un tiro o pase sin ejecutarlo. | Se usa para despistar defensores. | Kylian Mbappé en la Ligue 1 2023. | No hay cambios. |
+| **Zamorana** | Saque de puerta con el codo o antebrazo. | Solo puede hacerlo el portero. | Ricardo Zamora 1930. | No hay cambios. |
+
+---
+
+## 3. Regla o aspecto: Regate en Baloncesto  
+**Descripción detallada**  
+El regate consiste en hacer rebotar la pelota en el suelo continuamente con una mano a la vez, manteniendo la posesión mientras se avanza. Es la única forma legal de avanzar con la pelota mientras se camina o corre.  
+**Casos especiales**  
+- **Doble regate**: si el jugador deja de regatear y sostiene la pelota con las manos, el árbitro detiene la jugada y la entrega al equipo contrario.  
+- **Regate con ambas manos**: se considera *doble regate* y se sanciona con la pérdida de la posesión.  
+**Ejemplos**  
+- LeBron James con el *regate detrás de la espalda*.  
+- Stephen Curry con el *regate de la espalda* en la NBA 2015.  
+**Cambios recientes**  
+- La NABC (1927) defendió la preservación del regate frente a propuestas de eliminación.  
+- La NBA ha reforzado la penalización por *doble regate* en 2023, con sanciones de 2 tiros libres y pérdida de posesión.
+
+---
+
+## 4. Regla o aspecto: Regate en Waterpolo  
+**Descripción detallada**  
+El regate implica mover la pelota mientras el jugador nada hacia adelante, impulsándola con golpes de brazo alternados y, a veces, con empujones de nariz o frente. El contacto con la pelota es mínimo, lo que dificulta que el defensor la robe.  
+**Casos especiales**  
+- **Contacto prohibido**: el defensor no puede tocar la pelota a menos que el atacante la esté tocando.  
+- **Movimiento turbulento del codo**: considerado legal por la FINA, pero el defensor debe evitar el contacto.  
+**Ejemplos**  
+- Jugador de España que mantiene la pelota con golpes de brazo cortos en la final 2018.  
+- Jugador de Brasil que protege la pelota con empujones de frente en la Copa Mundial 2023.  
+**Cambios recientes**  
+- La FINA ha actualizado la definición de *movimiento turbulento* en 2022, permitiendo más libertad en la técnica de regate.
+
+---
+
+## 5. Regla o aspecto: Impacto Cultural y Espectáculo  
+**Descripción detallada**  
+El regate es una de las habilidades más espectaculares y valoradas en el fútbol, a menudo provocando ovaciones del público. Su dominio se asocia con la creatividad, la velocidad y la coordinación.  
+**Casos especiales**  
+- **Regate en la Copa Mundial 2018**: Eden Hazard estableció récord de 10 regates exitosos contra Brasil con 100 % de éxito.  
+- **Regate en la Champions League**: Cristiano Ronaldo y Lionel Messi han sido protagonistas de regates que definieron partidos.  
+**Ejemplos**  
+- Ronaldinho con la *elástica* en la Copa del Mundo 2006.  
+- Neymar con la *espuela* en la Copa América 2019.  
+**Cambios recientes**  
+- La FIFA ha introducido la categoría “Regate del Año” en la Copa del Mundo 2022 para reconocer la excelencia técnica.
+
+---
+
+## 6. Resumen de Reglas Clave por Deporte  
+
+| Deporte | Regla de Regate | Sanciones por Violación | Observaciones Clave |
+|---------|-----------------|--------------------------|---------------------|
+| Fútbol | Mantener la posesión mientras se elude al rival. | Pérdida de posesión, falta si se intenta robar. | Regate no puede ser un pase; el balón debe permanecer en control. |
+| Baloncesto | Rebotar la pelota con una mano mientras avanza. | Doble regate: pérdida de posesión y 2 tiros libres. | Regate con ambas manos prohibido. |
+| Waterpolo | Mover la pelota con golpes de brazo mientras nada. | Contacto prohibido con la pelota. | Movimiento turbulento del codo permitido. |
+
+---
+
+**Conclusión**  
+El regate, en sus múltiples formas y aplicaciones, constituye un elemento central de la técnica individual en fútbol, baloncesto y waterpolo. Cada deporte regula su ejecución con normas específicas que buscan equilibrar la creatividad con la justicia del juego. Los ejemplos históricos y los récords actuales ilustran la evolución y el impacto cultural de esta habilidad, que sigue siendo un espectáculo clave para aficionados y una herramienta táctica esencial para los jugadores de élite.

@@ -1,1 +1,116 @@
-[ERROR AL RESUMIR] Categoría_Primera_A.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 22701, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Categoría Primera A (Liga BetPlay Dimayor)**  
+
+| Tema | Detalle |
+|------|---------|
+| **Nombre y tipo** | Categoría Primera A – Campeonato de primera división del fútbol profesional colombiano. También conocido comercialmente como **Liga BetPlay Dimayor**. |
+| **Formato** | Desde 2002 el torneo se divide en dos semestres: **Torneo Apertura** (enero‑junio) y **Torneo Finalización** (julio‑diciembre). Cada semestre incluye: <br>1. **Fase todos‑contra‑todos** (20 jornadas, 10 locales/10 visitantes). <br>2. **Cuadrangulares semifinales** (8 equipos, 2 grupos de 4, todos‑contra‑todos con ida y vuelta). <br>3. **Final** (2 partidos, ida y vuelta). <br>En 2020, por la pandemia, se jugó un único campeonato con eliminación directa en lugar de cuadrangulares. <br>El número de equipos pasó de 18 a 20 en 2015. |
+| **Historia** | • **1948**: Fundación de la División Mayor del Fútbol Colombiano (Dimayor) y primer torneo profesional (15 agosto). <br>• **1949‑1953**: Era del “El Dorado” con fichajes de jugadores argentinos y sudamericanos. <br>• **1954‑1969**: Dominio de Millonarios, Atlético Nacional, y la aparición de equipos como Deportivo Cali y Unión Magdalena. <br>• **1970‑1989**: Consolidación de la liga con torneos cortos y largos; América de Cali domina en los 80. <br>• **1990‑1999**: Creación de la Categoría Primera B (1991) y la introducción de la Copa Colombia (1991). <br>• **2000‑2009**: Se establece el formato semestral, se introducen los cuadrangulares y se expande el número de equipos. <br>• **2010‑2019**: Cambios de patrocinador (Postobón, Águila), ajustes de formato (play‑offs en 2010‑2011), y la expansión a 20 equipos en 2015. <br>• **2020‑2025**: Pandemia provoca un único torneo; se vuelve a semestres en 2021; se introducen cambios en la tabla de promedio y descenso directo de los dos últimos equipos. |
+| **Equipos participantes** | 20 clubes activos (2025). Los equipos con más participaciones sin descenso: **Atlético Nacional, Independiente Santa Fe, Millonarios** (100 ediciones cada uno). Otros equipos recurrentes: Deportivo Cali, América de Cali, Junior de Barranquilla, Once Caldas, Deportes Tolima, Atlético Bucaramanga, etc. |
+| **Sistema de clasificación** | 1. **Puntaje**: 3 puntos por victoria, 1 por empate. <br>2. **Tabla de todos‑contra‑todos** (para cada semestre). <br>3. **Reclasificación**: Suma de puntos de ambos semestres (incluye cuadrangulares y finales) para determinar cupos internacionales y la tabla de promedio. <br>4. **Tabla de promedio**: Puntos de los últimos 3 años (6 torneos) divididos por partidos jugados; determina descenso directo (últimos 2 equipos). |
+| **Premios** | • **Títulos oficiales**: 99 títulos en 100 campeonatos (Atlético Nacional 18, Millonarios 14, América de Cali 13, Deportivo Cali 8, Independiente Santa Fe 7, Junior 7, etc.). <br>• **Clasificación a la Copa Libertadores**: Campeones de Apertura y Finalización obtienen plazas directas a la fase de grupos; si un mismo club gana ambos, el segundo cupo se asigna al mejor clasificado en la reclasificación. <br>• **Copa Sudamericana**: 1 cupo a la Copa Colombia y 3 a los mejores equipos de la reclasificación que no califican a la Libertadores. <br>• **Trofeo**: Copa de plata de 90 cm, 5 kg, con réplica para cada campeón. |
+| **Récords y estadísticas** | • **Mayor número de títulos**: Atlético Nacional (18). <br>• **Mayor número de participaciones**: Los tres equipos anteriores (100 ediciones). <br>• **Mayor invicto**: Millonarios (29 partidos 1999). <br>• **Mayor número de partidos ganados**: Millonarios (1470). <br>• **Mayor número de goles en un torneo corto**: Deportivo Cali (55 goles, Apertura 2002). <br>• **Mayor número de puntos en un torneo corto**: Atlético Nacional (62 puntos, Apertura 2017). <br>• **Mayor tiempo sin título**: Atlético Bucaramanga (75 años, 1949‑2024). <br>• **Mayor tiempo entre títulos**: Once Caldas (53 años, 1950‑2003). <br>• **Mayor número de subcampeonatos**: Deportivo Cali (14). <br>• **Mayor número de partidos perdidos**: Deportes Tolima (1153). |
+| **Cambios recientes** | • **2020**: Torneo único, eliminación directa, sin ascensos/descensos. <br>• **2021**: Re‑introducción de semestres, se mantiene la tabla de promedio para descenso. <br>• **2022**: Los equipos ascendidos a Primera A comienzan con promedio cero. <br>• **2023**: Se mantiene el formato semestral; se introducen cambios en la transmisión (todos los partidos a partir de cuadrangulares transmitidos por Radio Nacional). <br>• **2024**: Se confirma la expansión a 20 equipos y se mantiene la tabla de promedio para descenso. <br>• **2025**: Se mantiene el formato semestral con 20 equipos; se actualiza la tabla de reclasificación y se continúa con los cupos a la Libertadores y Sudamericana. |
+
+**Resumen histórico de títulos (1948‑2025)**  
+
+| Año | Torneo | Campeón | Subcampeón | Observaciones |
+|-----|--------|---------|------------|---------------|
+| 1948 | Torneo largo | Santa Fe | – | Primer campeón profesional. |
+| 1949‑1953 | Torneo largo | Millonarios | – | Tricampeonato 1951‑53. |
+| 1954 | Torneo largo | Atlético Nacional | – | Primer título. |
+| 1955 | Torneo largo | Independiente Medellín | – | Primer título. |
+| 1956 | Torneo largo | Deportes Quindío | – | Único título. |
+| 1957 | Torneo largo | Independiente Medellín | – | Polémica en la final. |
+| 1958 | Torneo largo | Santa Fe | – | 3.º título. |
+| 1959 | Torneo largo | Millonarios | – | 5.º título. |
+| 1960 | Torneo largo | Santa Fe | – | 3.º título. |
+| 1961‑1963 | Torneo largo | Millonarios | – | 4.º‑6.º título. |
+| 1964 | Torneo largo | Millonarios | – | 7.º título. |
+| 1965 | Torneo largo | Deportivo Cali | – | 1.º título. |
+| 1966 | Torneo largo | Independiente Santa Fe | – | 4.º título. |
+| 1967 | Torneo largo | Deportivo Cali | – | 2.º título. |
+| 1968 | Torneo largo | Unión Magdalena | – | 1.º título. |
+| 1969 | Torneo largo | Deportivo Cali | – | 3.º título. |
+| 1970 | Torneo corto | Deportivo Cali | – | 4.º título. |
+| 1971 | Torneo corto | Independiente Santa Fe | – | 5.º título. |
+| 1972 | Torneo corto | Millonarios | – | 10.º título. |
+| 1973 | Torneo corto | Atlético Nacional | – | 2.º título. |
+| 1974 | Torneo corto | Deportivo Cali | – | 5.º título. |
+| 1975 | Torneo corto | Independiente Santa Fe | – | 6.º título. |
+| 1976 | Torneo corto | Atlético Nacional | – | 3.º título. |
+| 1977 | Torneo corto | Atlético Junior | – | 1.º título. |
+| 1978 | Torneo corto | Millonarios | – | 11.º título. |
+| 1979 | Torneo corto | América de Cali | – | 1.º título. |
+| 1980 | Torneo corto | Atlético Junior | – | 2.º título. |
+| 1981 | Torneo corto | Atlético Nacional | – | 4.º título. |
+| 1982‑1986 | Torneo corto | América de Cali | – | Pentacampeonato. |
+| 1987 | Torneo corto | Millonarios | – | 12.º título. |
+| 1988 | Torneo corto | Millonarios | – | 13.º título. |
+| 1989 | Torneo corto | – | – | Torneo cancelado (cartel de Medellín). |
+| 1990 | Torneo corto | América de Cali | – | 7.º título. |
+| 1991 | Torneo corto | Atlético Nacional | – | 5.º título. |
+| 1992 | Torneo corto | América de Cali | – | 8.º título. |
+| 1993 | Torneo corto | Junior | – | 1.º título. |
+| 1994 | Torneo corto | Atlético Nacional | – | 6.º título. |
+| 1995 | Torneo corto | Junior | – | 2.º título. |
+| 1995‑96 | Torneo largo | Deportivo Cali | – | 7.º título. |
+| 1996‑97 | Torneo largo | Atlético Nacional | – | 9.º título. |
+| 1998 | Torneo corto | Once Caldas | – | 1.º título. |
+| 1999 | Torneo corto | Atlético Nacional | – | 7.º título. |
+| 2000‑2001 | Torneo largo | América de Cali | – | Bicampeonato. |
+| 2002 | Torneo corto | Atlético Nacional (Apertura) | – | 4.º título. |
+| 2002 | Torneo corto | Independiente Medellín (Finalización) | – | 1.º título. |
+| 2003 | Torneo corto | Once Caldas (Apertura) | – | 2.º título. |
+| 2003 | Torneo corto | Deportes Tolima (Finalización) | – | 1.º título. |
+| 2004 | Torneo corto | Independiente Medellín (Apertura) | – | 4.º título. |
+| 2004 | Torneo corto | Junior (Finalización) | – | 1.º título. |
+| 2005 | Torneo corto | Atlético Nacional (Apertura) | – | 8.º título. |
+| 2005 | Torneo corto | Deportivo Cali (Finalización) | – | 8.º título. |
+| 2006 | Torneo corto | Deportivo Pasto (Apertura) | – | 1.º título. |
+| 2006 | Torneo corto | Cúcuta Deportivo (Finalización) | – | 1.º título. |
+| 2007 | Torneo corto | Atlético Nacional (Apertura) | – | 10.º título. |
+| 2007 | Torneo corto | Atlético Nacional (Finalización) | – | 11.º título. |
+| 2008 | Torneo corto | Boyacá Chicó (Apertura) | – | 1.º título. |
+| 2008 | Torneo corto | Atlético Nacional (Finalización) | – | 12.º título. |
+| 2009 | Torneo corto | Once Caldas (Apertura) | – | 3.º título. |
+| 2009 | Torneo corto | Independiente Medellín (Finalización) | – | 5.º título. |
+| 2010 | Torneo corto | Junior (Apertura) | – | 6.º título. |
+| 2010 | Torneo corto | Once Caldas (Finalización) | – | 4.º título. |
+| 2011 | Torneo corto | Atlético Nacional (Apertura) | – | 11.º título. |
+| 2011 | Torneo corto | Junior (Finalización) | – | 7.º título. |
+| 2012 | Torneo corto | Independiente Santa Fe (Apertura) | – | 7.º título. |
+| 2012 | Torneo corto | Millonarios (Finalización) | – | 14.º título. |
+| 2013 | Torneo corto | Atlético Nacional (Apertura) | – | 12.º título. |
+| 2013 | Torneo corto | Atlético Nacional (Finalización) | – | 13.º título. |
+| 2014 | Torneo corto | Atlético Nacional (Apertura) | – | 14.º título. |
+| 2014 | Torneo corto | Independiente Santa Fe (Finalización) | – | 8.º título. |
+| 2015 | Torneo corto | Deportivo Cali (Apertura) | – | 9.º título. |
+| 2015 | Torneo corto | Atlético Nacional (Finalización) | – | 15.º título. |
+| 2016 | Torneo corto | Independiente Medellín (Apertura) | – | 6.º título. |
+| 2016 | Torneo corto | Independiente Santa Fe (Finalización) | – | 9.º título. |
+| 2017 | Torneo corto | Atlético Nacional (Apertura) | – | 16.º título. |
+| 2017 | Torneo corto | Millonarios (Finalización) | – | 15.º título. |
+| 2018 | Torneo corto | Deportes Tolima (Apertura) | – | 2.º título. |
+| 2018 | Torneo corto | Junior (Finalización) | – | 8.º título. |
+| 2019 | Torneo corto | Junior (Apertura) | – | 9.º título. |
+| 2019 | Torneo corto | América de Cali (Finalización) | – | 14.º título. |
+| 2020 | Torneo único | América de Cali | – | 15.º título. |
+| 2021 | Torneo Apertura | Deportes Tolima | – | 3.º título. |
+| 2021 | Torneo Finalización | Deportivo Cali | – | 10.º título. |
+| 2022 | Torneo Apertura | Atlético Nacional | – | 17.º título. |
+| 2022 | Torneo Finalización | Deportivo Pereira | – | 1.º título. |
+| 2023 | Torneo Apertura | Millonarios | – | 16.º título. |
+| 2023 | Torneo Finalización | Junior | – | 10.º título. |
+| 2024 | Torneo Apertura | Atlético Bucaramanga | – | 1.º título. |
+| 2024 | Torneo Finalización | Atlético Nacional | – | 18.º título. |
+| 2025 | Torneo Apertura | Santa Fe | – | 10.º título. |
+
+**Observaciones clave**  
+- **Formato semestral**: Desde 2002 se han otorgado dos campeones por año, salvo 2020.  
+- **Ascenso/Descenso**: Desde 2015, los dos últimos equipos de la tabla de promedio descenden directamente; la serie de promoción se eliminó.  
+- **Cupos internacionales**: 4 plazas a la Copa Libertadores (2 directos, 2 de fase II) y 4 a la Copa Sudamericana.  
+- **Patrocinadores**: Cambios de nombre (Copa Mustang → Liga Postobón → Liga Águila → Liga BetPlay).  
+- **Cobertura**: Desde 2024, todos los partidos a partir de cuadrangulares se transmiten por Radio Nacional; se mantiene la transmisión televisiva en canales privados y Win Sports.  
+
+**Conclusión**  
+La Categoría Primera A es la máxima competición de fútbol profesional en Colombia, con una rica historia de 77 años de torneo, 100 campeonatos y 99 títulos oficiales. Su formato semestral, la tabla de promedio para descenso y la asignación de cupos internacionales la convierten en una liga de alta competitividad y relevancia regional. Los equipos más laureados son Atlético Nacional, Millonarios y América de Cali, mientras que la ciudad de Bogotá ostenta la mayor cantidad de títulos (26). La liga continúa evolucionando, adaptándose a cambios en patrocinio, formato y tecnología de transmisión, manteniendo su posición como la tercera liga más fuerte de América según la IFFHS 2024.

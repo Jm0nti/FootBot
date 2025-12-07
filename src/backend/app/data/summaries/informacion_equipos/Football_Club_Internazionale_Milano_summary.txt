@@ -1,1 +1,163 @@
-[ERROR AL RESUMIR] Football_Club_Internazionale_Milano.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 21862, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Football Club Internazionale Milano – “Inter”**  
+*(Resumen estructurado y completo)*  
+
+---
+
+## 1. Identidad del club  
+| Elemento | Detalle |
+|----------|---------|
+| Nombre completo | **Football Club Internazionale Milano 1908 S.p.A.** |
+| Apodo | **Inter** (pronunciado /ˌinternattsjoˈnaːle/) |
+| Fundación | **9 de marzo de 1908** (en el “Ristorante Orologio” de Milán) |
+| Ciudad / País | **Milán, Lombardía, Italia** |
+| Colores tradicionales | **Azul y negro** (líneas verticales) – “nerazzurri” |
+| Símbolos | **Biscione (serpiente de collar)**, escudo con iniciales FCIM y estrella dorada (10 títulos de Serie A) |
+
+---
+
+## 2. Estadio  
+- **Nombre**: **Stadio Giuseppe Meazza** (también “San Siro”)  
+- **Capacidad**: **75 923** espectadores (actual) – el estadio más grande de Italia, 3.º en Europa, 10.º a nivel mundial.  
+- **Características**:  
+  - Construido en 1926, ampliado en 1935, 1955 y 1990.  
+  - Dimensiones oficiales: **105 × 68 m**.  
+  - Compartido con el A.C. Milan.  
+  - En 2025 se aprobó la compra de la zona San Siro y la construcción de un nuevo estadio de 71 500 plazas, con renovación de la zona circundante.
+
+---
+
+## 3. Colores y escudo  
+- **Uniforme titular**: rayas verticales azules y negras (desde 1908, salvo 1928‑29).  
+- **Uniforme alternativo**: tradicionalmente blanco con detalles azules y negros; en 2007‑08 se usó la camiseta de la “Ambrosiana” (cruz roja sobre fondo blanco).  
+- **Escudo**: diseño original de 1908 (FCIM) con círculos; en 2007 se volvió al diseño pre‑1999 con estrella dorada (10 títulos de Serie A). En 2021 se introdujo un logo con “I” y “M” en blanco, negro y azul.  
+- **Biscione**: serpiente de collar, símbolo de la ciudad de Milán, aparece en el escudo y en la camiseta visitante 2010‑11.
+
+---
+
+## 4. Historia (resumen cronológico)  
+
+### 1908‑1928 – Fundación y primeros años  
+- Creado por 44 disidentes del Milan Football and Cricket Club, con la idea de aceptar jugadores extranjeros.  
+- Primer presidente: **Giovanni Paramithiotti**; primer capitán: **Ernst Manktl**.  
+- Primer título: **Scudetto 1909‑10** (desempate 10‑3 contra Pro Vercelli).  
+
+### 1928‑1945 – Era fascista y “Ambrosiana”  
+- 1928: fusión con Unione Sportiva Milanese → nombre **Società Sportiva Ambrosiana**; uniforme blanco con cruz roja.  
+- 1932: nombre **Società Sportiva Ambrosiana‑Inter**; retorno a rayas negras‑azules.  
+- 1938: 4.º Scudetto; 1939‑40: 5.º Scudetto.  
+
+### 1945‑1960 – Post‑guerra y “Il Grande Inter”  
+- 1945: se restaura el nombre **Football Club Internazionale**.  
+- 1952‑53: primer título bajo **Alfredo Foni**.  
+- 1953‑54: segundo título consecutivo.  
+
+### 1960‑1970 – Dominio europeo  
+- 1962‑63: 8.º Scudetto.  
+- 1963‑64: **Copa de Europa** (primera victoria sin perder).  
+- 1964‑65: segundo título europeo y **Copa Intercontinental**.  
+- 1965‑66: tercer título europeo y segundo Intercontinental.  
+
+### 1970‑1980 – Consolidación y crisis  
+- 1970‑71: 11.º Scudetto.  
+- 1977‑78: 2.º Copa de Italia.  
+- 1979‑80: 12.º Scudetto.  
+
+### 1980‑1990 – “Il Grande Inter” y turbulencia  
+- 1982: 3.º Copa de Italia.  
+- 1988‑89: 13.º Scudetto bajo **Giovanni Trapattoni**.  
+
+### 1990‑2000 – Decadencia local, éxito europeo  
+- 1991, 1994, 1998: **Copas de la UEFA** (tres títulos).  
+- 1995: venta a **Ernesto Pellegrini**.  
+
+### 2000‑2010 – Resurgimiento y triplete  
+- 2004‑05: 4.º Copa de Italia.  
+- 2005‑06: 14.º Scudetto (descenso de la Juventus por Calciopoli).  
+- 2006‑07: 15.º Scudetto (máximo de 97 puntos).  
+- 2007‑08: 16.º Scudetto.  
+- 2008‑09: 17.º Scudetto bajo **José Mourinho**.  
+- **2009‑10**: **Triplete** (Serie A, Coppa Italia, Champions League) + **Quintuple** (Supercopa, Mundial de Clubes).  
+
+### 2010‑2025 – Altibajos y nuevas eras  
+- 2010‑11: **Mourinho** sale; **Rafael Benítez** entra.  
+- 2011‑12: **Leonardo Araújo**; 7.º Copa de Italia.  
+- 2012‑13: **Andrea Stramaccioni**; 14.º año sin competiciones europeas.  
+- 2013‑14: **Walter Mazzarri**; venta del 70 % a **Erick Thohir**.  
+- 2014‑15: **Roberto Mancini**; 8.º Copa de Italia.  
+- 2015‑16: **Erick Thohir** vende 40 % a **Suning Holdings**.  
+- 2017‑18: **Luciano Spalletti**; 3.º Supercopa de Italia.  
+- 2019‑20: **Antonio Conte**; 2.º en Serie A, 5.º en Europa League.  
+- 2020‑21: **Simone Inzaghi**; 1.º en Serie A (19.º título).  
+- 2021‑22: **Inzaghi**; 1.º en Serie A (20.º título).  
+- 2022‑23: **Inzaghi**; 3.º en Serie A, 8.º Copa de Italia.  
+- 2023‑24: **Inzaghi**; 1.º en Serie A (20.º título), 1.º en Supercopa de Italia.  
+- 2024‑25: **Simone Inzaghi** (salida), **Christian Chivu** (nuevo entrenador); 2.º en Serie A, final de Champions League (derrota 5‑0 vs PSG).  
+
+---
+
+## 5. Palmarés (títulos oficiales)  
+
+| Competencia | Títulos | Fechas clave |
+|-------------|---------|--------------|
+| **Serie A** | 20 | 1909‑10, 1929‑30, 1937‑38, 1939‑40, 1952‑53, 1953‑54, 1962‑63, 1964‑65, 1965‑66, 1970‑71, 1973‑74, 1979‑80, 1988‑89, 2005‑06, 2006‑07, 2007‑08, 2008‑09, 2009‑10, 2020‑21, 2021‑22 |
+| **Coppa Italia** | 9 | 1938‑39, 1949‑50, 1958‑59, 1969‑70, 1977‑78, 1981‑82, 2004‑05, 2005‑06, 2014‑15 |
+| **Supercoppa Italiana** | 8 | 1965, 1970, 1978, 2006, 2007, 2008, 2010, 2024 |
+| **UEFA Champions League / Copa de Europa** | 3 | 1963‑64, 1964‑65, 2009‑10 |
+| **UEFA Cup / Copa de la UEFA** | 3 | 1990‑91, 1993‑94, 1997‑98 |
+| **Copa Intercontinental** | 2 | 1964‑65, 1965‑66 |
+| **Copa Mundial de Clubes** | 1 | 2010 |
+| **Otros** | 1 | Copa Intercontinental (1965‑66) |
+
+*Total oficial: 46 títulos.*
+
+---
+
+## 6. Jugadores legendarios  
+- **Giuseppe Meazza** – máximo goleador histórico (284 goles).  
+- **Alessandro Altobelli** – 209 goles.  
+- **Roberto Boninsegna** – 171 goles.  
+- **Javier Zanetti** – 858 partidos oficiales (615 en Serie A).  
+- **Helenio Herrera** – entrenador con 7 títulos (3 Scudetti, 2 Copas de Europa, 2 Intercontinentales).  
+- **José Mourinho** – 6 títulos (3 Scudetti, 2 Coppa Italia, 1 Supercopa, 1 Champions).  
+- **Simone Inzaghi** – 6 títulos (1 Serie A, 2 Coppa Italia, 2 Supercoppa, 1 Champions).  
+- **Otros ídolos**: Luis Suárez, Mario Corso, Sandro Mazzola, Lúcio, Diego Milito, Samuel Eto'o, Wesley Sneijder, Lautaro Martínez, etc.
+
+---
+
+## 7. Rivalidades  
+- **Derbi de Milán (Derby della Madonnina)** – con **A.C. Milan** (más de 600 encuentros).  
+- **Derbi de Italia (Derby d’Italia)** – con **Juventus** (más de 200 encuentros).  
+- **Derbi de la Sponda** – con **Sampdoria** (en competiciones europeas).  
+
+---
+
+## 8. Datos actuales (2024‑25)  
+- **Presidente**: **Oaktree Capital Management** (99,6 % de las acciones).  
+- **Director técnico**: **Christian Chivu** (desde 2025).  
+- **Liga**: **Serie A** – 2.º lugar (81 puntos).  
+- **Coppa Italia**: Semifinalista.  
+- **UEFA Champions League**: Finalista (derrota 5‑0 vs PSG).  
+- **Valoración**: **$401 millones** (Forbes, 2024).  
+- **Seguidores**: Octavo club con más seguidores en Europa (2010).  
+
+---
+
+## 9. Reconocimientos internacionales  
+- **IFFHS**: Mejor club italiano (2020‑21), Mejor club europeo del siglo XXI (5.º).  
+- **Ranking histórico de clubes**: 6.º a nivel mundial (1991‑2009).  
+- **Mejor Equipo del Mundo** (IFFHS): 1998, 2010.  
+
+---
+
+## 10. Otros datos relevantes  
+- **Estadísticas destacadas**:  
+  - Mayor goleada en Serie A: **Inter 16‑0 Vicenza** (1914‑15).  
+  - Mayor goleada internacional: **Inter 6‑0 Dinamo Bucarest** (1964‑65).  
+  - Máximo goleador en Serie A: **Giuseppe Meazza** (197 goles).  
+- **Patrocinadores**: Historia de patrocinio con marcas globales (no se detallan en el documento).  
+- **Hinchada**: **Curva Nord Milano** (barra brava más influyente de Europa).  
+
+---
+
+### Conclusión  
+El Football Club Internazionale Milano, conocido como Inter, es uno de los clubes más laureados y emblemáticos del fútbol mundial. Fundado en 1908 con la visión de aceptar jugadores extranjeros, ha mantenido una presencia constante en la máxima categoría italiana y ha cosechado un palmarés internacional impresionante, incluyendo un triplete histórico y un quintuple. Su identidad, marcada por los colores azul y negro, el escudo con la estrella dorada y el símbolo del Biscione, se ha mantenido fiel a lo largo de más de un siglo. Con una base de seguidores globales, una infraestructura deportiva de primer nivel y una historia de éxitos y desafíos, el Inter sigue siendo un referente del fútbol italiano y europeo.

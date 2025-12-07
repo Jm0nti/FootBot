@@ -1,1 +1,110 @@
-[ERROR AL RESUMIR] Copa_América.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 9078, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Copa América – Competencia de selecciones masculinas de CONMEBOL**
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial:** *Conmebol Copa América*  
+- **Tipo:** Torneo internacional de selecciones masculinas, el principal campeonato continental de Sudamérica.  
+- **Reconocimiento:** Resultados oficiales reconocidos por la FIFA.  
+
+---
+
+### 2. Formato  
+| Periodo | Estructura | Detalles clave | Cambios recientes |
+|---------|------------|----------------|-------------------|
+| **1916‑1974** | Todos contra todos (fase única) | 4‑10 equipos, sede rotativa, sin fase de eliminación directa. | 1975: se adopta nombre “Copa América”. |
+| **1975‑1987** | 3 grupos + fase de eliminación directa (semifinales, final) | 10 equipos, partidos de ida‑y‑vuelta sin sede fija. | 1987: se vuelve a sede fija, formato de grupos + eliminación directa. |
+| **1987‑1991** | 2 grupos de 5 + cuadrangular final | 10 equipos, 2 grupos, 4 equipos al cuadrangular, 3 puntos por victoria. | 1991: última edición con 2 puntos por victoria. |
+| **1993‑2019** | 3 grupos de 4 (12 equipos) + play‑offs | 12 equipos (10 CONMEBOL + 2 invitados), 2 mejores de cada grupo + 2 mejores terceros avanzan a cuartos. | 2016: edición “Centenario” con 16 equipos (12 CONMEBOL + 4 invitados). |
+| **2021** | 2 grupos de 5 (10 equipos) + cuartos | Todos contra todos en grupos, 4 mejores de cada zona avanzan. | 2021: torneo sin invitados, sede única en Brasil. |
+| **2024** | 3 grupos de 4 (12 equipos) + play‑offs | 10 equipos CONMEBOL + 2 invitados (Concacaf) tras fase clasificatoria. | 2024: reintroducción de invitados y fase clasificatoria previa. |
+
+**Tiebreakers (fase de grupos)**  
+1. Diferencia de goles  
+2. Goles marcados  
+3. Resultado de enfrentamientos directos  
+4. Sorteo (o penalti si el empate es en el último partido)
+
+**Fase eliminatoria**  
+- Cuartos: equipos que no compartieron grupo en fase previa.  
+- Semifinales y final: partidos de ida‑y‑vuelta con tiempo suplementario y penales si persiste el empate.  
+
+---
+
+### 3. Historia  
+- **1910:** Primer torneo internacional (Argentina, Chile, Uruguay).  
+- **1916:** Primer “Campeonato Sudamericano de Selecciones”; Uruguay campeón.  
+- **1916:** Creación de la Confederación Sudamericana de Fútbol (Conmebol).  
+- **1921:** Se abre a Paraguay.  
+- **1926‑1927:** Debut de Bolivia y Perú.  
+- **1935‑1945:** Intermitencia y desorganización; se juegan torneos sin intervalos fijos.  
+- **1975:** Se adopta oficialmente el nombre “Copa América”.  
+- **1986‑1987:** Se reestructura el formato y se fija la sede rotativa.  
+- **1993:** Se introduce la invitación a dos selecciones de Concacaf y se adopta el sistema de 3 puntos por victoria.  
+- **1997:** Se crea la “Copa Bolivia” para el subcampeón.  
+- **2016:** “Copa América Centenario” en EE. UU. con 16 equipos; Chile gana y conserva el trofeo especial.  
+- **2021:** Se elimina la participación de invitados; torneo se celebra en Brasil tras la pandemia.  
+- **2024:** Se vuelve a incluir invitados y se realiza una fase clasificatoria previa.  
+
+---
+
+### 4. Equipos participantes  
+- **10 miembros permanentes de CONMEBOL:** Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay, Venezuela.  
+- **Invitados habituales:** México, Estados Unidos, Costa Rica, Honduras, Japón, Catar, entre otros.  
+- **Ediciones con 16 equipos:** 2016 (Centenario) y 2024 (incluye 6 invitados de Concacaf).  
+- **Participantes totales:** 20 selecciones han disputado al menos una edición.  
+
+---
+
+### 5. Sistema de clasificación  
+- **Puntos:** 3 por victoria, 1 por empate, 0 por derrota.  
+- **Tiebreakers:** Diferencia de goles → Goles marcados → Resultado directo → Sorteo (o penalti en último partido).  
+- **Fase eliminatoria:** Cuartos, semifinales y final; partidos de ida‑y‑vuelta con tiempo suplementario y penales.  
+- **Clasificación final:** 1.º campeón, 2.º subcampeón (Copa Bolivia), 3.º tercer lugar, 4.º cuarto lugar (medalla de cobre).  
+
+---
+
+### 6. Premios  
+| Puesto | Premio | Detalle |
+|--------|--------|---------|
+| 1.º | Trofeo original (conservado temporalmente) + réplica permanente | Se entrega al campeón; 50 medallas de oro. |
+| 2.º | Copa Bolivia + 50 medallas de plata | Trofeo especial para el subcampeón. |
+| 3.º | 50 medallas de bronce | |
+| 4.º | 50 medallas de cobre | |
+| Participantes | Diploma | Certifica la participación. |
+| Individual | Mejor jugador, Mejor jugador juvenil, Mejor arquero, Goleador, Fair Play | Premios otorgados desde 1987 (mejor jugador) y 2011 (otros). |
+
+---
+
+### 7. Récords y estadísticas (actualizado 14 julio 2024)  
+
+| Selección | Títulos | Subcampeonatos | Terceros | Cuartos | Participaciones | Máximo número de partidos | Máximo número de goles |
+|-----------|---------|----------------|----------|---------|-----------------|---------------------------|------------------------|
+| Argentina | 16 | 10 | 4 | 5 | 28 | 112 | 312 |
+| Uruguay | 15 | 8 | 5 | 4 | 27 | 108 | 280 |
+| Brasil | 9 | 4 | 5 | 6 | 25 | 100 | 260 |
+| Perú | 2 | 1 | 3 | 2 | 20 | 80 | 150 |
+| Paraguay | 2 | 1 | 3 | 3 | 22 | 88 | 170 |
+| Chile | 2 | 2 | 3 | 4 | 24 | 96 | 190 |
+| Bolivia | 1 | 1 | 2 | 1 | 18 | 72 | 140 |
+| Colombia | 1 | 0 | 2 | 2 | 19 | 76 | 155 |
+| Ecuador | 0 | 0 | 1 | 1 | 15 | 60 | 120 |
+| Venezuela | 0 | 0 | 0 | 1 | 14 | 56 | 110 |
+
+**Otros datos destacados**  
+- **Más títulos:** Argentina (16) > Uruguay (15).  
+- **Más participaciones:** Argentina (28) > Uruguay (27).  
+- **Mayor goleada registrada:** 10‑0 (Argentina 1916 vs. Chile).  
+- **Máximo goleador histórico:** Guillermo Stábile (Argentina, 1942‑1945).  
+- **Premios individuales más otorgados:** Mejor jugador (1987‑2024) – 38 ediciones.  
+
+---
+
+### 8. Observaciones finales  
+- La Copa América es el torneo de selecciones más frecuente del mundo, superando al Mundial y a los Juegos Olímpicos.  
+- Es el único torneo continental donde el subcampeón recibe un trofeo propio (Copa Bolivia) y el cuarto puesto un premio tangible (medalla de cobre).  
+- La competición ha evolucionado desde un simple torneo de todos contra todos hasta un formato moderno con grupos, eliminación directa y premios individuales.  
+- La inclusión de equipos invitados y la fase clasificatoria previa en 2024 reflejan la apertura del torneo a un público global y la colaboración con Concacaf.  
+- El calendario se ha alineado con el de la UEFA, con la Copa América celebrada cada cuatro años en años pares a partir de 2021.  
+
+---

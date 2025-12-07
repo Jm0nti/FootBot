@@ -1,1 +1,112 @@
-[ERROR AL RESUMIR] Sevilla_Fútbol_Club.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 23231, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Sevilla Fútbol Club – Resumen Completo (≈ 800 palabras)**  
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** *Sevilla Fútbol Club, S.A.D.*  
+- **Apodo:** *Sevillista* (también “Sevillista” y “Sevillista”)  
+- **Fundación:** 25 de enero de 1890 (primera reunión de fundadores) – inscripción oficial 14 de octubre de 1905.  
+- **Primer presidente:** Edward Farquharson Johnston (vicecónsul británico).  
+- **Sede:** Sevilla, Andalucía, España.  
+
+---
+
+### 2. Estadio  
+- **Nombre:** *Estadio Ramón Sánchez‑Pizjuán* (propiedad del club).  
+- **Ubicación:** Barrio de Nervión, Sevilla.  
+- **Capacidad actual:** 43 864 espectadores (reducción a 43 883 tras reforma 2015‑2016; 47 074 tras las últimas obras).  
+- **Historia de los terrenos:**  
+  - 1937: compra de los solares que darían lugar al nuevo estadio.  
+  - 1954: concurso de diseño; arquitecto Manuel Muñoz Monasterio.  
+  - 7 septiembre 1958: inauguración con amistoso vs. Real Jaén.  
+  - 1974: cierre definitivo de tribunas, capacidad máxima > 70 000.  
+  - 1982: remodelación para el Mundial (visera, mosaico, alumbrado).  
+  - 2015‑2016: última reforma, reducción de capacidad.  
+- **Eventos internacionales:** partidos de la fase de grupos 1982 (URSS‑Brasil, Alemania‑Francia), final de la Copa de Europa 1986 (Steaua‑Barcelona).  
+- **Otros usos:** sede de la selección española, museo, tienda, salón de trofeos.  
+
+---
+
+### 3. Colores y escudo  
+- **Colores:** rojo y blanco (camisetas, guantes, balones).  
+- **Escudo:**  
+  - Forma suiza.  
+  - Cuatro cuarteles:  
+    1. San Isidoro, San Fernando y San Leandro (santos).  
+    2. Iniciales “SFC” entrelazadas.  
+    3. Barras rojas y blancas (6 rojas, 5 blancas).  
+    4. Balón (modelo Allen de 1938).  
+  - Borde dorado.  
+- **Bandera:** rojo con franja blanca; en 2005 se creó la “bandera del centenario” con la palabra “cien” y el escudo.  
+
+---
+
+### 4. Historia – Momentos clave  
+| Periodo | Eventos relevantes |  
+|---------|--------------------|  
+| **1890‑1905** | Fundación con club británico‑español; primer partido 8 mar 1890 (2‑0 vs. Huelva Recreation). Registro de asociación 14 oct 1905. |  
+| **1905‑1934** | Primeros estatutos, presidencia de José Luis Gallegos. Uso de varios campos (Tablada, Trinidad, Huerto, Prado, Mercantil, Reina Victoria, Nervión). |  
+| **1934‑1946** | Ascenso a Primera División 18 feb 1934. Campeón de Liga 1945‑46 (solo título de liga). Subcampeón 4 veces. |  
+| **1946‑1958** | 5 Copas del Rey (1945‑46, 1948, 1951, 1955, 1958). 1 Supercopa de España (1979‑80). 7 títulos de la Copa de la UEFA (4 Europa League). 1 Supercopa de Europa (2006). |  
+| **1958‑1975** | Construcción y apertura del estadio Sánchez‑Pizjuán. 1974: cierre de tribunas, capacidad > 70 000. 1975: inicio de la era de la “ciudad deportiva”. |  
+| **1975‑1995** | 78 temporadas en Primera, 13 en Segunda. 2005: centenario con himno, bandera, logo, Medalla de Andalucía. 2019: Placa de Oro de la Real Orden del Mérito Deportivo. |  
+| **1995‑2001** | Descenso administrativo a Segunda B (Ley del Deporte 1995). 1998‑99: ascenso a Primera. |  
+| **2001‑2013** | 2005‑06: primer título europeo (Copa de la UEFA). 2006‑07: doble título europeo (Europa League y Supercopa de Europa). 2007‑08: Supercopa de España. 2009‑10: Copa del Rey. 2010‑11: descenso a Europa League. |  
+| **2013‑2023** | 2013‑14: Europa League (título 3). 2014‑15: Europa League (título 4). 2015‑16: Europa League (título 5). 2018‑19: sexto título Europa League (2019‑20). 2022‑23: llegada de Jorge Sampaoli. |  
+
+---
+
+### 5. Palmarés (títulos oficiales)  
+| Competencia | Títulos |  
+|-------------|---------|  
+| **Liga** | 1 (1945‑46) |  
+| **Copa del Rey** | 5 (1945‑46, 1948, 1951, 1955, 1958) |  
+| **Supercopa de España** | 1 (1979‑80) |  
+| **Copa de la UEFA / Europa League** | 7 (1957‑58, 2005‑06, 2006‑07, 2013‑14, 2014‑15, 2015‑16, 2018‑19) |  
+| **Supercopa de Europa** | 1 (2006) |  
+| **Copa de Andalucía** | 17 (regional) |  
+| **Total** | 32 títulos (17 regionales, 7 nacionales, 8 internacionales) |  
+
+---
+
+### 6. Jugadores legendarios  
+- **Históricos:**  
+  - *Enrique Gómez Spencer* (primer internacional sevillista, 1922).  
+  - *Antonio Puerta* (fallecido 2007).  
+  - *Juan Arza*, *Dani Alves*, *Rafael Paz*, *Jesús Navas*, *Carlos Bacca*, *Davor Šuker*, *Anton Polster*, *Diego Maradona* (1992‑93).  
+- **Actuales (2025‑26)** – se incluyen jugadores con dorsales 1‑25; se destaca la política de cantera y la presencia de jugadores extranjeros (máx. 3 por UEFA).  
+- **Cantera:** Sevilla Atlético (fundado 1950, juega en Primera Federación), Sevilla C, Sevilla D.  
+
+---
+
+### 7. Rivalidades  
+- **Derbi sevillano:** *Real Betis Balompié* (fundado 1908, Real Betis 1914).  
+- **Historia de la rivalidad:** escisión de 1909, unión de Betis Foot‑ball Club con Sevilla Balompié en 1914.  
+- **Otros clásicos:** encuentros históricos con Real Madrid, Barcelona, Atlético de Madrid, etc.  
+
+---
+
+### 8. Datos actuales (2025‑26)  
+- **Entrenador:** *Jorge Sampaoli* (desde 2022‑23).  
+- **Liga:** Primera División (La Liga).  
+- **Posición histórica:** 6.º en la clasificación histórica de la Liga Española.  
+- **Presidente:** *José Castro Carmona* (desde 2013, tras condena de José María del Nido).  
+- **Directiva:** Sistema presidencialista con Consejo de Administración; accionistas son los únicos que participan en decisiones.  
+- **Estadio:** Ramón Sánchez‑Pizjuán, 43 864 plazas.  
+- **Colores:** rojo y blanco.  
+- **Escudo:** diseño suizo con santos, iniciales, barras y balón.  
+- **Rivalidad:** Real Betis.  
+
+---
+
+### 9. Otros datos relevantes  
+- **Centenario 2005:** himno “El Arrebato”, bandera, logo, Medalla de Andalucía.  
+- **Premios internacionales:** IFFHS “Mejor Equipo del Mundo” 2006‑2007.  
+- **Clubes asociados:** Sevilla F.C. Puerto Rico (Puerto Rico Soccer League), participación en Superleague Formula.  
+- **Sección femenina:** juega en la Superliga, subcampeón 2005‑06.  
+- **Afición:** 39 591 abonados (máximo 39 995), peñas sevillistas, Biris Norte (ultras).  
+
+---
+
+**Conclusión**  
+El Sevilla Fútbol Club, fundado en 1890, es el club con más títulos regionales, nacionales e internacionales de Sevilla y de toda Andalucía. Su historia abarca más de 130 años, con momentos de gloria en la liga, copas nacionales y, sobre todo, en competiciones europeas donde ha ganado la Europa League en siete ocasiones. El club mantiene una rivalidad histórica con el Real Betis y sigue siendo una potencia en la Primera División española, con una plantilla que combina talento local y extranjero bajo la dirección de Jorge Sampaoli.

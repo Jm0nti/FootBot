@@ -1,1 +1,104 @@
-[ERROR AL RESUMIR] Defensa_central.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 8842, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Resumen estructurado – Defensa (fútbol)**  
+
+---
+
+### 1. Formaciones defensivas históricas  
+| Época | Sistema | Características clave | Ejemplo de uso | Cambios recientes |
+|-------|---------|-----------------------|----------------|-------------------|
+| 1950‑60 | 2‑3‑5 (pirámide invertida) | Laterales suben al medio, confusión de roles; defensa de tres en línea | 1966 WC (Inglaterra) | Desuso; se sustituyó por líneas de cuatro. |
+| 1950‑60 | MW (defensa alemana) | Presión en medio campo, presencia de líbero | 1966 WC (Alemania) | Evolución a defensa zonal y sistemas mixtos. |
+| 1960‑70 | 4‑2‑4 (carrileros) | Carrileros combinan defensa y ataque | 1970 WC (Brasil) | Se volvió menos frecuente con la llegada de la defensa zonal. |
+| 1966 | 4‑4‑2 “wingless” | Dos centrales, dos laterales en línea, medio campo defensivo | 1966 WC (Inglaterra) | Reemplazado por 4‑4‑2 con carrileros. |
+| 1986 | 3‑5‑2 | Tres centrales, dos carrileros, dos mediocampistas defensivos | 1986 WC (Argentina) | Popularidad en ligas de América del Sur. |
+| 1990‑ | 4‑4‑2 (zona) | Defensa zonal, carrileros, mediocampistas defensivos | 1990‑s (Europa) | Se mantiene como base en la mayoría de ligas. |
+| 2000‑ | 4‑2‑3‑1, 4‑3‑3 | Defensa de cuatro con carrileros, mayor presión | 2010‑s (Europa) | Se ha vuelto la norma en la mayoría de equipos. |
+
+---
+
+### 2. Categorías de defensas  
+
+| Categoría | Número típico | Función principal | Características esenciales | Ejemplos clásicos |
+|-----------|---------------|-------------------|---------------------------|-------------------|
+| **Defensa central (zaguero)** | 4 / 5 | Mantener línea defensiva, leer juego, despejar balones | Prolijidad, dominio aéreo, lectura anticipada | Franco Baresi, Sergio Ramos, Virgil van Dijk |
+| **Defensor de corte (stopper)** | 2 / 3 | Marcar a atacante, presionar, iniciar juego desde defensa | Rapidez, anticipación, técnica de pase | Daniel Passarella, Ronald Koeman, Héctor Chumpitaz |
+| **Líbero (sweeper)** | 3 (último) | “Barrear” tras la línea, cubrir errores, iniciar contraataques | Libertad de marca, visión, control del balón | Franz Beckenbauer, Gaetano Scirea, Lothar Matthäus |
+| **Lateral** | 2 / 3 | Defender banda, apoyar ataque con centros | Conducción, centro, marcaje de extremos | Paolo Maldini, Dani Alves, Trent Alexander‑Arnold |
+| **Carrilero** | 2 / 3 | Variación moderna del lateral, mayor participación ofensiva | Físico, conducción, disparo a puerta | Roberto Carlos, Dani Alves, Marcelo |
+| **Defensor de medio campo (half‑back)** | 3 (desuso) | Marcar subidas de extremos, apoyar mediocampo | Velocidad, toque de balón, cobertura | José Leandro Andrade, Duncan Edwards |
+
+---
+
+### 3. Aspectos tácticos y técnicos  
+
+#### 3.1 Tácticas defensivas  
+1. **Individual** – Marcaje directo jugador‑jugador.  
+2. **Zonal** – Asignación de espacios; reduce faltas y desgaste.  
+3. **Mixta** – Combina marcaje individual con zona; usado por Inter de Milán en los 60s.  
+
+#### 3.2 Cometidos tácticos  
+- **Marcaje** – Cubrir jugador rival.  
+- **Corte** – Salir de posición para interceptar.  
+- **Persecución** – Buscar balón, no solo zona.  
+- **Repliegue** – Regresar a posición tras pérdida.  
+- **Cobertura** – Ocupación del espacio dejado por compañero.  
+- **Permuta** – Intercambio de posiciones para mantener la línea.  
+- **Pressing** – Presión colectiva en bloque.  
+
+#### 3.3 Cometidos técnicos  
+- **Entrada de frente / desde atrás** – Arrebatar balón limpiamente.  
+- **Carga** – Empujar hombro con hombro.  
+- **Brega** – Ganar posición física.  
+- **Interceptación** – Cortar pase.  
+- **Anticipación** – Leer jugada antes de que ocurra.  
+
+#### 3.4 Habilidades tácticas mentales  
+- **Lectura defensiva/ofensiva** – Posicionarse según juego.  
+- **Inteligencia táctica** – Combinar lectura y acción.  
+- **Cierre** – Ganar balón con posición y lectura.  
+- **Posicionamiento** – Ubicación según esquema.  
+- **Temporización** – Coordinación de línea y off‑side.  
+
+---
+
+### 4. Defensas goleadores  
+- **Carrileros** y **laterales** con proyección ofensiva.  
+- **Centrales** que aprovechan tiros libres y cabeza.  
+- **Ranking IFFHS**: Ronald Koeman, Daniel Passarella, Fernando Hierro, Roberto Carlos, Edgardo Bauza, Paul Breitner, Héctor Chumpitaz, Laurent Blanc.  
+- **Gol famoso**: Elías Figueroa (1975, “gol iluminado”).  
+
+---
+
+### 5. Defensas destacados (ranking histórico)  
+
+| Ranking | Jugador | País | Posición |
+|---------|---------|------|----------|
+| **FIFA (2004)** | Franz Beckenbauer | Alemania | 3 |
+| | Daniel Passarella | Argentina | 6 |
+| | Bobby Moore | Inglaterra | 2 |
+| | Franco Baresi | Italia | 3 |
+| | Elías Figueroa | Chile | 2 |
+| **FIFA Europa** | Franz Beckenbauer | Alemania | 3 |
+| | Giacinto Facchetti | Italia | 3 |
+| | Bobby Moore | Inglaterra | 6 |
+| | Franco Baresi | Italia | 2 |
+| | Gaetano Scirea | Italia | 2/6 |
+| **FIFA Sudamérica** | Daniel Passarella | Argentina | 6 |
+| | Elías Figueroa | Chile | 2 |
+| | Nilton Santos | Brasil | 3 |
+| | José Nasazzi | Uruguay | 2 |
+| | Héctor Chumpitaz | Perú | 2 |
+| | Luís Edmundo Pereira | Brasil | 2 |
+| | Carlos Alberto Torres | Brasil | 4 |
+| | Domingos Antônio da Guia | Brasil | 2 |
+
+---
+
+### 6. Resumen de cambios recientes  
+- **Adopción de la defensa zonal** en la década de 1990, desplazando la defensa individual.  
+- **Incremento de carrileros** en sistemas 4‑4‑2 y 4‑3‑3, con mayor participación ofensiva.  
+- **Desuso del líbero** en la mayoría de ligas modernas; su función se ha trasladado a la “línea de tres” con carrileros.  
+- **Reintroducción de la defensa de tres** en equipos que buscan presión alta y cobertura de banda (ej.: 3‑5‑2 en ligas sudamericanas).  
+
+---
+
+**Nota**: Este resumen conserva los datos numéricos, fechas y nombres de jugadores mencionados en el documento original, manteniendo la precisión y la profundidad requerida.

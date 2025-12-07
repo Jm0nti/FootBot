@@ -1,1 +1,115 @@
-[ERROR AL RESUMIR] Mundial_de_Clubes_de_la_FIFA.txt: Error code: 413 - {'error': {'message': 'Request too large for model `llama-3.1-8b-instant` in organization `org_01k98h8xvqecxrqeaeecjjhd8x` service tier `on_demand` on tokens per minute (TPM): Limit 6000, Requested 7566, please reduce your message size and try again. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Copa Mundial de Clubes de la FIFA – Resumen Completo (2000‑2025)**  
+
+---
+
+### 1. Nombre y tipo  
+- **Nombre oficial:** Copa Mundial de Clubes de la FIFA (FIFA Club World Cup).  
+- **Tipo:** Competición internacional de clubes organizada por la FIFA.  
+- **Formato actual (2025):** Cuatrienal, con 32 equipos (8 de cada confederación + 8 de la anfitriona).  
+
+---
+
+### 2. Formato  
+| Etapa | Participantes | Modo | Resultado | Observaciones |
+|-------|---------------|------|-----------|---------------|
+| **Pre‑eliminatoria** | Campeón de Oceanía vs. Campeón de la liga anfitriona | 1 partido | Avance a cuartos | Si el anfitrión es de Oceanía, se sustituye por el subcampeón. |
+| **Cuartos de final** | 8 equipos: 4 de la pre‑eliminatoria + 4 de América del Norte/Centro, Asia, África | 1 partido | Avance a semifinales | Se mantiene el formato de partido único. |
+| **Semifinales** | 4 equipos: 2 ganadores de cuartos + 2 de América del Sur y Europa (directamente en semifinales) | 1 partido | Avance a final | Los equipos de América del Sur y Europa nunca se enfrentan en cuartos. |
+| **Tercer‑y cuarto‑puesto** | Perdedor de semifinales | 1 partido | Determina 3.º y 4.º | No hay tiempo suplementario; penales si empatan. |
+| **Final** | Ganadores de semifinales | 1 partido | Campeón | Se juega en estadio neutro, con tiempo suplementario y penales si es necesario. |
+
+- **Expansión 2024‑actualidad:** Se aumentó de 8 a 32 equipos, con 24 de las confederaciones y 8 de la anfitriona. Se introdujo un sistema de grupos de 3 equipos (8 grupos) y la fase de eliminación directa a partir de octavos de final.  
+
+---
+
+### 3. Historia  
+| Año | Evento | Observaciones clave |
+|-----|--------|---------------------|
+| **1951‑1975** | Pequeña Copa del Mundo de Clubes (Caracas) | Torneo amistoso con clubes sudamericanos y europeos. |
+| **1951‑1952** | Copa Internacional de Río | Precedente de competiciones intercontinentales. |
+| **1960‑2004** | Copa Intercontinental (Toyota Cup) | 1‑partido entre campeón de Europa y campeón de Sudamérica. Reconocida oficialmente como título mundial en 2017. |
+| **2000** | Primera edición de la Copa Mundial de Clubes (Brasil) | 8 equipos: 6 campeones continentales + campeón brasileño + invitado (Real Madrid). Ganó Corinthians. |
+| **2001‑2004** | Cancelaciones | Falta de patrocinio y acuerdos con Toyota. |
+| **2005** | Re‑lanzamiento en Japón | 8 equipos, reemplazando a la Copa Intercontinental. Ganó São Paulo. |
+| **2006‑2018** | Formato clásico (Japón, Emiratos, Marruecos, etc.) | 8 equipos, 4 grupos de 2, 4 semifinales. Real Madrid y Barcelona dominaron. |
+| **2019** | Edición en Catar | Liverpool ganó su primer título. |
+| **2021‑2023** | Plan de expansión a 24 equipos y cuatrienalidad | Se discutió pero se retrasó por COVID‑19. |
+| **2024** | Implementación de 32 equipos y cuatrienalidad | Se definió la nueva estructura cuatrienal y expansión. |
+| **2025** | Primera edición cuatrienal con 32 equipos | Se espera que se juegue en el mismo formato de grupos y eliminación directa. |
+
+---
+
+### 4. Equipos participantes  
+- **Clubes**: 75 equipos de 29 países han participado (hasta 2025).  
+- **Países con mayor presencia**: Brasil (10 equipos), España (8 equipos).  
+- **Clubes más laureados**:  
+  - **Real Madrid** – 5 títulos (incluye 3 Copas Intercontinentales).  
+  - **Barcelona** – 4 títulos.  
+  - **Chelsea** – 1 título (vigente campeón 2025).  
+- **Confederaciones**:  
+  - **UEFA** – 16 títulos (4 clubes distintos).  
+  - **CONMEBOL** – 4 títulos (3 clubes distintos).  
+  - **AFC** – 3 subcampeones.  
+  - **CAF** – 2 subcampeones.  
+  - **CONCACAF** – 1 subcampeón.  
+
+---
+
+### 5. Sistema de clasificación  
+- **Ganadores de torneos continentales**:  
+  - **UEFA** – Liga de Campeones.  
+  - **CONMEBOL** – Copa Libertadores.  
+  - **AFC** – Liga de Campeones.  
+  - **CAF** – Liga de Campeones.  
+  - **CONCACAF** – Liga de Campeones.  
+  - **OFC** – Liga de Campeones.  
+- **Campeón de la liga anfitriona**: Se incluye automáticamente.  
+- **Regla de sustitución**: Si el campeón anfitrión es de la misma confederación que el representante, se invoca al subcampeón continental.  
+
+---
+
+### 6. Premios  
+| Posición | Premio monetario (USD) | Trofeo | Reconocimiento |
+|----------|------------------------|--------|----------------|
+| 1.º (Campeón) | 5 000 000 | Trofeo FIFA Club World Cup + escudo | Título de “Campeón del Mundo de Clubes” |
+| 2.º | 4 000 000 | Trofeo de subcampeón | |
+| 3.º | 3 000 000 | Trofeo de tercer lugar | |
+| 4.º | 2 000 000 | Trofeo de cuarto lugar | |
+| 5.º‑7.º | 1 000 000 | Trofeo de posición | |
+
+- **Premios adicionales**: Bono de participación de 1 000 000 USD para equipos que no llegan a la final.  
+
+---
+
+### 7. Récords y estadísticas  
+| Categoría | Datos |
+|-----------|-------|
+| **Club con más títulos** | Real Madrid – 5 (incluye 3 Intercontinental) |
+| **Jugador con más títulos** | Toni Kroos – 6 (todos con Real Madrid) |
+| **Máximo goleador** | Cristiano Ronaldo – 7 goles (incluye 3 en 2018) |
+| **Mayor goleada** | 5‑0 (varios encuentros) |
+| **Mayor número de partidos** | Hussein El Shahat (Egipto) – 18 partidos |
+| **Mayor número de puntos** | Real Madrid – 51 puntos (3 puntos por victoria) |
+| **Club con mayor número de participaciones** | Real Madrid (7 participaciones) |
+| **Club con mayor número de finales** | Real Madrid (7 finales) |
+| **Club con mayor número de finales sin ganar** | Al-Ahly (Egipto) – 2 finales perdidas |
+| **Club con mayor número de títulos en un solo año** | Real Madrid – 3 títulos consecutivos (2014‑2016) |
+| **Club con mayor número de títulos en un solo continente** | Real Madrid – 3 Intercontinental + 2 Club World Cup (total 5) |
+
+---
+
+### 8. Cambios recientes (2024‑2025)  
+1. **Cuatrienalidad**: La competición pasa de anual a cuatrienal a partir de 2025, con la edición 2025 como la primera cuatrienal.  
+2. **Expansión a 32 equipos**: Se duplica el número de participantes, con 8 equipos de cada confederación y 8 de la anfitriona.  
+3. **Formato de grupos**: 8 grupos de 3 equipos, con los ganadores avanzando a octavos de final.  
+4. **Reconocimiento oficial de la Copa Intercontinental**: En 2017, la FIFA equiparó la Copa Intercontinental a la Copa Mundial de Clubes, incluyendo sus títulos en la lista oficial de campeones mundiales.  
+5. **Nueva asociación**: Se creó la World Football Club Association (WFCA) para representar los intereses de los clubes en la reestructuración.  
+
+---
+
+### 9. Observaciones finales  
+- La Copa Mundial de Clubes de la FIFA es el máximo título de club a nivel mundial, con reconocimiento oficial de la FIFA y de la FIFA Confederaciones.  
+- La competición ha evolucionado desde un formato de 8 equipos a un torneo global de 32 equipos, reflejando la expansión del fútbol mundial y la inclusión de todas las confederaciones.  
+- Los clubes europeos y sudamericanos siguen dominando, pero la expansión y la cuatrienalidad buscan equilibrar la competición y aumentar la participación de clubes de otras regiones.  
+
+---

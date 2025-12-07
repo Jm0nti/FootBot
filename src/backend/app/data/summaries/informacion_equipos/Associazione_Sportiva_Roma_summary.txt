@@ -1,1 +1,125 @@
-[ERROR AL RESUMIR] Associazione_Sportiva_Roma.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96950, Requested 11877. Please try again in 2h7m6.528s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Associazione Sportiva Roma – Resumen Completo y Detallado**
+
+---
+
+### 1. Identidad del club  
+- **Nombre completo:** Associazione Sportiva Roma  
+- **Apodo:** *Giallorossi* (rojo‑amarillo, colores de la ciudad)  
+- **Año de fundación:** 7 de junio de 1927 (fusión de Alba‑Audace, Fortitudo‑Pro Roma y Roman Football Club)  
+- **Ciudad/País:** Roma, Italia  
+
+---
+
+### 2. Estadio  
+- **Nombre:** Stadio Olimpico di Roma (también llamado Olímpico de Roma)  
+- **Capacidad:** 81 903 espectadores (según datos de la UEFA, categoría 4) – segundo estadio más grande de Italia tras el Estadio Giuseppe Meazza de Milán.  
+- **Características:** Inaugurado en 1937, renovado en 2008; comparte el recinto con el rival Lazio. Ha albergado eventos olímpicos (1960), Eurocopa (1980), Mundial (1990) y finales de Champions League (2009).  
+
+---
+
+### 3. Colores y escudo  
+- **Colores:** Rojo oscuro imperial y amarillo oro (giallorossi).  
+- **Escudo:** Lupa capitolina (la loba capitolina) con los colores rojo‑amarillo.  
+- **Uniformes:**  
+  - *Titular:* camiseta roja oscura, pantalón rojo oscuro o blanco, medias rojas oscuras.  
+  - *Alternativo:* camiseta blanca, pantalón rojo oscuro, medias blancas.  
+  - *Tercer:* camiseta amarilla oro, pantalón amarillo oro, medias amarillas oro.  
+
+---
+
+### 4. Historia  
+
+| Periodo | Eventos clave |
+|---------|---------------|
+| **1927 – 1930** | Fundación por fusión; primer trofeo (Copa CONI 1928). |
+| **1941‑42** | Primer Scudetto (1942) bajo Alfred Shaffer; 18 goles de Amedeo Amadei. |
+| **1950‑51** | Descenso a Serie B; regreso la temporada siguiente. |
+| **1960‑61** | Primer título internacional: Copa de Ferias (victoria sobre Birmingham City). |
+| **1964 & 1969** | Copas de Italia ganadas. |
+| **1971‑72** | Trofeo Anglo‑Italiano. |
+| **1982‑83** | Segundo Scudetto (1983) con Pruzzo; final de la Champions League 1984 (derrota ante Liverpool). |
+| **1991** | Final de la Copa de la UEFA (derrota ante Inter). |
+| **2000‑01** | Tercer Scudetto (2001) bajo Fabio Capello; récord de 75 puntos. |
+| **2004‑05** | Caída a 8.º lugar tras salida de Capello y jugadores clave. |
+| **2007‑08** | Supercopa de Italia (victoria sobre Inter) y Copa de Italia (victoria sobre Inter). |
+| **2011‑12** | Primera temporada con Luis Enrique; 7.º lugar. |
+| **2013‑14** | Récord de 10 victorias consecutivas al inicio; subcampeón de Serie A. |
+| **2015‑16** | 24 partidos invictos bajo Rudi García; 3.º lugar en Serie A. |
+| **2018‑19** | Semifinales de la Champions League (derrota ante Liverpool). |
+| **2022‑23** | Ganó la UEFA Conference League (final 1‑0 sobre Feyenoord). |
+| **2023‑24** | Perdió la final de la UEFA Europa League contra Sevilla. |
+
+---
+
+### 5. Palmarés  
+
+| Competencia | Títulos | Anos |
+|-------------|---------|------|
+| **Serie A** | 3 (1942, 1983, 2001) | 1941‑42, 1982‑83, 2000‑01 |
+| **Coppa Italia** | 9 | 1964, 1969, 1975, 1984, 1991, 1995, 2001, 2008, 2009 |
+| **Supercoppa Italiana** | 2 | 2001, 2008 |
+| **Copa de Ferias** | 1 | 1961 |
+| **Copa Anglo‑Italiana** | 1 | 1972 |
+| **UEFA Conference League** | 1 | 2022 |
+| **UEFA Europa League** | 0 (final 2023) | 2023 |
+| **UEFA Champions League** | 0 (final 1984) | 1984 |
+| **Otros** | 1 Copa de la UEFA (1991) | 1991 |
+
+---
+
+### 6. Jugadores legendarios  
+
+- **Francesco Totti** – Ídolo histórico, 1.000+ partidos, 2006‑07 Bota de Oro.  
+- **Roberto Pruzzo** – 3 títulos de capocannoniere, 1980‑81, 1981‑82, 1985‑86.  
+- **Edin Džeko** – 2016‑17 capocannoniere, 24 goles en la temporada.  
+- **Alessandro Del Piero** – Parte de la generación de los 90.  
+- **Zinédine Zidane** (futuro entrenador) – Participó en la era de Di Francesco.  
+- **Gianluca Vialli** – Jugador y entrenador en la década de los 90.  
+- **Hidetoshi Nakata** – Jugador clave en la temporada 2000‑01.  
+
+---
+
+### 7. Rivalidades  
+
+| Rival | Nombre del clásico | Comentario |
+|-------|--------------------|------------|
+| **Lazio** | Derby di Roma | Compartir el Stadio Olimpico; rivalidad histórica desde la fundación. |
+| **Napoli** | Derby del Sole | Rivalidad de la región sur‑norte de Italia. |
+| **Juventus, Inter, Milan** | Rivalidades nacionales | Competencia por títulos y prestigio europeo. |
+| **Fiorentina** | Rivalidad histórica | Compite por la posición de la Serie A y la Copa de Italia. |
+
+---
+
+### 8. Datos actuales (2025‑26)  
+
+- **Entrenador:** *No especificado en el documento* (último entrenador mencionado es Paulo Fonseca en 2019; la información actual no se detalla).  
+- **Liga:** Serie A (participación permanente, con excepción de la temporada 1952).  
+- **Situación reciente:**  
+  - 2022‑23: Ganó la UEFA Conference League; perdió la final de la UEFA Europa League.  
+  - 2023‑24: Participación en la Champions League y Europa League; resultados no detallados en el documento.  
+
+---
+
+### 9. Otros datos relevantes  
+
+- **Presidencia:**  
+  - *Franco Sensi* (hasta 2011) – 14 temporadas, 1 Scudetto, 2 Copas de Italia, 2 Supercopas.  
+  - *Rosella Sensi* (2011‑2012).  
+  - *Thomas Di Benedetto* (2011).  
+  - *James Pallotta* (2012‑2022).  
+  - *Dan Friedkin* (2022‑presente).  
+
+- **Estadios futuros:** Se planea construir un nuevo estadio de 52 500 plazas en el sudeste de Roma (inauguración prevista 2016‑17).  
+
+- **Plantilla histórica:** 93 temporadas en Serie A, 1 en Serie B.  
+- **Récords:**  
+  - 24 partidos invictos (23 sept‑2001 a 24 mar‑2002).  
+  - 87 puntos en 38 partidos (2016‑17).  
+  - 90 goles en 38 partidos (2016‑17).  
+
+- **Seguidores:** 5.º equipo con más hinchas en Italia (7 % de la población, según Demos 2016).  
+
+---
+
+**Conclusión**  
+La Associazione Sportiva Roma, fundada en 1927, es uno de los clubes más históricos y populares de Italia. Con tres Scudetti, nueve Copas de Italia y un título internacional reciente (UEFA Conference League 2022), su legado incluye figuras legendarias como Totti y Pruzzo, rivalidades intensas con Lazio y Napoli, y una presencia constante en la Serie A. El club continúa compitiendo a nivel nacional e internacional, manteniendo su identidad giallorossa y su afición apasionada.

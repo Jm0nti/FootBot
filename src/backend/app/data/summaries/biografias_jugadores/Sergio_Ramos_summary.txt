@@ -1,1 +1,50 @@
-[ERROR AL RESUMIR] Sergio_Ramos.txt: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kbtxfavyfhjbn9k6b6mbmksm` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 96954, Requested 10177. Please try again in 1h42m41.184s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+**Biografía de Sergio Ramos**
+
+**Datos básicos**
+
+* Nombre completo: Sergio Ramos García
+* Fecha de nacimiento: 30 de marzo de 1986
+* Nacionalidad: Española
+
+**Información física**
+
+* Posición principal: Defensa central
+* Pierna dominante: No se menciona
+* Altura y peso: No se mencionan
+
+**Carrera profesional**
+
+* Inicios en Sevilla: Comenzó a jugar en su localidad de nacimiento Camas (Sevilla), antes de pasar a las categorías inferiores del Sevilla Fútbol Club.
+* Debut en Primera División: Debutó en Primera División con el Sevilla F. C. en 2004.
+* Fichaje por el Real Madrid: Fichó por el Real Madrid C. F. en la temporada 2005-06.
+* Trayectoria en el Real Madrid: Jugó en el Real Madrid C. F. desde 2005 hasta 2021, siendo capitán del equipo desde la temporada 2015-16.
+* Logros en el Real Madrid: Conquistó varios títulos con el Real Madrid, incluyendo la Liga, la Copa del Rey, la Supercopa de España y la Liga de Campeones.
+* Fichaje por el C. F. Monterrey: Fichó por el C. F. Monterrey en 2021.
+* Regreso al Sevilla Fútbol Club: Regresó al Sevilla Fútbol Club en septiembre de 2023.
+* Fichaje por el Club de Fútbol Monterrey: Fue anunciado oficialmente como jugador del Club de Fútbol Monterrey en febrero de 2025.
+
+**Estadísticas destacadas**
+
+* Goles: Es uno de los diez defensores con más goles de la historia.
+* Asistencias: No se mencionan las asistencias en concreto.
+* Títulos ganados: Ha conquistado varios títulos con el Real Madrid, incluyendo la Liga, la Copa del Rey, la Supercopa de España y la Liga de Campeones.
+
+**Estilo de juego**
+
+* Fortalezas: No se mencionan las fortalezas en concreto.
+* Características técnicas: No se mencionan las características técnicas en concreto.
+* Rol táctico: Jugó como defensa en el Real Madrid, pero también jugó como lateral derecho y central.
+
+**Carrera internacional**
+
+* Selección española: Ha sido parte de la selección española desde 2005.
+* Campeonatos internacionales: Ha conquistado la Copa Mundial de 2010 y la Eurocopa 2008 y 2012 con la selección española.
+* Premios individuales: Ha sido nominado al Balón de Oro en seis ocasiones y ha recibido el premio de la LFP al Mejor Defensa en una temporada.
+* Reconocimientos: Ha sido incluido en el FIFA/FIFPro World XI como parte del "Once Ideal de 2011".
+* Curiosidades: Es el futbolista español con más internacionalidades, y es el tercer jugador europeo con más partidos internacionales con su selección nacional.
+
+**Logros y reconocimientos**
+
+* Premios individuales: "Premio Castrol EDGE Index" en la Eurocopa 2012, "Jugador del partido" en la semifinal de la Eurocopa 2012.
+* Reconocimientos: Primer jugador en fallar dos penaltis en un mismo partido con la selección española en la Liga de Naciones de la UEFA 2020-21.
+* Curiosidades: Es el jugador español con más partidos disputados en la historia de la selección nacional (168 internacionalidades). Se retiró de la selección española en febrero de 2023 después de casi 18 años defendiendo la divisa nacional.
