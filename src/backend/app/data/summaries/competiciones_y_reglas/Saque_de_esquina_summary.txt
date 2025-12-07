@@ -1,0 +1,113 @@
+**REGLAS/REGLAMENTOS: SAQUE DE ESQUINA**
+
+### 1. Regla o aspecto: Saque de esquina
+
+**Descripción detallada:** El saque de esquina es un método de reanudación del juego aplicado en caso de que el balón haya salido por encima de la línea de gol, sin que se haya marcado éste y habiendo sido tocado por última vez por un miembro del equipo contrario. El tiro se ejecuta desde la esquina del terreno de juego más cercana al lugar donde el balón cruzó la línea de gol.
+
+**Casos especiales:**
+
+* Se concede un saque de esquina cuando el balón atraviesa completamente la línea de meta fuera del marco de la portería después de haber sido tocado por última vez por un miembro del equipo que defiende ese extremo del campo.
+* También se cobra un saque de esquina en lugar de un gol en propia puerta cuando el balón entra en la portería de un equipo, habiendo sido tocado por última vez por un miembro del equipo defensor, en las siguientes situaciones excepcionales:
+ + Directamente de un saque inicial, tiro libre (ya sea directo o indirecto), saque de banda, saque de meta, o saque de esquina.
+ + De un balón a tierra, si este no ha sido tocado por al menos dos jugadores.
+
+**Ejemplos:**
+
+* Un jugador del equipo atacante patea el balón detrás de la línea de gol, y el árbitro asistente señala que se debe otorgar un saque de esquina.
+* El balón entra en la portería del equipo defensor, habiendo sido tocado por última vez por un miembro del equipo defensor, y el árbitro asistente señala que se debe otorgar un saque de esquina en lugar de un gol en propia puerta.
+
+**Cambios recientes:**
+
+* En 1924, se eliminó la restricción de que un jugador no podía tocar el balón por segunda vez antes de que otro jugador lo tocara.
+* En 1997, se eliminó la posibilidad de marcar un gol en propia puerta directamente de un saque de esquina.
+
+### 2. Infracciones
+
+**Descripción detallada:** Si el saque se ejecuta con un balón en movimiento, o desde un lugar equivocado, se repite el saque de esquina. Los jugadores oponentes deben retirarse a la distancia requerida, y el no hacerlo con prontitud puede constituir una falta y ser sancionado con una tarjeta amarilla.
+
+**Casos especiales:**
+
+* Si el pateador toca el balón por segunda vez antes de que haya sido tocada por otro jugador, se sanciona con un tiro libre indirecto a favor del equipo defensor desde donde se produjo la infracción.
+
+**Ejemplos:**
+
+* Un jugador del equipo atacante patea el balón detrás de la línea de gol, pero el balón está en movimiento cuando se ejecuta el saque de esquina.
+* Un jugador del equipo defensor se acerca demasiado al balón antes de que esté en juego y es sancionado con una tarjeta amarilla.
+
+**Cambios recientes:**
+
+* En 1882, se concedía un tiro libre indirecto cuando el jugador que realizaba el saque de esquina tocaba el balón de nuevo antes de que lo hubiera tocado otro jugador.
+* En 1905, se concedió un tiro libre indirecto por cualquier infracción en un saque de esquina.
+
+### 3. Tácticas en la toma y defensa de un córner
+
+**Descripción detallada:** Una táctica común es que varios atacantes se paren cerca de la portería, después de lo cual el lanzador del córner cruza el balón para que salten e intenten cabecear el balón para marcar un gol.
+
+**Casos especiales:**
+
+* El equipo defensor puede optar por formar un muro de jugadores en un intento de forzar el juego del balón hacia un área que sea más fácil de defender.
+* El equipo defensor también tiene la opción de ordenar a un jugador que adopte una posición junto a uno o ambos postes de la portería para brindar protección a la portería además del portero.
+
+**Ejemplos:**
+
+* Un equipo atacante intenta marcar un gol con un saque de esquina, pero el equipo defensor forma un muro de jugadores para defender la portería.
+* Un equipo defensor ordena a un jugador que se posicione junto a un poste de la portería para brindar protección a la portería.
+
+**Cambios recientes:**
+
+* En 1913 y 1914, la distancia de seis yardas se incrementó a diez yardas para que los jugadores oponentes se retiren a una distancia mayor.
+
+### 4. Historia
+
+**Descripción detallada:** El saque de esquina se introdujo en el fútbol en 1872, y se ha modificado varias veces a lo largo de los años.
+
+**Casos especiales:**
+
+* En 1872, se permitió que el saque se ejecutara desde la bandera de la esquina, pero en 1874 se permitió que se ejecutara desde una yarda de la bandera.
+* En 1883, se introdujo la restricción de que un jugador no podía tocar el balón por segunda vez antes de que otro jugador lo tocara.
+
+**Ejemplos:**
+
+* En 1872, se introdujo el saque de esquina en el fútbol, y se permitió que se ejecutara desde la bandera de la esquina.
+* En 1874, se permitió que se ejecutara desde una yarda de la bandera.
+
+**Cambios recientes:**
+
+* En 1924, se eliminó la restricción de que un jugador no podía tocar el balón por segunda vez antes de que otro jugador lo tocara.
+* En 1997, se eliminó la posibilidad de marcar un gol en propia puerta directamente de un saque de esquina.
+
+**COMPETENCIAS:**
+
+### 1. Nombre y tipo: Saque de esquina
+
+**Descripción detallada:** El saque de esquina es un método de reanudación del juego aplicado en caso de que el balón haya salido por encima de la línea de gol, sin que se haya marcado éste y habiendo sido tocado por última vez por un miembro del equipo contrario.
+
+**Formato:** El saque de esquina se ejecuta desde la esquina del terreno de juego más cercana al lugar donde el balón cruzó la línea de gol.
+
+**Historia:** El saque de esquina se introdujo en el fútbol en 1872, y se ha modificado varias veces a lo largo de los años.
+
+**Equipos participantes:** Todos los equipos que participan en un partido de fútbol pueden participar en un saque de esquina.
+
+**Sistema de clasificación:** El saque de esquina no tiene un sistema de clasificación específico, pero se puede utilizar como una oportunidad para marcar un gol.
+
+**Premios:** No hay premios específicos para un saque de esquina, pero se puede utilizar como una oportunidad para marcar un gol y ganar puntos.
+
+**Récords y estadísticas:** No hay récords o estadísticas específicas para un saque de esquina, pero se puede utilizar como una oportunidad para marcar un gol y establecer récords.
+
+### 2. Tácticas en la toma y defensa de un córner
+
+**Descripción detallada:** Una táctica común es que varios atacantes se paren cerca de la portería, después de lo cual el lanzador del córner cruza el balón para que salten e intenten cabecear el balón para marcar un gol.
+
+**Casos especiales:**
+
+* El equipo defensor puede optar por formar un muro de jugadores en un intento de forzar el juego del balón hacia un área que sea más fácil de defender.
+* El equipo defensor también tiene la opción de ordenar a un jugador que adopte una posición junto a uno o ambos postes de la portería para brindar protección a la portería además del portero.
+
+**Ejemplos:**
+
+* Un equipo atacante intenta marcar un gol con un saque de esquina, pero el equipo defensor forma un muro de jugadores para defender la portería.
+* Un equipo defensor ordena a un jugador que se posicione junto a un poste de la portería para brindar protección a la portería.
+
+**Cambios recientes:**
+
+* En 1913 y 1914, la distancia de seis yardas se incrementó a diez yardas para que los jugadores oponentes se retiren a una distancia mayor.

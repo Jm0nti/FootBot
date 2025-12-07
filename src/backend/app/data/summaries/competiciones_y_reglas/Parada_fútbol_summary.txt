@@ -1,0 +1,32 @@
+**REGLAS/REGLAMENTOS**
+
+1. **Parada en fútbol**
+ * **Descripción detallada**: En el fútbol, una parada se produce cuando un jugador del equipo que defiende toca la pelota con las manos o brazos, o cuando un jugador del equipo que ataca toca la pelota con las manos o brazos después de haber sido tocada por un jugador del equipo que defiende. La parada se considera un error y el equipo contrario tiene la oportunidad de tomar un tiro libre o un saque de esquina.
+ * **Casos especiales**: Si un jugador del equipo que defiende toca la pelota con las manos o brazos después de haber sido tocada por un jugador del equipo que ataca, y el jugador del equipo que ataca estaba en posición de gol, la parada se considera un error y el equipo contrario tiene la oportunidad de tomar un tiro penal.
+ * **Ejemplos**: Si un guardameta toca la pelota con las manos después de que un jugador del equipo contrario la ha golpeado con la cabeza, la parada se considera un error y el equipo contrario tiene la oportunidad de tomar un tiro libre.
+ * **Cambios recientes**: No hay cambios recientes en la regla de la parada en fútbol.
+
+2. **Parada en deportes**
+ * **Descripción detallada**: En otros deportes, una parada se refiere a un momento en que el juego se detiene y los jugadores se paran en su posición actual. Esto puede suceder por una variedad de razones, como un error, una lesión o un desacuerdo entre los jugadores.
+ * **Casos especiales**: En algunos deportes, como el baloncesto, una parada se produce cuando un jugador del equipo que defiende toca la pelota con las manos o brazos, o cuando un jugador del equipo que ataca toca la pelota con las manos o brazos después de haber sido tocada por un jugador del equipo que defiende.
+ * **Ejemplos**: En el baloncesto, una parada se produce cuando un jugador del equipo que defiende toca la pelota con las manos después de que un jugador del equipo contrario la ha golpeado con la mano.
+ * **Cambios recientes**: No hay cambios recientes en la regla de la parada en deportes.
+
+**COMPETENCIAS**
+
+1. **Nombre y tipo**: No hay información disponible sobre una competencia específica llamada "Parada".
+2. **Formato**: No hay información disponible sobre el formato de una competencia llamada "Parada".
+3. **Historia**: No hay información disponible sobre la historia de una competencia llamada "Parada".
+4. **Equipos participantes**: No hay información disponible sobre los equipos que participan en una competencia llamada "Parada".
+5. **Sistema de clasificación**: No hay información disponible sobre el sistema de clasificación de una competencia llamada "Parada".
+6. **Premios**: No hay información disponible sobre los premios de una competencia llamada "Parada".
+7. **Récords y estadísticas**: No hay información disponible sobre los récords y estadísticas de una competencia llamada "Parada".
+
+**OTRAS INFORMACIONES**
+
+1. **Parada (apellido)**: Parada es un apellido común en varios países, incluyendo España y Portugal.
+2. **Parada (película)**: Parada es una película serbia del 2011.
+3. **Parada (pueblo)**: Parada fue un antiguo pueblo asiático.
+4. **Parada de autobús**: Parada de autobús es un lugar designado donde los autobuses paran para recoger o dejar pasajeros.
+5. **Parada Militar de Chile**: Parada Militar de Chile fue un desfile militar chileno en honor a las Glorias del Ejército de Chile.
+6. **Parada y espera**: Parada y espera es un protocolo de control de errores.

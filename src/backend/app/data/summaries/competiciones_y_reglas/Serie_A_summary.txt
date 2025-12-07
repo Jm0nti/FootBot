@@ -1,0 +1,131 @@
+**Serie A: Reglas y Competencias**
+
+**Reglas/Reglamentos**
+
+### Serie A de Fútbol Masculino (Italia)
+
+1. **Regla o aspecto**: Sistema de puntuación
+2. **Descripción detallada**: En la Serie A de fútbol masculino, cada equipo obtiene 3 puntos por victoria, 1 punto por empate y 0 puntos por derrota.
+3. **Casos especiales**: Si el partido se suspende y no se puede completar, se considera un empate y se otorgan 1 punto a cada equipo.
+4. **Ejemplos**: Un equipo gana 3-0, obtiene 3 puntos. Un equipo gana 2-2, obtiene 1 punto.
+5. **Cambios recientes**: En la temporada 2020-2021, se introdujo el sistema de "play-off" para determinar el campeón en caso de empate en puntos.
+
+### Serie A de Fútbol Femenino (Italia)
+
+1. **Regla o aspecto**: Sistema de puntuación
+2. **Descripción detallada**: En la Serie A de fútbol femenino, cada equipo obtiene 3 puntos por victoria, 1 punto por empate y 0 puntos por derrota.
+3. **Casos especiales**: Si el partido se suspende y no se puede completar, se considera un empate y se otorgan 1 punto a cada equipo.
+4. **Ejemplos**: Un equipo gana 3-0, obtiene 3 puntos. Un equipo gana 2-2, obtiene 1 punto.
+5. **Cambios recientes**: En la temporada 2020-2021, se introdujo el sistema de "play-off" para determinar el campeón en caso de empate en puntos.
+
+### Campeonato Brasileño de Serie A
+
+1. **Regla o aspecto**: Sistema de puntuación
+2. **Descripción detallada**: En el Campeonato Brasileño de Serie A, cada equipo obtiene 3 puntos por victoria, 1 punto por empate y 0 puntos por derrota.
+3. **Casos especiales**: Si el partido se suspende y no se puede completar, se considera un empate y se otorgan 1 punto a cada equipo.
+4. **Ejemplos**: Un equipo gana 3-0, obtiene 3 puntos. Un equipo gana 2-2, obtiene 1 punto.
+5. **Cambios recientes**: En la temporada 2020, se introdujo el sistema de "play-off" para determinar el campeón en caso de empate en puntos.
+
+### Serie A de Ecuador
+
+1. **Regla o aspecto**: Sistema de puntuación
+2. **Descripción detallada**: En la Serie A de Ecuador, cada equipo obtiene 3 puntos por victoria, 1 punto por empate y 0 puntos por derrota.
+3. **Casos especiales**: Si el partido se suspende y no se puede completar, se considera un empate y se otorgan 1 punto a cada equipo.
+4. **Ejemplos**: Un equipo gana 3-0, obtiene 3 puntos. Un equipo gana 2-2, obtiene 1 punto.
+5. **Cambios recientes**: En la temporada 2020, se introdujo el sistema de "play-off" para determinar el campeón en caso de empate en puntos.
+
+### Lega Basket Serie A
+
+1. **Regla o aspecto**: Sistema de puntuación
+2. **Descripción detallada**: En la Lega Basket Serie A, cada equipo obtiene 2 puntos por victoria y 1 punto por derrota.
+3. **Casos especiales**: Si el partido se suspende y no se puede completar, se considera un empate y se otorgan 1 punto a cada equipo.
+4. **Ejemplos**: Un equipo gana 80-60, obtiene 2 puntos. Un equipo pierde 60-80, obtiene 1 punto.
+5. **Cambios recientes**: En la temporada 2020-2021, se introdujo el sistema de "play-off" para determinar el campeón en caso de empate en puntos.
+
+### Serie A1 Masculina de Voleibol de Italia
+
+1. **Regla o aspecto**: Sistema de puntuación
+2. **Descripción detallada**: En la Serie A1 Masculina de Voleibol de Italia, cada equipo obtiene 3 puntos por victoria, 2 puntos por empate y 1 punto por derrota.
+3. **Casos especiales**: Si el partido se suspende y no se puede completar, se considera un empate y se otorgan 2 puntos a cada equipo.
+4. **Ejemplos**: Un equipo gana 3-0, obtiene 3 puntos. Un equipo gana 3-2, obtiene 2 puntos.
+5. **Cambios recientes**: En la temporada 2020-2021, se introdujo el sistema de "play-off" para determinar el campeón en caso de empate en puntos.
+
+### Serie A1 Femenina de Voleibol de Italia
+
+1. **Regla o aspecto**: Sistema de puntuación
+2. **Descripción detallada**: En la Serie A1 Femenina de Voleibol de Italia, cada equipo obtiene 3 puntos por victoria, 2 puntos por empate y 1 punto por derrota.
+3. **Casos especiales**: Si el partido se suspende y no se puede completar, se considera un empate y se otorgan 2 puntos a cada equipo.
+4. **Ejemplos**: Un equipo gana 3-0, obtiene 3 puntos. Un equipo gana 3-2, obtiene 2 puntos.
+5. **Cambios recientes**: En la temporada 2020-2021, se introdujo el sistema de "play-off" para determinar el campeón en caso de empate en puntos.
+
+**Competencias**
+
+### Serie A de Fútbol Masculino (Italia)
+
+1. **Nombre y tipo**: Serie A, liga de fútbol masculina
+2. **Formato**: Sistema de liga, 20 equipos
+3. **Historia**: Fundada en 1929, es la liga más importante de Italia
+4. **Equipos participantes**: Juventus, AC Milan, Inter de Milán, etc.
+5. **Sistema de clasificación**: El equipo con más puntos al final de la temporada se corona campeón
+6. **Premios**: Título de campeón, clasificación a la Liga de Campeones de la UEFA
+7. **Récords y estadísticas**: El equipo con más títulos es Juventus con 36 títulos
+
+### Serie A de Fútbol Femenino (Italia)
+
+1. **Nombre y tipo**: Serie A, liga de fútbol femenino
+2. **Formato**: Sistema de liga, 12 equipos
+3. **Historia**: Fundada en 2018, es la liga más importante de Italia para mujeres
+4. **Equipos participantes**: Juventus, AC Milan, Inter de Milán, etc.
+5. **Sistema de clasificación**: El equipo con más puntos al final de la temporada se corona campeón
+6. **Premios**: Título de campeón, clasificación a la Liga de Campeones de la UEFA Femenina
+7. **Récords y estadísticas**: El equipo con más títulos es Juventus con 2 títulos
+
+### Campeonato Brasileño de Serie A
+
+1. **Nombre y tipo**: Campeonato Brasileño de Serie A, liga de fútbol masculina
+2. **Formato**: Sistema de liga, 20 equipos
+3. **Historia**: Fundada en 1959, es la liga más importante de Brasil
+4. **Equipos participantes**: Flamengo, Corinthians, Santos, etc.
+5. **Sistema de clasificación**: El equipo con más puntos al final de la temporada se corona campeón
+6. **Premios**: Título de campeón, clasificación a la Copa Libertadores de la CONMEBOL
+7. **Récords y estadísticas**: El equipo con más títulos es Flamengo con 7 títulos
+
+### Serie A de Ecuador
+
+1. **Nombre y tipo**: Serie A, liga de fútbol masculina
+2. **Formato**: Sistema de liga, 12 equipos
+3. **Historia**: Fundada en 1957, es la liga más importante de Ecuador
+4. **Equipos participantes**: Barcelona, Independiente del Valle, LDU Quito, etc.
+5. **Sistema de clasificación**: El equipo con más puntos al final de la temporada se corona campeón
+6. **Premios**: Título de campeón, clasificación a la Copa Libertadores de la CONMEBOL
+7. **Récords y estadísticas**: El equipo con más títulos es Barcelona con 17 títulos
+
+### Lega Basket Serie A
+
+1. **Nombre y tipo**: Lega Basket Serie A, liga de baloncesto masculina
+2. **Formato**: Sistema de liga, 16 equipos
+3. **Historia**: Fundada en 1935, es la liga más importante de Italia para baloncesto
+4. **Equipos participantes**: Olimpia Milano, Virtus Bologna, Vanoli Cremona, etc.
+5. **Sistema de clasificación**: El equipo con más puntos al final de la temporada se corona campeón
+6. **Premios**: Título de campeón, clasificación a la Euroliga
+7. **Récords y estadísticas**: El equipo con más títulos es Olimpia Milano con 27 títulos
+
+### Serie A1 Masculina de Voleibol de Italia
+
+1. **Nombre y tipo**: Serie A1 Masculina, liga de voleibol masculina
+2. **Formato**: Sistema de liga, 12 equipos
+3. **Historia**: Fundada en 1978, es la liga más importante de Italia para voleibol
+4. **Equipos participantes**: Modena, Trentino, Lube, etc.
+5. **Sistema de clasificación**: El equipo con más puntos al final de la temporada se corona campeón
+6. **Premios**: Título de campeón, clasificación a la Liga de Campeones de la CEV
+7. **Récords y estadísticas**: El equipo con más títulos es Trentino con 10 títulos
+
+### Serie A1 Femenina de Voleibol de Italia
+
+1. **Nombre y tipo**: Serie A1 Femenina, liga de voleibol femenina
+2. **Formato**: Sistema de liga, 12 equipos
+3. **Historia**: Fundada en 1978, es la liga más importante de Italia para voleibol femenino
+4. **Equipos participantes**: Imoco, Bergamo, Savino Del Bene, etc.
+5. **Sistema de clasificación**: El equipo con más puntos al final de la temporada se corona campeón
+6. **Premios**: Título de campeón, clasificación a la Liga de Campeones de la CEV
+7. **Récords y estadísticas**: El equipo con más títulos es Imoco con 4 títulos

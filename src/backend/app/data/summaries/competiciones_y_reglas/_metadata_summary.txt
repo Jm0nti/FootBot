@@ -1,0 +1,381 @@
+**REGLAS/REGLAMENTOS**
+
+### 1. Fuera de juego (fútbol)
+
+* **Regla o aspecto**: Regla que establece la zona en la que un jugador está considerado fuera del juego.
+* **Descripción detallada**: Un jugador está fuera de juego cuando su parte posterior cruza la línea de gol o cuando el balón sale de la cancha. En este caso, el juego se reinicia con un saque de esquina o un saque de centro.
+* **Casos especiales**: Si un jugador está en posición de fuera de juego pero el balón es desviado hacia él por un compañero de equipo, no se considera fuera de juego.
+* **Ejemplos**: Un jugador corre detrás de la defensa y su parte posterior cruza la línea de gol, lo que significa que está fuera de juego.
+* **Cambios recientes**: No hay cambios recientes en esta regla.
+
+### 2. Penalti (fútbol)
+
+* **Regla o aspecto**: Regla que establece la forma en que se ejecuta un penalti.
+* **Descripción detallada**: Un penalti se ejecuta cuando un jugador es penalizado en su área de penal. El jugador que ejecuta el penalti debe intentar marcar el gol antes de que el portero pueda intervenir.
+* **Casos especiales**: Si el portero sale de su área antes de que el penalti se haya ejecutado, se considera un error del portero y se le concede un penalti.
+* **Ejemplos**: Un jugador es penalizado en su área de penal y se le concede un penalti.
+* **Cambios recientes**: No hay cambios recientes en esta regla.
+
+### 3. Tiro libre (fútbol)
+
+* **Regla o aspecto**: Regla que establece la forma en que se ejecuta un tiro libre.
+* **Descripción detallada**: Un tiro libre se ejecuta cuando un jugador es penalizado fuera de su área de penal. El jugador que ejecuta el tiro libre debe intentar marcar el gol antes de que el portero pueda intervenir.
+* **Casos especiales**: Si el portero sale de su área antes de que el tiro libre se haya ejecutado, se considera un error del portero y se le concede un tiro libre.
+* **Ejemplos**: Un jugador es penalizado fuera de su área de penal y se le concede un tiro libre.
+* **Cambios recientes**: No hay cambios recientes en esta regla.
+
+### 4. Saque de esquina
+
+* **Regla o aspecto**: Regla que establece la forma en que se ejecuta un saque de esquina.
+* **Descripción detallada**: Un saque de esquina se ejecuta cuando el balón sale de la cancha después de un gol o un tiro libre. El jugador que ejecuta el saque de esquina debe intentar marcar el gol antes de que el portero pueda intervenir.
+* **Casos especiales**: Si el portero sale de su área antes de que el saque de esquina se haya ejecutado, se considera un error del portero y se le concede un saque de esquina.
+* **Ejemplos**: El balón sale de la cancha después de un gol y se le concede un saque de esquina.
+* **Cambios recientes**: No hay cambios recientes en esta regla.
+
+### 5. Tiempo extra
+
+* **Regla o aspecto**: Regla que establece la forma en que se juega el tiempo extra en caso de empate en un partido.
+* **Descripción detallada**: El tiempo extra se juega en dos partes de 15 minutos cada una. Si el partido sigue empatado después del tiempo extra, se juega una tanda de penaltis para determinar el ganador.
+* **Casos especiales**: Si el partido sigue empatado después de la tanda de penaltis, se juega una segunda tanda de penaltis.
+* **Ejemplos**: Un partido está empatado en el final del tiempo regular y se juega el tiempo extra.
+* **Cambios recientes**: No hay cambios recientes en esta regla.
+
+### 6. Tanda de penaltis
+
+* **Regla o aspecto**: Regla que establece la forma en que se juega una tanda de penaltis.
+* **Descripción detallada**: Una tanda de penaltis se juega en caso de empate en un partido después del tiempo extra. Cada equipo intenta marcar un gol en la tanda de penaltis.
+* **Casos especiales**: Si un equipo no puede marcar un gol en la tanda de penaltis, el otro equipo gana el partido.
+* **Ejemplos**: Un partido está empatado después del tiempo extra y se juega una tanda de penaltis.
+* **Cambios recientes**: No hay cambios recientes en esta regla.
+
+### 7. Mano (fútbol)
+
+* **Regla o aspecto**: Regla que establece la forma en que se penaliza a un jugador por mano.
+* **Descripción detallada**: Un jugador es penalizado por mano si toca el balón con sus manos o brazos, excepto en el caso de que el balón haya sido desviado hacia él por un compañero de equipo.
+* **Casos especiales**: Si un jugador toca el balón con sus manos o brazos sin intención de interferir en el juego, no se considera una falta.
+* **Ejemplos**: Un jugador toca el balón con sus manos y es penalizado por mano.
+* **Cambios recientes**: No hay cambios recientes en esta regla.
+
+### 8. Falta (fútbol)
+
+* **Regla o aspecto**: Regla que establece la forma en que se penaliza a un jugador por falta.
+* **Descripción detallada**: Un jugador es penalizado por falta si comete una infracción en el juego, como una falta física o una falta de juego.
+* **Casos especiales**: Si un jugador comete una falta que no es grave, se le puede dar una advertencia.
+* **Ejemplos**: Un jugador comete una falta física y es penalizado por falta.
+* **Cambios recientes**: No hay cambios recientes en esta regla.
+
+### 9. Árbitro de fútbol
+
+* **Regla o aspecto**: Regla que establece la forma en que se selecciona y se comporta un árbitro de fútbol.
+* **Descripción detallada**: Un árbitro de fútbol es seleccionado para dirigir un partido de acuerdo con las normas de la FIFA. El árbitro debe ser imparcial y tomar decisiones justas durante el partido.
+* **Casos especiales**: Si un árbitro comete un error grave, se puede tomar medidas disciplinarias contra él.
+* **Ejemplos**: Un árbitro es seleccionado para dirigir un partido de la Copa Mundial.
+* **Cambios recientes**: No hay cambios recientes en esta regla.
+
+### 10. Árbitro asistente de video
+
+* **Regla o aspecto**: Regla que establece la forma en que se utiliza un árbitro asistente de video en un partido de fútbol.
+* **Descripción detallada**: Un árbitro asistente de video es utilizado para ayudar al árbitro principal a tomar decisiones durante el partido. El árbitro asistente de video puede revisar decisiones de penalización, fuera de juego y otros incidentes.
+* **Casos especiales**: Si el árbitro asistente de video comete un error, se puede tomar medidas disciplinarias contra él.
+* **Ejemplos**: Un árbitro asistente de video es utilizado en un partido de la Liga de Campeones.
+* **Cambios recientes**: No hay cambios recientes en esta regla.
+
+**COMPETENCIAS**
+
+### 1. Copa Mundial de Fútbol
+
+* **Nombre y tipo**: Copa Mundial de Fútbol, competición internacional de fútbol.
+* **Formato**: 32 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Copa Mundial de Fútbol se juega desde 1930 y es considerada la competición más importante del fútbol.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la FIFA y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Copa Mundial de Fútbol recibe el título de campeón del mundo y un trofeo.
+* **Récords y estadísticas**: La Copa Mundial de Fútbol ha sido ganada por varios equipos, incluyendo Brasil, Alemania y Argentina.
+
+### 2. Eurocopa
+
+* **Nombre y tipo**: Eurocopa, competición internacional de fútbol.
+* **Formato**: 24 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Eurocopa se juega desde 1960 y es considerada la competición más importante del fútbol en Europa.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la UEFA y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Eurocopa recibe el título de campeón de Europa y un trofeo.
+* **Récords y estadísticas**: La Eurocopa ha sido ganada por varios equipos, incluyendo Alemania, España y Italia.
+
+### 3. Copa América
+
+* **Nombre y tipo**: Copa América, competición internacional de fútbol.
+* **Formato**: 12 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Copa América se juega desde 1916 y es considerada la competición más importante del fútbol en América del Sur.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la CONMEBOL y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Copa América recibe el título de campeón de América del Sur y un trofeo.
+* **Récords y estadísticas**: La Copa América ha sido ganada por varios equipos, incluyendo Brasil, Argentina y Uruguay.
+
+### 4. Copa Africana de Naciones
+
+* **Nombre y tipo**: Copa Africana de Naciones, competición internacional de fútbol.
+* **Formato**: 24 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Copa Africana de Naciones se juega desde 1957 y es considerada la competición más importante del fútbol en África.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la CAF y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Copa Africana de Naciones recibe el título de campeón de África y un trofeo.
+* **Récords y estadísticas**: La Copa Africana de Naciones ha sido ganada por varios equipos, incluyendo Egipto, Camerún y Nigeria.
+
+### 5. Copa de Oro de la Concacaf
+
+* **Nombre y tipo**: Copa de Oro de la Concacaf, competición internacional de fútbol.
+* **Formato**: 16 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Copa de Oro de la Concacaf se juega desde 1991 y es considerada la competición más importante del fútbol en América del Norte, Centroamérica y el Caribe.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la Concacaf y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Copa de Oro de la Concacaf recibe el título de campeón de la Concacaf y un trofeo.
+* **Récords y estadísticas**: La Copa de Oro de la Concacaf ha sido ganada por varios equipos, incluyendo México, Estados Unidos y Costa Rica.
+
+### 6. Copa Asiática
+
+* **Nombre y tipo**: Copa Asiática, competición internacional de fútbol.
+* **Formato**: 24 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Copa Asiática se juega desde 1956 y es considerada la competición más importante del fútbol en Asia.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la AFC y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Copa Asiática recibe el título de campeón de Asia y un trofeo.
+* **Récords y estadísticas**: La Copa Asiática ha sido ganada por varios equipos, incluyendo Japón, Corea del Sur y Arabia Saudita.
+
+### 7. Copa Confederaciones
+
+* **Nombre y tipo**: Copa Confederaciones, competición internacional de fútbol.
+* **Formato**: 8 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Copa Confederaciones se juega desde 1992 y es considerada la competición más importante del fútbol en el mundo.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la FIFA y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Copa Confederaciones recibe el título de campeón de la Copa Confederaciones y un trofeo.
+* **Récords y estadísticas**: La Copa Confederaciones ha sido ganada por varios equipos, incluyendo Brasil, Alemania y Argentina.
+
+### 8. Liga de Naciones de la UEFA
+
+* **Nombre y tipo**: Liga de Naciones de la UEFA, competición internacional de fútbol.
+* **Formato**: 55 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Liga de Naciones de la UEFA se juega desde 2018 y es considerada la competición más importante del fútbol en Europa.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la UEFA y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Liga de Naciones de la UEFA recibe el título de campeón de la Liga de Naciones y un trofeo.
+* **Récords y estadísticas**: La Liga de Naciones de la UEFA ha sido ganada por varios equipos, incluyendo Portugal, Francia y España.
+
+### 9. Liga de Campeones de la UEFA
+
+* **Nombre y tipo**: Liga de Campeones de la UEFA, competición internacional de fútbol.
+* **Formato**: 32 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Liga de Campeones de la UEFA se juega desde 1955 y es considerada la competición más importante del fútbol en Europa.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la UEFA y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Liga de Campeones de la UEFA recibe el título de campeón de la Liga de Campeones y un trofeo.
+* **Récords y estadísticas**: La Liga de Campeones de la UEFA ha sido ganada por varios equipos, incluyendo Real Madrid, AC Milan y Liverpool.
+
+### 10. Liga Europa de la UEFA
+
+* **Nombre y tipo**: Liga Europa de la UEFA, competición internacional de fútbol.
+* **Formato**: 48 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Liga Europa de la UEFA se juega desde 1955 y es considerada la competición más importante del fútbol en Europa.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la UEFA y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Liga Europa de la UEFA recibe el título de campeón de la Liga Europa y un trofeo.
+* **Récords y estadísticas**: La Liga Europa de la UEFA ha sido ganada por varios equipos, incluyendo Sevilla, Inter de Milán y Atlético de Madrid.
+
+### 11. Copa Libertadores
+
+* **Nombre y tipo**: Copa Libertadores, competición internacional de fútbol.
+* **Formato**: 32 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Copa Libertadores se juega desde 1960 y es considerada la competición más importante del fútbol en América del Sur.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la CONMEBOL y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Copa Libertadores recibe el título de campeón de la Copa Libertadores y un trofeo.
+* **Récords y estadísticas**: La Copa Libertadores ha sido ganada por varios equipos, incluyendo Independiente, Boca Juniors y River Plate.
+
+### 12. Copa Sudamericana
+
+* **Nombre y tipo**: Copa Sudamericana, competición internacional de fútbol.
+* **Formato**: 32 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Copa Sudamericana se juega desde 2002 y es considerada la competición más importante del fútbol en América del Sur.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la CONMEBOL y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Copa Sudamericana recibe el título de campeón de la Copa Sudamericana y un trofeo.
+* **Récords y estadísticas**: La Copa Sudamericana ha sido ganada por varios equipos, incluyendo Boca Juniors, River Plate y Santos.
+
+### 13. Mundial de Clubes de la FIFA
+
+* **Nombre y tipo**: Mundial de Clubes de la FIFA, competición internacional de fútbol.
+* **Formato**: 7 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: El Mundial de Clubes de la FIFA se juega desde 2000 y es considerada la competición más importante del fútbol en el mundo.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la FIFA y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador del Mundial de Clubes de la FIFA recibe el título de campeón del mundo y un trofeo.
+* **Récords y estadísticas**: El Mundial de Clubes de la FIFA ha sido ganado por varios equipos, incluyendo Real Madrid, AC Milan y Bayern de Múnich.
+
+### 14. Primera División de España
+
+* **Nombre y tipo**: Primera División de España, competición nacional de fútbol.
+* **Formato**: 20 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Primera División de España se juega desde 1929 y es considerada la competición más importante del fútbol en España.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la RFEF y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Primera División de España recibe el título de campeón de España y un trofeo.
+* **Récords y estadísticas**: La Primera División de España ha sido ganada por varios equipos, incluyendo Real Madrid, Barcelona y Atlético de Madrid.
+
+### 15. Premier League
+
+* **Nombre y tipo**: Premier League, competición nacional de fútbol.
+* **Formato**: 20 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Premier League se juega desde 1992 y es considerada la competición más importante del fútbol en Inglaterra.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la FA y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Premier League recibe el título de campeón de Inglaterra y un trofeo.
+* **Récords y estadísticas**: La Premier League ha sido ganada por varios equipos, incluyendo Manchester United, Chelsea y Arsenal.
+
+### 16. Serie A
+
+* **Nombre y tipo**: Serie A, competición nacional de fútbol.
+* **Formato**: 20 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Serie A se juega desde 1929 y es considerada la competición más importante del fútbol en Italia.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la FIGC y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Serie A recibe el título de campeón de Italia y un trofeo.
+* **Récords y estadísticas**: La Serie A ha sido ganada por varios equipos, incluyendo Juventus, AC Milan y Inter de Milán.
+
+### 17. Bundesliga
+
+* **Nombre y tipo**: Bundesliga, competición nacional de fútbol.
+* **Formato**: 18 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Bundesliga se juega desde 1963 y es considerada la competición más importante del fútbol en Alemania.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la DFB y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Bundesliga recibe el título de campeón de Alemania y un trofeo.
+* **Récords y estadísticas**: La Bundesliga ha sido ganada por varios equipos, incluyendo Bayern de Múnich, Borussia Dortmund y Schalke 04.
+
+### 18. Ligue 1
+
+* **Nombre y tipo**: Ligue 1, competición nacional de fútbol.
+* **Formato**: 20 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Ligue 1 se juega desde 1932 y es considerada la competición más importante del fútbol en Francia.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la FFF y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Ligue 1 recibe el título de campeón de Francia y un trofeo.
+* **Récords y estadísticas**: La Ligue 1 ha sido ganada por varios equipos, incluyendo Paris Saint-Germain, AS Monaco y Olympique de Marsella.
+
+### 19. Primeira Liga
+
+* **Nombre y tipo**: Primeira Liga, competición nacional de fútbol.
+* **Formato**: 18 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Primeira Liga se juega desde 1934 y es considerada la competición más importante del fútbol en Portugal.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la FPF y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Primeira Liga recibe el título de campeón de Portugal y un trofeo.
+* **Récords y estadísticas**: La Primeira Liga ha sido ganada por varios equipos, incluyendo Benfica, Porto y Sporting de Lisboa.
+
+### 20. Eredivisie
+
+* **Nombre y tipo**: Eredivisie, competición nacional de fútbol.
+* **Formato**: 18 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Eredivisie se juega desde 1956 y es considerada la competición más importante del fútbol en los Países Bajos.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la KNVB y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Eredivisie recibe el título de campeón de los Países Bajos y un trofeo.
+* **Récords y estadísticas**: La Eredivisie ha sido ganada por varios equipos, incluyendo Ajax, PSV Eindhoven y Feyenoord.
+
+### 21. Süper Lig
+
+* **Nombre y tipo**: Süper Lig, competición nacional de fútbol.
+* **Formato**: 18 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Süper Lig se juega desde 1959 y es considerada la competición más importante del fútbol en Turquía.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la TFF y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Süper Lig recibe el título de campeón de Turquía y un trofeo.
+* **Récords y estadísticas**: La Süper Lig ha sido ganada por varios equipos, incluyendo Galatasaray, Fenerbahçe y Beşiktaş.
+
+### 22. Premier League de Escocia
+
+* **Nombre y tipo**: Premier League de Escocia, competición nacional de fútbol.
+* **Formato**: 12 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Premier League de Escocia se juega desde 1998 y es considerada la competición más importante del fútbol en Escocia.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la SFA y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Premier League de Escocia recibe el título de campeón de Escocia y un trofeo.
+* **Récords y estadísticas**: La Premier League de Escocia ha sido ganada por varios equipos, incluyendo Celtic, Rangers y Hearts.
+
+### 23. Categoría Primera A
+
+* **Nombre y tipo**: Categoría Primera A, competición nacional de fútbol.
+* **Formato**: 20 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Categoría Primera A se juega desde 1926 y es considerada la competición más importante del fútbol en Colombia.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la Dimayor y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Categoría Primera A recibe el título de campeón de Colombia y un trofeo.
+* **Récords y estadísticas**: La Categoría Primera A ha sido ganada por varios equipos, incluyendo Atlético Nacional, Independiente Medellín y América de Cali.
+
+### 24. Liga MX
+
+* **Nombre y tipo**: Liga MX, competición nacional de fútbol.
+* **Formato**: 18 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Liga MX se juega desde 1943 y es considerada la competición más importante del fútbol en México.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la FMF y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Liga MX recibe el título de campeón de México y un trofeo.
+* **Récords y estadísticas**: La Liga MX ha sido ganada por varios equipos, incluyendo América, Chivas Guadalajara y Cruz Azul.
+
+### 25. Major League Soccer
+
+* **Nombre y tipo**: Major League Soccer, competición nacional de fútbol.
+* **Formato**: 28 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Major League Soccer se juega desde 1996 y es considerada la competición más importante del fútbol en Estados Unidos.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la USSF y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Major League Soccer recibe el título de campeón de Estados Unidos y un trofeo.
+* **Récords y estadísticas**: La Major League Soccer ha sido ganada por varios equipos, incluyendo Los Angeles Galaxy, D.C. United y Seattle Sounders.
+
+### 26. Primera División de Argentina
+
+* **Nombre y tipo**: Primera División de Argentina, competición nacional de fútbol.
+* **Formato**: 20 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: La Primera División de Argentina se juega desde 1891 y es considerada la competición más importante del fútbol en Argentina.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la AFA y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Primera División de Argentina recibe el título de campeón de Argentina y un trofeo.
+* **Récords y estadísticas**: La Primera División de Argentina ha sido ganada por varios equipos, incluyendo Boca Juniors, River Plate y Independiente.
+
+### 27. Campeonato Uruguayo de Fútbol
+
+* **Nombre y tipo**: Campeonato Uruguayo de Fútbol, competición nacional de fútbol.
+* **Formato**: 16 equipos participan en el torneo, que se juega en un formato de grupos y eliminatorias.
+* **Historia**: El Campeonato Uruguayo de Fútbol se juega desde 1900 y es considerada la competición más importante del fútbol en Uruguay.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la AUF y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador del Campeonato Uruguayo de Fútbol recibe el título de campeón de Uruguay y un trofeo.
+* **Récords y estadísticas**: El Campeonato Uruguayo de Fútbol ha sido ganado por varios equipos, incluyendo Peñarol, Nacional y Danubio.
+
+### 28. Copa del Rey
+
+* **Nombre y tipo**: Copa del Rey, competición nacional de fútbol.
+* **Formato**: 128 equipos participan en el torneo, que se juega en un formato de eliminatorias.
+* **Historia**: La Copa del Rey se juega desde 1902 y es considerada la competición más importante del fútbol en España.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la RFEF y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la Copa del Rey recibe el título de campeón de España y un trofeo.
+* **Récords y estadísticas**: La Copa del Rey ha sido ganada por varios equipos, incluyendo Real Madrid, Barcelona y Atlético de Madrid.
+
+### 29. FA Cup
+
+* **Nombre y tipo**: FA Cup, competición nacional de fútbol.
+* **Formato**: 736 equipos participan en el torneo, que se juega en un formato de eliminatorias.
+* **Historia**: La FA Cup se juega desde 1871 y es considerada la competición más importante del fútbol en Inglaterra.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la FA y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasifican para el torneo mediante un sistema de eliminatorias.
+* **Premios**: El ganador de la FA Cup recibe el título de campeón de Inglaterra y un trofeo.
+* **Récords y estadísticas**: La FA Cup ha sido ganada por varios equipos, incluyendo Arsenal, Chelsea y Manchester United.
+
+### 30. Copa de Italia
+
+* **Nombre y tipo**: Copa de Italia, competición nacional de fútbol.
+* **Formato**: 78 equipos participan en el torneo, que se juega en un formato de eliminatorias.
+* **Historia**: La Copa de Italia se juega desde 1922 y es considerada la competición más importante del fútbol en Italia.
+* **Equipos participantes**: Los equipos participantes son seleccionados por la FIGC y deben cumplir con ciertos requisitos.
+* **Sistema de clasificación**: Los equipos se clasific

@@ -21,6 +21,8 @@ langchain-text-splitters>=0.2.0
 # --- Embeddings (Opciones) ---
 # Si usas 'text-embedding-3-small' (como en tu server.py anterior):
 langchain-openai>=0.1.6
+sentence-transformers>=2.2.2
+langchain-huggingface>=0.0.6
 # Si prefieres usar embeddings de Google (Gratis en tier bajo):
 # (Ya incluido en langchain-google-genai)
 

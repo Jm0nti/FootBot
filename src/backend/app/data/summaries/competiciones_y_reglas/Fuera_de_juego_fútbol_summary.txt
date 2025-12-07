@@ -1,0 +1,34 @@
+**REGLAS/REGLAMENTOS**
+
+1. **Regla o aspecto**: Fuera de juego
+2. **Descripción detallada**: Un jugador se encuentra en posición de fuera de juego si interviene en una jugada y se encuentra por delante del penúltimo adversario cuando el jugador que le realiza el pase deja de tocar el balón. La aplicación de la regla depende de otros factores de juego, como la posición del balón y la distancia entre el jugador y el penúltimo adversario.
+3. **Casos especiales**: No hay fuera de juego en los siguientes casos:
+ * Desde un saque de meta, un saque lateral o un saque de esquina.
+ * Si el jugador que recibe el balón se encuentra en su propia mitad del campo o está a la altura del último o los últimos dos adversarios.
+ * Si algún jugador del equipo contrario habilita al jugador.
+4. **Ejemplos**: Un jugador que se encuentra por delante del penúltimo adversario y recibe un pase de un compañero de equipo está en posición de fuera de juego. Un jugador que se encuentra detrás del balón y no está involucrado en la jugada no está en posición de fuera de juego.
+5. **Cambios recientes**: La regla de fuera de juego se modificó en 2003 para ser más restrictiva y favorecer el juego atacante. Ahora, un jugador en una posición de fuera de juego no se penaliza siempre, sino que dependerá de sus acciones y posición.
+
+**COMPETENCIAS**
+
+No hay información disponible sobre competencias relacionadas con la regla de fuera de juego. La regla de fuera de juego es una regla del juego de fútbol y no se aplica a competencias específicas.
+
+**REGLA 11 - FUERA DE JUEGO**
+
+La regla 11 del juego de fútbol establece que un jugador se encuentra en posición de fuera de juego si interviene en una jugada y se encuentra por delante del penúltimo adversario cuando el jugador que le realiza el pase deja de tocar el balón. La aplicación de la regla depende de otros factores de juego, como la posición del balón y la distancia entre el jugador y el penúltimo adversario.
+
+**TÁCTICA DEL FUERA DE JUEGO**
+
+La táctica del fuera de juego es una táctica defensiva que implica que los defensores se adelanten sincronizadamente para hacer que el atacante se coloque en posición de fuera de juego en el momento del pase. Esta táctica puede ser arriesgada, ya que si falla, los jugadores atacantes tendrán un camino casi despejado hacia la portería.
+
+**HISTORIA**
+
+La regla de fuera de juego se remonta a los primeros años del juego de fútbol. La regla antigua establecía que un jugador estaba en fuera de juego si se situaba por delante del balón, lo que significaba que los pases solo podían hacerse "hacia atrás". La regla clásica, introducida en 1866, establecía que un jugador estaba en fuera de juego si se encontraba más cerca de la línea opuesta que el balón y el antepenúltimo adversario. La regla actual, introducida en 1925, establece que un jugador se encuentra en posición de fuera de juego si se encuentra más cerca de la línea opuesta que el balón y el penúltimo adversario.
+
+**REFERENCIAS**
+
+* Regla 11 - Fuera de Juego - FIFA (PDF)
+* Reglas del juego (pdf) Archivado el 20 de marzo de 2009 en Wayback Machine.
+* Presentación en lengua inglesa sobre el fuera de juego - fichero PDF Archivado el 17 de agosto de 2012 en Wayback Machine.
+* Animación flash en lengua inglesa detallando la regla del fuera de juego
+* Explicación en español del fuera de juego
