@@ -261,7 +261,7 @@ def formation_image_tool(team_name: str) -> dict:
         formations_dir = Path("assets/formations")
         
         # Normalizar nombre del equipo
-        team_clean = team_name.strip().lower().replace(" ", "_")
+        team_clean = team_name.translate(str.maketrans("áéíóúÁÉÍÓÚ", "aeiouAEIOU")).strip().lower().replace(" ", "_")
         
         # Buscar archivo de formación (múltiples variantes)
         possible_files = [
@@ -497,7 +497,7 @@ Equipo:"""
     
     # Si hay imagen, agregar información adicional
     if success and formation_result.get('image_url'):
-        response_text += "\n\n💡 Puedes ver la formación táctica en la imagen mostrada arriba."
+        response_text += "\n\n💡 Puedes ver la formación táctica en la imagen mostrada abajo."
     
     # ========== PASO 4: RETORNAR ESTADO ACTUALIZADO ==========
     return {
