@@ -16,7 +16,7 @@ def critic_node(state: AgentState) -> dict:
     trace = state.get('trace', [])
     web_attempts = state.get('web_search_attempts', 0)
     
-    critic_prompt = f"""Eres un agente que descarta respuestas vacías o incoherentes generadas por otros agentes. Debes rechazar las respuestas vacías o que no respondan la pregunta original de un usuario, acepta cualquier otro tipo de respuesta.
+    critic_prompt = f"""Eres un agente que descarta respuestas vacías o incoherentes generadas por otros agentes. Debes rechazar las respuestas vacías o que se desvíen mucho de la pregunta original de un usuario, acepta cualquier otro tipo de respuesta.
 
 Pregunta original: {original_question}
 Respuesta del agente: {last_message}

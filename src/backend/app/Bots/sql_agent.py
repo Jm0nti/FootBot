@@ -3,6 +3,12 @@ from langchain_core.messages import SystemMessage, AIMessage
 from app.Bots.models import llm_smart
 from app.Bots.tools import sql_executor
 from app.Bots.types import AgentState
+from sqlalchemy import create_engine
+from langchain_community.utilities import SQLDatabase
+from langchain_community.agent_toolkits import SQLDatabaseToolkit
+from langchain_community.agent_toolkits.sql.base import create_sql_agent
+import kagglehub
+from kagglehub import KaggleDatasetAdapter
 
 logger = logging.getLogger(__name__)
 

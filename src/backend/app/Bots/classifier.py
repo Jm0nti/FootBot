@@ -17,7 +17,7 @@ def classifier_node(state: AgentState) -> dict:
 1. 'identity' - Si pregunta sobre ti, tus capacidades, qué haces, quién eres
 2. 'formation' - Si pide ver la formación táctica de un equipo (ej: "muestra la formación del Barcelona")
 3. 'sql_stats' - Si pide estadísticas, números, goles, asistencias, comparaciones numéricas
-4. 'rag_knowledge' - Si pregunta sobre historia, biografías, reglamentos, fundación de clubes
+4. 'rag_knowledge' - Si pregunta sobre historia y fundación de equipos, biografías de jugadores, reglamentos, premiaciones, competiciones, copas, ligas.
 5. 'web_search' - Si pregunta sobre noticias recientes, partidos de hoy/ayer, eventos actuales
 
 Responde SOLO con una de estas palabras: identity, formation, sql_stats, rag_knowledge, web_search"""

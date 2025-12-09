@@ -4,6 +4,9 @@ from pathlib import Path
 import logging
 import pandas as pd
 import requests
+from typing import Literal
+from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.vectorstores import FAISS
 
 # Importaciones opcionales: envolver en try/except para que el módulo no falle
 # si las dependencias no están instaladas en el entorno de desarrollo.
@@ -74,54 +77,75 @@ def sql_executor(query: str) -> str:
 
 
 @tool
-def faiss_retriever(query: str) -> str:
-    """Recupera contexto relevante desde un vectorstore FAISS para la `query` dada."""
+def faiss_retriever(query: str, category: Literal["equipos", "jugadores", "reglas"]) -> str:
+    """
+    Busca información específica en la base de conocimiento vectorial (FAISS) seleccionando el índice correcto.
+    
+    Args:
+        query: Pregunta o término de búsqueda del usuario.
+        category: Categoría de la búsqueda. Debe ser una de las siguientes:
+            - "equipos": Para historia, fundación y datos de clubes.
+            - "jugadores": Para biografías, estadísticas, logros personales y trayectoria de futbolistas.
+            - "reglas": Para reglamentos, faltas, posiciones tácticas, competiciones (Bundesliga, etc.) y premios (Balón de Oro).
+            
+    Returns:
+        Contexto relevante recuperado de los documentos de la categoría seleccionada.
+    """
     try:
-        logger.info("[faiss_retriever] Buscando en FAISS: %s", query)
+        logger.info("[faiss_retriever] Buscando en FAISS | Categoría: %s | Query: %s", category, query)
+        # Validar que existe la API key de OpenAI
         openai_api_key = os.getenv("OPENAI_API_KEY")
         if not openai_api_key:
             logger.warning("[faiss_retriever] OPENAI_API_KEY no configurada")
             return "Error: OPENAI_API_KEY no está configurada en el archivo .env"
-
-        # Importar FAISS y embeddings de forma perezosa
-        try:
-            from langchain_community.vectorstores import FAISS
-        except Exception:
-            logger.exception("[faiss_retriever] langchain_community.vectorstores no disponible")
-            return "Error: FAISS no está instalado en este entorno."
-
-        try:
-            from langchain_openai import OpenAIEmbeddings
-        except Exception:
-            logger.exception("[faiss_retriever] langchain_openai.OpenAIEmbeddings no disponible")
-            return "Error: OpenAIEmbeddings no están disponibles en este entorno."
-
-        vector_store_path = "data/faiss_index"
-        embeddings = OpenAIEmbeddings(
-            model="text-embedding-3-small",
-            openai_api_key=openai_api_key
+        
+        # Mapeo de categorías a nombres de carpetas
+        # Asumimos que dentro de 'vector_stores' existen las carpetas:
+        # 'equipos_faiss', 'jugadores_faiss', 'reglas_faiss'
+        index_map = {
+            "equipos": "equipos_faiss",
+            "jugadores": "jugadores_faiss",
+            "reglas": "reglas_faiss"
+        }
+        
+        folder_name = index_map.get(category)
+        if not folder_name:
+            return f"Error: Categoría '{category}' no válida."
+        
+        # Construcción de la ruta
+        # Estructura esperada: src/backend/app/data/vector_stores/{categoria}_faiss/
+        base_dir = os.path.dirname(os.path.abspath(__file__))
+        vector_store_path = os.path.join(base_dir, "..", "data", "vector_stores", folder_name)
+        
+        # Inicializar embeddings
+        embeddings = HuggingFaceEmbeddings(
+            model_name="sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
         )
-
+        
+        # Cargar el índice existente
+        # FAISS.load_local toma la carpeta contenedora. Por defecto busca "index.faiss" e "index.pkl"
         vectorstore = FAISS.load_local(
-            vector_store_path,
-            embeddings,
+            vector_store_path, 
+            embeddings, 
             allow_dangerous_deserialization=True
         )
-
+        
+        # Realizar búsqueda de similitud (k=5 para obtener los 5 documentos más relevantes)
         docs = vectorstore.similarity_search(query, k=5)
-
+        
         if not docs:
             logger.info("[faiss_retriever] No se encontraron docs para la query")
             return "No se encontró información relevante en la base de conocimiento."
-
+        
+        # Formatear el contexto recuperado
         context = "\n\n".join([f"- {doc.page_content}" for doc in docs])
         logger.info("[faiss_retriever] Documentos recuperados: %d", len(docs))
-        return f"Contexto relevante encontrado:\n{context}"
-
+        
+        return f"Contexto encontrado en [{category}]:\n{context}"
+    
     except Exception as e:
         logger.exception("[faiss_retriever] Error al buscar en la base de conocimiento: %s", e)
         return f"Error al buscar en la base de conocimiento: {str(e)}"
-
 
 @tool
 def web_search_tool(query: str) -> str:
@@ -301,4 +325,3 @@ def football_stats_analyst(question: str) -> str:
         return f"Error al consultar los datos: {str(e)}"
     
 
-    
