@@ -16,7 +16,7 @@ def critic_node(state: AgentState) -> dict:
     trace = state.get('trace', [])
     web_attempts = state.get('web_search_attempts', 0)
     
-    critic_prompt = f"""Eres un agente que descarta respuestas vacías, debes rechazar respuestas vaçias, acepta cualquier otro tipo de respuesta.
+    critic_prompt = f"""Eres un agente que descarta respuestas vacías, debes rechazar respuestas vacias, acepta cualquier tipo de respuesta.
 
 Pregunta original: {original_question}
 Respuesta del agente: {last_message}
@@ -25,8 +25,8 @@ responde aprobadas con: APPROVED
 responde rechazadas con: REJECTED"""
 
     state.setdefault('trace', []).append('critic')
-    logger.info("[critic] Evaluando respuesta. Pregunta: %s, Origin: %s, Web attempts: %d", 
-                original_question, origin, web_attempts)
+    logger.info("[critic] Evaluando respuesta. Pregunta: %s, \n Respuesta: %s \n Origin: %s, Web attempts: %d", 
+                original_question, last_message, origin, web_attempts)
     
     evaluation = llm_fast.invoke([HumanMessage(content=critic_prompt)])
     eval_text = evaluation.content.strip()
