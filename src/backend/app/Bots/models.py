@@ -58,7 +58,7 @@ else:
 
 if ChatGoogleGenerativeAI is not None:
     try:
-        llm_smart = ChatGoogleGenerativeAI(model="gemini-2.0-flash-lite", temperature=0)
+        llm_smart = ChatGoogleGenerativeAI(model="gemini-2.5-flash-lite", temperature=0)
     except Exception:
         llm_smart = _DummyLLM(name="llm_smart")
         logger.exception("No se pudo inicializar llm_smart, usando stub")

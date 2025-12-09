@@ -15,7 +15,7 @@ def classifier_node(state: AgentState) -> dict:
     system_prompt = """Eres un clasificador experto. Analiza la pregunta del usuario y clasifica en UNA de estas categorías:
 
 1. 'identity' - Si pregunta sobre ti, tus capacidades, qué haces, quién eres
-2. 'formation' - Si pide ver la formación táctica de un equipo (ej: "muestra la formación del Barcelona")
+2. 'formation' - Si pide ver la formación táctica de un equipo (ej: "muestra la formación del Barcelona", "dime el 11 inicial del atleti", "Que jugadores usa el Real Madrid en su formación", "Cual es la formación del Manchester City")
 3. 'sql_stats' - Si pide estadísticas, números, goles, asistencias, comparaciones numéricas
 4. 'rag_knowledge' - Si pregunta sobre historia y fundación de equipos, biografías de jugadores, reglamentos, premiaciones, competiciones, copas, ligas.
 5. 'web_search' - Si pregunta sobre noticias recientes, partidos de hoy/ayer, eventos actuales

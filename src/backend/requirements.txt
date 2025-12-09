@@ -14,6 +14,7 @@ langchain-experimental>=0.0.59
 # --- LLM Integrations (Cerebros) ---
 langchain-groq>=0.1.3        
 langchain-google-genai>=1.0.3 
+google-genai # Google grounding
 
 # --- RAG & Vector Store (Memoria) ---
 faiss-cpu>=1.8.0              # Base de datos vectorial local (Si tienes GPU usa faiss-gpu)
@@ -21,7 +22,7 @@ langchain-text-splitters>=0.2.0
 
 # --- Embeddings (Opciones) ---
 # Si usas 'text-embedding-3-small' (como en tu server.py anterior):
-langchain-openai>=0.1.6Microsoft.QuickAction.Bluetooth
+langchain-openai>=0.1.6
 sentence-transformers>=2.2.2
 langchain-huggingface>=0.0.6
 # Si prefieres usar embeddings de Google (Gratis en tier bajo):
