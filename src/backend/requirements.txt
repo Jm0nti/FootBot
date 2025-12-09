@@ -21,7 +21,7 @@ langchain-text-splitters>=0.2.0
 
 # --- Embeddings (Opciones) ---
 # Si usas 'text-embedding-3-small' (como en tu server.py anterior):
-langchain-openai>=0.1.6
+langchain-openai>=0.1.6Microsoft.QuickAction.Bluetooth
 sentence-transformers>=2.2.2
 langchain-huggingface>=0.0.6
 # Si prefieres usar embeddings de Google (Gratis en tier bajo):
@@ -32,7 +32,5 @@ pandas>=2.2.0                 # Para leer los CSVs de Kaggle
 kagglehub>=0.2.4              # Para la tool kaggle_search
 sqlalchemy>=2.0.29            # Para ejecutar SQL sobre los datos
 tabulate>=0.9.0               # Formateo de tablas para que el LLM las lea bien
-duckduckgo-search>=5.3.0      # Para la tool web_search_news (Gratis, sin API Key)
 numexpr>=2.10.0               # Dependencia común de pandas para cálculos
-tavily
 wikipedia-api
