@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   const [messages, setMessages] = useState([
     { 
-      text: "¡Hola! Soy tu asistente experto en fútbol. Pregúntame sobre estadísticas, historias de clubes o reglas.", 
+      text: "¡Hola! Soy tu asistente experto en fútbol. Pregúntame sobre estadísticas, historias de clubes o reglas. 📊⏰📋", 
       sender: 'bot',
       meta: { agent: 'System', interaction_count: 0 }
     }
@@ -77,10 +77,16 @@ function App() {
   return (
     <>
       <header>
-        <h1>⚽ Soccer Agent AI</h1>
-        <button onClick={handleReset} className="reset-btn" disabled={loading}>
-          Reiniciar Chat
-        </button>
+        <div className="header-title">
+          <img src="/soccer-ball.png" alt="Soccer Ball" className="title-icon" />
+          <h1>FootBot</h1>
+        </div>
+        <div className="header-actions">
+          <img src="/whistle.png" alt="Whistle" className="whistle-icon" />
+          <button onClick={handleReset} className="reset-btn" disabled={loading}>
+            Reiniciar Chat
+          </button>
+        </div>
       </header>
 
       <div className="chat-container">
@@ -89,7 +95,7 @@ function App() {
         ))}
         {loading && (
           <div className="message bot">
-            <p>Thinking...</p>
+            <p>Pensando...</p>
           </div>
         )}
         <div ref={messagesEndRef} />
@@ -104,7 +110,7 @@ function App() {
           disabled={loading}
           autoFocus
         />
-        <button type="submit" className="send-btn" disabled={loading || !input.trim()}>
+        <button type="submit" className="send-btn" disabled={loading || !input.trim()} title="Enviar">
           {loading ? '...' : 'Enviar'}
         </button>
       </form>

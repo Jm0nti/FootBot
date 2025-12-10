@@ -28,6 +28,13 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  
+  /* Fondo de estadio con degradado más suave (menos opacidad en el negro) */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.6)), url('/stadium.png');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 h1 {

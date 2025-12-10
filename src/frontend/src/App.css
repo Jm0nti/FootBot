@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #f4f4f9;
+  background-color: transparent; /* Dejar ver el estadio del index.css */
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -15,41 +15,150 @@ body {
 
 #root {
   width: 100%;
-  max-width: 1200px;
-  height: 100vh;
+  max-width: 1150px;
+  height: 95vh;
+  margin: auto;
   display: flex;
   flex-direction: column;
-  background-color: #ffffff;
-  box-shadow: 0 0 20px rgba(0,0,0,0.05);
+  /* Fondo oscuro sólido solicitado */
+  background: #07101F;
+  /* Líneas azul brillante (borde y sombra neón) */
+  border: 1px solid #00d4ff;
+  box-shadow: 0 0 20px rgba(0, 212, 255, 0.2), 0 20px 50px rgba(0,0,0,0.9);
+  border-radius: 16px;
+  overflow: hidden;
 }
 
 /* Header */
 header {
-  padding: 1rem 2rem;
-  border-bottom: 1px solid #e5e5e5;
-  background: white;
+  padding: 0rem 2rem; /* Reducido de 1rem a 0.5rem para menor altura */
+  /* Quitamos el borde sólido aburrido */
+  border-bottom: none;
+  background: #07101F; /* Fondo oscuro sólido igual que el chat */
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 4px 15px rgba(0, 212, 255, 0.1);
+  position: relative; /* Necesario para el efecto de línea */
+}
+
+/* Nueva línea separadora con degradado (haz de luz) */
+header::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 2px; /* Un poco más visible */
+  /* Degradado con zonas transparentes más amplias en los extremos (0-20% y 80-100%) */
+  background: linear-gradient(90deg, 
+    rgba(0,212,255,0) 0%, 
+    rgba(0,212,255,0) 20%, 
+    rgba(0,212,255,1) 50%, 
+    rgba(0,212,255,0) 80%, 
+    rgba(0,212,255,0) 100%
+  );
+  /* Usar filter en lugar de box-shadow para que el brillo se desvanezca junto con la línea */
+  filter: drop-shadow(0 0 6px rgba(0, 212, 255, 0.8));
+}
+
+/* Contenedor para título y balón */
+.header-title {
+  display: flex;
   align-items: center;
 }
 
 header h1 {
-  font-size: 1.2rem;
-  color: #333;
+  font-size: 2.2rem;
+  font-family: "Impact", "Arial Black", sans-serif;
+  font-style: italic;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  
+  /* Efecto Metálico suavizado: Centro gris claro en lugar de blanco puro */
+  background: linear-gradient(to bottom, #596978 0%, #DBDFEC 50%, #596978 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  -webkit-text-stroke: 1px #263238;
+  filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.4));
+  
+  /* Eliminamos flex y gap antiguos ya que ahora están en el contenedor padre */
+  display: block;
+}
+
+/* Estilo para la imagen del balón (img tag) */
+.title-icon {
+  width: 40px; /* Tamaño grande independiente */
+  height: 40px;
+  filter: drop-shadow(2px 2px 2px rgba(0,0,0,0.3));
+  object-fit: cover;
+  margin-right: 15px; /* Separación del texto */
+  position: relative;
+  z-index: 2;
+}
+
+/* Aseguramos que el pseudo-elemento anterior no interfiera */
+header h1::before {
+  display: none;
+}
+
+/* Contenedor para silbato y botón */
+.header-actions {
+  display: flex;
+  align-items: center;
+}
+
+/* Silbato independiente */
+.whistle-icon {
+  width: 77px; /* Tamaño grande independiente del botón */
+  height: 77px;
+  object-fit: contain;
+  filter: drop-shadow(2px 4px 4px rgba(0,0,0,0.5));
+  margin-right: -23px; /* Superposición ligera sobre el botón */
+  margin-top: 4px; /* Bajamos el silbato un poco */
+  z-index: 2;
+  position: relative;
 }
 
 .reset-btn {
-  background: #ff4d4f;
-  color: white;
-  border: none;
-  padding: 0.5rem 1rem;
-  border-radius: 6px;
+  /* Botón estilo metálico oscuro para combinar con el fondo oscuro */
+  background: linear-gradient(to bottom, #37474f, #263238);
+  color: #e0e0e0;
+  border: 1px solid #546e7a;
+  padding: 0.4rem 0.6rem 0.4rem 1.4rem; /* Padding ajustado, más espacio a la izq por el silbato */
+  border-radius: 8px;
   cursor: pointer;
-  font-size: 0.9rem;
-  transition: background 0.2s;
+  font-size: 0.85rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: all 0.2s;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.3);
+  height: 35px;
+  position: relative;
+  z-index: 1;
 }
 
-.reset-btn:hover { background: #d9363e; }
+.reset-btn:hover { 
+  background: linear-gradient(to bottom, #455a64, #37474f);
+  border-color: #00d4ff; /* Brillo azul al hover */
+  color: white;
+  box-shadow: 0 0 10px rgba(0, 212, 255, 0.4);
+}
+
+/* Eliminamos el ::before anterior del botón */
+.reset-btn::before {
+  display: none;
+}
+
+/* Eliminamos el ::after anterior */
+.reset-btn::after {
+  display: none;
+}
 
 /* Area de Chat */
 .chat-container {
@@ -60,52 +169,72 @@ header h1 {
   flex-direction: column;
   gap: 1.5rem;
   scroll-behavior: smooth;
+  background-color: transparent; /* Transparente para ver el fondo oscuro del root */
+  height: 100%;
 }
 
 /* Mensajes */
 .message {
   display: flex;
   flex-direction: column;
-  max-width: 80%;
+  max-width: 90%;
+  width: fit-content; /* Ajusta el ancho al contenido del mensaje */
   padding: 1rem;
   border-radius: 12px;
   line-height: 1.5;
   font-size: 0.95rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
 .message.user {
   align-self: flex-end;
-  background-color: #007bff;
-  color: white;
+  /* Verde brillante para el usuario */
+  background: linear-gradient(135deg, #81c784, #4caf50);
+  color: #003300;
+  font-weight: 600;
   border-bottom-right-radius: 2px;
+  border: 1px solid #a5d6a7;
+  padding: 0.7rem 1rem; /* Reducido padding vertical para menor altura */
 }
 
 .message.bot {
   align-self: flex-start;
-  color: #333;
+  color: #e0e0e0;
+  /* Fondo oscuro semitransparente para el bot */
+  background: rgba(30, 41, 59, 0.765);
+  border: 1px solid #6c757d; /* Borde gris metálico */
   border-bottom-left-radius: 2px;
+  position: relative;
+  margin-left: 5px; /* Eliminado el espacio del avatar */
+  backdrop-filter: blur(5px);
+  max-width: 85%; /* Reducido el ancho máximo para el bot */
 }
 
-.message.error {
-  align-self: center;
-  background-color: #ffebe6;
-  color: #bf2600;
-  border: 1px solid #ffbdad;
+.message.bot::before {
+  display: none;
 }
 
 /* Markdown Styles dentro del bot */
+.markdown-content ul, .markdown-content ol {
+  padding-left: 1.5rem; /* Margen interno para que los puntos de lista no se salgan */
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
 .markdown-content table {
   border-collapse: collapse;
   width: 100%;
   margin: 10px 0;
+  color: #e0e0e0;
 }
 .markdown-content th, .markdown-content td {
-  border: 1px solid #ddd;
+  border: 1px solid #475569;
   padding: 8px;
 }
-.markdown-content th { background-color: #e9ecef; }
+.markdown-content th { background-color: #1e293b; color: #00d4ff; }
 .markdown-content code {
-  background-color: #e4e4e4;
+  background-color: #1e293b;
+  color: #00d4ff;
   padding: 2px 4px;
   border-radius: 4px;
   font-family: monospace;
@@ -114,40 +243,86 @@ header h1 {
   max-width: 100%;
   border-radius: 8px;
   margin-top: 10px;
-  border: 1px solid #ddd;
+  border: 1px solid #475569;
 }
 
 /* Input Area */
 .input-area {
-  padding: 1.5rem 2rem;
-  background: white;
-  border-top: 1px solid #e5e5e5;
+  padding: 0.8rem 2rem; /* Aumentado de 0.2rem a 0.8rem para dar más altura */
+  /* Fondo de césped con degradado más suave para que se vea verde */
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('/grass.png');
+  background-size: cover;
+  background-position: center;
+  /* Borde superior azul brillante */
+  border-top: 2px solid #00d4ff;
   display: flex;
-  gap: 10px;
+  gap: 15px;
+  align-items: center;
+  box-shadow: inset 0 10px 20px rgba(0,0,0,0.6);
 }
 
 .input-area input {
   flex: 1;
-  padding: 1rem;
-  border: 1px solid #ddd;
-  border-radius: 8px;
-  font-size: 1rem;
+  padding: 0.8rem 1.2rem; /* Reducido el padding vertical de 1.2rem a 0.8rem */
+  border: 2px solid #677E73; /* Color actualizado */
+  border-radius: 30px;
+  font-size: 1.1rem; /* Ligeramente más pequeño si es necesario */
   outline: none;
   transition: border-color 0.2s;
+  background-color: rgba(0, 0, 0, 0.6); /* Fondo oscuro semitransparente */
+  color: white;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
 }
 
-.input-area input:focus { border-color: #007bff; }
+.input-area input::placeholder {
+  color: rgba(255, 255, 255, 0.9); /* Mucho más opaco (casi blanco sólido) */
+  opacity: 0.5; 
+}
+
+.input-area input:focus { 
+  border-color: #00ff77; 
+  transform: scale(1.01);
+}
 
 .send-btn {
-  background: #007bff;
-  color: white;
+  /* Botón convertido en balón de fútbol */
+  background: url('/soccer-ball.png') no-repeat center center;
+  background-size: cover; /* Asegura que la imagen cubra todo el botón */
+  background-color: transparent;
+  width: 60px; /* Tamaño ajustado para coincidir con la referencia */
+  height: 60px; /* Tamaño ajustado para coincidir con la referencia */
+  border-radius: 50%;
   border: none;
-  padding: 0 1.5rem;
-  border-radius: 8px;
   cursor: pointer;
-  font-weight: 600;
-  transition: background 0.2s;
+  transition: transform 0.2s ease;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+  flex-shrink: 0;
+  
+  /* Estilos para el texto "Enviar" */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-weight: 900;
+  font-size: 1rem;
+  text-transform: uppercase;
+  /* Sombra aumentada con múltiples capas para mayor contraste y profundidad */
+  text-shadow: 
+    0 4px 8px rgba(0,0,0,1), 
+    0 2px 4px rgba(0,0,0,1),
+    0 0 20px rgba(0,0,0,0.9);
+  padding: 0;
 }
 
-.send-btn:hover { background: #0056b3; }
-.send-btn:disabled { background: #ccc; cursor: not-allowed; }
+.send-btn:hover { 
+  /* Solo escala, sin rotación para leer el texto */
+  transform: scale(1.1);
+  filter: brightness(1.1);
+}
+
+.send-btn:disabled {
+  opacity: 0.7;
+  filter: grayscale(80%);
+  cursor: not-allowed;
+  transform: none;
+}
